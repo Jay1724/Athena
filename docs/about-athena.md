@@ -52,34 +52,43 @@ The simulation decides who quits where; the feedback engine and the screen revie
 
 Inside Claude, two extras switch on: a **screen review** that checks each screen against 22 design laws and finds problems per step, and **Ask them again with Claude**, which rewrites the quotes as fresh answers in each person's voice.
 
-## Who's inside
+## About the personas
 
-Two assets make the synthetic customers behave like South Africans rather than like a generic user.
+The 20 archetypes are a behavioural framework for banking design, built on South African data rather than invented profiles.
 
-**The persona pack (v7.1).** 10,000 synthetic people across 20 archetypes, from the Financial Survivor and the Grant Receiver to the Young Climber and the Established Provider. Each is weighted so the pack stands for about 44 million adults. Each person has over 100 attributes, including:
+1. **Built from national statistics.** Every one of the 10,000 people starts from published figures: population group, age, sex, province and language (Stats SA Census 2022 and 2026 mid-year estimates); work, household and grants (Quarterly Labour Force Survey, General Household Survey, SASSA's grant rules); and banking habits such as accounts, credit, savings, funeral cover, stokvels and financial vulnerability (FinScope Consumer South Africa 2025, NASASA). Across all 10,000, these match national figures to within a point or two.
+2. **Given an archetype only if it fits.** A Grant Receiver is someone whose main income is a grant; an Informal Trader works in the informal sector. So each archetype is as common as that kind of customer really is, backed by FinScope MSME, the World Bank Global Findex and the NCR Credit Bureau Monitor.
+3. **Then given a way of behaving.** Patience, trust, how people react to problems and what they say come from the persona feedback kit: 589 lines in everyday South African English. These are informed assumptions, not measured data.
 
-- life: age, province, area type, household, work, income, grants
-- access: phone type, device tier, data situation, network reliability
-- documents: ID type, proof of address, income proof
-- behaviour: digital comfort, reading level, English comfort, trust, scam anxiety, patience, how they get help, what makes them quit
-- voice: feedback style, natural answer length, how much they play things down
+| Matches national data | Informed assumptions |
+| --- | --- |
+| Who people are: population, age, province, language, work, income, grants, bank accounts, credit, savings, funeral cover and stokvels | How people behave: patience, trust, reactions to problems, and the feedback they give |
 
-**The persona feedback kit (v2).** The rules for turning what happened into what people say: 589 tagged lines written in everyday South African English, an engine that picks lines to fit each person's life and the problems on each step, and a brief that lets Claude write fresh answers in the same voice. Comments never contradict what a person did, and polite people play things down, the way real participants do.
+Athena is used to find likely problem areas and compare design options early. It complements real customer research; it doesn't replace it.
 
 ## Grounded in research
 
-Athena stands on published South African statistics, established design laws and current guidance on synthetic research. The pack's total of about 44 million adults lines up with FinScope's 44.7 million adults aged 16 and over.
+Athena stands on published South African statistics, established design laws and current guidance on synthetic research. Across all 10,000 personas, the pack matches national figures to within a point or two.
 
 **Who South Africans are**
 
 | Source | What it grounds in Athena | A figure from it |
 | --- | --- | --- |
-| [Stats SA, Mid-year population estimates 2025](https://www.statssa.gov.za/?p=18613) | Population size, provinces, population groups | 63.1 million people in 2025 |
-| [Stats SA, General Household Survey 2024](https://www.statssa.gov.za/publications/P0318/MEDIA%20RELEASE%20-%20%20GHS%202024.pdf) | Households, grants, living conditions | 40.1% of people received a social grant in 2024 |
-| [FinScope Consumer South Africa 2023, FinMark Trust](https://finmark.org.za/Publications/FinScope_SA_Consumer_2023.pdf) | Banking, financial inclusion, adult population | 44.7 million adults aged 16+, about 3.5 million born outside South Africa |
-| [SASSA grant figures](https://www.joburgetc.com/?p=57478) | Grant types and who receives them | 19.2 million regular grant beneficiaries in March 2025, plus over 9 million on the SRD grant |
+| [Stats SA, Mid-year population estimates 2026](https://www.statssa.gov.za/?p=19764) and Census 2022 | Population group, age, sex, province, home language | 63.5 million people in 2026 |
+| [Stats SA, Quarterly Labour Force Survey](https://www.sanews.gov.za/node/85558) | Work and unemployment | Official unemployment of 33.7% in Q3 2026 |
+| [Stats SA, General Household Survey](https://www.statssa.gov.za/publications/P0318/MEDIA%20RELEASE%20-%20%20GHS%202024.pdf) | Households and grants | 40.1% of people received a social grant in 2024 |
+| [SASSA grant figures](https://www.joburgetc.com/?p=57478) | Grant types and who qualifies | 19.2 million regular grant beneficiaries in March 2025, plus over 9 million on the SRD grant |
+| [FinScope Consumer South Africa 2025](https://finmark.org.za/Publications/FinScope_2025_Launch.pdf) | Accounts, credit, savings, funeral cover, financial vulnerability | 89% of adults hold a personal bank account |
 | [NASASA](https://www.ewn.co.za/more-than-11-million-south-africans-are-members-of-stokvels-nasasa) | Stokvel membership | More than 11 million members |
 | [ICASA, State of the ICT Sector 2025](https://www.icasa.org.za/uploads/files/The-State-of-the-ICT-Sector-Report-of-South-Africa-2025.pdf) | Phones, data and prices | 82.7 million smartphone subscriptions in 2024 |
+
+**Support for the archetypes**
+
+| Source | What it supports |
+| --- | --- |
+| [FinScope MSME South Africa 2024](https://www.finmark.org.za/knowledge-hub/articles) | Informal traders, township entrepreneurs and side hustles |
+| [World Bank Global Findex 2025](https://microdata.worldbank.org/catalog/7977/related-materials) | How people use accounts, save and pay digitally |
+| [NCR Credit Bureau Monitor](https://www.ncr.org.za/documents/CBM/CBM%20Q2%202025.pdf) | Credit standing and arrears: 29.24 million credit-active consumers in June 2025 |
 
 **How people use screens**
 

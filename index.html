@@ -53,6 +53,10 @@ ol.steps li::before{content:counter(s);display:inline-grid;place-items:center;wi
 ol.steps li b{display:block;font-size:17px;margin-bottom:4px}
 h3.sub{font-size:17px;margin:26px 0 0;letter-spacing:-.01em}
 #research td:first-child{white-space:normal;font-weight:500;width:34%}
+ol.steps.three{grid-template-columns:repeat(3,1fr)}
+.mvsa{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}.mvsa>div{border-radius:16px;padding:18px 20px}.mvsa b{display:block;font-size:19px;letter-spacing:-.01em;margin:2px 0 6px}.mvsa p{margin:0;font-size:15.5px;line-height:1.45}
+.mv{background:#eaf3ff}.sa{background:var(--bg)}.mv-k{font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase}.mv .mv-k{color:var(--blue)}.sa .mv-k{color:var(--mut)}
+@media(max-width:820px){.mvsa{grid-template-columns:1fr}}
 .note{background:#fff8e1;border-radius:14px;padding:14px 18px;font-size:15px;margin-top:18px}
 .next{list-style:none;padding:0;margin:14px 0 0}.next li{padding:12px 0 12px 32px;border-top:1px solid var(--line);position:relative;font-size:16px}.next li:first-child{border-top:0}
 .next li::before{content:"";position:absolute;left:2px;top:15px;width:16px;height:16px;border:1.5px solid var(--mut);border-radius:5px}
@@ -61,7 +65,7 @@ footer{max-width:980px;margin:0 auto;padding:0 22px 48px;color:var(--mut);font-s
 </style>
 </head>
 <body>
-<nav><div class="in"><b>Athena</b><a class="hide" href="#how">How it works</a><a class="hide" href="#research">Research</a><a class="hide" href="#design">For design</a><a class="hide" href="#business">For business</a><a class="btn" href="simulator.html">Open the simulator</a></div></nav>
+<nav><div class="in"><b>Athena</b><a class="hide" href="#how">How it works</a><a class="hide" href="#personas">Personas</a><a class="hide" href="#research">Research</a><a class="hide" href="#design">For design</a><a class="hide" href="#business">For business</a><a class="btn" href="simulator.html">Open the simulator</a></div></nav>
 
 <div class="hero">
 <h1>Athena</h1>
@@ -129,28 +133,43 @@ footer{max-width:980px;margin:0 auto;padding:0 22px 48px;color:var(--mut);font-s
 <p style="margin-top:16px">Inside Claude, two extras switch on: a <b>screen review</b> that checks each screen against 22 design laws, and <b>Ask them again with Claude</b>, which rewrites the quotes as fresh answers in each person's voice.</p>
 </section>
 
-<section>
-<div class="k">Who's inside</div>
-<h2>Customers who behave like <span class="hl">South&nbsp;Africans</span>.</h2>
-<ul class="pts">
-<li><b>The persona pack (v7.1)</b>10,000 synthetic people across 20 archetypes, from the Financial Survivor and the Grant Receiver to the Young Climber and the Established Provider. Weighted to stand for about 44 million adults, each with over 100 attributes: life, access, documents, behaviour and voice.</li>
-<li><b>The persona feedback kit (v2)</b>589 tagged lines in everyday South African English, an engine that picks lines to fit each person's life and the problems on each step, and a brief that lets Claude write fresh answers. Comments never contradict what a person did, and polite people play things down, the way real participants do.</li>
-</ul>
+<section id="personas">
+<div class="k">About the personas</div>
+<h2>Real South Africans first, <span class="hl">archetypes</span> second.</h2>
+<p class="big">The 20 archetypes are a behavioural framework for banking design, built on South African data rather than invented profiles.</p>
+<ol class="steps three">
+<li><b>Built from national statistics</b>Every one of the 10,000 people starts from published figures: population group, age, sex, province and language (Stats SA Census 2022 and 2026 mid-year estimates); work, household and grants (Labour Force Survey, General Household Survey, SASSA); and banking habits (FinScope 2025, NASASA).</li>
+<li><b>Given an archetype only if it fits</b>A Grant Receiver is someone whose main income is a grant. An Informal Trader works in the informal sector. So each archetype is as common as that kind of customer really is, backed by FinScope MSME, the World Bank Global Findex and the NCR Credit Bureau Monitor.</li>
+<li><b>Then given a way of behaving</b>Patience, trust, how people react to problems and what they say come from the persona feedback kit: 589 lines in everyday South African English. These are informed assumptions, not measured data.</li>
+</ol>
+<div class="mvsa">
+<div class="mv"><div class="mv-k">Matches national data</div><b>Who people are</b><p>Population, age, province, language, work, income, grants, bank accounts, credit, savings, funeral cover and stokvels. Across all 10,000, within a point or two of national figures.</p></div>
+<div class="sa"><div class="mv-k">Informed assumptions</div><b>How people behave</b><p>Patience, trust, reactions to problems, and the feedback they give. Good for finding likely problem areas and comparing designs early, not for final decisions.</p></div>
+</div>
+<p style="margin-top:18px">Athena complements real customer research. It doesn't replace it.</p>
 </section>
 
 <section id="research">
 <div class="k">Grounded in research</div>
 <h2>Built on published <span class="hl">statistics</span> and established design laws.</h2>
-<p>Athena stands on published South African statistics, established design laws and current guidance on synthetic research. The pack's total of about 44 million adults lines up with FinScope's 44.7 million adults aged 16 and over.</p>
+<p>Athena stands on published South African statistics, established design laws and current guidance on synthetic research. Across all 10,000 personas, the pack matches national figures to within a point or two.</p>
 <h3 class="sub">Who South Africans are</h3>
 <table>
 <tr><th>Source</th><th>What it grounds</th><th>A figure from it</th></tr>
-<tr><td><a href="https://www.statssa.gov.za/?p=18613">Stats SA, Mid-year population estimates 2025</a></td><td>Population size, provinces, population groups</td><td>63.1 million people in 2025</td></tr>
-<tr><td><a href="https://www.statssa.gov.za/publications/P0318/MEDIA%20RELEASE%20-%20%20GHS%202024.pdf">Stats SA, General Household Survey 2024</a></td><td>Households, grants, living conditions</td><td>40.1% of people received a social grant in 2024</td></tr>
-<tr><td><a href="https://finmark.org.za/Publications/FinScope_SA_Consumer_2023.pdf">FinScope Consumer South Africa 2023</a></td><td>Banking, financial inclusion, adult population</td><td>44.7 million adults aged 16+, about 3.5 million born outside South Africa</td></tr>
-<tr><td><a href="https://www.joburgetc.com/?p=57478">SASSA grant figures</a></td><td>Grant types and who receives them</td><td>19.2 million regular grant beneficiaries in March 2025, plus over 9 million on the SRD grant</td></tr>
+<tr><td><a href="https://www.statssa.gov.za/?p=19764">Stats SA, Mid-year population estimates 2026</a> and Census 2022</td><td>Population group, age, sex, province, home language</td><td>63.5 million people in 2026</td></tr>
+<tr><td><a href="https://www.sanews.gov.za/node/85558">Stats SA, Quarterly Labour Force Survey</a></td><td>Work and unemployment</td><td>Official unemployment of 33.7% in Q3 2026</td></tr>
+<tr><td><a href="https://www.statssa.gov.za/publications/P0318/MEDIA%20RELEASE%20-%20%20GHS%202024.pdf">Stats SA, General Household Survey</a></td><td>Households and grants</td><td>40.1% of people received a social grant in 2024</td></tr>
+<tr><td><a href="https://www.joburgetc.com/?p=57478">SASSA grant figures</a></td><td>Grant types and who qualifies</td><td>19.2 million regular grant beneficiaries in March 2025, plus over 9 million on the SRD grant</td></tr>
+<tr><td><a href="https://finmark.org.za/Publications/FinScope_2025_Launch.pdf">FinScope Consumer South Africa 2025</a></td><td>Accounts, credit, savings, funeral cover, financial vulnerability</td><td>89% of adults hold a personal bank account</td></tr>
 <tr><td><a href="https://www.ewn.co.za/more-than-11-million-south-africans-are-members-of-stokvels-nasasa">NASASA</a></td><td>Stokvel membership</td><td>More than 11 million members</td></tr>
 <tr><td><a href="https://www.icasa.org.za/uploads/files/The-State-of-the-ICT-Sector-Report-of-South-Africa-2025.pdf">ICASA, State of the ICT Sector 2025</a></td><td>Phones, data and prices</td><td>82.7 million smartphone subscriptions in 2024</td></tr>
+</table>
+<h3 class="sub">Support for the archetypes</h3>
+<table>
+<tr><th>Source</th><th>What it supports</th></tr>
+<tr><td><a href="https://www.finmark.org.za/knowledge-hub/articles">FinScope MSME South Africa 2024</a></td><td>Informal traders, township entrepreneurs and side hustles</td></tr>
+<tr><td><a href="https://microdata.worldbank.org/catalog/7977/related-materials">World Bank Global Findex 2025</a></td><td>How people use accounts, save and pay digitally</td></tr>
+<tr><td><a href="https://www.ncr.org.za/documents/CBM/CBM%20Q2%202025.pdf">NCR Credit Bureau Monitor</a></td><td>Credit standing and arrears: 29.24 million credit-active consumers in June 2025</td></tr>
 </table>
 <h3 class="sub">How people use screens</h3>
 <table>
