@@ -1,0 +1,100 @@
+<div class="hero2">
+<h2>See where customers drop off, before you launch.</h2>
+<p>Run your onboarding journey past thousands of simulated customers. Find where they leave, who they are, and what would bring them back.</p>
+<div class="stepnav">
+<button data-go="s1"><b>1</b>Pick a product</button>
+<button data-go="s2"><b>2</b>See who drops off</button>
+<button data-go="s3"><b>3</b>Try a change</button>
+</div>
+<details style="margin-top:12px"><summary class="big-sum">How does this work?</summary>
+<div style="font-size:14px;margin:8px auto 0;max-width:560px;color:var(--mut);text-align:left">The simulator sends thousands of virtual customers through your onboarding steps. Each customer belongs to a persona (a type of person), and each persona struggles with different steps. If you give it your previous months' numbers, it matches them. Then you can test an idea and see how many more people would finish, and which personas benefit.</div>
+</details>
+</div>
+
+<div class="card" id="s1">
+<h2><span class="num">1</span>Your product</h2>
+<p class="lead">How people move through opening this account.</p>
+<div class="ctlgrid"><div class="ctlbox"><div class="ctl-l">Account</div><div id="jName" class="pname"></div><div class="hint">Change the account at the top of the page.</div></div><div class="ctlbox"><div class="ctl-l">Data behind it</div><div id="jBadge" class="dbadge"></div></div></div>
+<div id="jFacts" class="factsbox"></div>
+<details id="jImp" class="legend"><summary>Load your own numbers</summary>
+<div class="note" style="margin:6px 0">For each step of the journey we need two numbers: how many people <b>reached</b> it and how many <b>finished</b> it. Pick whichever way is easiest.</div>
+
+<h3>Option A. Upload or paste a spreadsheet export</h3>
+<div class="btns"><label class="filebtn">Choose a CSV file<input type="file" id="jFile" accept=".csv,.txt,text/csv" hidden></label><button id="jTpl">Show me an example</button><button id="jCopyTpl">Copy example</button></div>
+<textarea id="jCsv" placeholder="Paste rows here. Columns: step, entered, completed (optional: product, month, persona)" style="height:110px"></textarea>
+<div class="note">Needs <b>step</b>, <b>entered</b>, <b>completed</b>. Optional: <b>product</b>, <b>month</b> (like 2026-08), <b>persona</b>, <b>step_no</b>, <b>median_minutes</b>. More months and a persona column make the results more trustworthy.</div>
+<div class="btns"><button id="jParse" class="on">Check my data</button></div>
+
+<h3>Option B. Type it in</h3>
+<div class="fld"><span>Product name</span><input type="text" id="mName" value="My product" style="width:170px;padding:5px;border:1px solid var(--line);border-radius:6px;font:inherit"></div>
+<div id="jMan"></div>
+<div class="btns"><button id="mAdd">Add a step</button><button id="mUse" class="on">Use these numbers</button></div>
+
+<div id="jPrev"></div>
+<div class="btns"><button id="jDemo">Reset to the four mock accounts</button></div>
+</details>
+</div>
+
+<style>
+.bento{display:grid;grid-template-columns:repeat(12,1fr);gap:12px;margin-top:10px}
+.bt{background:#fff;border:1px solid var(--line);border-radius:18px;padding:16px;min-width:0;box-shadow:0 1px 2px rgba(20,30,60,.04)}
+.bt h3{margin:0 0 4px;font-size:15px}.bt>.note:first-of-type{margin-top:0}
+.bt.k{grid-column:span 4;padding:0;border:0;background:none;box-shadow:none}.bt.k .kpi{height:100%}
+.b7{grid-column:span 7}.b5{grid-column:span 5}.b12{grid-column:span 12}.b6{grid-column:span 6}
+.bt.soft{background:#f5f5f7}
+@media(max-width:760px){.bento>*{grid-column:span 12!important}}
+</style>
+<div class="card" id="s2">
+<h2><span class="num">2</span>Who drops off, and where <span class="chip" id="jTrust"></span></h2>
+<div class="bento">
+<div class="bt k" style="grid-column:span 12;padding:0"><div id="sumK" class="grid kpis"></div></div>
+<div class="bt b7"><h3>Where people leave</h3><div class="note">Out of every 100 people who start, how many are lost at each step.</div><div id="chLeak"></div></div>
+<div class="bt b5"><h3>Who gets through</h3><div class="note">Accounts opened for every 100 people of each type who start.</div><div id="chPers"></div></div>
+<div class="bt b12" id="vocBox"><h3>Why they left <span class="chip ass" style="margin-left:6px;vertical-align:middle">SYNTHETIC FEEDBACK</span></h3><div class="note">Pick a step in “Where people leave” to hear from the synthetic customers who left there.</div><div id="voc"></div></div>
+<div class="bt b12"><h3>The next 3 months</h3><div id="fc"></div></div>
+<div class="bt b12 soft"><h3>In plain words</h3><div id="finds"></div></div>
+<div class="bt b12"><details><summary class="big-sum">Detailed views: heat map, step by step, compare accounts</summary>
+<h3>Drop-off by persona and step</h3>
+<div class="btns" id="hmCtl"><button id="hmRate" class="on">Share who leave</button><button id="hmLost">Number of people</button><span id="hmCmp"><button id="hmBase">Today</button><button id="hmScen" class="on">With my changes</button></span></div>
+<div id="heat"></div>
+<h3>The journey step by step</h3>
+<div class="leg" id="fLeg"></div>
+<div id="funnel"></div>
+<h3>Compare all accounts</h3><div id="cmp"></div>
+<details style="margin-top:8px"><summary style="cursor:pointer;font-size:13px;color:var(--blue)" id="rtitle">Why do they leave this step?</summary><div id="reasons" style="margin-top:6px"></div></details>
+</details></div>
+</div>
+</div>
+
+<div class="card" id="s3">
+<h2><span class="num">3</span>Try a change</h2>
+<div class="bento">
+<div class="bt b12"><h3>Pick the ideas to test</h3><div class="note">Switch on the ideas you want to test. The results update straight away. Effect sizes are assumptions until you have pilot results.</div>
+<div id="ideas"></div>
+<div class="idea" id="custom"></div>
+<div class="btns"><button id="iAll">Try everything</button><button id="iClear">Clear all changes</button></div></div>
+<div class="bt b12"><h3>Traditional vs Soft Banking Profile</h3><div class="note">The same people go through today's flow and through a progressive onboarding flow.</div><div id="softCmp"></div></div>
+<div class="bt b12"><h3>What it changes</h3><div id="results"></div></div>
+<div class="bt b12"><h3>The next 3 months with your changes</h3><div id="fc3"><div class="note">Switch on an idea above to see this.</div></div></div>
+<div class="bt b12"><details><summary class="big-sum">More numbers</summary><div class="grid kpis" id="kpis" style="margin-top:10px"></div></details></div>
+</div>
+</div>
+
+<details class="card adv" id="adv"><summary class="big-sum">Advanced: validation, timing and assumptions</summary>
+<h3>How much can I trust this model?</h3>
+<div id="valid"></div>
+<h3>Volume</h3>
+<div class="grid ctl" id="traffic"></div>
+<h3>Customers over time</h3>
+<div class="leg"><span><b style="background:#dde1ea"></b>Journeys started / day</span><span><b style="background:var(--grey)"></b>Accounts opened / day (today)</span><span><b style="background:var(--blue)"></b>Accounts opened / day (with changes)</span></div>
+<div id="daily"></div>
+<h3>Snapshot at a point in time</h3>
+<div class="btns"><button id="vb">Today</button><button id="vs" class="on">With my changes</button></div>
+<label>Day <span id="tv">10</span></label>
+<input type="range" id="tslider" min="0" max="60" step="0.25" value="10" class="scrub">
+<div class="big" id="snapsum"></div>
+<div class="leg"><span><b style="background:var(--blue2)"></b>In progress or paused</span><span><b style="background:var(--red)"></b>Dropped here so far</span></div>
+<div id="snap"></div>
+<div class="ed" id="stepEd"></div>
+<div class="ed" id="persEd"></div>
+</details>

@@ -1,0 +1,35 @@
+<div class="card">
+<h2>Business impact</h2>
+<p class="lead">What is the Soft Banking Profile worth, compared with onboarding today?</p>
+<div class="ctlbox" style="margin-bottom:12px"><div class="ctl-l">Account</div><div id="cSrc"></div></div>
+<div class="ctlgrid">
+<div class="ctlbox"><div class="ctl-l">Compare</div><div class="seg" id="cShow"></div></div>
+<div class="ctlbox"><div class="ctl-l">Scenario</div><div class="seg" id="cScn"></div></div>
+<div class="ctlbox"><div class="ctl-l">People who start each month</div><div class="inw"><input type="number" id="cVis" data-path="visitors" data-min="0" data-max="100000000" step="1000"></div><div class="hint">per model. <span id="cTot"></span></div></div>
+<div class="ctlbox"><div class="ctl-l">Monthly growth in starts</div><div class="inw"><input type="number" id="cGrow" data-path="growth" data-min="-50" data-max="200" step="1"><span class="unit">%</span></div><div class="hint">From the flow's recent trend. Used for the 3-month projection.</div></div>
+</div>
+<div id="cNote"></div>
+<div class="foot"><button id="cResync" class="linkbtn">Reload numbers from the flow</button><button id="cReset" class="linkbtn">Use the generic example instead</button></div>
+<details class="legend"><summary>What do the labels mean?</summary>
+<div class="note" style="margin-top:6px"><span class="chip ass">ASSUMPTION</span> an input you can edit &nbsp; <span class="chip sim">SIMULATED OUTPUT</span> a result from the simulation &nbsp; <span class="chip calc">PROJECTION</span> calculated from those. All figures are illustrative, not forecasts.</div></details>
+</div>
+<div class="card sumtxt" id="cSummary"></div>
+<div class="card" id="cExec"></div>
+<div class="card" id="cFc"></div>
+<details class="more"><summary class="card big-sum">The detail behind these numbers: funnel, payments, deposits, retention</summary>
+<div class="card" id="cAcq"></div>
+<div class="card" id="cPay"></div>
+<div class="card" id="cDep"></div>
+<div class="card" id="cRel"></div>
+<div class="card" id="cCon"></div>
+<div class="card" id="cScen"></div>
+<div class="card" id="cPop"></div>
+</details>
+<details class="more"><summary class="card big-sum">Assumptions you can edit</summary>
+<div class="card ed" id="cEdit"></div>
+</details>
+<details class="more"><summary class="card big-sum">Model checks (for reviewers) <span class="chip" id="cTestBadge" style="margin-left:8px"></span></summary>
+<div class="card" id="cRecon"></div>
+<div class="card" id="cTests"></div>
+</details>
+<div class="card" id="cExport"></div>
