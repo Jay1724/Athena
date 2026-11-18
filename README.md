@@ -1,5 +1,7 @@
 # Athena: Account Origination Simulator
 
+Built by Junior Sebilimetsa, Senior Product Designer, Standard Bank. New here? Start with [About Athena](docs/about-athena.md).
+
 A tool for testing an onboarding flow with synthetic customers before it goes to real people. It shows where people are likely to leave, who leaves, why, and what a change might be worth.
 
 **All funnel numbers in this repository are mock data.** They are made up for demonstration and are not Standard Bank figures. The persona pack is synthetic: every person, name, ID number, email and phone number in it is made up.
@@ -61,6 +63,7 @@ In the page, who quits and where comes from the calibrated simulation. Each simu
 
 ## Docs
 
+- [About Athena](docs/about-athena.md): what it is, why the name, and what it does for design teams and the business
 - [Methodology and FAQ](docs/methodology.md)
 - [Persona behaviour guide v2](docs/persona-behaviour-guide-v2.md) (current)
 - [Persona behaviour guide v1](docs/persona-behaviour-guide.md)
