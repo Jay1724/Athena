@@ -17,11 +17,11 @@ If GitHub Pages is switched on for this repository, the same page is available a
 | Summary | One screen: how many people the account loses, the two biggest leaks, the effect of a Soft Banking Profile, the next 3 months, and a confidence score. Exports to PDF. |
 | Drop-off and ideas | Where people leave, screen by screen. Tap a screen to see what happened, who left, what they did and what they said. Switch ideas on to see their effect. |
 | Customers | The 20 synthetic personas, their pain points and how they behave. |
-| Flow confidence | A 0 to 100 readiness score for user testing, from funnel evidence and a design review grounded in UX laws and CX principles. |
+| Feedback | Customer and design feedback: a 0 to 100 readiness score, what works and what doesn't, a Claude review of the screens against design laws, and what synthetic customers did and said at each screen. |
 | Business impact | Traditional onboarding against the Soft Banking Profile: accounts, money and a 3-month projection. |
 | Test a design | Upload screens of a new flow, order them, say what each one is, and run it against today's flow or on its own. |
 
-Some features only work inside Claude: "Ask them again with Claude" is hidden elsewhere.
+Some features only work inside Claude: "Ask them again with Claude" and the screen review are hidden or switched off elsewhere.
 
 ## How it works, and what is assumed
 
@@ -37,7 +37,7 @@ The page is built from the files in `src/`:
 | `journey_ui.js`, `journey.html` | Drop-off and ideas tab |
 | `personas.js` | Customers tab, persona profiles and portraits |
 | `voice.js`, `voc.js` | Synthetic feedback and the "Why they left" panel |
-| `flow.js` | Flow confidence |
+| `flow.js` | Feedback tab and Flow confidence score |
 | `summary.js` | Summary and PDF export |
 | `design.js` | Test a design |
 | `model.js`, `ui.js`, `commercial.html` | Business impact |

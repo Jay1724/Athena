@@ -30,6 +30,14 @@ What they say is generated separately from what they did, following the behaviou
 
 Use it for direction: which screen, which people, what kind of problem.
 
+## Where does the design feedback come from?
+
+The Feedback tab combines three sources and labels each one:
+
+- **Data:** checks scored from the funnel, such as how many people leave each screen, the opening, the finish and first use.
+- **Screens:** Claude reviews the screens a designer adds against each design law and says "works", "partly", "needs work" or that it can't tell from a static screen, with a finding, a fix and the screen numbers. It sees only images, not the live product, so its findings are a first pass for the team to confirm. This only works when the page is opened in Claude.
+- **Customers:** what the synthetic customers did and said at each screen. Their behaviour comes from persona traits, not the screens, so it shows who struggles and how, not which part of a screen is wrong.
+
 ## How are the business numbers worked out?
 
 - **Funnel:** mock monthly counts for four public Standard Bank accounts (MyMo, MyMo Plus, Achieva, Prestige Banking). Real funnel data was removed to protect company data and can be loaded in a browser session without being saved.
@@ -43,11 +51,11 @@ Use it for direction: which screen, which people, what kind of problem.
 
 - Monte Carlo simulation, calibrated to observed funnel data.
 - Confidence intervals, and a test of the model against a month it has not seen.
-- Flow confidence checks grounded in recognised UX laws (Hick's, Fitts's, Miller's, Jakob's, Tesler's, Postel's, Doherty threshold, goal-gradient, Zeigarnik, Von Restorff, peak-end rule) and CX principles (moments of truth, service recovery).
+- Feedback checks grounded in recognised UX laws (Hick's, Fitts's, Miller's, Jakob's, Tesler's, Postel's, Doherty threshold, goal-gradient, Zeigarnik, Von Restorff, peak-end rule) and CX principles (moments of truth, service recovery).
 
 **Not backed by research**
 
-The persona profiles and sizes, behaviour traits, reasons for leaving, effect sizes of ideas, flow confidence weights and rand values. None come from Standard Bank research or data. They are structured assumptions.
+The persona profiles and sizes, behaviour traits, reasons for leaving, effect sizes of ideas, flow confidence weights and rand values. Claude's screen review is a judgement, not a measurement. None come from Standard Bank research or data. They are structured assumptions.
 
 **What would back it**
 

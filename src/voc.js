@@ -72,8 +72,8 @@ document.addEventListener("keydown",e=>{const b=e.target.closest&&e.target.close
 VOC_READY=true;drawVoc();
 
 // Ask the shown customers again with Claude, using the guide's prompt. Template answers stay if anything fails.
-let VSAMPLE=null;
-(async()=>{try{if(window.claude&&window.claude.use)VSAMPLE=await window.claude.use("sample")}catch(e){}if(VSAMPLE){const a=$("vocAsk");if(a)a.style.display=""}})();
+var VSAMPLE=null;
+(async()=>{try{if(window.claude&&window.claude.use)VSAMPLE=await window.claude.use("sample")}catch(e){}if(VSAMPLE){const a=$("vocAsk");if(a)a.style.display="";drawFlow()}})();
 const _dv=drawVoc;drawVoc=function(){_dv();const a=$("vocAsk");if(a)a.style.display=VSAMPLE&&VOCV.length?"":"none"};
 function vLog(c,p){const out=[],k=c.dropK;(c.ev||[]).forEach(([i,e])=>{const n=p.steps[i]?p.steps[i].name:"a screen";const m={m:"mis-tapped",b:"went back",i:"got interrupted",r:"re-read it without doing anything",w:"picked the wrong option",s:"skipped the terms"};out.push("On "+n+": "+[...e].map(ch=>m[ch]).join(", ")+".")});
  if(k>=0&&p.steps[k]){const t=c.path.filter(q=>q.k===k),mn=Math.round(t.reduce((a,q)=>a+(q.t1-q.t0),0)*1440);out.push("Stopped at "+p.steps[k].name+" after about "+Math.max(1,mn)+" minutes"+(t.length>1?", after trying "+t.length+" times":"")+".");if(c.rs)out.push("What really happened: "+c.rs.toLowerCase()+".");if(c.act)out.push("Then: "+c.act+".")}
@@ -102,3 +102,5 @@ Reply with only a JSON array of ${VOCV.length} strings, one answer per person in
   msg.textContent=ok?`Rewritten by Claude: ${ok} of ${VOCV.length}. Answers that broke the guide's rules were kept as they were.`:"Claude's answers broke the guide's rules, so the originals were kept."}
  catch(err){msg.textContent=err&&err.code==="not_granted"?"Claude isn't allowed for this page.":err&&err.code==="rate_limited"?"Too many requests. Try again in a minute.":"Couldn't reach Claude. Try again later."}
  finally{b.disabled=false}});
+
+FLOW_READY=true;drawFlow();
