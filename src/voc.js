@@ -55,7 +55,7 @@ function drawVoc(){
  ${isPost?"":`<div class="vocgrid" style="margin-top:16px"><div><h4>On this screen</h4><table class="vevt"><tr><th></th><th>Left</th><th>Carried on</th></tr>${evRows.map(x=>`<tr><td>${x.l}</td><td><b>${(x.a*100).toFixed(0)}%</b></td><td>${(x.b*100).toFixed(0)}%</td></tr>`).join("")}</table></div>
  <div><h4>When they got stuck</h4>${acts.map(([a,c])=>`<div class="vocr"><div class="vocr-t"><span>${esc(ACTL[a]||a)}</span><b>${(c/N*100).toFixed(0)}%</b></div><div class="vocr-b"><i style="width:${(c/acts[0][1]*100).toFixed(0)}%;background:#8e8e93"></i></div></div>`).join("")}
  <div class="hint" style="margin-top:6px">Mood that day: ${["Relaxed","Calm","Rushed","Stressed"].map((m,i)=>moods[i]?`${m.toLowerCase()} ${(moods[i]/N*100).toFixed(0)}%`:"").filter(Boolean).join(", ")}.</div></div></div>`}
- ${(()=>{const st=stuckAt(p,R,k);return st&&st.rows.length?`<h4 style="margin-top:16px">Where they got stuck on this screen</h4>${stuckHtml(p,st,4)}`:""})()}
+ ${(()=>{const st=stuckAt(p,R,k);return st&&st.rows.length?`<h4 style="margin-top:16px">Where they got stuck on this screen</h4>${stuckHtml(p,st,3)}`:""})()}
  <h4 style="margin-top:16px">What they said when asked “Why did you stop?”</h4>
  <div class="hint" style="margin:0 0 8px"><b>${(silent/asked*100).toFixed(0)}% said nothing.</b> ${fineN?`${(fineN/asked*100).toFixed(0)}% said it was fine, even though they left.`:""}</div>
  <div class="vocq">${voices.map((o,i)=>{const c=o.c,pe=p.personas[c.j],I=typeof pinfo==="function"?pinfo(pe.name):null,B=btr(pe),ctx=[];

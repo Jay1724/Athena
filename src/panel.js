@@ -228,7 +228,7 @@ function fbKpis(P){const pc=v=>Math.round(v*100)+"%",N=P.N||1,cs=P.allC||1,f=n=>
 function fbStep(p,P,R,k,i,laws,marks){const st=P.steps[k],f=n=>n.toLocaleString("en-ZA"),sh=n=>st.reach?n/st.reach:0,pc=v=>Math.round(v*100)+"%";
  const bad=[],good=[];
  Object.entries(st.CT).sort((a,b)=>b[1]-a[1]).slice(0,3).forEach(([t,n])=>bad.push({t:tagL(t),v:sh(n),d:`${f(n)} people had this problem here.`,fix:TFIX[t],src:"cust"}));
- const S=typeof stuckAt==="function"?stuckAt(p,R,k):null;if(S)S.rows.filter(r=>r.x>0&&r.focus).slice(0,2).forEach(r=>bad.push({t:`The “${r.f.n}” field`,v:null,d:`${(r.sh*100).toFixed(0)}% of the trouble on this step. Most people ${issueL((r.top||["x"])[0],r.f)}.`,fix:r.fix,src:"field"}));
+ const S=typeof stuckAt==="function"?stuckAt(p,R,k):null;if(S&&!S.even)S.rows.filter(r=>r.x>0&&r.xf>=1/S.rows.length).slice(0,2).forEach(r=>bad.push({t:`The “${r.f.n}” field`,v:r.q,d:`${capS(qPer(r.q))} who reach this step quit at this field. ${fieldWhy(r)}`,fix:r.fix,src:"field"}));
  laws.forEach(x=>x.st==="works"?good.push({t:x.law,d:x.find||x.t}):bad.push({t:x.law,v:null,d:x.find||x.t,fix:x.fix,src:"screens",st:x.st}));
  const ctags=Object.keys(st.CT);Object.entries(st.PT).filter(([t])=>!clash(t,ctags)).sort((a,b)=>b[1]-a[1]).slice(0,3).forEach(([t,n])=>good.unshift({t:tagL(t),d:`${f(n)} people praised this`}));
  const L=R.cust.filter(c=>c.status==="drop"&&c.dropK===k),pcn={},n=R.cust.length;L.forEach(c=>pcn[c.j]=(pcn[c.j]||0)+1);let who=null;

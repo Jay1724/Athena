@@ -50,7 +50,10 @@ function stuckAt(p,R,k){
   // the persona most over-represented on this field, compared with everyone stuck on this screen
   let best=null;Object.entries(r.who).forEach(([j,c])=>{if(c/r.t<.04)return;const ov=(c/r.t)/(all[j]/tot);if(!best||ov>best.ov)best={j:+j,ov}});r.wj=best&&best.ov>=1.2?best.j:null;r.wov=best?best.ov:1;
   r.focus=r.sh>=1.3/N;r.fix=fieldFix(r)});
- const out={src:F.src,tot,rows:rows.filter(r=>r.t>0).sort((a,b)=>b.t-a.t)};FSC.m[k]=out;return out}
+ const att=R.att[k]||0,X=rows.reduce((a,r)=>a+r.x,0);rows.forEach(r=>{r.q=att?r.x/att:0;r.xf=X?r.x/X:0});
+ // quits spread evenly across fields aren't about any one field: rank by where people slow down instead
+ const even=!X||Math.max(...rows.map(r=>r.xf))<1.15/N;
+ const out={src:F.src,tot,att,even,rows:rows.filter(r=>r.t>0).sort(even?(a,b)=>b.t-a.t:(a,b)=>(b.x-a.x)||(b.t-a.t))};FSC.m[k]=out;return out}
 const issueL=(t,f)=>t==="m"?(TYPING.includes(f.k)?"typed it wrong":"mis-tapped"):ISSUE[t];
 function fieldFix(r){const f=r.f,k=f.k||"text",t=r.top?r.top[0]:"x";
  if(f.j&&(t==="r"||t==="w"||t==="x"))return`Say “${f.n}” in everyday words and add a one-line reason.`;
@@ -61,12 +64,20 @@ function fieldFix(r){const f=r.f,k=f.k||"text",t=r.top?r.top[0]:"x";
  if(k==="upload")return"Let them take a photo instead of finding a file, accept any size, or let them finish later.";
  if(k==="otp")return"Show a resend timer and offer a call-me option.";
  if(k==="consent")return"Put a three-line summary above the full terms.";
+ if(/button/i.test(f.n))return"Make it the one clear main button: full width, within thumb reach, and say what happens next.";
  if(PICK.includes(k))return"Use fewer, clearer options, with the most common one first.";
  if(t==="i")return"Save what they entered so they can pick up where they stopped.";
  if(k==="info")return"Lead with what they get and what it costs, in one line.";
  return"Check it as they type and keep what they entered when there is an error."}
-function stuckHtml(p,S,n){if(!S||!S.rows.length)return"";const rows=S.rows.slice(0,n);
- return`<div class="stk">${rows.map(r=>{const pe=r.wj!=null?p.personas[r.wj]:null,issues=Object.entries(r.by).filter(e=>e[0]!=="x").sort((a,b)=>b[1]-a[1]).slice(0,2).map(e=>`${(e[1]/r.t*100).toFixed(0)}% ${issueL(e[0],r.f)}`);
-  return`<div class="stk-r"><div class="stk-h"><b>${esc(r.f.n)}</b>${r.f.j?'<span class="chip ass">JARGON</span>':""}<span class="stk-s">${(r.sh*100).toFixed(0)}% of the trouble</span></div><div class="stk-b"><i style="width:${(r.sh/rows[0].sh*100).toFixed(0)}%"></i></div>
-  <div class="ff">${r.x?`${f(r.x)} left here. `:""}${issues.length?"Of everyone stuck here: "+issues.join(", ")+".":""}${pe?` <span title="Their share of the trouble on this field, divided by their share of the trouble on this screen.">${esc(pname(pe.name))} is ${r.wov.toFixed(1)}× more likely to get stuck on this field than other customers on this screen.</span>`:""}</div><div class="ffix">${esc(r.fix)}</div></div>`}).join("")}</div>
+// "about 8 in 100 who reach this screen quit here"
+const qPer=q=>{const v=q*100;return v<1?"fewer than 1 in 100":`about ${Math.round(v)} in 100`};
+// what goes wrong on a field, in words, most common first
+function fieldWhy(r){const t=Object.entries(r.by).filter(e=>e[0]!=="x").sort((a,b)=>b[1]-a[1]).slice(0,2).map(e=>issueL(e[0],r.f));return t.length?"Mostly "+t.join(" and ")+".":""}
+function stuckHtml(p,S,n){if(!S||!S.rows.length)return"";
+ const row=(r,i)=>{const pe=r.wj!=null&&r.wov>=1.5?p.personas[r.wj]:null;
+  return`<div class="sk"><div class="sk-n">${i+1}</div><div><div class="sk-h"><b>${esc(r.f.n)}</b>${r.f.j?'<span class="chip ass">JARGON</span>':""}<span class="sk-q">${S.even?Math.round(r.sh*100)+"% of the slips on this screen":r.x?capS2(qPer(r.q))+" who reach this screen quit here":"Slows people down, but few quit here"}</span></div>
+  <div class="sk-f"><span>Fix</span>${esc(r.fix)}</div><div class="sk-w">${esc(fieldWhy(r))}${pe?` Hits ${esc(pname(pe.name))} hardest (${r.wov.toFixed(1)}× the average).`:""}</div></div></div>`};
+ const top=S.rows.slice(0,n),rest=S.rows.slice(n);
+ return`${S.even?`<div class="hint" style="margin:2px 0 6px">People who quit this screen leave it as a whole, not at one field. These are the fields where people slip up most.</div>`:""}<div class="sks">${top.map(row).join("")}${rest.length?`<details class="sk-more"><summary>Show ${rest.length} more field${rest.length>1?"s":""}</summary>${rest.map((r,i)=>row(r,i+n)).join("")}</details>`:""}</div>
  <div class="hint" style="margin-top:4px">${S.src==="screens"?"Fields read from your screens by the screen review.":"Typical fields for this kind of step. Review your screens under Feedback to use the real ones."}</div>`}
+const capS2=s=>s.charAt(0).toUpperCase()+s.slice(1);
