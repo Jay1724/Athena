@@ -248,14 +248,28 @@ function drawReasons(){
 
 // ---------- ideas ----------
 function affected(i){const p=cur();if(p.standalone&&["soft","nudge","redirect"].includes(i.k))return null;if(!i.tags)return i.all?"Every screen":"Every step where people pause";const names=p.steps.filter(s=>i.tags.includes(s.tag)).map(s=>s.name);return names.length?names.join(", "):null}
+// what each fix is worth on its own, at a medium effect: one extra run per fix, cached per flow
+var IVAL={k:"",v:null,busy:false};
+function ideaVals(){const p=cur(),key=p.name+"|"+BASE.cust.length+"|"+BASE.openN;if(IVAL.k===key)return IVAL.v;
+ if(!IVAL.busy){IVAL.busy=true;setTimeout(()=>{try{const v={};IDEAS.filter(i=>affected(i)).forEach(i=>{const S=simJ(p,Object.assign(ZERO(),{[i.k]:STR.medium}),P);v[i.k]=(S.openN-BASE.openN)/S.cust.length*1000});IVAL={k:key,v,busy:false}}catch(e){IVAL.busy=false}drawIdeas()},40)}return null}
 function drawIdeas(){
  // only ideas that can act on this flow are shown; an idea left on from another flow is switched off
  let off=false;IDEAS.forEach(i=>{if(!affected(i)&&IDEA.on[i.k]){IDEA.on[i.k]=false;off=true}});if(off)setL();
- $("ideas").innerHTML=IDEAS.filter(i=>affected(i)).map(i=>{const on=!!IDEA.on[i.k],aff=affected(i),t=iTxt(i);
-  return `<div class="idea ${on?"on":""}"><label class="tg"><input type="checkbox" data-idea="${i.k}" ${on?"checked":""}><span><b>${t.n}</b><span class="d">${t.d}</span></span></label>
-  <div class="aff">Affects: ${esc(aff)}</div>
-  ${on?`<div class="str">How well does it work? <select data-istr="${i.k}">${[["light","Slightly"],["medium","Fairly well"],["strong","Very well"]].map(([v,l])=>`<option value="${v}" ${(IDEA.str[i.k]||"medium")===v?"selected":""}>${l}</option>`).join("")}</select></div>`:""}</div>`}).join("");
+ const V=BASE?ideaVals():null,list=IDEAS.filter(i=>affected(i)).slice();if(V)list.sort((a,b)=>(V[b.k]||0)-(V[a.k]||0));
+ const top=V?list[0]&&list[0].k:null;
+ $("ideas").innerHTML=list.map(i=>{const on=!!IDEA.on[i.k],aff=affected(i),t=iTxt(i),v=V?V[i.k]:null;
+  const val=v==null?`<span class="iv wait">Working it out…</span>`:`<span class="iv${v>0.05?"":" flat"}">${v>0.05?"+"+(v>=10?v.toFixed(0):v.toFixed(1)):"About 0"}<small>accounts opened per 1,000 who start</small></span>`;
+  return `<div class="ix${on?" on":""}"><label class="ix-l"><input type="checkbox" data-idea="${i.k}" ${on?"checked":""}><div class="ix-b"><div class="ix-t"><b>${esc(t.n)}</b>${i.k===top&&v>0.05?'<span class="chip ix-top">BIGGEST GAIN</span>':""}</div><div class="ix-d">${esc(t.d)}</div><div class="ix-a">Affects: ${esc(aff)}</div></div>${val}</label>
+  ${on?`<div class="ix-s">How well does it work? <select data-istr="${i.k}">${[["light","Slightly"],["medium","Fairly well"],["strong","Very well"]].map(([v,l])=>`<option value="${v}" ${(IDEA.str[i.k]||"medium")===v?"selected":""}>${l}</option>`).join("")}</select></div>`:""}</div>`}).join("");
+ drawIBar();if(typeof goalSwap==="function")goalSwap($("tabJ"));
 }
+// a result bar that stays on screen while fixes are ticked
+function drawIBar(){const el=$("iBar");if(!el||!BASE||!SCEN)return;const n=BASE.cust.length,a=per100(BASE.openN,n),b=per100(SCEN.openN,SCEN.cust.length),g=(SCEN.openN/SCEN.cust.length-BASE.openN/n)*1000;
+ const on=IDEAS.filter(i=>IDEA.on[i.k]&&affected(i)).length,ch=changed();
+ el.className="ibar"+(ch?" on":"");
+ el.innerHTML=ch?`<div><b>${on?on+(on===1?" fix":" fixes"):"Your change"}: ${b.toFixed(1)}%</b> of people who start open an account, up from ${a.toFixed(1)}% <span class="${g>=0?"up":"dn"}">(${g>=0?"+":"−"}${f(Math.abs(g))} per 1,000)</span></div><button class="linkbtn" id="iSee">Full results ↓</button>`
+  :`<div><b>Today: ${a.toFixed(1)}%</b> of people who start open an account. Tick a fix to see the difference.</div>`;
+ if(typeof goalSwap==="function")goalSwap(el)}
 function drawCustom(){
  const p=cur();
  $("custom").innerHTML=`<b>Or change one step yourself</b><div class="fld"><span>Step</span><select id="cuK">${p.steps.map((s,k)=>`<option value="${k}" ${k===CUSTOM.k?"selected":""}>${esc(s.name)}</option>`).join("")}</select></div>
@@ -267,6 +281,7 @@ function applyCustom(){
  const s=p.steps[CUSTOM.k];s.delta=-CUSTOM.red;s.skip=CUSTOM.skip;CUSTOM.set=CUSTOM.k;drawStepEd();run();
 }
 function drawResults(){
+ drawIBar();
  if(!changed()){$("results").innerHTML=`<div class="note" style="margin-top:10px">Switch on an idea above to see how many more people would finish and who benefits.</div>`;return}
  const p=cur(),n=SCEN.cust.length,gain=(SCEN.openN-BASE.openN)/n*1000,pts=(SCEN.openN-BASE.openN)/n*100;
  const rows=p.personas.map((pe,j)=>{const a=BASE.perp[j].n>0?BASE.perp[j].opened/BASE.perp[j].n:0,b=SCEN.perp[j].n>0?SCEN.perp[j].opened/SCEN.perp[j].n:0;return{pe:pe.name,a,b,d:b-a}}).sort((x,y)=>y.d-x.d);
@@ -449,6 +464,7 @@ document.addEventListener("input",e=>{
  if(p.src==="data"&&["net","resume","share","techE","dwell","elig"].includes(field)||kind==="pm")p.edited=true;
  calibrate(p);drawProduct();run();
 });
+document.addEventListener("click",e=>{if(e.target&&e.target.id==="iSee"){const r=$("results");if(r)r.scrollIntoView({behavior:"smooth",block:"center"})}});
 document.addEventListener("change",e=>{
  const el=e.target,p=cur(),d=el.dataset||{};
  if(d.idea){IDEA.on[d.idea]=el.checked;if(el.checked&&!IDEA.str[d.idea])IDEA.str[d.idea]="medium";setL();drawIdeas();run()}

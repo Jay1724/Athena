@@ -4,7 +4,7 @@
 <div class="stepnav">
 <button data-go="s1"><b>1</b>Pick a product</button>
 <button data-go="s2"><b>2</b>See who drops off</button>
-<button data-go="s3"><b>3</b>Try a change</button>
+<button data-go="s3"><b>3</b>What if we fixed it?</button>
 </div>
 <details style="margin-top:12px"><summary class="big-sum">How does this work?</summary>
 <div style="font-size:14px;margin:8px auto 0;max-width:560px;color:var(--mut);text-align:left">The simulator sends thousands of virtual customers through your onboarding steps. Each customer belongs to a persona (a type of person), and each persona struggles with different steps. If you give it your previous months' numbers, it matches them. Then you can test an idea and see how many more people would finish, and which personas benefit.</div>
@@ -67,9 +67,11 @@
 </div>
 
 <div class="card" id="s3">
-<h2><span class="num">3</span>Try a change</h2>
+<h2><span class="num">3</span>What if we fixed it?</h2>
+<p class="lead" style="margin:-4px 0 12px">Tick a fix to see how many more accounts it would open. The fixes are sorted by what each one is worth on its own.</p>
+<div id="iBar" class="ibar"></div>
 <div class="bento">
-<div class="bt b12"><h3>Pick the ideas to test</h3><div class="note">Switch on the ideas you want to test. The results update straight away. Effect sizes are assumptions until you have pilot results.</div>
+<div class="bt b12"><h3>Pick the fixes</h3><div class="note">Each card shows what that fix is worth on its own, if it works fairly well. Ticking several shows them together in the bar above. How much each fix helps is an assumption until a pilot proves it.</div>
 <div id="ideas"></div>
 <div class="idea" id="custom"></div>
 <div class="btns"><button id="iAll">Try everything</button><button id="iClear">Clear all changes</button></div></div>
