@@ -8,9 +8,9 @@ A tool for testing an onboarding flow with synthetic customers before it goes to
 
 ## Try it
 
-Open `index.html` in a browser. It is one self-contained page and needs no install or server. Two small libraries for the PDF export load from cdnjs when you press "Save as PDF".
+Open `index.html` for the introduction, or go straight to `simulator.html`. The simulator is one self-contained page and needs no install or server. Two small libraries for the PDF export load from cdnjs when you press "Save as PDF".
 
-If GitHub Pages is switched on for this repository, the same page is available at the Pages link.
+On GitHub Pages, the site opens on the About Athena page, with a button through to the simulator.
 
 ## What it does
 
@@ -50,7 +50,7 @@ The page is built from the files in `src/`:
 | `model.js`, `ui.js`, `commercial.html` | Business impact |
 | `theme.css` | Styles |
 
-After editing, rebuild the page with `python3 build.py` (it rewrites `index.html` in place).
+After editing, rebuild the page with `python3 build.py` (it rewrites `simulator.html` in place). `index.html` is the About Athena landing page and is edited by hand.
 
 If you change the persona pack (`data/persona_pack_v7_1_10000.csv`) or the feedback bank (`kit/bank_*.txt`), run `python3 tools/build_data.py`. It regenerates `src/pack.js` and `src/kitbank.js`, then rebuilds the page. Only the columns the page uses are loaded: no ID numbers, passports, emails, phone numbers or dates of birth.
 

@@ -1,6 +1,6 @@
 import re,os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-h=open('index.html').read();P=lambda n:open('src/'+n).read()
+h=open('simulator.html').read();P=lambda n:open('src/'+n).read()
 # journey markup
 ja=h.index('<div class="wrap" id="tabJ">')+len('<div class="wrap" id="tabJ">')
 jc=h.index('<div class="wrap" id="tabC"')
@@ -22,5 +22,5 @@ bl=list(re.finditer(r'<script>\n(.*?)</script>',h,re.S))
 new=[P('journey.js')+"\n"+P('journey_ui.js')+"\n"+P('flow.js')+"\n"+P('personas.js')+"\n"+P('summary.js')+"\n"+P('design.js')+"\n"+P('fields.js')+"\n"+P('voice.js')+"\n"+P('pack.js')+"\n"+P('kitbank.js')+"\n"+P('panel.js')+"\n"+P('packview.js')+"\n"+P('voc.js'),P('model.js'),P('ui.js')]
 for b,n in reversed(list(zip(bl,new))):
     h=h[:b.start(1)]+n.rstrip("\n")+"\n"+h[b.end(1):]
-open('index.html','w').write(h)
+open('simulator.html','w').write(h)
 print(len(h))

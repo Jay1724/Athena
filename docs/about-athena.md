@@ -148,7 +148,7 @@ Used well, Athena makes research faster and better aimed. It doesn't make it unn
 
 ## Where to find it and what's next
 
-- **Try it:** the [live simulator](https://claude.ai/artifact/4Mh9p7WBX4d5tqbv7AaE3w), or open `index.html` from this repository. The screen review and Ask them again with Claude work when it's opened in Claude.
+- **Try it:** the [live simulator](https://claude.ai/artifact/4Mh9p7WBX4d5tqbv7AaE3w), or open `simulator.html` from this repository. The screen review and Ask them again with Claude work when it's opened in Claude.
 - **Code and data:** this repository, with the [persona pack](../data/), the [feedback kit](../kit/README.md) and the [methodology](methodology.md).
 
 Proposed next steps:
