@@ -1,0 +1,17 @@
+{
+ "name": "Everyday account opening - concept B",
+ "notes": "issues: tag -> severity 1 (minor) to 3 (severe), as found by the design review. strengths: things the design does well.",
+ "steps": [
+  {"name": "1. Download and register", "topic": "registration", "issues": {"data_heavy": 2, "too_many_steps": 1}, "strengths": ["feels_safe"]},
+  {"name": "2. Personal details", "topic": "personal_details", "issues": {"retype": 2, "cluttered": 1}, "strengths": ["saved_progress"]},
+  {"name": "3. Scan ID", "topic": "id_capture", "issues": {"camera_fail": 2}, "strengths": ["guided", "good_errors"]},
+  {"name": "4. Selfie check", "topic": "selfie", "issues": {"camera_fail": 2, "wait_unclear": 1}, "strengths": []},
+  {"name": "5. OTP", "topic": "otp", "issues": {"otp_fail": 1}, "strengths": ["autofill"]},
+  {"name": "6. Proof of address", "topic": "proof_of_address", "issues": {"doc_burden": 3, "hidden_info": 2}, "strengths": []},
+  {"name": "7. Work and income", "topic": "employment_income", "issues": {"employment_mismatch": 2, "unclear_words": 1}, "strengths": []},
+  {"name": "8. Choose account", "topic": "product_choice", "issues": {"jargon": 1}, "strengths": ["clear"]},
+  {"name": "9. Fees", "topic": "fees", "issues": {}, "strengths": ["fee_upfront"]},
+  {"name": "10. Terms", "topic": "consent_terms", "issues": {"too_much_info": 1}, "strengths": []},
+  {"name": "11. Account open", "topic": "account_ready", "issues": {"card_collection": 2}, "strengths": ["confirmation_clear", "virtual_card"]}
+ ]
+}

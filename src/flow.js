@@ -100,17 +100,20 @@ const lawLbl=s=>s==="works"?["Works well","g"]:s==="partly"?["Partly","a"]:s==="
 const autoSt=v=>v>=.8?"works":v>=.55?"partly":"needs work";
 function shotsFor(p){if(p.design&&typeof DSG!=="undefined"&&("Design: "+DSG.name)===p.name){const s=DSG.screens.filter(x=>x.big||x.img).map(x=>({n:x.n,img:x.big||x.img,small:!x.big}));if(s.length)return s}return FSHOTS[p.name]||[]}
 // customer feedback per screen, from the simulated customers
+const OVTIP="Their share of the people who left this screen, divided by their share of everyone who started. 1.0× means they leave here at the usual rate.";
 function custByScreen(p,R){
  const K=p.steps.length,left=Array.from({length:K},()=>[]),pass=Array.from({length:K},()=>[]),tagOf=k=>p.steps[k]&&p.steps[k].tag;
  R.cust.forEach((c,i)=>{if(c.status==="drop"&&c.dropK>=0)left[c.dropK].push(c);else if(i%4===0)c.path.forEach(q=>{if(pass[q.k].length<3000)pass[q.k].push(c)})});
  const EV={m:"mis-tapped",b:"went back",i:"got interrupted",r:"re-read it without acting",w:"picked the wrong option",s:"skipped the terms"},n=R.cust.length;
- return p.steps.map((s,k)=>{if(!R.att[k]||s.tag==="elig")return null;const L=left[k];if(!L.length)return{k,s,rate:0,n:0};
+ return p.steps.map((s,k)=>{if(!R.att[k]||s.tag==="elig")return null;const L=left[k];if(!L.length)return{k,s,st:stuckAt(p,R,k),rate:0,n:0};
   const rc={};L.forEach(c=>{const r=c.rs||"No reason";rc[r]=(rc[r]||0)+1});const top=Object.entries(rc).sort((a,b)=>b[1]-a[1])[0];
   const er=(cs,ch)=>cs.length?cs.filter(c=>(c.ev||[]).some(e=>e[0]===k&&e[1].includes(ch))).length/cs.length:0;
   const evs=Object.keys(EV).map(ch=>{const a=er(L,ch),b=er(pass[k],ch);return{ch,a,b,d:a-b,r:a/Math.max(.005,b)}}).filter(x=>x.d>.015).sort((x,y)=>y.r-x.r).slice(0,2);
   const pc={};L.forEach(c=>{pc[c.j]=(pc[c.j]||0)+1});let who=null;Object.entries(pc).forEach(([j,c])=>{const ov=(c/L.length)/Math.max(1e-9,R.perp[+j].n/n);if(c/L.length>=.03&&(!who||ov>who.ov))who={j:+j,ov}});
-  let q=null;for(let i=0;i<L.length&&!q;i+=Math.max(1,Math.floor(L.length/40))){const c=L[i],v=speak(c,p.personas[c.j],tagOf);if(v.text&&!v.fine)q={c,t:v.text}}
-  return{k,s,rate:R.fail[k]/R.att[k],n:L.length,top:top?[top[0],top[1]/L.length]:null,ev:evs.map(x=>({l:EV[x.ch],a:x.a,b:x.b})),who,q}}).filter(Boolean)}
+  // three voices from different customers with different reasons, over-represented personas first
+  const q=[],uj=new Set(),ur=new Set(),seen=new Set(),ovj=j=>(pc[j]||0)/L.length/Math.max(1e-9,R.perp[j].n/n),cand=L.filter((c,i)=>i%Math.max(1,Math.floor(L.length/400))===0).sort((a,b)=>ovj(b.j)-ovj(a.j)||hr(a,91)-hr(b,91));
+  for(const pass of[0,1])for(const c of cand){if(q.length>=3)break;const r=(c.rs||"").split(":")[0];if(uj.has(c.j)||(pass===0&&ur.has(r)))continue;const v=speak(c,p.personas[c.j],tagOf);if(!v.text||(v.fine&&q.some(x=>x.fine)))continue;if(qcheck(v.text,btr(p.personas[c.j]),seen).length)continue;uj.add(c.j);ur.add(r);q.push({c,t:v.text,fine:!!v.fine})}
+  return{k,s,st:stuckAt(p,R,k),rate:R.fail[k]/R.att[k],n:L.length,top:top?[top[0],top[1]/L.length]:null,ev:evs.map(x=>({l:EV[x.ch],a:x.a,b:x.b})),who,q}}).filter(Boolean)}
 // take the top items, keeping at least two from each source when both have them
 function mixSrc(L,n){const d=L.filter(x=>x.src==="data"),s=L.filter(x=>x.src==="screens");if(!d.length||!s.length)return L.slice(0,n);const keep=[...d.slice(0,Math.max(2,n-Math.min(2,s.length))),...s.slice(0,Math.max(2,n-Math.min(2,d.length)))];return L.filter(x=>keep.includes(x)).slice(0,n)}
 function drawFlow(){
@@ -125,38 +128,39 @@ function drawFlow(){
  <div class="fhero"><div class="fhero-l">${ring}<div><div class="ctl-l" style="margin:0 0 2px;color:var(--mut)">Flow confidence</div><div class="fverdict" style="color:${vc}">${verdict}</div><div class="fsub">${vsub}</div>${delta}</div></div>
  <div class="ctlbox"><div class="ctl-l">What this is based on</div>${src(true,"Funnel: where people leave"+(p.mock?" (mock data)":p.design?" (predicted)":""))}${src(true,"Synthetic customers: what they did and said")}${src(reviewed,reviewed?`Screen review: ${FREV.n} screens, ${new Date(FREV.at).toISOString().slice(0,10)}`:"Screen review: not done yet")}
  ${reviewed?"":`<div class="hint" style="margin-top:6px">Until the screens are reviewed, the score could land anywhere from <b>${lo}</b> to <b>${hi}</b>.</div>`}</div></div>
- <div class="fpill">${FP.map(P=>{const v=S.now.per[P[0]];return`<div class="fp"><div class="fp-n">${P[1]}</div><div class="fp-s" style="color:${v==null?"var(--mut)":fcol(v)}">${v==null?"–":Math.round(v)}</div><div class="fp-b"><i style="width:${v==null?0:v.toFixed(0)}%;background:${v==null?"transparent":fcol(v)}"></i></div><div class="fp-q">${v==null?"Needs the screen review":P[2]}</div></div>`}).join("")}</div></div>`;
- // what works and what doesn't, all sources
- const R=FREV&&FREV.laws||{},fq=Object.fromEntries(FQ.map(q=>[q[0],q]));
- const items=[...A.out.map(c=>({src:"data",st:autoSt(c.s),law:c.law,t:c.t,find:c.find,fix:c.fix,w:2,p:c.p})),
-  ...FQ.filter(q=>R[q[0]]&&STV[R[q[0]].st]!=null).map(q=>({src:"screens",st:R[q[0]].st,law:q[2],t:q[3],find:R[q[0]].find,fix:R[q[0]].fix||q[4],w:1,p:q[1],scr:R[q[0]].scr}))];
- const pw=Object.fromEntries(FP.map(P=>[P[0],P[3]])),good=mixSrc(items.filter(x=>x.st==="works").sort((a,b)=>b.w*pw[b.p]-a.w*pw[a.p]),5),bad=mixSrc(items.filter(x=>x.st!=="works").sort((a,b)=>(b.st==="needs work")-(a.st==="needs work")||b.w*pw[b.p]-a.w*pw[a.p]),5);
- const chip=x=>x.src==="data"?'<span class="chip calc">FROM THE DATA</span>':'<span class="chip sim">FROM THE SCREENS</span>';
- const li=(x,i,ok)=>`<div class="frow"><div class="fnum" style="background:${ok?"var(--green)":x.st==="partly"?"var(--amber)":"var(--red)"}">${ok?"✓":i+1}</div><div class="fbody"><div class="ft">${esc(x.law)} ${chip(x)}</div><div class="ff">${esc(x.find||x.t)}${x.scr&&x.scr.length?` <span class="lbl">Screens ${x.scr.join(", ")}</span>`:""}</div>${ok?"":`<div class="ffix">${esc(x.fix)}</div>`}</div></div>`;
- h+=`<div class="smtwo"><div class="card"><h2>What doesn't work</h2>${bad.length?bad.map((x,i)=>li(x,i,false)).join(""):'<div class="note">Nothing flagged yet.</div>'}</div>
- <div class="card"><h2>What works well</h2>${good.length?good.map((x,i)=>li(x,i,true)).join(""):`<div class="note">${reviewed?"Nothing stands out yet.":"Review the screens to see what the design does well."}</div>`}</div></div>`;
- // screen review
- const shots=shotsFor(p),canAsk=!!VSAMPLE;
- h+=`<div class="card"><h2>Screen review</h2><p class="lead">Claude checks the screens against the design laws below and says what works and what doesn't, so nobody has to rate them by hand.</p>
+ <div class="fpill">${FP.map(P=>{const v=S.now.per[P[0]];return`<div class="fp"><div class="fp-n">${P[1]}</div><div class="fp-s" style="color:${v==null?"var(--mut)":fcol(v)}">${v==null?"–":Math.round(v)}</div><div class="fp-b"><i style="width:${v==null?0:v.toFixed(0)}%;background:${v==null?"transparent":fcol(v)}"></i></div><div class="fp-q">${v==null?"Needs the screen review":P[2]}</div></div>`}).join("")}</div>`;
+ // one feedback section: every step's numbers, problems, strengths and voices, from all simulated customers plus the screen review
+ const R=FREV&&FREV.laws||{},P=panelRun(p,BASE),shots=shotsFor(p),canAsk=!!VSAMPLE;PNLC=[];
+ const k2=Object.fromEntries((FREV&&FREV.screens||[]).map(s=>[s.n,p.steps.findIndex(x=>x.name===s.step)])),byStep={},flowWide=[];let pending=0;const cant=[];
+ FQ.forEach(q=>{const o=R[q[0]];if(!o){pending++;return}if(STV[o.st]==null){cant.push({law:q[2],t:q[3],find:o.find});return}
+  const x={law:q[2],t:q[3],st:o.st,find:o.find,fix:o.fix||q[4]},ks=[...new Set((o.scr||[]).map(n=>k2[n]).filter(k=>k>=0))].slice(0,2);
+  if(ks.length)ks.forEach(k=>(byStep[k]=byStep[k]||[]).push(x));else flowWide.push(x)});
+ A.out.forEach(c=>flowWide.push({law:c.law,t:c.t,st:autoSt(c.s),find:c.find,fix:c.fix,data:1}));
+ const live=P.steps.filter(s=>s.reach),wq=live.reduce((m,s)=>!m||s.quit>m.quit?s:m,null),ws=live.reduce((m,s)=>!m||s.str/s.reach>m.str/m.reach?s:m,null);
+ h+=fbKpis(P);
+ h+=`<div class="frev"><div class="frev-t"><b>Screen review</b> <span class="hint" style="margin:0">${reviewed?`${FREV.n} screens reviewed by Claude on ${new Date(FREV.at).toISOString().slice(0,10)}. Its findings sit in each step below.`:"Add the screens and Claude checks them against the design laws. Its findings land in each step below. Until then, each step uses typical findings."}</span></div>
  ${shots.length?`<div class="fshots">${shots.map((s,i)=>`<figure><img src="${s.img}" alt=""><figcaption><em>${i+1}</em>${esc(s.n)}</figcaption></figure>`).join("")}</div>`:""}
- <label class="dzdrop" id="fDrop" style="${shots.length?"padding:14px":""}"><input type="file" id="fFile" accept="image/*" multiple hidden><b>${shots.length?"Replace the screens":"Add the screens of this flow"}</b><span>PNG or JPG exported from Figma, in flow order. ${p.design?"Screens added in Test a design are used automatically.":"They stay in this browser tab."}</span></label>
- ${shots.some(s=>s.small)?'<div class="hint">These screens were added before full-size images were kept. Add them again for a sharper review.</div>':""}
- <div class="foot"><button id="fReview" class="on" ${shots.length&&canAsk&&!FBUSY?"":"disabled"}>${FBUSY?"Reviewing…":reviewed?"Review again":"Review the screens with Claude"}</button><span class="hint" id="fRevMsg" style="margin:0">${!canAsk?"The screen review needs Claude, so it only works when this page is opened in Claude.":!shots.length?"Add the screens first.":"Takes about a minute. Uses your Claude usage."}</span>${reviewed?'<button class="linkbtn" id="fRevClear">Clear the review</button>':""}</div></div>`;
- // customer feedback by screen
- const CS=custByScreen(p,BASE);
- h+=`<div class="card"><h2>Customer feedback by screen</h2><p class="lead">What the synthetic customers did and said at each screen. Tap a screen for the full story in Drop-off and ideas.</p>
- ${CS.map((x,i)=>{const pe=x.who?p.personas[x.who.j]:null,bad=x.rate>=.2;return`<div class="cfs" data-cfk="${x.k}" role="button" tabindex="0"><div class="cfs-h"><span class="fidx">${i+1}</span><b>${esc(x.s.name)}</b><span class="cfs-r" style="color:${x.rate>=.3?"var(--red)":x.rate>=.15?"#b26b00":"var(--mut)"}">${(x.rate*100).toFixed(0)}% leave</span></div>
-  ${x.n?`<div class="cfs-g"><div><span>What happened</span>${x.top?esc(x.top[0])+` <i>${(x.top[1]*100).toFixed(0)}%</i>`:"–"}</div><div><span>What leavers did, vs those who carried on</span>${x.ev.length?x.ev.map(e=>`${(e.a*100).toFixed(0)}% ${esc(e.l)} <i>vs ${(e.b*100).toFixed(0)}%</i>`).join("<br>"):"Nothing unusual"}</div><div><span>Who struggles</span>${pe?`${esc(pname(pe.name))}${x.who.ov>1.1?` <i>${x.who.ov.toFixed(1)}×</i>`:""}`:"–"}</div>${x.q?`<div class="cfs-q">“${esc(x.q.t)}” <i>${esc(pname(p.personas[x.q.c.j].name))}</i></div>`:""}</div>`:'<div class="hint">Almost nobody leaves here.</div>'}</div>`}).join("")}
- <div class="note" style="margin-top:8px">Synthetic customers, not real feedback. What they did and said comes from persona assumptions under research review.</div></div>`;
- // laws by area
- h+=`<div class="card"><h2>All the checks, by area</h2><p class="lead">Each design law or CX principle, what the evidence says and what to do.</p>${FP.map(P=>{
-  const rows=[...A.out.filter(c=>c.p===P[0]).map(c=>({src:"data",law:c.law,t:c.t,st:autoSt(c.s),find:c.find,fix:c.fix})),...FQ.filter(q=>q[1]===P[0]).map(q=>{const o=R[q[0]];return{src:"screens",law:q[2],t:q[3],st:o?o.st:null,find:o?o.find:"",fix:o&&o.fix||q[4],scr:o&&o.scr}})];
-  return`<h3 class="fh3">${P[1]} <span style="font-weight:400">· ${P[2]}</span></h3>`+rows.map(x=>{const L=x.st?lawLbl(x.st):["Not reviewed yet","mute"];return`<div class="frow lawrow"><div class="fbody"><div class="ft">${esc(x.law)} ${x.src==="data"?'<span class="chip calc">DATA</span>':'<span class="chip sim">SCREENS</span>'}</div><div class="ff">${x.find?esc(x.find):esc(x.t)}${x.scr&&x.scr.length?` <span class="lbl">Screens ${x.scr.join(", ")}</span>`:""}</div>${x.st&&x.st!=="works"&&STV[x.st]!=null?`<div class="ffix">${esc(x.fix)}</div>`:""}</div><span class="fpl ${L[1]}">${L[0]}</span></div>`}).join("")}).join("")}</div>`;
- h+=`<div class="card"><details class="legend"><summary>How this works</summary><div class="note" style="margin-top:8px">
- <p><b>Data checks</b> are scored from the funnel: how many people leave each screen, the opening, the finish, first use and who struggles most.</p>
- <p><b>Screen checks</b> come from Claude looking at the screens you add, against each law. It says “works”, “partly”, “needs work”, or that it can't tell from a static screen (such as how fast a screen loads). It sees only the images, not the live product, so treat its findings as a strong first pass for the team to confirm.</p>
- <p><b>Customer feedback</b> comes from the synthetic customers. Their behaviour follows persona assumptions, not the screens themselves, so it shows who struggles and how, not which pixel is wrong.</p>
- <p>The score is a weighted average of five areas: ${FP.map(P=>`${P[1]} (${P[3]}%)`).join(", ")}. A data check counts double a screen check. Verdicts: 80 and above is ready for user testing, 60 to 79 is test with care, below 60 is not ready, and any screen after the opening that loses half or more of the people who reach it is a blocker. These weights and cut-offs are starting assumptions to tune against real test results.</p></div></details></div>`;
+ <div class="frev-a"><label class="dzdrop" id="fDrop"><input type="file" id="fFile" accept="image/*" multiple hidden><b>${shots.length?"Replace the screens":"Add the screens"}</b><span>PNG or JPG from Figma, in flow order</span></label>
+ <button id="fReview" class="on" ${shots.length&&canAsk&&!FBUSY?"":"disabled"}>${FBUSY?"Reviewing…":reviewed?"Review again":"Review with Claude"}</button>${reviewed?'<button class="linkbtn" id="fRevClear">Clear</button>':""}</div>
+ <div class="hint" id="fRevMsg">${!canAsk?"The screen review needs Claude, so it only works when this page is opened in Claude.":!shots.length?"":"Takes about a minute. Uses your Claude usage."}</div></div>`;
+ h+=`<h3 class="fsec">Step by step</h3><p class="lead" style="margin-top:2px">The full synthetic base of ${P.N.toLocaleString("en-ZA")} customers, plus the screen review. The steps that need the most attention are open. Tap any step to open it.</p>`;
+ live.forEach((s,i)=>{const m=[];if(s===wq)m.push("MOST QUIT");if(s===ws)m.push("HARDEST");h+=fbStep(p,P,BASE,s.k,i,byStep[s.k]||[],m)});
+ const fw=flowWide.sort((a,b)=>(STV[a.st]??1)-(STV[b.st]??1)).filter((x,i,a)=>a.findIndex(y=>y.law===x.law)===i),fwb=fw.filter(x=>x.st!=="works"),fwg=fw.filter(x=>x.st==="works");
+ const frow=(x,ok)=>`<li class="${ok?"ok":x.st==="partly"?"part":"no"}"><div><b>${esc(x.law)}</b> ${x.data?'<span class="chip calc">DATA</span>':'<span class="chip sim">SCREENS</span>'}</div><div class="ff">${esc(x.find||x.t)}</div>${ok?"":`<div class="ffix">${esc(x.fix)}</div>`}</li>`;
+ h+=`<details class="fstep"${live.length?"":" open"}><summary class="fs-sum"><span class="fidx">∑</span><div class="fs-m"><div class="fs-t"><b>Across the whole flow</b></div><div class="fs-top">${fwb.length} design laws to fix · ${fwg.length} working</div></div><div class="fs-k"></div><span class="fs-chev" aria-hidden="true"></span></summary>
+ <div class="fs-body"><div class="fs-col"><h4>What to fix</h4>${fwb.length?`<ol class="fx">${fwb.map((x,j)=>`<li><div class="fx-n">${j+1}</div><div class="fx-b"><div class="fx-t"><b>${esc(x.law)}</b><span class="fx-src">${x.data?"Data":"Screen review"}</span></div><div class="fx-d">${esc(x.find||x.t)}</div>${x.fix?`<div class="fx-f"><span>Fix</span>${esc(x.fix)}</div>`:""}</div></li>`).join("")}</ol>`:'<div class="hint">Nothing flagged.</div>'}</div>
+ <div class="fs-side"><h4>What works</h4>${fwg.length?fwg.map(x=>`<div class="fw"><b>✓ ${esc(x.law)}</b><span>${esc(x.find||x.t)}</span></div>`).join(""):'<div class="hint">Nothing yet.</div>'}</div></div>
+ ${pending?`<div class="pendbox" style="margin-top:10px"><b>${pending} more design checks run once the screens are reviewed.</b> <button class="linkbtn" id="fGoRev">Add the screens</button></div>`:""}
+ ${cant.length?`<details class="legend" style="margin-top:10px"><summary>${cant.length} checks Claude couldn't judge from static screens</summary><div class="note" style="margin-top:6px">${cant.map(c=>`<b>${esc(c.law)}</b>: ${esc(c.find||c.t)}`).join("<br>")}<br>Check these in a prototype or in user testing.</div></details>`:""}</details>`;
+ h+=`${canAsk?`<div class="foot"><button id="pnlAsk" class="on">Ask them again with Claude</button><span class="hint" id="pnlMsg" style="margin:0">Claude rewrites the quotes above in each person's voice and natural length, from what happened to them and what the review found on that step.</span></div>`:""}
+ <div class="note" style="margin-top:12px">Synthetic customers, not real feedback. Ratings, comments and tags come from each persona's traits and what they did in this run, using the persona behaviour guide. Use them to decide what to test with real people first.</div>
+ <details class="legend" style="margin-top:12px"><summary>How this works</summary><div class="note" style="margin-top:8px">
+ <p><b>Customers.</b> Feedback comes from the persona feedback kit v2. Who quits, and where, comes from the calibrated simulation. Who struggles at each step follows the kit's engine: each problem the review found on that step counts more for people who feel it most (data-heavy screens for prepaid users, small text for people over 60, document demands for people without proof of address, jargon for basic readers). Each person's comments are picked from ${KBANK.length} tagged lines in the kit's bank that fit their life and the step's problems, and filled in with their details. Each person also gives an overall answer, a rating from 1 to 5 and what they'd change. Polite personas often say it was fine even when they struggled. That is the say-vs-do gap.</p>
+ <p><b>People.</b> Each simulated customer is a real person from the v7.1 persona pack (10,000 South Africans, weighted by population), picked from the same archetype. Their age, income, grants, work, phone, data, network, documents, reading level, trust, patience and way of talking come from the pack.</p>
+ <p><b>Fields.</b> Every slip and drop-off on a step is placed on one of its fields, weighted by what the field is and who the customer is.</p>
+ <p><b>Screens.</b> Claude checks the screens you add against each design law. It sees only the images, so treat its findings as a strong first pass for the team to confirm.</p>
+ <p><b>Score.</b> A weighted average of five areas: ${FP.map(P=>`${P[1]} (${P[3]}%)`).join(", ")}. 80 and above is ready for user testing, 60 to 79 is test with care, below 60 is not ready. Weights, cut-offs and how each persona reacts are starting assumptions to tune against real test results.</p></div></details></div>`;
+
  el.innerHTML=h;goalSwap(el);
 }
 // adding screens for the review
@@ -167,7 +171,7 @@ const toBlob=u=>{const [h,b]=u.split(","),bin=atob(b),a=new Uint8Array(bin.lengt
 async function fReview(){
  const p=cur(),shots=shotsFor(p),msg=()=>$("fRevMsg");if(!VSAMPLE||!shots.length||FBUSY)return;FBUSY=true;drawFlow();msg().textContent="Reviewing… this can take a minute or two.";
  try{const lim=await VSAMPLE.limits().catch(()=>null),max=lim&&lim.images?lim.images.maxCount:0;if(!max)throw{code:"images_unavailable"};
-  const use=shots.slice(0,max),screens=use.map((s,i)=>`${i+1}. ${s.n}`).join("\n"),lawList=FQ.map(q=>`- id "${q[0]}" (${q[2]}): ${q[3]}`).join("\n");
+  const use=shots.slice(0,max),screens=use.map((s,i)=>`${i+1}. ${s.n}`).join("\n"),lawList=FQ.map(q=>`- id "${q[0]}" (${q[2]}): ${q[3]}`).join("\n"),stepList=p.steps.filter(s=>!s.post).map(s=>`"${s.name}"`).join(", ");
 
   const prompt=`You are reviewing the screens of a banking app flow for a South African bank before user testing. The images are the screens in order:
 ${screens}
@@ -183,17 +187,22 @@ Write the finding as one short plain sentence a designer can act on, naming what
 Laws:
 ${lawList}
 
-Reply with only JSON like {"laws":{"hick":{"status":"partly","finding":"...","fix":"...","screens":[2,3]}, ...}} with every id above present.`;
+Also list the input fields and controls on each screen, as the customer sees them, so we can show which fields customers get stuck on. Also give, per screen, "topic": the one that fits best from ${KTOPICS.join(", ")}. And "issues": the problems a customer would likely hit there, as an object of tag to severity, with tags chosen exactly from ${CTAGS.join(", ")} and severity 1 (minor), 2 (slows people down) or 3 (stops people). And "strengths": what the screen does well, chosen exactly from ${PTAGS.join(", ")}. Only list what is visible. For each screen give "step": the name of the step it belongs to, chosen exactly from this list: ${stepList}. For each field give "name" (the label as shown), "kind" (one of text, id, phone, email, money, date, address, select, choice, toggle, upload, camera, otp, consent, info), and true or false for "jargon" (a bank or legal term a customer may not know), "help" (help text or an example next to it), "strict" (looks like it needs an exact format), "prefilled", "long" (a lot of text to read).
+
+Reply with only JSON like {"laws":{"hick":{"status":"partly","finding":"...","fix":"...","screens":[2,3]}, ...},"screens":[{"n":1,"step":"Personal details","fields":[{"name":"ID number","kind":"id","jargon":false,"help":true,"strict":true,"prefilled":false,"long":false}],"topic":"personal_details","issues":{"retype":2},"strengths":["saved_progress"]}]} with every law id above present and one entry per screen.`;
   const out=await VSAMPLE.json(prompt,{images:use.map(s=>toBlob(s.img)),cache:false});
   const L=out&&out.laws;if(!L||typeof L!=="object")throw{code:"invalid_json"};
   const laws={};FQ.forEach(q=>{const o=L[q[0]];if(!o)return;const st=String(o.status||"").toLowerCase();laws[q[0]]={st:STV[st]!=null?st:"can't tell",find:String(o.finding||"").slice(0,300),fix:String(o.fix||"").slice(0,240),scr:Array.isArray(o.screens)?o.screens.filter(n=>Number.isInteger(n)).slice(0,10):[]}});
   if(!Object.keys(laws).length)throw{code:"invalid_json"};
-  setReview({at:Date.now(),n:use.length,laws},true);FBUSY=false;drawFlow();
+  const KS=["text","id","phone","email","money","date","address","select","choice","toggle","upload","camera","otp","consent","info"],names=p.steps.map(s=>s.name);
+  const scr=Array.isArray(out.screens)?out.screens.slice(0,use.length).map((sc,i)=>{const st=sc&&names.includes(sc.step)?sc.step:(p.design&&p.steps[i]?p.steps[i].name:null);
+   return{n:i+1,step:st,fields:(Array.isArray(sc&&sc.fields)?sc.fields:[]).slice(0,14).map(x=>({n:String(x.name||"Field").slice(0,60),k:KS.includes(x.kind)?x.kind:"text",j:x.jargon?1:0,h:x.help?1:0,f:x.strict?1:0,p:x.prefilled?1:0,l:x.long?1:0})),topic:KTOPICS.includes(sc&&sc.topic)?sc.topic:null,is:Object.entries(sc&&sc.issues&&typeof sc.issues==="object"&&!Array.isArray(sc.issues)?sc.issues:{}).filter(([t])=>CTAGS.includes(t)).slice(0,6).map(([t,v])=>({t,s:Math.max(1,Math.min(3,Math.round(+v||1)))})),gd:(Array.isArray(sc&&sc.strengths)?sc.strengths:[]).filter(t=>PTAGS.includes(t)).slice(0,4)}}):[];
+  setReview({at:Date.now(),n:use.length,laws,screens:scr},true);FBUSY=false;drawFlow();
   if(shots.length>max)$("fRevMsg").textContent=`Reviewed the first ${max} screens. Claude can look at ${max} at a time.`;
   if(typeof drawSum==="function")drawSum()}
  catch(e){FBUSY=false;drawFlow();const c=e&&e.code;$("fRevMsg").textContent=c==="not_granted"?"Claude isn't allowed for this page.":c==="images_unavailable"?"This view can't send images to Claude.":c==="rate_limited"?"Too many requests. Try again in a minute.":c==="invalid_json"?"The review came back in the wrong shape. Try again.":"Couldn't finish the review. Try again later."}}
 document.addEventListener("change",e=>{if(e.target&&e.target.id==="fFile"){fAddShots(e.target.files);e.target.value=""}});
-document.addEventListener("click",e=>{const b=e.target.closest&&e.target.closest("button");if(b){if(b.id==="fReview"){fReview();return}if(b.id==="fRevClear"){try{localStorage.removeItem(FKEY)}catch(x){}FANS={};FREV=null;drawFlow();return}}
+document.addEventListener("click",e=>{const b=e.target.closest&&e.target.closest("button");if(b){if(b.id==="fGoRev"){const d=$("fDrop");if(d&&d.scrollIntoView)d.scrollIntoView({behavior:"smooth",block:"center"});return}if(b.id==="fReview"){fReview();return}if(b.id==="fRevClear"){try{localStorage.removeItem(FKEY)}catch(x){}FANS={};FREV=null;drawFlow();return}}
  const r=e.target.closest&&e.target.closest("[data-cfk]");if(r){const k=+r.dataset.cfk;$("tbJ").click();if(typeof vocPick==="function")vocPick(k);const v=$("vocBox");if(v&&v.scrollIntoView)setTimeout(()=>v.scrollIntoView({behavior:"smooth",block:"start"}),60)}});
 ["dragover","drop"].forEach(ev=>document.addEventListener(ev,e=>{const z=e.target.closest&&e.target.closest("#fDrop");if(!z)return;e.preventDefault();if(ev==="drop"&&e.dataTransfer)fAddShots(e.dataTransfer.files)}));
 

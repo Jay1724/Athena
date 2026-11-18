@@ -1,0 +1,294 @@
+# Second batch. Same format: sentiment|depth|fits|tags|text
+
+## registration
+P|m|low|simple,guided|I thought it would be hard, but it only asked one thing at a time. Name, number, done. I kept waiting for the difficult part.
+P|r|grant|simple|I wanted the account so my grant can go in there instead of the SASSA card. My neighbour said it takes long but for me it was okay. I sat on my bed and did it in one go.
+P|s|high|quick|Took two minutes. Fine.
+P|m|young|quick,nice_look|It looks nice and it moves fast. Felt like a normal app, not a bank app.
+P|m|old|large_text|The writing was big and clear. I didn't need my glasses for most of it.
+U|m|*|-|It's like every other app. You download, you put your number, you wait for the SMS. Nothing new.
+U|r|parent|-|I started in the morning before the kids woke up and finished at night. It let me do that, so okay. But I wouldn't say it was quick.
+U|m|low|unclear_words|It said "register" and then "sign up" and then "create profile". Are those three different things? I just kept pressing the blue button.
+U|m|*|too_many_steps|A bit long for the beginning. I didn't mind, but someone impatient would close it.
+N|m|young|slow|The loading circle between every screen. I watched it more than I filled in anything.
+N|m|*|device_limit|It said my phone software is too old and I must update. My phone can't update anymore. So I can't use it.
+N|r|old|small_text,navigation|I didn't know where to press to start. There were three buttons on the first page, "log in", "register" and "explore". I pressed explore because it sounded easy. It showed me adverts. I went back and tried the others.
+N|m|foreign|doc_burden|At the very first page it wants an SA ID number. I didn't even get to see if I can open. Just stopped.
+N|m|prepaid|data_heavy|First it downloads, then it updates, then it loads pictures. I bought data just for this.
+N|s|*|crash|It froze on the first screen. Twice.
+U|s|*|-|Normal. Nothing to say.
+
+## personal_details
+P|m|*|clear|The questions made sense. Name, ID, where I live, what I do. Nothing strange.
+P|r|low|clear,guided|I liked that when I typed my ID number it said "great, we got your date of birth from that". So it's not asking me things it already knows. My old bank form made me write everything twice.
+P|s|high|autofill|Most of it was filled already. Just checked it.
+P|m|old|large_text,simple|One question per page. Big boxes. That's how it should be for people like me.
+U|m|*|-|Long but okay. I understand the bank must know who I am.
+U|m|*|too_much_info|Some questions I didn't see why. Like "how many people live with you". I answered anyway.
+U|m|informal|employment_mismatch|It assumes everybody has a job with a boss. I'm a hairdresser at home. I chose "self-employed" and it didn't argue, so fine.
+U|r|*|address_format|It asked for the suburb and the city. My place is in a township, and on Google it's under a different name. I put the one on my municipal account. I hope that's the right one.
+N|m|*|keyboard|For the phone number it gave me the keyboard with letters. I had to switch to numbers every time. Small thing but irritating.
+N|m|*|retype|My ID number, then my ID number again to "confirm". If I typed it wrong the first time I'll type it wrong again.
+N|m|low|unclear_words|"Residential address" and "postal address". I don't have a post box. Must I write the same thing twice?
+N|r|lowinc|too_much_info,trust_doubt|It asked about my monthly expenses, my rent, how much I spend on food. That's my business. I'm opening a normal account, not applying for a house. It made me feel like they're checking if I'm poor.
+N|s|*|error_unclear|Red box. No reason.
+N|m|*|lost_progress|I went to WhatsApp to copy my address from a message. When I came back, the page was empty again.
+
+## id_capture
+P|r|*|guided,good_errors|I was ready for it to fail because my phone is cheap, but it worked on the second try. The first time it said "too dark, move closer to the light". I went to the kitchen. Done.
+P|m|old|guided|My grandson said these things are difficult, but this one I did myself. Put the ID in the box, it clicks. Easy.
+P|s|*|quick|ID scan worked first time.
+P|m|young|quick|Smart ID, front, back, done in like thirty seconds. Whoever built that part did a good job.
+U|m|*|camera_fail|It took four or five times. Not the end of the world, but my arm was tired.
+U|m|*|-|It worked. I don't know what it checked but it said okay.
+U|r|old|old_id|I have the green ID book. It took it, but only after I flattened the page with a heavy book because it was bent. You learn tricks.
+N|r|feature|device_limit|My phone doesn't have a good camera. The picture always comes out with lines. I asked my neighbour to use hers, then the app said this phone is not registered to me. Round and round.
+N|m|*|camera_fail,error_unclear|It just said "try again". It didn't say what's wrong. Too dark? Too far? I was guessing.
+N|m|*|camera_fail|It wanted the picture inside a small box and my hands are not steady. Every time I got it in the box it moved again.
+N|s|prepaid|data_heavy|Uploading the photos used a lot of data.
+
+## selfie
+P|r|*|guided,quick|I was worried about the selfie because my friend said it failed for her many times. For me it worked straight away. It said "look straight", then "turn left", and it was finished. I don't know what she was doing.
+P|m|low|guided|There was a voice telling me what to do. I didn't have to read. That helped a lot.
+P|s|high|quick|Face scan, one go. Clean.
+U|m|*|-|The face thing is strange, but okay, everyone does it now.
+U|m|*|camera_fail|Second time it worked. The first time I was smiling and it didn't like that.
+U|r|parent|interruptions|I had to wait for the baby to sleep before I could do it, because she wants to be in every picture. Once she was asleep it was fine. But it's not something you can do on the go.
+N|m|old|camera_fail|It wanted me to move my head and blink at the same time. At my age, I can do one thing at a time.
+N|r|*|wait_unclear,camera_fail|After the selfie the screen said "hold on, we're checking" and then nothing. No yes, no no. I waited, I pressed back, it started the selfie again. I did the selfie three times in total and I still don't know if it worked or not.
+N|m|*|trust_doubt|Why video? A photo I understand. Video of my face feels like too much.
+N|s|*|camera_fail|Selfie failed. Again and again.
+
+## otp
+P|m|*|quick,clear|The SMS came in two seconds and the code was big in the message. Easy to copy.
+P|s|old|clear|SMS came. I typed it. Okay.
+U|m|*|otp_confusing|It gave me 60 seconds to enter the code. I'm slow with typing and I made it with like five seconds left. Bit stressful.
+U|s|*|-|OTP fine.
+N|m|*|otp_fail|It said "too many attempts" after two tries. Two!
+N|r|lowinc|otp_fail,no_airtime|The code didn't come. It said press here to get a call instead. I pressed it, my phone rang, and it was a robot reading numbers very fast in English. I got four of the six numbers. Then I had to do it all again.
+N|m|*|otp_fail|I had no signal inside the house. So the code came when I was outside, but the app had already timed out inside.
+
+## proof_of_address
+P|m|*|doc_alternative|It let me just say "I live here" and sign on the screen. No paper. That was the best part for me.
+P|r|informal|doc_alternative|I was scared for proof of address because I don't have anything in my name. But it asked me to type the address and then it said it will check with my cell number details. It went through. I don't know how but I'm happy.
+P|s|*|simple|Uploaded the bill. Done.
+U|m|female|doc_burden|I had a bill but it was in my husband's name. I uploaded it anyway and it took it. I don't know if someone will check later.
+U|m|grant|doc_burden|I used the SASSA letter because it has my address. I wasn't sure it would work. It worked.
+U|r|*|hidden_info|I didn't have the bill on my phone, so I had to go to the municipality website and download it. That site is slow. Took me longer than the whole bank app. Not the bank's problem, but still.
+N|m|young|doc_burden|I live in res. I don't have any bill. Nobody my age has a bill.
+N|m|rural|doc_burden,address_format|We get our water bill at the tribal office. It's handwritten. The app said the document is not valid.
+N|r|parent,lowinc,female|doc_burden|I went to the police station for the affidavit like it said. The queue was long, I had my baby on my back, then the officer said come back tomorrow, the commissioner is not here. That's one day of my life just for this.
+N|s|*|doc_burden|No bill in my name. Stuck.
+
+## employment_income
+P|r|informal|relevant|There was an option "I earn money from selling or doing jobs". Finally somebody thought of us. It asked roughly how much in a good week and a bad week. That's how my money works.
+P|m|young|clear|Picked "student", it didn't ask for a payslip. Good.
+P|s|*|quick|Two questions. Fine.
+U|m|grant|-|I chose "SASSA grant" and it was fine. I wish it didn't ask though, it's like they want to see I'm poor.
+U|m|*|unclear_words|"Gross" or "net" income? I put what I get in my hand.
+U|r|prof|-|I get a salary and I also do side jobs on weekends. It only allowed one source. So I just put my salary, which isn't the full picture, but okay.
+N|m|working|doc_burden|It wanted a payslip, but my boss pays me in cash. No payslips.
+N|m|*|no_back|I chose the wrong job type and couldn't change it. There's no back. I had to start again.
+
+## product_choice
+P|r|lowinc|clear,fee_upfront|There was one that said R0 monthly fee, and it said what costs money: cash withdrawals at the ATM. I can draw at Shoprite for free instead. So I took that one. Simple.
+P|m|*|simple|It recommended one for me based on what I said before. I took it. Didn't want to compare.
+U|m|*|-|I chose the first one. I didn't read the others.
+U|m|young|-|They all look the same to me. I just want the one with the cheapest fees and the card that looks nice.
+N|m|*|cluttered|Little cards with lots of ticks and crosses. I don't know what the ticks mean.
+N|r|old|jargon,too_much_info|It said "unlimited swipes", "Mzansi", "eBucks"... I don't know these things. At the branch you tell the lady, "I want an account for my pension" and she gives you one. Here you must choose like it's a menu.
+
+## fees
+P|m|old|fee_upfront,large_text|The fee was written big: R5 per month. That's honest.
+P|s|*|fee_upfront|Fees were clear.
+U|m|*|-|I looked at the fees but they're like all the banks. I didn't compare.
+U|m|grant|fees_unclear|It says free for the first three withdrawals. Then what? What's the fourth one?
+N|m|*|fees_unclear|There's a fee for SMS notifications. You charge me to tell me you charged me?
+N|r|lowinc|fees_unclear|It said "from R0". "From" means it can be more. I don't trust "from". Just tell me what I will pay, me, with my small money.
+
+## consent_terms
+P|m|low|clear|It had a "summary" with simple points, like "we will check your info with Home Affairs". I understood that.
+U|s|*|-|Ticked, next.
+U|m|young|skipped|Who reads that? I scrolled to the bottom, ticked, moved on.
+N|m|*|too_much_info|It made me scroll all the way down before the button works. Like forcing me to "read". I didn't, I just scrolled.
+N|m|old|small_text|The writing in the terms is so small, even with my glasses.
+
+## account_ready
+P|r|grant|confirmation_clear|It gave me the account number and a letter I can take to SASSA to change where my grant goes. I didn't even know I needed that. That saved me a trip.
+P|m|*|confirmation_clear,quick|"Congratulations, your account is open" with confetti. Haha, a bit much, but I was happy.
+P|s|*|confirmation_clear|Account open. Card coming. Good.
+U|m|*|wait_unclear|It said done, but my balance shows R0 and I can't do anything until the card comes. So, done but not done.
+U|r|informal|-|The account is open. Now I must get my customers to pay me on it instead of cash. That's the hard part, not the app.
+N|m|*|card_collection|It wants me to collect the card at a branch. The whole point of the app was not going to the branch.
+N|m|*|navigation|It finished and dropped me on the home screen. Where's my account number? Took me a while to find it.
+
+## eft_payment
+P|m|*|repeat_payment,quick|I pay the crèche every month. Now it's saved and I just press it on the first. Done in seconds.
+P|r|old|confirmation_clear,large_text|My son set it up for me to pay my funeral policy. Now I go in, press the name, see the amount, and press pay. Big green button. It says "paid" with the date. I can show my son if he asks.
+P|s|*|quick|Paid. Easy.
+U|m|*|-|Paying is the same as all apps. Nothing new.
+U|m|*|wait_unclear|It says "money will reflect in 2 hours". I paid at 4pm, so I guess tomorrow.
+N|m|*|retype|Every time I must type the reference again. It's the same reference every month.
+N|r|*|scam_fear,confirmation_missing|I paid someone for a fridge on Facebook. The app didn't warn me anything. Now he's gone, and the bank says I authorised it. Maybe the app must ask "do you know this person?" for new people.
+N|m|lowinc|fees_unclear|R2.50 for every payment. When I pay five people, that's R12.50. I'd rather draw and pay cash.
+N|s|*|error_unclear|"Payment failed". Then the money was gone anyway.
+
+## bills_airtime
+P|m|*|quick|Data in three taps. That's the only thing I use every day.
+P|m|old|saved_meter|My meter number is saved. I just put the amount. Before I had to call my son to read me the number.
+U|s|*|-|Airtime works.
+U|m|prepaid|-|I buy data here sometimes, sometimes at the shop. Same price.
+N|m|*|electricity_fail|The token came with no units, just a message "contact your municipality". Contact who? It's Saturday.
+N|m|*|navigation|I wanted to buy a Lotto ticket... I mean, a bundle, and it showed me everything except data. It's under "prepaid", not under "data".
+
+## navigation
+P|m|old|simple|Only big buttons on the main page. I don't get lost.
+P|m|high|search|There's a search. I typed "statement" and there it was. That's how all apps should work.
+U|m|*|-|I find what I need. It took a few days to learn where things are.
+U|r|low|navigation|At first I didn't know the little house at the bottom means "go back to the start". My daughter showed me. Now I use it all the time. But nobody tells you that.
+N|m|*|navigation|Too many tabs at the bottom. Five little pictures, no words. I don't know what the one with the circles means.
+N|s|*|navigation|Couldn't find it. Asked my son.
+
+## language_words
+P|m|*|clear|It says things like "You're nearly done" and "This takes 2 minutes". Normal talk. I liked that.
+U|m|*|language|It's only English, but the English is simple. So okay.
+N|m|*|jargon|"Insufficient funds". Just say "you don't have enough money".
+N|m|old|jargon|"Swipe up to authenticate". What must I swipe? Where?
+N|r|low|jargon,unclear_words|The account page says "available balance R120, current balance R340". Which is my money? I went to the shop thinking I have R340 and the card was declined in front of everyone. I felt so small.
+
+## speed_data
+P|m|*|quick|Opens fast. I check my balance standing in the queue, takes a second.
+P|r|prepaid|data_free|I saw it doesn't use my data. That changed everything for me. Before I only checked my balance at the ATM, and paid R10 to see the balance. Now I check as many times as I want.
+U|m|*|-|Speed is okay. My phone is slow anyway, so I can't really blame the app.
+N|m|*|slow|Every morning the app wants an update. Wait for the update, then log in, then wait again.
+N|m|prepaid|data_heavy|It's 200MB. My whole phone is full. I had to delete pictures of my kids to install it.
+
+## errors_recovery
+P|r|*|good_errors|At one point it said "we couldn't verify your ID right now, it's not your fault, Home Affairs is slow. We saved everything, we'll send an SMS when you can continue." And they did, the next morning. That's how to do it.
+P|s|*|saved_progress|It kept my stuff when it crashed. Good.
+U|m|*|-|One error, but it explained, and the second time it was fine.
+N|m|old|error_unclear|A red message came and went too fast. I didn't finish reading it.
+N|m|*|blame|"You have entered incorrect details." I didn't. I checked. It made me feel stupid.
+N|r|*|error_unclear,no_human|The error had a number, "ERR-503". I googled it and found some American website. Then I phoned the call centre and the lady didn't know what it means either. Who is this error for?
+
+## security_trust
+P|m|*|feels_safe|It showed me "you're logged in on one device: this phone". That's nice, I know nobody else is in my account.
+P|r|scam_fear|feels_safe|After my bad experience last year, I like that it asks for my face before a big payment. If someone steals my phone they can't empty my account. I sleep better knowing that.
+U|m|*|trust_doubt|It says it's safe. I don't know how they know. I just have to believe.
+U|s|*|-|Security is fine.
+N|m|*|too_much_security|It logs me out every two minutes. I go to WhatsApp to check a number and come back, logged out.
+N|m|old|scam_fear|There was a message with a link, saying from the bank. Then in the app there was the same message. I don't know which one is real anymore. I didn't click either.
+
+## help_support
+P|r|low|helpful_help,no_human|There's a button "talk to us" and it opened WhatsApp with the bank. A lady answered in my language. She told me step by step. I didn't need to go to the branch, which saved me R40 in taxi money.
+P|m|*|helpful_help|The help page answered my question. That's rare.
+U|m|*|-|I didn't look for help. If I get stuck I ask my sister.
+N|m|*|no_human|The robot kept saying "I didn't understand, please rephrase". I don't know how to rephrase "my money is gone".
+N|m|*|no_human|The call centre number is not free. With my airtime I can't wait on hold.
+
+## look_feel
+P|m|*|nice_look|Clean. Not too many colours. Looks like a bank you can trust.
+P|m|old|large_text|Big letters, big buttons. Thank you.
+U|m|*|-|It looks okay. I don't really care about the look, I care if it works.
+N|m|*|cluttered|Banners, pop-ups, "did you know"... I closed three things before I could see my balance.
+N|m|*|low_contrast|Light grey on white. In the sun I can't see anything.
+
+## overall
+P|r|old|-|I didn't think I could do this alone at my age. But I did. My granddaughter is going to be surprised. I'd still like a phone number to call if I get stuck, but this time I didn't need it.
+P|r|informal|-|For somebody like me who sells, I didn't think the bank cares. But some parts were made for people like me. Not everything. But it's a start. I'd try it.
+P|m|young|-|Solid. Quick enough, clear enough. I'd recommend it to my friends.
+P|m|grant|-|It was okay for me. I'm happy I can get my money without standing in the long line at the pay point.
+P|m|*|-|Easier than I expected. I'll keep it.
+P|s|*|-|Happy with it.
+U|r|*|-|Half of it was good and half was a problem. The questions were okay, the picture parts were a struggle. I'd give it a six out of ten. If they fix the camera part, maybe eight.
+U|m|old|-|I did it with help. I don't think I could do it alone. But with help it's okay.
+U|m|*|-|It's alright. I wouldn't change my bank for it, but it's alright.
+U|m|foreign|-|For me, not from here, it's always the papers. The app itself is fine. The rules are the problem.
+U|s|*|-|Okay. Nothing special.
+U|m|*|-|Honestly I don't remember most of it. It was a few screens. It worked in the end.
+N|r|lowinc|-|It's for people who have time, data and the right papers. I have none of those. I'll keep my money in the SASSA card and the stokvel like before.
+N|r|*|-|I wanted it to work. I tried twice. Both times something broke in the middle. I'm not trying a third time. If somebody calls me and helps me, maybe.
+N|m|high|-|It works but it's clunky. Too many screens for things that should be one screen. Other banks are ahead.
+N|s|*|-|Too much hassle.
+
+## masked
+U|m|*|masked|It was okay, just a bit long. I'll go back and finish.
+P|m|*|masked|No, it's a nice app. I just got busy.
+U|s|*|masked|It's okay. I'm just slow.
+U|m|old|masked|It's good for young people. Me, I'm too old for these things, it's not the app.
+
+## suggestion
+U|s|*|none|Not sure. It's fine.
+U|s|*|none|Nothing, just make it work every time.
+N|m|*|camera_fail|Let me upload a picture I already have instead of taking it live.
+N|m|*|doc_alternative|Let me finish the account and bring the papers later.
+N|m|*|slow|Make it faster. Less loading.
+N|m|*|trust_doubt|Explain why you need each thing. Then I won't feel scared to give it.
+N|m|*|card_collection|Deliver the card or let me get it at Pep or Shoprite, not only the branch.
+N|m|*|employment_mismatch|Have a choice for people who sell or do piece jobs.
+N|m|*|unclear_words|Put a little "what does this mean" next to the hard words.
+N|m|old|small_text|Let the writing be big like the rest of my phone.
+N|m|foreign|doc_burden|Let us use a passport or an asylum paper. We also need banks.
+N|m|*|retype|If you already have my details from the ID, don't ask again.
+P|m|*|-|Don't change too much. It's fine as it is.
+N|m|*|wait_unclear|Tell me what happens next after I finish, and when.
+
+## addon_lead
+*|m|*|-|I'll be honest with you.
+*|m|old|-|At my age, these things don't come easily.
+*|m|young|-|I'm on my phone all day, so I notice these things.
+*|m|grant|-|My grant is my only money, so I'm careful with it.
+*|m|working|-|I was on my way to work, so I was rushing.
+N|m|*|-|I had already wasted a lot of time by then.
+*|m|treasurer|-|I'm the one who handles the stokvel money, so I look at everything.
+*|m|*|-|My friend told me about it, so I tried it.
+
+## addon_tail
+N|m|*|-|It's not hard to fix, honestly.
+N|m|lowinc|-|When you have little money, every small thing counts.
+N|m|grant|-|People like me don't have extra money for data and taxis.
+P|m|*|-|Whoever made that part, they thought about it.
+P|m|grant|-|For somebody like me, that's important.
+U|m|*|-|Not great, not terrible.
+U|m|*|-|I'll see.
+*|m|*|-|Anyway.
+
+## stokvel_setup
+P|r|member,female|simple,relevant|Our chairlady sent the link on WhatsApp. I clicked, put my ID number, and it showed "Masakhane Ladies, 14 members". My name was already there because she added it. I just said yes. Easier than I thought.
+P|m|member|feels_safe|I liked that it showed who the treasurer and chairlady are, with their pictures. So I knew it's our group and not some scam.
+P|m|treasurer|simple|I added all our members from my contacts. It took maybe fifteen minutes. The rest they did themselves.
+U|m|member|-|Joining was fine. The real test is if the money comes when it's my turn.
+U|r|treasurer|doc_burden|We had to choose between a "registered" group and a "simple" group. Simple was quick, but then the limit is lower. We save R60,000 a year together, so we needed the other one, and that one wanted the papers. We're still busy with the papers.
+U|m|member|trust_doubt|Some of the older ladies don't want to be on the app. They say they want to see the money. We'll see if they come around.
+N|m|treasurer|too_many_steps|Every member must be approved by me one by one. With twenty members that's twenty times the same thing.
+N|m|member|unclear_words|It asked if I'm a "beneficiary" or a "signatory". I'm a member. Those words are not stokvel words.
+N|r|treasurer|approval_burden|The bank wants three signatories. In our group nobody wants to be a signatory, because they think if money goes missing they'll be blamed. It took us two meetings to get three people. The app made it sound like a quick click.
+N|s|member|trust_doubt|I don't like that the bank sees our stokvel money.
+
+## stokvel_contributions
+P|m|member,grant|payment_timing|I can choose to pay on the 4th, after my grant comes. That's important for me. I'm never late now.
+P|m|member|quick|Paying the stokvel is like paying anybody. Pick the group, the amount is already there, pay. Two taps.
+P|r|treasurer|reconciliation,confirmation_clear|Every time someone pays, I get a message: "Thandi paid R500 for June". By the 5th I can see who's still outstanding and I send them a reminder from the app. Before, I was calling people and it caused bad feelings. Now the app is the bad guy, not me.
+U|m|member|cash_gap|I still pay cash to the treasurer, and she puts it on the app. It's fine as long as she does it.
+U|s|member|-|I pay, it shows. Okay.
+N|m|member|fees_unclear|I pay R300, but R6 goes to fees. So in a year I paid R72 just to pay my stokvel. Nobody told us that.
+N|r|member,informal|cash_gap|My money is cash from selling. To pay the stokvel on the app, I must first go deposit at the ATM, which charges me, then pay from the app, which charges me again. With the old way I just give my cash at the meeting. The app made it more expensive for me.
+N|m|treasurer|reconciliation|When two people pay the same amount on the same day with no name, I can't tell who's who. I still have to phone them.
+N|s|member|otp_fail|Every month it wants an OTP to pay the stokvel. It's the same payment.
+
+## stokvel_payout
+P|r|member,parent|clear,confirmation_clear|My turn was in January, perfect for school things. The money was in my account the morning of the 15th like it said. I didn't have to go fetch cash from anybody's house. I took the kids to buy uniform the same day.
+P|m|treasurer|simple|Doing the payout is easy now. I press approve, the second signatory gets a message, she approves, done. No more carrying cash.
+U|m|member|-|The payout came. A day late, but it came.
+U|m|member|wait_unclear|It said my payout is "scheduled". I didn't know what that means. Then it came the next day.
+N|m|treasurer|approval_burden|One signatory changed her phone and couldn't log in for two weeks. The whole group's payout was stuck because of one person's phone.
+N|r|member|limits|For the grocery stokvel we buy in bulk at Makro in December. The app has a daily limit, so the treasurer couldn't pay the whole amount at once. She had to split it over three days. On the last day the special was finished.
+N|s|member|fees_unclear|Less money came than I expected.
+
+## stokvel_records
+P|m|treasurer|reconciliation|At the end of the year I pressed "group statement" and it made a nice PDF with everyone's payments. I read it out at the meeting. Nobody argued.
+P|s|member|feels_safe|I can see everything. That's good.
+U|m|member|-|I only look at my own payments. The rest is the treasurer's job.
+U|r|treasurer|edit_records|Our rule is if you're late, you pay R50 fine. The app doesn't know about our fines. So I keep the fines in my notebook and the payments on the app. Two places. Better than before, but not finished.
+N|m|treasurer|navigation|To see who paid in March I must go month by month. I want one page with everyone and all the months, like my notebook.
+N|m|member|trust_doubt|When the treasurer took out money for the funeral, it didn't say what it was for. Just "withdrawal R5,000". Now people are talking.

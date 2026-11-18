@@ -1,0 +1,10 @@
+{
+ "name": "Stokvel group account - concept A",
+ "audience": {"stokvel_member": "Yes"},
+ "steps": [
+  {"name": "1. Join or create the group", "topic": "stokvel_setup", "issues": {"doc_burden": 2, "cross_bank": 2, "device_limit": 1}, "strengths": ["relevant", "feels_safe"]},
+  {"name": "2. Monthly contribution", "topic": "stokvel_contributions", "issues": {"payment_timing": 2, "fees_unclear": 1, "reconciliation": 2}, "strengths": ["reminder", "confirmation_clear"]},
+  {"name": "3. Payout", "topic": "stokvel_payout", "issues": {"approval_burden": 2, "wait_unclear": 1}, "strengths": ["clear"]},
+  {"name": "4. Group records", "topic": "stokvel_records", "issues": {"edit_records": 2}, "strengths": ["reconciliation", "feels_safe"]}
+ ]
+}

@@ -1,0 +1,7958 @@
+[
+ {
+  "id": "registration-001",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_heavy"
+  ],
+  "text": "The app is big. I started downloading it at home and it finished almost my whole {data_amount} bundle before it even opened. Then it wanted an update straight away. I didn't even get to see what it does yet.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-002",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "feature"
+  ],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "My phone can't take apps. The lady at the branch said I must just download it. I told her, with what?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-003",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_many_steps"
+  ],
+  "text": "It asked me to make a username, then a password, then a PIN, then another PIN for the app. Why four things? I'm going to forget at least two of them.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-004",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "error_unclear",
+   "hidden_info"
+  ],
+  "text": "The password rules only came up after I got it wrong. Eight letters, a capital, a sign... why not tell me before I start typing? I tried three times and then it said I must wait.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-005",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "Downloading was fine. Signing up took me long, maybe {minutes}, because I had to go find my ID in the drawer. Not really the app's fault.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-006",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "It was quicker than I thought. I put my number, got the SMS, and I was in. I was expecting a whole long story.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-007",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "guided",
+   "large_text"
+  ],
+  "text": "My granddaughter helped me with the first part but after that I did it myself. The writing is big enough and it tells you one thing at a time. It didn't rush me, that I liked.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-008",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text"
+  ],
+  "text": "The letters are too small for me. I had to take off my glasses, put them back. Some of the buttons I didn't even see they were buttons.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-009",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "It's okay. Normal app stuff.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-010",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "crash",
+   "lost_progress"
+  ],
+  "text": "It closed by itself twice when I went out to check my SMS. Each time, back to the beginning.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-011",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Smooth, honestly. Fingerprint setup was one tap. I've seen worse from banks.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-012",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "slow"
+  ],
+  "text": "For a bank app now it feels slow. Every screen loads like it's thinking about it. Same phone, {other_bank} opens faster.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-013",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "I wasn't sure if it's the real app because there were two that looked the same in the store. I checked the reviews first. Maybe put something that shows this is the real one, because people get scammed like that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-014",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "It said \"create your profile\". I didn't know if that's the same as opening an account or something else. I just pressed next.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-015",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "Easy. Didn't need help.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-016",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "After I registered it took me to a screen with lots of things and I didn't know what to press to actually open the account.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-017",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [],
+  "text": "It works. Nothing special, nothing bad. I just wanted it done so I could get my money in.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-018",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "guided",
+   "clear"
+  ],
+  "text": "I'm not good with phones but this one I managed. Every page had one question only. When I made a mistake it showed me where, in red. I didn't have to call {family}.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-019",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "prepaid",
+   "rural"
+  ],
+  "tags": [
+   "slow",
+   "network"
+  ],
+  "text": "Where I stay the network comes and goes. Every time it dropped, the app said \"something went wrong\" and I had to start again. I tried in the morning, I tried at night. In the end I went to town to use the wifi at the mall.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-020",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "Registering was easy until it asked for my ID number. I don't have a South African ID. There was no place for a passport, so I stopped there.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-021",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "too_many_steps"
+  ],
+  "text": "Too many screens just to say hello.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-022",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "I liked that it sent an SMS to check it's me. It makes me feel it's not just anybody who can open in my name.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-001",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "retype"
+  ],
+  "text": "I typed my name, surname and ID number, and then two screens later it asked for my surname again. Then my date of birth, which is already in the ID number. Don't you have it already?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-002",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "There was a question \"marital regime\" or something like that. I didn't understand it. I chose the first one.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-003",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Normal questions. Name, address, email. It's long but I understand why the bank wants it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-004",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "no_email"
+  ],
+  "text": "It wanted an email address and I don't have one. I made one quickly on Gmail but now I don't remember the password for that either.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-005",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "autofill"
+  ],
+  "text": "It already filled my name and birthday from the ID. I just checked and pressed next. That was nice.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-006",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "rural"
+  ],
+  "tags": [
+   "address_format"
+  ],
+  "text": "My address doesn't fit the boxes. We don't have a street number at home, it's a stand number and the village name. It kept saying invalid address. I ended up putting my aunt's address in town.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-007",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "cluttered"
+  ],
+  "text": "One page had like ten boxes. On a small phone that's a lot of scrolling and I missed one, so it shouted at me in red at the bottom.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-008",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Fast. Just the basics.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-009",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "too_much_info"
+  ],
+  "text": "Why does it need to know my race and my marital status just to open an account? I answered, but I don't like it. Maybe say why you need it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-010",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text",
+   "keyboard"
+  ],
+  "text": "The keyboard covered the box I was typing in, so I couldn't see what I was writing. I just hoped it was right.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-011",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "clear",
+   "examples"
+  ],
+  "text": "I liked that it showed an example under each box, like \"e.g. 0821234567\". I always get confused about putting the 0 or the 27. This time I knew.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-012",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "It said \"invalid\" but not what's wrong.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-013",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "informal"
+  ],
+  "tags": [
+   "employment_mismatch"
+  ],
+  "text": "It asked for my employer's name. I don't have an employer, I sell. I wrote \"self\" and it went through, so I guess it's fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-014",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "lost_progress"
+  ],
+  "text": "I was halfway when a call came in. When I came back everything I typed was gone. I swear I nearly threw the phone. I did it again but only because I really need the account.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-015",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "saved_progress"
+  ],
+  "text": "I left it in the middle to cook and when I came back it was still there where I left. That I didn't expect.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-016",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Just forms. Fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-017",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "It only accepts a 13-digit ID. My permit number has letters, so it won't take it. There's no other option.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-018",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "parent"
+  ],
+  "tags": [],
+  "text": "I did it while the kids were busy. It's long but at least I could stop and start.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-001",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "It kept saying \"image unclear, try again\". I tried by the window, I tried with the light on, I put the ID on a white page. Like eight times. At the end I gave up and tried again the next day and it worked first time. I don't know what changed.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-002",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "camera_fail",
+   "old_id"
+  ],
+  "text": "My ID is the green book. It's old and the photo page is a bit faded. The app couldn't read it. Must I go to Home Affairs just to open a bank account?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-003",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "quick",
+   "guided"
+  ],
+  "text": "The frame on the screen showed me exactly where to put the card. It took the picture by itself. Easy.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-004",
+  "topic": "id_capture",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It took three tries but it worked. The first ones my hand was shaking.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-005",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "feature"
+  ],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "My phone camera is not good. Everything comes out blurry. I had to use {family}'s phone for the picture.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-006",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "quick",
+   "feels_safe"
+  ],
+  "text": "I liked that it scanned the Smart ID front and back and then checked it with Home Affairs straight away. I got a tick within seconds. That's how it should work.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-007",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "The camera part took forever.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-008",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_heavy",
+   "slow"
+  ],
+  "text": "Each time it uploaded the photo it took long and I could see my data going down. Then it failed and I had to take it again and upload again. I felt like I was paying the bank to open the account.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-009",
+  "topic": "id_capture",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "hidden_info"
+  ],
+  "text": "I wasn't sure if it wanted the front only or the back as well, so I took both. Then it asked again for the back. Maybe tell me upfront: front, then back.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-010",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "There's no option for a passport. Only SA ID, green ID or Smart ID. So what do people like me do?",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-011",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "Took a picture, done.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-012",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "It said \"document not supported\". My Smart ID is new. Not supported how?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-013",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "guided"
+  ],
+  "text": "I was scared for this part but it told me \"hold still\" and it just took it. I didn't even have to press.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-014",
+  "topic": "id_capture",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "I don't like taking photos of my ID on an app. You hear about people's IDs being used for loans. But it's a bank, so okay.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-015",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "camera_fail",
+   "lighting"
+  ],
+  "text": "At night in my room there's only one globe, so the picture had a shine on the card and it kept rejecting. It never said it's the light. I only figured it out because {family} told me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-016",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "good_errors"
+  ],
+  "text": "When it didn't work it told me \"move away from the light, the card has a reflection\". I moved and it worked. At least it told me why.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-017",
+  "topic": "id_capture",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [
+   "young"
+  ],
+  "tags": [],
+  "text": "Fine. Standard ID scan.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-018",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "crash"
+  ],
+  "text": "The app froze on the camera screen. I had to close it and the whole thing started from the beginning.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-001",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "camera_fail",
+   "unclear_instructions"
+  ],
+  "text": "The selfie part, eish. It said blink, then turn your head, then smile. I did it and it said \"liveness check failed\". I don't even know what that means. I tried five times, then I stopped.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-002",
+  "topic": "selfie",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "The selfie was quick. I just looked at the camera and it did its thing.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-003",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "I'm not used to taking pictures of myself. My hands shake. By the time I was in the circle it said time's up.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-004",
+  "topic": "selfie",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "I did it but I'm not happy about a bank having my face. Where does that picture go after?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-005",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "It says my face doesn't match my ID. The ID photo is from when I was 16! Of course I look different.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-006",
+  "topic": "selfie",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "guided",
+   "clear"
+  ],
+  "text": "I liked that it showed a little picture of what to do first, like a cartoon person turning their head. So when it was my turn I already knew. My first time doing this, and it worked.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-007",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "Face thing didn't work. Tried a lot.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-008",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "parent"
+  ],
+  "tags": [
+   "interruptions"
+  ],
+  "text": "My daughter kept walking into the camera because she wanted to see. Then the dog barked and I turned. It failed every time I moved even a little. You need a quiet room for this thing, and in my house there isn't one.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-009",
+  "topic": "selfie",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "The face scan worked the second time. First time I had my cap on, my mistake.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-010",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "feature"
+  ],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "The front camera on my phone is very bad. I had to borrow {family}'s phone, then the app said it's a new device and wanted the SMS again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-011",
+  "topic": "selfie",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Face check done in seconds. Nice.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-012",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "After the selfie it said \"verifying\" for very long. I didn't know if I must wait or if it was stuck. I waited ten minutes and closed it.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-013",
+  "topic": "selfie",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "female"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "It said \"please ensure adequate lighting and remove accessories\". I took off my earrings, but I didn't know if my doek counts. Then I took that off too just to be safe.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-014",
+  "topic": "selfie",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "good_errors"
+  ],
+  "text": "When it failed it told me \"try again with your face closer\". The second time it was fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-015",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "scam_fear"
+  ],
+  "text": "Last year someone opened accounts using my name. Now an app wants my face? I want to do this in a branch, with a person.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-001",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "rural",
+   "prepaid"
+  ],
+  "tags": [
+   "otp_fail",
+   "network"
+  ],
+  "text": "The OTP took more than five minutes to come. By the time it came the app said it expired. I pressed resend and the same thing. Where I stay the network is bad in the evening. Third time I went outside and stood by the gate and then it worked.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "otp-002",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "otp_fail"
+  ],
+  "text": "I asked for the code three times and then it said I'm blocked for 24 hours. I didn't even do anything wrong, the SMS just didn't come.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-003",
+  "topic": "otp",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "OTP came straight away. Good.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-004",
+  "topic": "otp",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "autofill"
+  ],
+  "text": "It read the SMS code by itself, I didn't even have to type it. That's nice.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "otp-005",
+  "topic": "otp",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "The OTP came, a bit slow, but it came.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-006",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "otp_confusing"
+  ],
+  "text": "I got two SMSes with two different codes and I didn't know which one is the right one. I used the first one. Wrong.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-007",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "feature"
+  ],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "My SIM is in the old phone and the app is on the other phone. So I was running between two phones to get the code.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-008",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "scam_fear"
+  ],
+  "text": "The SMS said \"never share this code with anyone\". Then the app asked me for the code. I stopped there because I thought, is this a scam? Only later {family} explained it's okay to put it in the app, just not tell a person.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-009",
+  "topic": "otp",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Normal OTP.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-010",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "otp_fail",
+   "no_human"
+  ],
+  "text": "It wanted the code sent to my old number. I don't use that number anymore and there was no way to change it in the app. I had to go to the branch.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-011",
+  "topic": "otp",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "clear"
+  ],
+  "text": "It told me \"we sent a code to 082... check your SMS\". So I knew exactly where to look. Some apps don't say.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-001",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "Proof of address is my biggest problem. The house is in my mother's name, the electricity is prepaid, so there's no bill. I rent a room, there's no lease. Where must I get proof of address from? I stopped there.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-002",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "informal"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "I don't have a bill in my name. Everything is in my landlord's name. I sell at the taxi rank, nobody gives me letters.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-003",
+  "topic": "proof_of_address",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "I had to go ask the councillor's office for a letter. It took two days but they gave me one. The app took it. Long story for one paper.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-004",
+  "topic": "proof_of_address",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_alternative"
+  ],
+  "text": "I liked that I could just type my address and say \"I live here\" without uploading a bill. That made it easy, because I don't have bills.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-005",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "hidden_info"
+  ],
+  "text": "It never said at the beginning that I'll need proof of address. If it did I would have got it ready. Now I'm stuck in the middle.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-006",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "They want proof of address but the landlord won't give me anything in writing because he doesn't want problems with SARS. So I can't open the account, and I can't get paid into an account. It's a circle.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-007",
+  "topic": "proof_of_address",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Uploaded my municipal account. Fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-008",
+  "topic": "proof_of_address",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "doc_alternative",
+   "clear"
+  ],
+  "text": "It said if you don't have a bill, you can use an affidavit from the police station, and it even showed what the affidavit must say. I went to the police station in the morning and finished in the afternoon.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-009",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "It wanted a PDF. My bill is paper. I took a photo but it said wrong format. How do I make a PDF on my phone?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-010",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_burden",
+   "date_rule"
+  ],
+  "text": "It said the bill must be less than three months old. Mine is from four months ago. Now I must wait for the next one.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-011",
+  "topic": "proof_of_address",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "parent"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "I used my child's school letter with my address. I wasn't sure it will work but it did. Lucky.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-012",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "Proof of address. That's where I stopped.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-001",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "informal"
+  ],
+  "tags": [
+   "employment_mismatch"
+  ],
+  "text": "It asked \"who is your employer\" and \"what's your monthly salary\". I sell vetkoek. Some days I make R400, some days R50. There's no box for that. I chose \"self-employed\" and then it wanted a company registration number.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-002",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "There was no option for SASSA. I had to choose \"other\" and then type it. It made me feel like my money is not real money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-003",
+  "topic": "employment_income",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "The income questions were simple. Just pick a range, not the exact amount. I liked that.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "employment_income-004",
+  "topic": "employment_income",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_much_info"
+  ],
+  "text": "It asked how much I earn and what I spend. I don't know what I spend exactly, I just guessed. I hope it doesn't matter.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-005",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "Why does a bank want to know my income for a normal account? I'm not asking for a loan.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-006",
+  "topic": "employment_income",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "prof"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Payslip upload, done.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "employment_income-007",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "It wanted three months of bank statements to prove my income. But the reason I'm opening the account is because I don't have a bank account. Where must I get statements?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-008",
+  "topic": "employment_income",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "employment_mismatch"
+  ],
+  "text": "I'm a student and I do deliveries on the side. I didn't know which one to choose. Student or self-employed? I chose student.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-009",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "salaried"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "\"Source of funds\" and \"source of wealth\"... are those not the same thing? I put salary in both.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-010",
+  "topic": "employment_income",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "clear"
+  ],
+  "text": "It had \"social grant\" as an option. That was nice, I didn't have to explain.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "employment_income-011",
+  "topic": "employment_income",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Answered. Nothing to say.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "employment_income-012",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "salaried"
+  ],
+  "tags": [
+   "retype"
+  ],
+  "text": "It asked my employer twice, once in the details and once here. Like nobody is reading.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-001",
+  "topic": "product_choice",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "too_much_info",
+   "cluttered"
+  ],
+  "text": "There were four accounts and each one had a list of things. I read them, I didn't see the difference. They all say \"free\" this and \"R5\" that. In the end I chose the one in the middle because I didn't want the cheapest, and I didn't want the expensive one.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-002",
+  "topic": "product_choice",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "It just asked me what I need it for, salary, saving or business, and then it showed me one account. Didn't have to compare.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-003",
+  "topic": "product_choice",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "I chose the free one. I hope it's really free. These things always have small costs later.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-004",
+  "topic": "product_choice",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "jargon"
+  ],
+  "text": "\"Monthly management fee\", \"pay-as-you-transact\"... I don't know these words. Just tell me how much it costs per month.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-005",
+  "topic": "product_choice",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "informal"
+  ],
+  "tags": [
+   "relevant"
+  ],
+  "text": "I liked that there was one for people who sell. It said I can see my sales and the money separate from my own money. That's exactly my problem at home, everything mixes.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "product_choice-006",
+  "topic": "product_choice",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "I chose one, then I wanted to go back and look at the other one again, and it took me back to the start.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-007",
+  "topic": "product_choice",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Picked the basic one.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-008",
+  "topic": "product_choice",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "The savings one had an interest rate but it didn't say what I'll actually get on, like, R500. Percent means nothing to me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-009",
+  "topic": "product_choice",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "prof"
+  ],
+  "tags": [
+   "clear"
+  ],
+  "text": "The comparison table was clear. I could see the fees side by side. Took me a minute to decide.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "product_choice-010",
+  "topic": "product_choice",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "I wanted to ask somebody which one is better for me but there was no one to ask. At the branch you can ask the lady. Here I'm alone with my phone.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-011",
+  "topic": "product_choice",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "upsell"
+  ],
+  "text": "It kept pushing the credit card. I said no twice and it asked again on the next page.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-001",
+  "topic": "fees",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "fees_unclear",
+   "hidden_info"
+  ],
+  "text": "The fees were at the bottom in small letters. I only saw them after. Cash withdrawal R10, notifications R1 each... for me R10 is a loaf of bread. These things must be at the top.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-002",
+  "topic": "fees",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "fee_upfront"
+  ],
+  "text": "It showed me straight away, \"this account costs R7.50 a month\". One number. That's all I wanted to know.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-003",
+  "topic": "fees",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "I'm scared of fees. My last bank took money every month and I didn't know for what. Here also I don't really understand.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-004",
+  "topic": "fees",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Fees look okay, same as other banks more or less.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-005",
+  "topic": "fees",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "Too many small fees. I can't follow.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-006",
+  "topic": "fees",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "fee_upfront",
+   "clear"
+  ],
+  "text": "It said I can draw my grant money for free at the shops. That's important to me because my grant is small and I don't want R10 taken every time.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-007",
+  "topic": "fees",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "The fee page is fine, but it would help if it said what I'd pay in a normal month based on what I do. Like an estimate.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-008",
+  "topic": "fees",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "jargon"
+  ],
+  "text": "\"Excluding VAT\"... so how much is it with VAT? Just give me the real number.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-001",
+  "topic": "consent_terms",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "skipped"
+  ],
+  "text": "I didn't read it. Nobody reads that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-002",
+  "topic": "consent_terms",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_much_info"
+  ],
+  "text": "It's like twenty pages. On a phone. I just scrolled down and ticked.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-003",
+  "topic": "consent_terms",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "scam_fear",
+   "trust_doubt"
+  ],
+  "text": "There was a box that said I agree they can share my information with \"partners\". Which partners? I don't want people calling me selling insurance. I ticked because it won't let me go further without ticking.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-004",
+  "topic": "consent_terms",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "I liked the short version with five points. I actually read those. The long one I didn't.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "consent_terms-005",
+  "topic": "consent_terms",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "I ticked everything. I don't know what I agreed to, honestly.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-006",
+  "topic": "consent_terms",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "forced_consent"
+  ],
+  "text": "The marketing tick was already ticked. That's sneaky. I unticked it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-007",
+  "topic": "consent_terms",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "Short and clear. Good.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-008",
+  "topic": "consent_terms",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "I asked my son to read it for me. He said it's normal. So I agreed.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-001",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "working"
+  ],
+  "tags": [
+   "confirmation_clear",
+   "quick"
+  ],
+  "text": "When it said \"your account is open\" with my account number right there, I was happy. I screenshot it and sent it to my boss the same day so I can get paid. That's what I needed.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-002",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "confirmation_clear"
+  ],
+  "text": "It showed my account number and a button to share it. Easy.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-003",
+  "topic": "account_ready",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "It said \"we're reviewing your application, we'll let you know\". It's been two days. I don't know if it's yes or no.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "account_ready-004",
+  "topic": "account_ready",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "card_collection"
+  ],
+  "text": "The account is open but the card I must go fetch at a branch. The nearest one is in town, R30 taxi there and back. So what's the point of opening on the app?",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-005",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "virtual_card"
+  ],
+  "text": "It gave me a card on the phone straight away. I could use it before the real card even comes. That's clever.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "account_ready-006",
+  "topic": "account_ready",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "It said \"pending\". Pending what? For how long? Must I do something?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "account_ready-007",
+  "topic": "account_ready",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Done. Account open.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-008",
+  "topic": "account_ready",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "confirmation_missing"
+  ],
+  "text": "It finished, but I never got an SMS or email that it's done. I didn't trust it until I checked the next day.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-009",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "confirmation_clear"
+  ],
+  "text": "At the end it told me exactly what happens next: card comes in 5 days, I'll get an SMS, I can collect at Boxer. I like when I know what happens next. I didn't have to phone anyone.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "account_ready-010",
+  "topic": "account_ready",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "After it said done, I couldn't find my account number again. I had to look all over the app.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-011",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Opened in like ten minutes. Not bad.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "beneficiary-001",
+  "topic": "beneficiary",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "too_many_steps",
+   "unclear_words"
+  ],
+  "text": "To add my landlord I needed the account number, the bank, the branch code and a \"reference\". He only gave me the account number on WhatsApp. I had to message him again and wait. By then I had forgotten what I was doing in the app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "beneficiary-002",
+  "topic": "beneficiary",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "quick",
+   "autofill"
+  ],
+  "text": "I just picked the bank and it filled the branch code by itself. I remember when you had to know the branch code. This is better.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "beneficiary-003",
+  "topic": "beneficiary",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "scam_fear"
+  ],
+  "text": "It added the person but I wasn't sure if the name is right. It doesn't show me the name of the account owner. What if I typed one number wrong and the money goes to a stranger?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "beneficiary-004",
+  "topic": "beneficiary",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "feels_safe",
+   "confirmation_clear"
+  ],
+  "text": "When I put the account number it showed \"account holder: T Mokoena\". That's my sister, so I knew it's correct. That made me relax, because I made a mistake once at another bank and never got that money back.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "beneficiary-005",
+  "topic": "beneficiary",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Adding someone took a bit but it's a once-off thing, so it's fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "beneficiary-006",
+  "topic": "beneficiary",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "\"Recipient reference\" and \"my reference\"... which one does the other person see? I always mix them up.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "beneficiary-007",
+  "topic": "beneficiary",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "otp_fail"
+  ],
+  "text": "It wanted an OTP just to add a person. Then another one to pay. Too much.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "beneficiary-008",
+  "topic": "beneficiary",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "I added my mother with just her cellphone number. Didn't need her account details. Nice.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "beneficiary-009",
+  "topic": "beneficiary",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "informal"
+  ],
+  "tags": [],
+  "text": "Most people I pay are not in a bank. So beneficiaries don't really help me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "beneficiary-010",
+  "topic": "beneficiary",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "I couldn't find where to add a new person. It's hiding under \"Transact\", then \"Pay\", then a plus at the top. Why not just \"Add person\"?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-001",
+  "topic": "eft_payment",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "quick",
+   "confirmation_clear"
+  ],
+  "text": "I paid my rent in like a minute. Choose the person, put the amount, it shows the summary, I confirm, done. And then it showed the proof of payment straight away so I sent it to the landlord on WhatsApp.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "eft_payment-002",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "The money left my account but the other person didn't get it until the next day. It never said it will take long. My landlord thought I was lying.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-003",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "It only told me there's a fee for immediate payment after I already pressed pay. R10 for my R{amount}? If I knew, I would have chosen the normal one. Show me the fee before, not after.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-004",
+  "topic": "eft_payment",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Paying is fine. I've done it many times on other apps, it's the same.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "eft_payment-005",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text"
+  ],
+  "text": "The confirm button is right next to cancel and both are small. I pressed cancel by mistake twice.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-006",
+  "topic": "eft_payment",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Fast. Easy. No complaints.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "eft_payment-007",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "limits"
+  ],
+  "text": "It said I'm over my limit. What limit? I never set a limit. And it didn't tell me how to change it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-008",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "fees_unclear",
+   "trust_doubt"
+  ],
+  "text": "Every time I pay it takes money for the payment. When you only have R{amount} you feel every rand. I've started taking out cash and paying people cash, it's cheaper.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-009",
+  "topic": "eft_payment",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "I liked that it said \"your money will arrive in 1-2 days\" before I paid. So I knew to pay earlier.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "eft_payment-010",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "crash"
+  ],
+  "text": "In the middle of paying the app said \"session expired\". Did it go or not? I had to call the bank to check.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-011",
+  "topic": "eft_payment",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [],
+  "text": "It works but it's a lot of taps for something I do every week. Let me save my rent payment and just press it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-012",
+  "topic": "eft_payment",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "repeat_payment"
+  ],
+  "text": "There's \"pay again\" next to last month's payment. I just pressed it. Took ten seconds.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-013",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "\"Transaction could not be completed.\" Why?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-001",
+  "topic": "bills_airtime",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Buying data is easy, three taps. I do it every few days so that matters.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-002",
+  "topic": "bills_airtime",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "electricity_fail"
+  ],
+  "text": "I bought electricity and the money went off but the token didn't come. I waited an hour. Meanwhile we're sitting in the dark. Then I got the token by SMS late at night. It never told me there's a delay.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-003",
+  "topic": "bills_airtime",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "saved_meter",
+   "quick"
+  ],
+  "text": "It remembers my meter number. Before I always had to go find the little card on the meter box outside. Now it's just \"buy again\". That's the thing I use the most.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-004",
+  "topic": "bills_airtime",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Airtime and data is fine. Same as everywhere.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-005",
+  "topic": "bills_airtime",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "cluttered"
+  ],
+  "text": "There are too many bundles to choose from. Daily, weekly, monthly, night, social... I just want normal data.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-006",
+  "topic": "bills_airtime",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "The token came with 20 numbers. I didn't know if I must type all of them in the meter. Spaces or no spaces?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-007",
+  "topic": "bills_airtime",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "Electricity in a minute. Good.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-008",
+  "topic": "bills_airtime",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "Where's electricity? I looked under \"Pay\" and it wasn't there. It's under \"Buy\". To me paying for electricity is paying.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "cash_send-001",
+  "topic": "cash_send",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "relevant",
+   "quick"
+  ],
+  "text": "I send money to my mother in Limpopo every month. She doesn't have a bank account. Here I put her number, the amount, and she gets an SMS with a PIN and she draws at Shoprite. It's cheaper than taking a taxi to go give her the money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "cash_send-002",
+  "topic": "cash_send",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "The fee for sending R200 was R10. That's 5 percent. It said it nowhere until the end.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "cash_send-003",
+  "topic": "cash_send",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "error_unclear",
+   "trust_doubt"
+  ],
+  "text": "My brother went to the till to draw the money and the cashier said the PIN is wrong. I checked, the PIN was right. He stood there with people behind him. It worked the second day. I don't know what happened and the app said nothing.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "cash_send-004",
+  "topic": "cash_send",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Cash send works. Nothing special.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "cash_send-005",
+  "topic": "cash_send",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [
+   "relevant"
+  ],
+  "text": "I can send money to my wife and she can draw it at the shop. Before I used a guy who charges a lot. This is cheaper.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "cash_send-006",
+  "topic": "cash_send",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "limits"
+  ],
+  "text": "There's a limit of R3,000. I wanted to send for school fees and I had to do it in two goes and pay two fees.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "cash_send-007",
+  "topic": "cash_send",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Sent in a minute. She got it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "payment_confirmation-001",
+  "topic": "payment_confirmation",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "confirmation_clear"
+  ],
+  "text": "The proof of payment opens as a picture and I can share it on WhatsApp. That's what everybody asks for, the POP.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "payment_confirmation-002",
+  "topic": "payment_confirmation",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "confirmation_missing"
+  ],
+  "text": "After I paid, it just went back to the home screen. No \"done\", nothing. I checked my balance to see if it really went.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "payment_confirmation-003",
+  "topic": "payment_confirmation",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "pop_format"
+  ],
+  "text": "The proof of payment is a PDF that only opens with some special app. My landlord on his old phone can't open it. I had to screenshot the screen instead and he said it's not proper proof.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "payment_confirmation-004",
+  "topic": "payment_confirmation",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Got the confirmation. Fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "payment_confirmation-005",
+  "topic": "payment_confirmation",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "confirmation_clear"
+  ],
+  "text": "It showed in big letters \"Payment successful\" with a tick and the amount. That's all I need to see.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "payment_confirmation-006",
+  "topic": "payment_confirmation",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "notification_spam"
+  ],
+  "text": "After I paid I got an SMS, an email and a notification all saying the same thing. One is enough.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-001",
+  "topic": "stokvel_setup",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "relevant",
+   "simple"
+  ],
+  "text": "Making our stokvel group on the app was easy. I put the name, how much each person pays, the day, and then it gave me a link to share on our WhatsApp group. By the evening nine of our twelve members had joined.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_setup-002",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "treasurer",
+   "female"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "To open the group account it wanted the constitution, minutes from a meeting, and IDs of three signatories. We are twelve ladies who've been doing this for eleven years with a notebook. We don't have minutes. It made us feel like we're not proper.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-003",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "The chairlady sent a link and said join. I didn't click straight away because these days links on WhatsApp are scams. I first phoned her to check.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-004",
+  "topic": "stokvel_setup",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Setting up took some time, but it's a once-off. We'll see how it works month to month.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-005",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "Two of our members don't have smartphones. They can't join the app. So now we're half on the app and half paying cash to me, which is worse than before.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-006",
+  "topic": "stokvel_setup",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "relevant"
+  ],
+  "text": "I liked that I could choose the rules: how much, which date, and the order of who gets paid out. It's like our notebook but on the phone.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_setup-007",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "It asked \"is the group a legal entity\". I don't know. We're a stokvel. Is that a yes?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-008",
+  "topic": "stokvel_setup",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "Joined. My sister did it for me.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_setup-009",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "cross_bank"
+  ],
+  "text": "I'm with {other_bank}. It wanted me to open an account at this bank to join. I don't want two banks just for the stokvel.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-010",
+  "topic": "stokvel_setup",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "What I liked is that the money goes into a group account and not into somebody's personal account. Last time our treasurer \"borrowed\" from the stokvel money.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_contributions-001",
+  "topic": "stokvel_contributions",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "confirmation_clear",
+   "feels_safe"
+  ],
+  "text": "When I pay my R{amount}, everyone in the group can see I paid. No more arguing at the meeting about who paid and who didn't. That used to cause fights in our stokvel, really.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-002",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "Paying in from my other bank costs me a fee every month. So now my contribution is more than everyone else's.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-003",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "member",
+   "lowinc"
+  ],
+  "tags": [
+   "payment_timing"
+  ],
+  "text": "My grant comes on the 3rd but the stokvel debit order goes off on the 1st. Two months now it bounced and I got charged for that too. I asked the treasurer to change the date and she says the app only allows one date for everybody.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-004",
+  "topic": "stokvel_contributions",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "reminder"
+  ],
+  "text": "It sends a reminder two days before I must pay. I forget easily, so that helps me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-005",
+  "topic": "stokvel_contributions",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "I pay on the app, it's fine. Some months I still give cash at the meeting when I don't have it on the phone.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_contributions-006",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "reconciliation"
+  ],
+  "text": "Some members pay by EFT with their own reference, like \"Mama T\" or \"stokvel\". The app doesn't know who it is. I still have to check every payment one by one.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-007",
+  "topic": "stokvel_contributions",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "reconciliation"
+  ],
+  "text": "It matches who paid automatically and shows me a list with ticks. The ones who didn't pay are in red. I used to spend a whole Sunday with my notebook.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-008",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "cash_gap"
+  ],
+  "text": "I sell at the market, so I have cash, not money in the bank. I have to go deposit it first and pay a fee for that, then pay the stokvel.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-009",
+  "topic": "stokvel_contributions",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "Paying works. Nothing to say.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_payout-001",
+  "topic": "stokvel_payout",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "relevant",
+   "clear"
+  ],
+  "text": "I could see when it's my turn for the payout, it's in August. I'm planning school uniform for my kids around that. It's nice to see it on the phone and not just remember what the chairlady said.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_payout-002",
+  "topic": "stokvel_payout",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "approval_burden"
+  ],
+  "text": "For the payout two of us have to approve on the app. The other signatory was in Durban with no data for a week. So the payout was late and the member was very angry with me, not with the app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-003",
+  "topic": "stokvel_payout",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "My payout said \"processing\" for three days. In December. Everybody needs their money in December.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-004",
+  "topic": "stokvel_payout",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "The December payout came on the day it said. Straight to my account. No standing in the bank queue with cash in my bag, which is dangerous.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-005",
+  "topic": "stokvel_payout",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "We still do the groceries the normal way. We just use the app to collect.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-006",
+  "topic": "stokvel_payout",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "When the payout came, there was less than I expected. There was a fee for the payout. Nobody told us.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-001",
+  "topic": "stokvel_records",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "reconciliation",
+   "clear"
+  ],
+  "text": "I can download a statement for the meeting with every member's payments. I printed it and everybody could see. People trust it more than my handwriting, haha.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-002",
+  "topic": "stokvel_records",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "navigation"
+  ],
+  "text": "I can't find the history of last year. It only shows six months. Our year runs from January to December.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-003",
+  "topic": "stokvel_records",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "edit_records"
+  ],
+  "text": "One member paid cash at the meeting. There's no way to add that on the app. So the app says she didn't pay and she's upset with me. Cash still happens, the app must allow that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-004",
+  "topic": "stokvel_records",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "I just check that my payment shows. I don't look at the rest.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-005",
+  "topic": "stokvel_records",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "I can see the balance but not what money went out and why. The treasurer can see more than us. That's not fair, it's all our money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-006",
+  "topic": "stokvel_records",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "Everyone can see the balance. It stopped a lot of the \"where's the money\" talk in our group.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-001",
+  "topic": "navigation",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "Everything is hidden behind the three lines at the top. I spent five minutes looking for \"statement\". In the end I found it under \"Documents\", which I would never think of.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-002",
+  "topic": "navigation",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "The main things are at the bottom, big buttons: pay, buy, cards. I don't have to search.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-003",
+  "topic": "navigation",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "navigation"
+  ],
+  "text": "I pressed something and ended up somewhere I didn't want. Then I couldn't find the way back to the start. I closed the app and opened it again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-004",
+  "topic": "navigation",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I'll get used to it. The first time is always confusing with a new app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-005",
+  "topic": "navigation",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "no_back"
+  ],
+  "text": "There's no back button on some pages. My phone's back button closes the whole app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-006",
+  "topic": "navigation",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "Easy to find things.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-007",
+  "topic": "navigation",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "navigation"
+  ],
+  "text": "Too many menus inside menus. I just want search. Let me type \"statement\" and go there.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-008",
+  "topic": "navigation",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [],
+  "text": "I only use three things in the app. The rest I don't touch. So it's fine for me.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "language_words-001",
+  "topic": "language_words",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "jargon"
+  ],
+  "text": "The words are bank words. \"Debit order mandate\", \"available versus current balance\"... I have money or I don't have money. Why are there two balances? Nobody ever explained that to me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-002",
+  "topic": "language_words",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "It talks normal. \"Send money\", \"your money\", not those big bank words. I liked that.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "language_words-003",
+  "topic": "language_words",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "language"
+  ],
+  "text": "I wanted it in Sesotho. I can read English but in my language I understand faster, especially the money things.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-004",
+  "topic": "language_words",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "English is fine for me. Some words are long but I get it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-005",
+  "topic": "language_words",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "jargon"
+  ],
+  "text": "What is \"authenticate\"? Just say \"check it's you\".",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-006",
+  "topic": "language_words",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "language",
+   "clear"
+  ],
+  "text": "I could switch it to isiZulu. Not everything was in isiZulu, but the main parts were. My mother can also use it now.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-007",
+  "topic": "language_words",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "jargon"
+  ],
+  "text": "Too many bank words.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-008",
+  "topic": "language_words",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "language"
+  ],
+  "text": "The isiXhosa translation is a bit strange. It's like someone used Google. My English is better than that isiXhosa, so I put it back to English. But for older people it's still good that it's there.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-001",
+  "topic": "speed_data",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_heavy"
+  ],
+  "text": "Every time I open the app it loads pictures and adverts. I'm paying for that data. Just show me my balance. I check my balance more than anything, and each time it's eating my data.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-002",
+  "topic": "speed_data",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_free"
+  ],
+  "text": "I saw it doesn't use my data, it says \"zero-rated\". That's why I use the app now instead of going to the ATM.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-003",
+  "topic": "speed_data",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "slow"
+  ],
+  "text": "It takes long to open. The circle just keeps going around. In the queue at the till I don't have that time.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-004",
+  "topic": "speed_data",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Fast. Opens quickly.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "speed_data-005",
+  "topic": "speed_data",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Speed is okay. Sometimes slow in the evening, but my network is also slow then.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-006",
+  "topic": "speed_data",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "rural"
+  ],
+  "tags": [
+   "network"
+  ],
+  "text": "In my area the app just says \"no connection\" even when WhatsApp is working. WhatsApp works, the bank doesn't. How?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-007",
+  "topic": "speed_data",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "feature"
+  ],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "My phone is old and the app is heavy. It hangs every time. I've stopped using it, I use the USSD code instead.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-001",
+  "topic": "errors_recovery",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "error_unclear",
+   "no_human"
+  ],
+  "text": "It said \"Error 4021. Please try again later.\" What is 4021? Later when? I tried later. Same thing. There's no number to call on that screen, nothing. I just gave up and went to the branch on Saturday.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-002",
+  "topic": "errors_recovery",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "good_errors"
+  ],
+  "text": "When something went wrong it told me in normal words what happened and what to do. \"Your ID photo is blurry, try again in better light.\" That I can fix.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-003",
+  "topic": "errors_recovery",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "lost_progress"
+  ],
+  "text": "An error came and everything I filled in was wiped. Start again from zero.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-004",
+  "topic": "errors_recovery",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "One error, I tried again, it worked. Normal.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "errors_recovery-005",
+  "topic": "errors_recovery",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "\"Something went wrong.\" Thanks.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-006",
+  "topic": "errors_recovery",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "blame"
+  ],
+  "text": "The error message made me feel like I did something wrong. \"Invalid input.\" I typed what it asked.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-007",
+  "topic": "errors_recovery",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "saved_progress"
+  ],
+  "text": "It failed at the end but when I came back, everything was still there. I just pressed submit again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-001",
+  "topic": "security_trust",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "I like that it asks for my fingerprint before paying. My children play games on my phone. Now I know they can't send money by mistake.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-002",
+  "topic": "security_trust",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "scam_fear"
+  ],
+  "tags": [
+   "scam_fear"
+  ],
+  "text": "I don't trust doing banking on the phone. My neighbour lost R8,000 because someone phoned her pretending to be the bank. Now when the app asks for a code, I get scared. Even if this one is real, how do I know?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-003",
+  "topic": "security_trust",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_much_security"
+  ],
+  "text": "Too much security. PIN, then OTP, then fingerprint, for R50 airtime. I understand safety but it's too much for small things.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-004",
+  "topic": "security_trust",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "It showed a message \"the bank will never phone you to ask for your PIN\". That's good, older people need to be reminded.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-005",
+  "topic": "security_trust",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It feels safe, I think. I don't really know how to tell.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-006",
+  "topic": "security_trust",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "It wanted access to my contacts, my location and my photos. Why does a bank want my photos?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-007",
+  "topic": "security_trust",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "Feels safe. Good.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-008",
+  "topic": "security_trust",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "I'm half-half. The app looks proper, but you hear so many stories. I keep only a little money in the account and the rest I keep in the stokvel. Maybe after some months I'll trust it more.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-001",
+  "topic": "help_support",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "no_human"
+  ],
+  "text": "The chat is a robot. I asked my question three different ways and it kept sending me the same link. I wanted a person. When I finally got the number, it was 40 minutes waiting with that music. My airtime finished.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-002",
+  "topic": "help_support",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "helpful_help"
+  ],
+  "text": "I sent a WhatsApp and a real person answered in a few minutes. Sorted out my problem. That I didn't expect from a bank.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-003",
+  "topic": "help_support",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "no_human"
+  ],
+  "text": "There's no \"call me\" option. I don't have airtime to phone them.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-004",
+  "topic": "help_support",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I didn't need help, so I don't know.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-005",
+  "topic": "help_support",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "helpful_help"
+  ],
+  "text": "There was a little video showing how to do it. I watched it twice and then did it myself.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-006",
+  "topic": "help_support",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "I looked for help and couldn't find it. Help must be on every page, not hidden.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-001",
+  "topic": "look_feel",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "nice_look"
+  ],
+  "text": "It looks clean, not too busy. Colours are nice. It looks like a proper bank.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "look_feel-002",
+  "topic": "look_feel",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text",
+   "low_contrast"
+  ],
+  "text": "The grey writing on the white is hard to read in the sun. I stood in the shade to read.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-003",
+  "topic": "look_feel",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "cluttered"
+  ],
+  "text": "The home screen has adverts for loans and insurance everywhere. I just want to see my money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-004",
+  "topic": "look_feel",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Looks fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "look_feel-005",
+  "topic": "look_feel",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "nice_look"
+  ],
+  "text": "Looks modern. Better than the old app. Dark mode is nice.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "look_feel-006",
+  "topic": "look_feel",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text",
+   "accessibility"
+  ],
+  "text": "I made the letters big on my phone but the app doesn't follow. Everything else on my phone is big, then I open the bank app and it's tiny again. My eyes are not what they were.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-007",
+  "topic": "look_feel",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "large_text"
+  ],
+  "text": "The buttons are big. Even with my big thumbs I don't press the wrong one.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-008",
+  "topic": "look_feel",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_much_info"
+  ],
+  "text": "There's too much on one screen. Numbers, graphs, tips... my head gets tired.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-001",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [],
+  "text": "Honestly, better than I expected. I've had bad stories with banks, so I was ready for a fight. It took me maybe {minutes} and I didn't have to go anywhere. I'd tell my sister to try it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-002",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It worked. That's the main thing. I'm not good with apps and I managed.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-003",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Nice. I'll use it.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-004",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [],
+  "text": "Some parts were nice, some parts I struggled. The start was easy, the middle with the papers was hard, the end was okay. If I had my papers ready it would be quick. Next time I'll know.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-005",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It's okay. Not bad, not great. Like most bank apps.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-006",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "It's fine I guess.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-007",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I don't know. I did what it said. I don't know if I did it right.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-008",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [],
+  "text": "It took me {minutes} and I'm still not done. At the branch it would have been one visit, even with the queue. I don't see why I must struggle on my phone when there's a branch.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-009",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Too long, too many questions, too many things that didn't work. I'll go to the branch.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-010",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Wasn't for me.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-011",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [],
+  "text": "It feels like this app was made for people with good phones and payslips. People like me, it doesn't think about us.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-012",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "I was scared but it was okay. I'll show my friends at church.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-013",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [],
+  "text": "It's decent. I'd use it if my friends are on it too, that matters for sending money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "masked-001",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "No, it was fine. I'll finish later.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "masked-002",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "It was okay. I just didn't have time today, I'll do it on the weekend.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "masked-003",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "It's good, it's just me. I'm not good with these phone things.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "masked-004",
+  "topic": "masked",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "No, it's nice. I'll get there.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "masked-005",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "I think it's fine. My phone was the problem, not the app.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "masked-006",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "It was okay, I'll ask my son to help me finish.",
+  "implies_quit": true,
+  "implies_ok": false
+ },
+ {
+  "id": "masked-007",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "It's fine. No problem.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "suggestion-001",
+  "topic": "suggestion",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "none"
+  ],
+  "text": "I don't know. Nothing really.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-002",
+  "topic": "suggestion",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "none"
+  ],
+  "text": "I don't know what to change. Maybe make it shorter?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-003",
+  "topic": "suggestion",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "none"
+  ],
+  "text": "Nothing, it's fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "suggestion-004",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "Tell me at the beginning which papers I need. Then I can get them first and not stop in the middle.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-005",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_many_steps"
+  ],
+  "text": "Make it shorter. Ask me only the important things today, the rest later.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-006",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "retype"
+  ],
+  "text": "Don't ask me the same thing twice.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-007",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "data_heavy"
+  ],
+  "text": "Make it not use so much data. Or free data for the bank app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-008",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "no_human"
+  ],
+  "text": "Put a button that says \"call me back\" so a person phones me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-009",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "jargon"
+  ],
+  "text": "Use normal words. Like how you'd explain to your granny.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-010",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "Show me the fees before I press pay, in big letters.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-011",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "If the picture doesn't work after three times, let me send it a different way, or let someone check it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-012",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "small_text"
+  ],
+  "text": "Bigger writing, please.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-013",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "language"
+  ],
+  "text": "Put it in my language.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-014",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "lost_progress"
+  ],
+  "text": "Save what I typed, so when I come back I don't start again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-015",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "otp_fail"
+  ],
+  "text": "If the SMS doesn't come, give me another way, like a call.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-016",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "When something goes wrong, tell me what went wrong in normal words.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-017",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "Put the things people use at the front. Don't hide them.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-018",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "scam_fear"
+  ],
+  "text": "Show me something that proves it's really the bank, so I know it's not a scam.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-019",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "cluttered"
+  ],
+  "text": "Less adverts. Just my money and the buttons.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-020",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "If I must wait, tell me how long.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-021",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "Make something for people who don't have smartphones. Not everyone has an iPhone.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-022",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_alternative"
+  ],
+  "text": "Let me use another thing as proof of address, like a letter from the chief or the school.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-023",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "reconciliation"
+  ],
+  "text": "Let me add the cash payments myself so the record is right.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-024",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "payment_timing"
+  ],
+  "text": "Let each person choose their own payment date. We don't all get paid on the same day.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-025",
+  "topic": "suggestion",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Keep it like this. Just maybe a bit faster.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-026",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "limits"
+  ],
+  "text": "Tell me my limits before I hit them.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-001",
+  "topic": "addon_lead",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [],
+  "text": "My data was almost finished, so I was rushing.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-002",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I did it in the {place}, so I was a bit distracted.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-003",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "parent"
+  ],
+  "tags": [],
+  "text": "I did this with the kids running around, so I was in and out.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "addon_lead-004",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "My eyes are not so good anymore, so I took my time.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-005",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [],
+  "text": "I'm not so clever with phones, I must be honest.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-006",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "high"
+  ],
+  "tags": [],
+  "text": "I do everything on my phone, so I compare with other apps a lot.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-007",
+  "topic": "addon_lead",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I was already in a bad mood because the last bank gave me problems.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-008",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "informal"
+  ],
+  "tags": [],
+  "text": "I did it between customers, so I kept stopping.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-009",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "onb"
+  ],
+  "text": "I wanted to do this before my grant comes in, so I can get it straight into the account.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-010",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [],
+  "text": "For people like me who are not from here, banking is always a struggle.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-011",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "working"
+  ],
+  "tags": [],
+  "text": "I did it on my lunch break, so I didn't have a lot of time.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-012",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "rural"
+  ],
+  "tags": [],
+  "text": "Where I stay the network is not always there.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-013",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "onb"
+  ],
+  "text": "I just wanted to get my salary account open.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "addon_lead-014",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "{family} was sitting next to me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-001",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [],
+  "text": "And all of that while my data is running out.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-002",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "By then I was tired and just wanted it over.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-003",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "I'm too old to be fighting with a phone.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-004",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "parent"
+  ],
+  "tags": [],
+  "text": "With kids, you don't have time for this.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-005",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I nearly went to {other_bank} instead.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-006",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I'll still finish it, but I wasn't happy.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-007",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [],
+  "text": "In the end I called {family} to help me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-008",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "If it was a bigger amount I wouldn't even try it on the app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-009",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [],
+  "text": "This always happens to us foreigners.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-010",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "informal"
+  ],
+  "tags": [],
+  "text": "I lost two customers while I was busy with this.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-011",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I'll tell {family} about it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-012",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "Even me, I managed.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "addon_tail-013",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "That made me feel better about the whole thing.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-014",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [],
+  "text": "And it didn't finish my data, which I was worried about.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-015",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [],
+  "text": "I didn't need to ask anyone, which is a first.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-016",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "{other_bank} could learn from that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-017",
+  "topic": "addon_tail",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "But it's a bank, they're all like that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-018",
+  "topic": "addon_tail",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I'll see how it goes after a few months.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-019",
+  "topic": "addon_tail",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Anyway, it's done.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "addon_tail-020",
+  "topic": "addon_tail",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Maybe it's just me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-021",
+  "topic": "addon_tail",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "That's what I remember anyway.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-023",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "simple",
+   "guided"
+  ],
+  "text": "I thought it would be hard, but it only asked one thing at a time. Name, number, done. I kept waiting for the difficult part.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-024",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "simple"
+  ],
+  "text": "I wanted the account so my grant can go in there instead of the SASSA card. My neighbour said it takes long but for me it was okay. I sat on my bed and did it in one go.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-025",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Took two minutes. Fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-026",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "quick",
+   "nice_look"
+  ],
+  "text": "It looks nice and it moves fast. Felt like a normal app, not a bank app.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-027",
+  "topic": "registration",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "large_text"
+  ],
+  "text": "The writing was big and clear. I didn't need my glasses for most of it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-028",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It's like every other app. You download, you put your number, you wait for the SMS. Nothing new.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-029",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "parent"
+  ],
+  "tags": [],
+  "text": "I started in the morning before the kids woke up and finished at night. It let me do that, so okay. But I wouldn't say it was quick.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "registration-030",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "It said \"register\" and then \"sign up\" and then \"create profile\". Are those three different things? I just kept pressing the blue button.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-031",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_many_steps"
+  ],
+  "text": "A bit long for the beginning. I didn't mind, but someone impatient would close it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-032",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "slow"
+  ],
+  "text": "The loading circle between every screen. I watched it more than I filled in anything.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-033",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "It said my phone software is too old and I must update. My phone can't update anymore. So I can't use it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-034",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text",
+   "navigation"
+  ],
+  "text": "I didn't know where to press to start. There were three buttons on the first page, \"log in\", \"register\" and \"explore\". I pressed explore because it sounded easy. It showed me adverts. I went back and tried the others.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-035",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "At the very first page it wants an SA ID number. I didn't even get to see if I can open. Just stopped.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-036",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_heavy"
+  ],
+  "text": "First it downloads, then it updates, then it loads pictures. I bought data just for this.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-037",
+  "topic": "registration",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "crash"
+  ],
+  "text": "It froze on the first screen. Twice.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "registration-038",
+  "topic": "registration",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Normal. Nothing to say.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-019",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "The questions made sense. Name, ID, where I live, what I do. Nothing strange.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-020",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "clear",
+   "guided"
+  ],
+  "text": "I liked that when I typed my ID number it said \"great, we got your date of birth from that\". So it's not asking me things it already knows. My old bank form made me write everything twice.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-021",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "autofill"
+  ],
+  "text": "Most of it was filled already. Just checked it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-022",
+  "topic": "personal_details",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "large_text",
+   "simple"
+  ],
+  "text": "One question per page. Big boxes. That's how it should be for people like me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-023",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Long but okay. I understand the bank must know who I am.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-024",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_much_info"
+  ],
+  "text": "Some questions I didn't see why. Like \"how many people live with you\". I answered anyway.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-025",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "informal"
+  ],
+  "tags": [
+   "employment_mismatch"
+  ],
+  "text": "It assumes everybody has a job with a boss. I'm a hairdresser at home. I chose \"self-employed\" and it didn't argue, so fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "personal_details-026",
+  "topic": "personal_details",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "address_format"
+  ],
+  "text": "It asked for the suburb and the city. My place is in a township, and on Google it's under a different name. I put the one on my municipal account. I hope that's the right one.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-027",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "keyboard"
+  ],
+  "text": "For the phone number it gave me the keyboard with letters. I had to switch to numbers every time. Small thing but irritating.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-028",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "retype"
+  ],
+  "text": "My ID number, then my ID number again to \"confirm\". If I typed it wrong the first time I'll type it wrong again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-029",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "\"Residential address\" and \"postal address\". I don't have a post box. Must I write the same thing twice?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-030",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "too_much_info",
+   "trust_doubt"
+  ],
+  "text": "It asked about my monthly expenses, my rent, how much I spend on food. That's my business. I'm opening a normal account, not applying for a house. It made me feel like they're checking if I'm poor.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-031",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "Red box. No reason.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "personal_details-032",
+  "topic": "personal_details",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "lost_progress"
+  ],
+  "text": "I went to WhatsApp to copy my address from a message. When I came back, the page was empty again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-019",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "guided",
+   "good_errors"
+  ],
+  "text": "I was ready for it to fail because my phone is cheap, but it worked on the second try. The first time it said \"too dark, move closer to the light\". I went to the kitchen. Done.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-020",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "guided"
+  ],
+  "text": "My grandson said these things are difficult, but this one I did myself. Put the ID in the box, it clicks. Easy.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-021",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "ID scan worked first time.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-022",
+  "topic": "id_capture",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Smart ID, front, back, done in like thirty seconds. Whoever built that part did a good job.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-023",
+  "topic": "id_capture",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "It took four or five times. Not the end of the world, but my arm was tired.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-024",
+  "topic": "id_capture",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It worked. I don't know what it checked but it said okay.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-025",
+  "topic": "id_capture",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "old_id"
+  ],
+  "text": "I have the green ID book. It took it, but only after I flattened the page with a heavy book because it was bent. You learn tricks.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "id_capture-026",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "feature"
+  ],
+  "tags": [
+   "device_limit"
+  ],
+  "text": "My phone doesn't have a good camera. The picture always comes out with lines. I asked my neighbour to use hers, then the app said this phone is not registered to me. Round and round.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-027",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail",
+   "error_unclear"
+  ],
+  "text": "It just said \"try again\". It didn't say what's wrong. Too dark? Too far? I was guessing.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-028",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "It wanted the picture inside a small box and my hands are not steady. Every time I got it in the box it moved again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "id_capture-029",
+  "topic": "id_capture",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_heavy"
+  ],
+  "text": "Uploading the photos used a lot of data.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-016",
+  "topic": "selfie",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "guided",
+   "quick"
+  ],
+  "text": "I was worried about the selfie because my friend said it failed for her many times. For me it worked straight away. It said \"look straight\", then \"turn left\", and it was finished. I don't know what she was doing.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-017",
+  "topic": "selfie",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "guided"
+  ],
+  "text": "There was a voice telling me what to do. I didn't have to read. That helped a lot.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-018",
+  "topic": "selfie",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Face scan, one go. Clean.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-019",
+  "topic": "selfie",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "The face thing is strange, but okay, everyone does it now.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-020",
+  "topic": "selfie",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "Second time it worked. The first time I was smiling and it didn't like that.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-021",
+  "topic": "selfie",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "parent"
+  ],
+  "tags": [
+   "interruptions"
+  ],
+  "text": "I had to wait for the baby to sleep before I could do it, because she wants to be in every picture. Once she was asleep it was fine. But it's not something you can do on the go.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-022",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "It wanted me to move my head and blink at the same time. At my age, I can do one thing at a time.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-023",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "wait_unclear",
+   "camera_fail"
+  ],
+  "text": "After the selfie the screen said \"hold on, we're checking\" and then nothing. No yes, no no. I waited, I pressed back, it started the selfie again. I did the selfie three times in total and I still don't know if it worked or not.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "selfie-024",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "Why video? A photo I understand. Video of my face feels like too much.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "selfie-025",
+  "topic": "selfie",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "Selfie failed. Again and again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-012",
+  "topic": "otp",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "quick",
+   "clear"
+  ],
+  "text": "The SMS came in two seconds and the code was big in the message. Easy to copy.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-013",
+  "topic": "otp",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "clear"
+  ],
+  "text": "SMS came. I typed it. Okay.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "otp-014",
+  "topic": "otp",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "otp_confusing"
+  ],
+  "text": "It gave me 60 seconds to enter the code. I'm slow with typing and I made it with like five seconds left. Bit stressful.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-015",
+  "topic": "otp",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "OTP fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "otp-016",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "otp_fail"
+  ],
+  "text": "It said \"too many attempts\" after two tries. Two!",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-017",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "otp_fail",
+   "no_airtime"
+  ],
+  "text": "The code didn't come. It said press here to get a call instead. I pressed it, my phone rang, and it was a robot reading numbers very fast in English. I got four of the six numbers. Then I had to do it all again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "otp-018",
+  "topic": "otp",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "otp_fail"
+  ],
+  "text": "I had no signal inside the house. So the code came when I was outside, but the app had already timed out inside.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-013",
+  "topic": "proof_of_address",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_alternative"
+  ],
+  "text": "It let me just say \"I live here\" and sign on the screen. No paper. That was the best part for me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-014",
+  "topic": "proof_of_address",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "informal"
+  ],
+  "tags": [
+   "doc_alternative"
+  ],
+  "text": "I was scared for proof of address because I don't have anything in my name. But it asked me to type the address and then it said it will check with my cell number details. It went through. I don't know how but I'm happy.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-015",
+  "topic": "proof_of_address",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "Uploaded the bill. Done.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-016",
+  "topic": "proof_of_address",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "female"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "I had a bill but it was in my husband's name. I uploaded it anyway and it took it. I don't know if someone will check later.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-017",
+  "topic": "proof_of_address",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "I used the SASSA letter because it has my address. I wasn't sure it would work. It worked.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "proof_of_address-018",
+  "topic": "proof_of_address",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "hidden_info"
+  ],
+  "text": "I didn't have the bill on my phone, so I had to go to the municipality website and download it. That site is slow. Took me longer than the whole bank app. Not the bank's problem, but still.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-019",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "I live in res. I don't have any bill. Nobody my age has a bill.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-020",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "rural"
+  ],
+  "tags": [
+   "doc_burden",
+   "address_format"
+  ],
+  "text": "We get our water bill at the tribal office. It's handwritten. The app said the document is not valid.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-021",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "parent",
+   "lowinc",
+   "female"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "I went to the police station for the affidavit like it said. The queue was long, I had my baby on my back, then the officer said come back tomorrow, the commissioner is not here. That's one day of my life just for this.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "proof_of_address-022",
+  "topic": "proof_of_address",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "No bill in my name. Stuck.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-013",
+  "topic": "employment_income",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "informal"
+  ],
+  "tags": [
+   "relevant"
+  ],
+  "text": "There was an option \"I earn money from selling or doing jobs\". Finally somebody thought of us. It asked roughly how much in a good week and a bad week. That's how my money works.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-014",
+  "topic": "employment_income",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "clear"
+  ],
+  "text": "Picked \"student\", it didn't ask for a payslip. Good.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-015",
+  "topic": "employment_income",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Two questions. Fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "employment_income-016",
+  "topic": "employment_income",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [],
+  "text": "I chose \"SASSA grant\" and it was fine. I wish it didn't ask though, it's like they want to see I'm poor.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "employment_income-017",
+  "topic": "employment_income",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "\"Gross\" or \"net\" income? I put what I get in my hand.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-018",
+  "topic": "employment_income",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "prof"
+  ],
+  "tags": [],
+  "text": "I get a salary and I also do side jobs on weekends. It only allowed one source. So I just put my salary, which isn't the full picture, but okay.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "employment_income-019",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "working"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "It wanted a payslip, but my boss pays me in cash. No payslips.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "employment_income-020",
+  "topic": "employment_income",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "no_back"
+  ],
+  "text": "I chose the wrong job type and couldn't change it. There's no back. I had to start again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-012",
+  "topic": "product_choice",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "clear",
+   "fee_upfront"
+  ],
+  "text": "There was one that said R0 monthly fee, and it said what costs money: cash withdrawals at the ATM. I can draw at Shoprite for free instead. So I took that one. Simple.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-013",
+  "topic": "product_choice",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "simple"
+  ],
+  "text": "It recommended one for me based on what I said before. I took it. Didn't want to compare.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "product_choice-014",
+  "topic": "product_choice",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I chose the first one. I didn't read the others.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-015",
+  "topic": "product_choice",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [],
+  "text": "They all look the same to me. I just want the one with the cheapest fees and the card that looks nice.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "product_choice-016",
+  "topic": "product_choice",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "cluttered"
+  ],
+  "text": "Little cards with lots of ticks and crosses. I don't know what the ticks mean.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "product_choice-017",
+  "topic": "product_choice",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "jargon",
+   "too_much_info"
+  ],
+  "text": "It said \"unlimited swipes\", \"Mzansi\", \"eBucks\"... I don't know these things. At the branch you tell the lady, \"I want an account for my pension\" and she gives you one. Here you must choose like it's a menu.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-009",
+  "topic": "fees",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "fee_upfront",
+   "large_text"
+  ],
+  "text": "The fee was written big: R5 per month. That's honest.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-010",
+  "topic": "fees",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "fee_upfront"
+  ],
+  "text": "Fees were clear.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-011",
+  "topic": "fees",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I looked at the fees but they're like all the banks. I didn't compare.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-012",
+  "topic": "fees",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "It says free for the first three withdrawals. Then what? What's the fourth one?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-013",
+  "topic": "fees",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "There's a fee for SMS notifications. You charge me to tell me you charged me?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "fees-014",
+  "topic": "fees",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "It said \"from R0\". \"From\" means it can be more. I don't trust \"from\". Just tell me what I will pay, me, with my small money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-009",
+  "topic": "consent_terms",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "clear"
+  ],
+  "text": "It had a \"summary\" with simple points, like \"we will check your info with Home Affairs\". I understood that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-010",
+  "topic": "consent_terms",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Ticked, next.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "consent_terms-011",
+  "topic": "consent_terms",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [
+   "skipped"
+  ],
+  "text": "Who reads that? I scrolled to the bottom, ticked, moved on.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-012",
+  "topic": "consent_terms",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_much_info"
+  ],
+  "text": "It made me scroll all the way down before the button works. Like forcing me to \"read\". I didn't, I just scrolled.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "consent_terms-013",
+  "topic": "consent_terms",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text"
+  ],
+  "text": "The writing in the terms is so small, even with my glasses.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "account_ready-012",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "grant"
+  ],
+  "tags": [
+   "confirmation_clear"
+  ],
+  "text": "It gave me the account number and a letter I can take to SASSA to change where my grant goes. I didn't even know I needed that. That saved me a trip.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "account_ready-013",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "confirmation_clear",
+   "quick"
+  ],
+  "text": "\"Congratulations, your account is open\" with confetti. Haha, a bit much, but I was happy.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-014",
+  "topic": "account_ready",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "confirmation_clear"
+  ],
+  "text": "Account open. Card coming. Good.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-015",
+  "topic": "account_ready",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "It said done, but my balance shows R0 and I can't do anything until the card comes. So, done but not done.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-016",
+  "topic": "account_ready",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "informal"
+  ],
+  "tags": [],
+  "text": "The account is open. Now I must get my customers to pay me on it instead of cash. That's the hard part, not the app.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "account_ready-017",
+  "topic": "account_ready",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "card_collection"
+  ],
+  "text": "It wants me to collect the card at a branch. The whole point of the app was not going to the branch.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "account_ready-018",
+  "topic": "account_ready",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "It finished and dropped me on the home screen. Where's my account number? Took me a while to find it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-014",
+  "topic": "eft_payment",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "repeat_payment",
+   "quick"
+  ],
+  "text": "I pay the crèche every month. Now it's saved and I just press it on the first. Done in seconds.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "eft_payment-015",
+  "topic": "eft_payment",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "confirmation_clear",
+   "large_text"
+  ],
+  "text": "My son set it up for me to pay my funeral policy. Now I go in, press the name, see the amount, and press pay. Big green button. It says \"paid\" with the date. I can show my son if he asks.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-016",
+  "topic": "eft_payment",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Paid. Easy.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "eft_payment-017",
+  "topic": "eft_payment",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Paying is the same as all apps. Nothing new.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-018",
+  "topic": "eft_payment",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "It says \"money will reflect in 2 hours\". I paid at 4pm, so I guess tomorrow.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-019",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "retype"
+  ],
+  "text": "Every time I must type the reference again. It's the same reference every month.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-020",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "scam_fear",
+   "confirmation_missing"
+  ],
+  "text": "I paid someone for a fridge on Facebook. The app didn't warn me anything. Now he's gone, and the bank says I authorised it. Maybe the app must ask \"do you know this person?\" for new people.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-021",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "R2.50 for every payment. When I pay five people, that's R12.50. I'd rather draw and pay cash.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "eft_payment-022",
+  "topic": "eft_payment",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "\"Payment failed\". Then the money was gone anyway.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-009",
+  "topic": "bills_airtime",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Data in three taps. That's the only thing I use every day.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-010",
+  "topic": "bills_airtime",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "saved_meter"
+  ],
+  "text": "My meter number is saved. I just put the amount. Before I had to call my son to read me the number.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-011",
+  "topic": "bills_airtime",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Airtime works.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-012",
+  "topic": "bills_airtime",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [],
+  "text": "I buy data here sometimes, sometimes at the shop. Same price.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-013",
+  "topic": "bills_airtime",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "electricity_fail"
+  ],
+  "text": "The token came with no units, just a message \"contact your municipality\". Contact who? It's Saturday.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "bills_airtime-014",
+  "topic": "bills_airtime",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "I wanted to buy a Lotto ticket... I mean, a bundle, and it showed me everything except data. It's under \"prepaid\", not under \"data\".",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-009",
+  "topic": "navigation",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "simple"
+  ],
+  "text": "Only big buttons on the main page. I don't get lost.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-010",
+  "topic": "navigation",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "high"
+  ],
+  "tags": [
+   "search"
+  ],
+  "text": "There's a search. I typed \"statement\" and there it was. That's how all apps should work.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-011",
+  "topic": "navigation",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I find what I need. It took a few days to learn where things are.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-012",
+  "topic": "navigation",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "navigation"
+  ],
+  "text": "At first I didn't know the little house at the bottom means \"go back to the start\". My daughter showed me. Now I use it all the time. But nobody tells you that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-013",
+  "topic": "navigation",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "Too many tabs at the bottom. Five little pictures, no words. I don't know what the one with the circles means.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "navigation-014",
+  "topic": "navigation",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "navigation"
+  ],
+  "text": "Couldn't find it. Asked my son.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-009",
+  "topic": "language_words",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "clear"
+  ],
+  "text": "It says things like \"You're nearly done\" and \"This takes 2 minutes\". Normal talk. I liked that.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "language_words-010",
+  "topic": "language_words",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "language"
+  ],
+  "text": "It's only English, but the English is simple. So okay.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "language_words-011",
+  "topic": "language_words",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "jargon"
+  ],
+  "text": "\"Insufficient funds\". Just say \"you don't have enough money\".",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-012",
+  "topic": "language_words",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "jargon"
+  ],
+  "text": "\"Swipe up to authenticate\". What must I swipe? Where?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "language_words-013",
+  "topic": "language_words",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "jargon",
+   "unclear_words"
+  ],
+  "text": "The account page says \"available balance R120, current balance R340\". Which is my money? I went to the shop thinking I have R340 and the card was declined in front of everyone. I felt so small.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-008",
+  "topic": "speed_data",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "quick"
+  ],
+  "text": "Opens fast. I check my balance standing in the queue, takes a second.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "speed_data-009",
+  "topic": "speed_data",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_free"
+  ],
+  "text": "I saw it doesn't use my data. That changed everything for me. Before I only checked my balance at the ATM, and paid R10 to see the balance. Now I check as many times as I want.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-010",
+  "topic": "speed_data",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Speed is okay. My phone is slow anyway, so I can't really blame the app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-011",
+  "topic": "speed_data",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "slow"
+  ],
+  "text": "Every morning the app wants an update. Wait for the update, then log in, then wait again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "speed_data-012",
+  "topic": "speed_data",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "prepaid"
+  ],
+  "tags": [
+   "data_heavy"
+  ],
+  "text": "It's 200MB. My whole phone is full. I had to delete pictures of my kids to install it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-008",
+  "topic": "errors_recovery",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "good_errors"
+  ],
+  "text": "At one point it said \"we couldn't verify your ID right now, it's not your fault, Home Affairs is slow. We saved everything, we'll send an SMS when you can continue.\" And they did, the next morning. That's how to do it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-009",
+  "topic": "errors_recovery",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "saved_progress"
+  ],
+  "text": "It kept my stuff when it crashed. Good.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-010",
+  "topic": "errors_recovery",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "One error, but it explained, and the second time it was fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "errors_recovery-011",
+  "topic": "errors_recovery",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "error_unclear"
+  ],
+  "text": "A red message came and went too fast. I didn't finish reading it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-012",
+  "topic": "errors_recovery",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "blame"
+  ],
+  "text": "\"You have entered incorrect details.\" I didn't. I checked. It made me feel stupid.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "errors_recovery-013",
+  "topic": "errors_recovery",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [
+   "error_unclear",
+   "no_human"
+  ],
+  "text": "The error had a number, \"ERR-503\". I googled it and found some American website. Then I phoned the call centre and the lady didn't know what it means either. Who is this error for?",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-009",
+  "topic": "security_trust",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "It showed me \"you're logged in on one device: this phone\". That's nice, I know nobody else is in my account.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "security_trust-010",
+  "topic": "security_trust",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "scam_fear"
+  ],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "After my bad experience last year, I like that it asks for my face before a big payment. If someone steals my phone they can't empty my account. I sleep better knowing that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-011",
+  "topic": "security_trust",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "It says it's safe. I don't know how they know. I just have to believe.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-012",
+  "topic": "security_trust",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Security is fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "security_trust-013",
+  "topic": "security_trust",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "too_much_security"
+  ],
+  "text": "It logs me out every two minutes. I go to WhatsApp to check a number and come back, logged out.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "security_trust-014",
+  "topic": "security_trust",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "scam_fear"
+  ],
+  "text": "There was a message with a link, saying from the bank. Then in the app there was the same message. I don't know which one is real anymore. I didn't click either.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-007",
+  "topic": "help_support",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "low"
+  ],
+  "tags": [
+   "helpful_help",
+   "no_human"
+  ],
+  "text": "There's a button \"talk to us\" and it opened WhatsApp with the bank. A lady answered in my language. She told me step by step. I didn't need to go to the branch, which saved me R40 in taxi money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-008",
+  "topic": "help_support",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "helpful_help"
+  ],
+  "text": "The help page answered my question. That's rare.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-009",
+  "topic": "help_support",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I didn't look for help. If I get stuck I ask my sister.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-010",
+  "topic": "help_support",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "no_human"
+  ],
+  "text": "The robot kept saying \"I didn't understand, please rephrase\". I don't know how to rephrase \"my money is gone\".",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "help_support-011",
+  "topic": "help_support",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "no_human"
+  ],
+  "text": "The call centre number is not free. With my airtime I can't wait on hold.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-009",
+  "topic": "look_feel",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "nice_look"
+  ],
+  "text": "Clean. Not too many colours. Looks like a bank you can trust.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-010",
+  "topic": "look_feel",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "large_text"
+  ],
+  "text": "Big letters, big buttons. Thank you.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-011",
+  "topic": "look_feel",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It looks okay. I don't really care about the look, I care if it works.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-012",
+  "topic": "look_feel",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "cluttered"
+  ],
+  "text": "Banners, pop-ups, \"did you know\"... I closed three things before I could see my balance.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "look_feel-013",
+  "topic": "look_feel",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "low_contrast"
+  ],
+  "text": "Light grey on white. In the sun I can't see anything.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-014",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "I didn't think I could do this alone at my age. But I did. My granddaughter is going to be surprised. I'd still like a phone number to call if I get stuck, but this time I didn't need it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-015",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "informal"
+  ],
+  "tags": [],
+  "text": "For somebody like me who sells, I didn't think the bank cares. But some parts were made for people like me. Not everything. But it's a start. I'd try it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-016",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [],
+  "text": "Solid. Quick enough, clear enough. I'd recommend it to my friends.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-017",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [],
+  "text": "It was okay for me. I'm happy I can get my money without standing in the long line at the pay point.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-018",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Easier than I expected. I'll keep it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-019",
+  "topic": "overall",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Happy with it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-020",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [],
+  "tags": [],
+  "text": "Half of it was good and half was a problem. The questions were okay, the picture parts were a struggle. I'd give it a six out of ten. If they fix the camera part, maybe eight.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-021",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "I did it with help. I don't think I could do it alone. But with help it's okay.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-022",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It's alright. I wouldn't change my bank for it, but it's alright.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-023",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [],
+  "text": "For me, not from here, it's always the papers. The app itself is fine. The rules are the problem.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-024",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Okay. Nothing special.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-025",
+  "topic": "overall",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Honestly I don't remember most of it. It was a few screens. It worked in the end.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "overall-026",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [],
+  "text": "It's for people who have time, data and the right papers. I have none of those. I'll keep my money in the SASSA card and the stokvel like before.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-027",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [],
+  "tags": [],
+  "text": "I wanted it to work. I tried twice. Both times something broke in the middle. I'm not trying a third time. If somebody calls me and helps me, maybe.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-028",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "high"
+  ],
+  "tags": [],
+  "text": "It works but it's clunky. Too many screens for things that should be one screen. Other banks are ahead.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "overall-029",
+  "topic": "overall",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [],
+  "tags": [],
+  "text": "Too much hassle.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "masked-008",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "It was okay, just a bit long. I'll go back and finish.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "masked-009",
+  "topic": "masked",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "No, it's a nice app. I just got busy.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "masked-010",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "masked"
+  ],
+  "text": "It's okay. I'm just slow.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "masked-011",
+  "topic": "masked",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "masked"
+  ],
+  "text": "It's good for young people. Me, I'm too old for these things, it's not the app.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-027",
+  "topic": "suggestion",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "none"
+  ],
+  "text": "Not sure. It's fine.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "suggestion-028",
+  "topic": "suggestion",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [],
+  "tags": [
+   "none"
+  ],
+  "text": "Nothing, just make it work every time.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-029",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "camera_fail"
+  ],
+  "text": "Let me upload a picture I already have instead of taking it live.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-030",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "doc_alternative"
+  ],
+  "text": "Let me finish the account and bring the papers later.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-031",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "slow"
+  ],
+  "text": "Make it faster. Less loading.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-032",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "Explain why you need each thing. Then I won't feel scared to give it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-033",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "card_collection"
+  ],
+  "text": "Deliver the card or let me get it at Pep or Shoprite, not only the branch.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-034",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "employment_mismatch"
+  ],
+  "text": "Have a choice for people who sell or do piece jobs.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-035",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "Put a little \"what does this mean\" next to the hard words.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-036",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [
+   "small_text"
+  ],
+  "text": "Let the writing be big like the rest of my phone.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-037",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "foreign"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "Let us use a passport or an asylum paper. We also need banks.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-038",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "retype"
+  ],
+  "text": "If you already have my details from the ID, don't ask again.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "suggestion-039",
+  "topic": "suggestion",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Don't change too much. It's fine as it is.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "suggestion-040",
+  "topic": "suggestion",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "Tell me what happens next after I finish, and when.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-015",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I'll be honest with you.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-016",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "old"
+  ],
+  "tags": [],
+  "text": "At my age, these things don't come easily.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-017",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "young"
+  ],
+  "tags": [],
+  "text": "I'm on my phone all day, so I notice these things.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-018",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [],
+  "text": "My grant is my only money, so I'm careful with it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-019",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "working"
+  ],
+  "tags": [],
+  "text": "I was on my way to work, so I was rushing.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-020",
+  "topic": "addon_lead",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I had already wasted a lot of time by then.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-021",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [],
+  "text": "I'm the one who handles the stokvel money, so I look at everything.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_lead-022",
+  "topic": "addon_lead",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "My friend told me about it, so I tried it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-022",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "It's not hard to fix, honestly.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-023",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "lowinc"
+  ],
+  "tags": [],
+  "text": "When you have little money, every small thing counts.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-024",
+  "topic": "addon_tail",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [],
+  "text": "People like me don't have extra money for data and taxis.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-025",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Whoever made that part, they thought about it.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-026",
+  "topic": "addon_tail",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "grant"
+  ],
+  "tags": [],
+  "text": "For somebody like me, that's important.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-027",
+  "topic": "addon_tail",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Not great, not terrible.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-028",
+  "topic": "addon_tail",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "I'll see.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "addon_tail-029",
+  "topic": "addon_tail",
+  "sentiment": "*",
+  "depth": "m",
+  "fits": [],
+  "tags": [],
+  "text": "Anyway.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-011",
+  "topic": "stokvel_setup",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "member",
+   "female"
+  ],
+  "tags": [
+   "simple",
+   "relevant"
+  ],
+  "text": "Our chairlady sent the link on WhatsApp. I clicked, put my ID number, and it showed \"Masakhane Ladies, 14 members\". My name was already there because she added it. I just said yes. Easier than I thought.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-012",
+  "topic": "stokvel_setup",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "I liked that it showed who the treasurer and chairlady are, with their pictures. So I knew it's our group and not some scam.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_setup-013",
+  "topic": "stokvel_setup",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "simple"
+  ],
+  "text": "I added all our members from my contacts. It took maybe fifteen minutes. The rest they did themselves.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-014",
+  "topic": "stokvel_setup",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "Joining was fine. The real test is if the money comes when it's my turn.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_setup-015",
+  "topic": "stokvel_setup",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "doc_burden"
+  ],
+  "text": "We had to choose between a \"registered\" group and a \"simple\" group. Simple was quick, but then the limit is lower. We save R60,000 a year together, so we needed the other one, and that one wanted the papers. We're still busy with the papers.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_setup-016",
+  "topic": "stokvel_setup",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "Some of the older ladies don't want to be on the app. They say they want to see the money. We'll see if they come around.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-017",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "too_many_steps"
+  ],
+  "text": "Every member must be approved by me one by one. With twenty members that's twenty times the same thing.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-018",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "unclear_words"
+  ],
+  "text": "It asked if I'm a \"beneficiary\" or a \"signatory\". I'm a member. Those words are not stokvel words.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-019",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "approval_burden"
+  ],
+  "text": "The bank wants three signatories. In our group nobody wants to be a signatory, because they think if money goes missing they'll be blamed. It took us two meetings to get three people. The app made it sound like a quick click.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_setup-020",
+  "topic": "stokvel_setup",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "I don't like that the bank sees our stokvel money.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-010",
+  "topic": "stokvel_contributions",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "member",
+   "grant"
+  ],
+  "tags": [
+   "payment_timing"
+  ],
+  "text": "I can choose to pay on the 4th, after my grant comes. That's important for me. I'm never late now.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-011",
+  "topic": "stokvel_contributions",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "quick"
+  ],
+  "text": "Paying the stokvel is like paying anybody. Pick the group, the amount is already there, pay. Two taps.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-012",
+  "topic": "stokvel_contributions",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "reconciliation",
+   "confirmation_clear"
+  ],
+  "text": "Every time someone pays, I get a message: \"Thandi paid R500 for June\". By the 5th I can see who's still outstanding and I send them a reminder from the app. Before, I was calling people and it caused bad feelings. Now the app is the bad guy, not me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-013",
+  "topic": "stokvel_contributions",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "cash_gap"
+  ],
+  "text": "I still pay cash to the treasurer, and she puts it on the app. It's fine as long as she does it.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_contributions-014",
+  "topic": "stokvel_contributions",
+  "sentiment": "U",
+  "depth": "s",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "I pay, it shows. Okay.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_contributions-015",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "I pay R300, but R6 goes to fees. So in a year I paid R72 just to pay my stokvel. Nobody told us that.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-016",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "member",
+   "informal"
+  ],
+  "tags": [
+   "cash_gap"
+  ],
+  "text": "My money is cash from selling. To pay the stokvel on the app, I must first go deposit at the ATM, which charges me, then pay from the app, which charges me again. With the old way I just give my cash at the meeting. The app made it more expensive for me.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-017",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "reconciliation"
+  ],
+  "text": "When two people pay the same amount on the same day with no name, I can't tell who's who. I still have to phone them.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_contributions-018",
+  "topic": "stokvel_contributions",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "otp_fail"
+  ],
+  "text": "Every month it wants an OTP to pay the stokvel. It's the same payment.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-007",
+  "topic": "stokvel_payout",
+  "sentiment": "P",
+  "depth": "r",
+  "fits": [
+   "member",
+   "parent"
+  ],
+  "tags": [
+   "clear",
+   "confirmation_clear"
+  ],
+  "text": "My turn was in January, perfect for school things. The money was in my account the morning of the 15th like it said. I didn't have to go fetch cash from anybody's house. I took the kids to buy uniform the same day.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-008",
+  "topic": "stokvel_payout",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "simple"
+  ],
+  "text": "Doing the payout is easy now. I press approve, the second signatory gets a message, she approves, done. No more carrying cash.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_payout-009",
+  "topic": "stokvel_payout",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "The payout came. A day late, but it came.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-010",
+  "topic": "stokvel_payout",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "wait_unclear"
+  ],
+  "text": "It said my payout is \"scheduled\". I didn't know what that means. Then it came the next day.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-011",
+  "topic": "stokvel_payout",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "approval_burden"
+  ],
+  "text": "One signatory changed her phone and couldn't log in for two weeks. The whole group's payout was stuck because of one person's phone.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-012",
+  "topic": "stokvel_payout",
+  "sentiment": "N",
+  "depth": "r",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "limits"
+  ],
+  "text": "For the grocery stokvel we buy in bulk at Makro in December. The app has a daily limit, so the treasurer couldn't pay the whole amount at once. She had to split it over three days. On the last day the special was finished.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_payout-013",
+  "topic": "stokvel_payout",
+  "sentiment": "N",
+  "depth": "s",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "fees_unclear"
+  ],
+  "text": "Less money came than I expected.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-007",
+  "topic": "stokvel_records",
+  "sentiment": "P",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "reconciliation"
+  ],
+  "text": "At the end of the year I pressed \"group statement\" and it made a nice PDF with everyone's payments. I read it out at the meeting. Nobody argued.",
+  "implies_quit": false,
+  "implies_ok": true
+ },
+ {
+  "id": "stokvel_records-008",
+  "topic": "stokvel_records",
+  "sentiment": "P",
+  "depth": "s",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "feels_safe"
+  ],
+  "text": "I can see everything. That's good.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-009",
+  "topic": "stokvel_records",
+  "sentiment": "U",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [],
+  "text": "I only look at my own payments. The rest is the treasurer's job.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-010",
+  "topic": "stokvel_records",
+  "sentiment": "U",
+  "depth": "r",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "edit_records"
+  ],
+  "text": "Our rule is if you're late, you pay R50 fine. The app doesn't know about our fines. So I keep the fines in my notebook and the payments on the app. Two places. Better than before, but not finished.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-011",
+  "topic": "stokvel_records",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "treasurer"
+  ],
+  "tags": [
+   "navigation"
+  ],
+  "text": "To see who paid in March I must go month by month. I want one page with everyone and all the months, like my notebook.",
+  "implies_quit": false,
+  "implies_ok": false
+ },
+ {
+  "id": "stokvel_records-012",
+  "topic": "stokvel_records",
+  "sentiment": "N",
+  "depth": "m",
+  "fits": [
+   "member"
+  ],
+  "tags": [
+   "trust_doubt"
+  ],
+  "text": "When the treasurer took out money for the funeral, it didn't say what it was for. Just \"withdrawal R5,000\". Now people are talking.",
+  "implies_quit": false,
+  "implies_ok": false
+ }
+]

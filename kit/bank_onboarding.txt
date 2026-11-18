@@ -1,0 +1,174 @@
+# FORMAT  sentiment|depth|fits|tags|text
+# sentiment: P positive, U neutral or mixed, N negative
+# depth: s short (under 15 words), m medium (15-40), r rich (40+)
+# fits: * = anyone; otherwise ALL listed traits must hold (low high old young grant informal foreign feature prof parent treasurer member rural prepaid lowinc)
+# tags: design findings this line speaks to
+# slots: {other_bank} {family} {data_amount} {place} {amount} {minutes} {bank}
+
+## registration
+N|r|prepaid|data_heavy|The app is big. I started downloading it at home and it finished almost my whole {data_amount} bundle before it even opened. Then it wanted an update straight away. I didn't even get to see what it does yet.
+N|m|feature|device_limit|My phone can't take apps. The lady at the branch said I must just download it. I told her, with what?
+N|m|*|too_many_steps|It asked me to make a username, then a password, then a PIN, then another PIN for the app. Why four things? I'm going to forget at least two of them.
+N|r|*|error_unclear,hidden_info|The password rules only came up after I got it wrong. Eight letters, a capital, a sign... why not tell me before I start typing? I tried three times and then it said I must wait.
+U|m|*|doc_burden|Downloading was fine. Signing up took me long, maybe {minutes}, because I had to go find my ID in the drawer. Not really the app's fault.
+P|m|*|quick|It was quicker than I thought. I put my number, got the SMS, and I was in. I was expecting a whole long story.
+P|r|old|guided,large_text|My granddaughter helped me with the first part but after that I did it myself. The writing is big enough and it tells you one thing at a time. It didn't rush me, that I liked.
+N|m|old|small_text|The letters are too small for me. I had to take off my glasses, put them back. Some of the buttons I didn't even see they were buttons.
+U|s|*|-|It's okay. Normal app stuff.
+N|m|*|crash,lost_progress|It closed by itself twice when I went out to check my SMS. Each time, back to the beginning.
+P|m|high|quick|Smooth, honestly. Fingerprint setup was one tap. I've seen worse from banks.
+N|r|high|slow|For a bank app now it feels slow. Every screen loads like it's thinking about it. Same phone, {other_bank} opens faster.
+U|r|*|trust_doubt|I wasn't sure if it's the real app because there were two that looked the same in the store. I checked the reviews first. Maybe put something that shows this is the real one, because people get scammed like that.
+N|m|low|unclear_words|It said "create your profile". I didn't know if that's the same as opening an account or something else. I just pressed next.
+P|s|*|simple|Easy. Didn't need help.
+N|m|*|navigation|After I registered it took me to a screen with lots of things and I didn't know what to press to actually open the account.
+U|m|young|-|It works. Nothing special, nothing bad. I just wanted it done so I could get my money in.
+P|r|low|guided,clear|I'm not good with phones but this one I managed. Every page had one question only. When I made a mistake it showed me where, in red. I didn't have to call {family}.
+N|r|prepaid,rural|slow,network|Where I stay the network comes and goes. Every time it dropped, the app said "something went wrong" and I had to start again. I tried in the morning, I tried at night. In the end I went to town to use the wifi at the mall.
+U|m|foreign|doc_burden|Registering was easy until it asked for my ID number. I don't have a South African ID. There was no place for a passport, so I stopped there.
+N|s|*|too_many_steps|Too many screens just to say hello.
+P|m|*|feels_safe|I liked that it sent an SMS to check it's me. It makes me feel it's not just anybody who can open in my name.
+
+## personal_details
+N|r|*|retype|I typed my name, surname and ID number, and then two screens later it asked for my surname again. Then my date of birth, which is already in the ID number. Don't you have it already?
+N|m|low|unclear_words|There was a question "marital regime" or something like that. I didn't understand it. I chose the first one.
+U|m|*|-|Normal questions. Name, address, email. It's long but I understand why the bank wants it.
+N|m|lowinc|no_email|It wanted an email address and I don't have one. I made one quickly on Gmail but now I don't remember the password for that either.
+P|m|*|autofill|It already filled my name and birthday from the ID. I just checked and pressed next. That was nice.
+N|r|rural|address_format|My address doesn't fit the boxes. We don't have a street number at home, it's a stand number and the village name. It kept saying invalid address. I ended up putting my aunt's address in town.
+N|m|*|cluttered|One page had like ten boxes. On a small phone that's a lot of scrolling and I missed one, so it shouted at me in red at the bottom.
+P|s|*|quick|Fast. Just the basics.
+U|r|*|too_much_info|Why does it need to know my race and my marital status just to open an account? I answered, but I don't like it. Maybe say why you need it.
+N|m|old|small_text,keyboard|The keyboard covered the box I was typing in, so I couldn't see what I was writing. I just hoped it was right.
+P|r|low|clear,examples|I liked that it showed an example under each box, like "e.g. 0821234567". I always get confused about putting the 0 or the 27. This time I knew.
+N|s|*|error_unclear|It said "invalid" but not what's wrong.
+U|m|informal|employment_mismatch|It asked for my employer's name. I don't have an employer, I sell. I wrote "self" and it went through, so I guess it's fine.
+N|r|*|lost_progress|I was halfway when a call came in. When I came back everything I typed was gone. I swear I nearly threw the phone. I did it again but only because I really need the account.
+P|m|*|saved_progress|I left it in the middle to cook and when I came back it was still there where I left. That I didn't expect.
+U|s|*|-|Just forms. Fine.
+N|m|foreign|doc_burden|It only accepts a 13-digit ID. My permit number has letters, so it won't take it. There's no other option.
+U|m|parent|-|I did it while the kids were busy. It's long but at least I could stop and start.
+
+## id_capture
+N|r|*|camera_fail|It kept saying "image unclear, try again". I tried by the window, I tried with the light on, I put the ID on a white page. Like eight times. At the end I gave up and tried again the next day and it worked first time. I don't know what changed.
+N|m|old|camera_fail,old_id|My ID is the green book. It's old and the photo page is a bit faded. The app couldn't read it. Must I go to Home Affairs just to open a bank account?
+P|m|*|quick,guided|The frame on the screen showed me exactly where to put the card. It took the picture by itself. Easy.
+U|m|*|-|It took three tries but it worked. The first ones my hand was shaking.
+N|m|feature|device_limit|My phone camera is not good. Everything comes out blurry. I had to use {family}'s phone for the picture.
+P|r|high|quick,feels_safe|I liked that it scanned the Smart ID front and back and then checked it with Home Affairs straight away. I got a tick within seconds. That's how it should work.
+N|s|*|camera_fail|The camera part took forever.
+N|r|prepaid|data_heavy,slow|Each time it uploaded the photo it took long and I could see my data going down. Then it failed and I had to take it again and upload again. I felt like I was paying the bank to open the account.
+U|r|*|hidden_info|I wasn't sure if it wanted the front only or the back as well, so I took both. Then it asked again for the back. Maybe tell me upfront: front, then back.
+N|m|foreign|doc_burden|There's no option for a passport. Only SA ID, green ID or Smart ID. So what do people like me do?
+P|s|*|simple|Took a picture, done.
+N|m|*|error_unclear|It said "document not supported". My Smart ID is new. Not supported how?
+P|m|low|guided|I was scared for this part but it told me "hold still" and it just took it. I didn't even have to press.
+U|m|*|trust_doubt|I don't like taking photos of my ID on an app. You hear about people's IDs being used for loans. But it's a bank, so okay.
+N|r|*|camera_fail,lighting|At night in my room there's only one globe, so the picture had a shine on the card and it kept rejecting. It never said it's the light. I only figured it out because {family} told me.
+P|m|*|good_errors|When it didn't work it told me "move away from the light, the card has a reflection". I moved and it worked. At least it told me why.
+U|s|young|-|Fine. Standard ID scan.
+N|m|*|crash|The app froze on the camera screen. I had to close it and the whole thing started from the beginning.
+
+## selfie
+N|r|*|camera_fail,unclear_instructions|The selfie part, eish. It said blink, then turn your head, then smile. I did it and it said "liveness check failed". I don't even know what that means. I tried five times, then I stopped.
+P|m|*|quick|The selfie was quick. I just looked at the camera and it did its thing.
+N|m|old|camera_fail|I'm not used to taking pictures of myself. My hands shake. By the time I was in the circle it said time's up.
+U|m|*|trust_doubt|I did it but I'm not happy about a bank having my face. Where does that picture go after?
+N|m|*|camera_fail|It says my face doesn't match my ID. The ID photo is from when I was 16! Of course I look different.
+P|r|low|guided,clear|I liked that it showed a little picture of what to do first, like a cartoon person turning their head. So when it was my turn I already knew. My first time doing this, and it worked.
+N|s|*|camera_fail|Face thing didn't work. Tried a lot.
+N|r|parent|interruptions|My daughter kept walking into the camera because she wanted to see. Then the dog barked and I turned. It failed every time I moved even a little. You need a quiet room for this thing, and in my house there isn't one.
+U|m|*|-|The face scan worked the second time. First time I had my cap on, my mistake.
+N|m|feature|device_limit|The front camera on my phone is very bad. I had to borrow {family}'s phone, then the app said it's a new device and wanted the SMS again.
+P|s|high|quick|Face check done in seconds. Nice.
+N|m|*|wait_unclear|After the selfie it said "verifying" for very long. I didn't know if I must wait or if it was stuck. I waited ten minutes and closed it.
+U|r|female|unclear_words|It said "please ensure adequate lighting and remove accessories". I took off my earrings, but I didn't know if my doek counts. Then I took that off too just to be safe.
+P|m|*|good_errors|When it failed it told me "try again with your face closer". The second time it was fine.
+N|m|*|scam_fear|Last year someone opened accounts using my name. Now an app wants my face? I want to do this in a branch, with a person.
+
+## otp
+N|r|rural,prepaid|otp_fail,network|The OTP took more than five minutes to come. By the time it came the app said it expired. I pressed resend and the same thing. Where I stay the network is bad in the evening. Third time I went outside and stood by the gate and then it worked.
+N|m|*|otp_fail|I asked for the code three times and then it said I'm blocked for 24 hours. I didn't even do anything wrong, the SMS just didn't come.
+P|s|*|quick|OTP came straight away. Good.
+P|m|*|autofill|It read the SMS code by itself, I didn't even have to type it. That's nice.
+U|m|*|-|The OTP came, a bit slow, but it came.
+N|m|*|otp_confusing|I got two SMSes with two different codes and I didn't know which one is the right one. I used the first one. Wrong.
+N|m|feature|device_limit|My SIM is in the old phone and the app is on the other phone. So I was running between two phones to get the code.
+N|r|*|scam_fear|The SMS said "never share this code with anyone". Then the app asked me for the code. I stopped there because I thought, is this a scam? Only later {family} explained it's okay to put it in the app, just not tell a person.
+U|s|*|-|Normal OTP.
+N|m|*|otp_fail,no_human|It wanted the code sent to my old number. I don't use that number anymore and there was no way to change it in the app. I had to go to the branch.
+P|m|old|clear|It told me "we sent a code to 082... check your SMS". So I knew exactly where to look. Some apps don't say.
+
+## proof_of_address
+N|r|*|doc_burden|Proof of address is my biggest problem. The house is in my mother's name, the electricity is prepaid, so there's no bill. I rent a room, there's no lease. Where must I get proof of address from? I stopped there.
+N|m|informal|doc_burden|I don't have a bill in my name. Everything is in my landlord's name. I sell at the taxi rank, nobody gives me letters.
+U|m|*|doc_burden|I had to go ask the councillor's office for a letter. It took two days but they gave me one. The app took it. Long story for one paper.
+P|m|*|doc_alternative|I liked that I could just type my address and say "I live here" without uploading a bill. That made it easy, because I don't have bills.
+N|m|*|hidden_info|It never said at the beginning that I'll need proof of address. If it did I would have got it ready. Now I'm stuck in the middle.
+N|r|foreign|doc_burden|They want proof of address but the landlord won't give me anything in writing because he doesn't want problems with SARS. So I can't open the account, and I can't get paid into an account. It's a circle.
+U|s|*|-|Uploaded my municipal account. Fine.
+P|r|low|doc_alternative,clear|It said if you don't have a bill, you can use an affidavit from the police station, and it even showed what the affidavit must say. I went to the police station in the morning and finished in the afternoon.
+N|m|*|camera_fail|It wanted a PDF. My bill is paper. I took a photo but it said wrong format. How do I make a PDF on my phone?
+N|m|*|doc_burden,date_rule|It said the bill must be less than three months old. Mine is from four months ago. Now I must wait for the next one.
+U|m|parent|doc_burden|I used my child's school letter with my address. I wasn't sure it will work but it did. Lucky.
+N|s|*|doc_burden|Proof of address. That's where I stopped.
+
+## employment_income
+N|r|informal|employment_mismatch|It asked "who is your employer" and "what's your monthly salary". I sell vetkoek. Some days I make R400, some days R50. There's no box for that. I chose "self-employed" and then it wanted a company registration number.
+N|m|grant|unclear_words|There was no option for SASSA. I had to choose "other" and then type it. It made me feel like my money is not real money.
+P|m|*|clear|The income questions were simple. Just pick a range, not the exact amount. I liked that.
+U|m|*|too_much_info|It asked how much I earn and what I spend. I don't know what I spend exactly, I just guessed. I hope it doesn't matter.
+N|m|lowinc|trust_doubt|Why does a bank want to know my income for a normal account? I'm not asking for a loan.
+P|s|prof|quick|Payslip upload, done.
+N|r|*|doc_burden|It wanted three months of bank statements to prove my income. But the reason I'm opening the account is because I don't have a bank account. Where must I get statements?
+U|m|young|employment_mismatch|I'm a student and I do deliveries on the side. I didn't know which one to choose. Student or self-employed? I chose student.
+N|m|salaried|unclear_words|"Source of funds" and "source of wealth"... are those not the same thing? I put salary in both.
+P|m|grant|clear|It had "social grant" as an option. That was nice, I didn't have to explain.
+U|s|*|-|Answered. Nothing to say.
+N|m|salaried|retype|It asked my employer twice, once in the details and once here. Like nobody is reading.
+
+## product_choice
+N|r|*|too_much_info,cluttered|There were four accounts and each one had a list of things. I read them, I didn't see the difference. They all say "free" this and "R5" that. In the end I chose the one in the middle because I didn't want the cheapest, and I didn't want the expensive one.
+P|m|*|clear|It just asked me what I need it for, salary, saving or business, and then it showed me one account. Didn't have to compare.
+U|m|*|fees_unclear|I chose the free one. I hope it's really free. These things always have small costs later.
+N|m|low|jargon|"Monthly management fee", "pay-as-you-transact"... I don't know these words. Just tell me how much it costs per month.
+P|r|informal|relevant|I liked that there was one for people who sell. It said I can see my sales and the money separate from my own money. That's exactly my problem at home, everything mixes.
+N|m|*|navigation|I chose one, then I wanted to go back and look at the other one again, and it took me back to the start.
+U|s|*|-|Picked the basic one.
+N|m|young|fees_unclear|The savings one had an interest rate but it didn't say what I'll actually get on, like, R500. Percent means nothing to me.
+P|m|prof|clear|The comparison table was clear. I could see the fees side by side. Took me a minute to decide.
+U|r|*|trust_doubt|I wanted to ask somebody which one is better for me but there was no one to ask. At the branch you can ask the lady. Here I'm alone with my phone.
+N|m|*|upsell|It kept pushing the credit card. I said no twice and it asked again on the next page.
+
+## fees
+N|r|*|fees_unclear,hidden_info|The fees were at the bottom in small letters. I only saw them after. Cash withdrawal R10, notifications R1 each... for me R10 is a loaf of bread. These things must be at the top.
+P|m|*|fee_upfront|It showed me straight away, "this account costs R7.50 a month". One number. That's all I wanted to know.
+N|m|lowinc|fees_unclear|I'm scared of fees. My last bank took money every month and I didn't know for what. Here also I don't really understand.
+U|m|*|-|Fees look okay, same as other banks more or less.
+N|s|*|fees_unclear|Too many small fees. I can't follow.
+P|r|grant|fee_upfront,clear|It said I can draw my grant money for free at the shops. That's important to me because my grant is small and I don't want R10 taken every time.
+U|m|high|fees_unclear|The fee page is fine, but it would help if it said what I'd pay in a normal month based on what I do. Like an estimate.
+N|m|*|jargon|"Excluding VAT"... so how much is it with VAT? Just give me the real number.
+
+## consent_terms
+U|s|*|skipped|I didn't read it. Nobody reads that.
+N|m|*|too_much_info|It's like twenty pages. On a phone. I just scrolled down and ticked.
+N|r|*|scam_fear,trust_doubt|There was a box that said I agree they can share my information with "partners". Which partners? I don't want people calling me selling insurance. I ticked because it won't let me go further without ticking.
+P|m|*|clear|I liked the short version with five points. I actually read those. The long one I didn't.
+U|m|low|unclear_words|I ticked everything. I don't know what I agreed to, honestly.
+N|m|*|forced_consent|The marketing tick was already ticked. That's sneaky. I unticked it.
+P|s|*|clear|Short and clear. Good.
+U|m|old|-|I asked my son to read it for me. He said it's normal. So I agreed.
+
+## account_ready
+P|r|working|confirmation_clear,quick|When it said "your account is open" with my account number right there, I was happy. I screenshot it and sent it to my boss the same day so I can get paid. That's what I needed.
+P|m|*|confirmation_clear|It showed my account number and a button to share it. Easy.
+U|m|*|wait_unclear|It said "we're reviewing your application, we'll let you know". It's been two days. I don't know if it's yes or no.
+N|r|*|card_collection|The account is open but the card I must go fetch at a branch. The nearest one is in town, R30 taxi there and back. So what's the point of opening on the app?
+P|m|*|virtual_card|It gave me a card on the phone straight away. I could use it before the real card even comes. That's clever.
+N|m|*|wait_unclear|It said "pending". Pending what? For how long? Must I do something?
+U|s|*|-|Done. Account open.
+N|m|*|confirmation_missing|It finished, but I never got an SMS or email that it's done. I didn't trust it until I checked the next day.
+P|r|old|confirmation_clear|At the end it told me exactly what happens next: card comes in 5 days, I'll get an SMS, I can collect at Boxer. I like when I know what happens next. I didn't have to phone anyone.
+N|m|*|navigation|After it said done, I couldn't find my account number again. I had to look all over the app.
+P|s|young|quick|Opened in like ten minutes. Not bad.

@@ -1,0 +1,160 @@
+## navigation
+N|r|*|navigation|Everything is hidden behind the three lines at the top. I spent five minutes looking for "statement". In the end I found it under "Documents", which I would never think of.
+P|m|*|simple|The main things are at the bottom, big buttons: pay, buy, cards. I don't have to search.
+N|m|old|navigation|I pressed something and ended up somewhere I didn't want. Then I couldn't find the way back to the start. I closed the app and opened it again.
+U|m|*|-|I'll get used to it. The first time is always confusing with a new app.
+N|m|*|no_back|There's no back button on some pages. My phone's back button closes the whole app.
+P|s|*|simple|Easy to find things.
+N|m|high|navigation|Too many menus inside menus. I just want search. Let me type "statement" and go there.
+U|m|low|-|I only use three things in the app. The rest I don't touch. So it's fine for me.
+
+## language_words
+N|r|low|jargon|The words are bank words. "Debit order mandate", "available versus current balance"... I have money or I don't have money. Why are there two balances? Nobody ever explained that to me.
+P|m|*|clear|It talks normal. "Send money", "your money", not those big bank words. I liked that.
+N|m|*|language|I wanted it in Sesotho. I can read English but in my language I understand faster, especially the money things.
+U|m|*|-|English is fine for me. Some words are long but I get it.
+N|m|old|jargon|What is "authenticate"? Just say "check it's you".
+P|m|low|language,clear|I could switch it to isiZulu. Not everything was in isiZulu, but the main parts were. My mother can also use it now.
+N|s|*|jargon|Too many bank words.
+U|r|*|language|The isiXhosa translation is a bit strange. It's like someone used Google. My English is better than that isiXhosa, so I put it back to English. But for older people it's still good that it's there.
+
+## speed_data
+N|r|prepaid|data_heavy|Every time I open the app it loads pictures and adverts. I'm paying for that data. Just show me my balance. I check my balance more than anything, and each time it's eating my data.
+P|m|prepaid|data_free|I saw it doesn't use my data, it says "zero-rated". That's why I use the app now instead of going to the ATM.
+N|m|*|slow|It takes long to open. The circle just keeps going around. In the queue at the till I don't have that time.
+P|s|*|quick|Fast. Opens quickly.
+U|m|*|-|Speed is okay. Sometimes slow in the evening, but my network is also slow then.
+N|m|rural|network|In my area the app just says "no connection" even when WhatsApp is working. WhatsApp works, the bank doesn't. How?
+N|m|feature|device_limit|My phone is old and the app is heavy. It hangs every time. I've stopped using it, I use the USSD code instead.
+
+## errors_recovery
+N|r|*|error_unclear,no_human|It said "Error 4021. Please try again later." What is 4021? Later when? I tried later. Same thing. There's no number to call on that screen, nothing. I just gave up and went to the branch on Saturday.
+P|m|*|good_errors|When something went wrong it told me in normal words what happened and what to do. "Your ID photo is blurry, try again in better light." That I can fix.
+N|m|*|lost_progress|An error came and everything I filled in was wiped. Start again from zero.
+U|m|*|-|One error, I tried again, it worked. Normal.
+N|s|*|error_unclear|"Something went wrong." Thanks.
+N|m|*|blame|The error message made me feel like I did something wrong. "Invalid input." I typed what it asked.
+P|m|*|saved_progress|It failed at the end but when I came back, everything was still there. I just pressed submit again.
+
+## security_trust
+P|r|*|feels_safe|I like that it asks for my fingerprint before paying. My children play games on my phone. Now I know they can't send money by mistake.
+N|r|scam_fear|scam_fear|I don't trust doing banking on the phone. My neighbour lost R8,000 because someone phoned her pretending to be the bank. Now when the app asks for a code, I get scared. Even if this one is real, how do I know?
+N|m|*|too_much_security|Too much security. PIN, then OTP, then fingerprint, for R50 airtime. I understand safety but it's too much for small things.
+P|m|old|feels_safe|It showed a message "the bank will never phone you to ask for your PIN". That's good, older people need to be reminded.
+U|m|*|-|It feels safe, I think. I don't really know how to tell.
+N|m|*|trust_doubt|It wanted access to my contacts, my location and my photos. Why does a bank want my photos?
+P|s|*|feels_safe|Feels safe. Good.
+U|r|*|trust_doubt|I'm half-half. The app looks proper, but you hear so many stories. I keep only a little money in the account and the rest I keep in the stokvel. Maybe after some months I'll trust it more.
+
+## help_support
+N|r|*|no_human|The chat is a robot. I asked my question three different ways and it kept sending me the same link. I wanted a person. When I finally got the number, it was 40 minutes waiting with that music. My airtime finished.
+P|m|*|helpful_help|I sent a WhatsApp and a real person answered in a few minutes. Sorted out my problem. That I didn't expect from a bank.
+N|m|*|no_human|There's no "call me" option. I don't have airtime to phone them.
+U|m|*|-|I didn't need help, so I don't know.
+P|m|low|helpful_help|There was a little video showing how to do it. I watched it twice and then did it myself.
+N|m|*|navigation|I looked for help and couldn't find it. Help must be on every page, not hidden.
+
+## look_feel
+P|m|*|nice_look|It looks clean, not too busy. Colours are nice. It looks like a proper bank.
+N|m|old|small_text,low_contrast|The grey writing on the white is hard to read in the sun. I stood in the shade to read.
+N|m|*|cluttered|The home screen has adverts for loans and insurance everywhere. I just want to see my money.
+U|s|*|-|Looks fine.
+P|m|young|nice_look|Looks modern. Better than the old app. Dark mode is nice.
+N|r|old|small_text,accessibility|I made the letters big on my phone but the app doesn't follow. Everything else on my phone is big, then I open the bank app and it's tiny again. My eyes are not what they were.
+P|m|*|large_text|The buttons are big. Even with my big thumbs I don't press the wrong one.
+N|m|*|too_much_info|There's too much on one screen. Numbers, graphs, tips... my head gets tired.
+
+## overall
+P|r|*|-|Honestly, better than I expected. I've had bad stories with banks, so I was ready for a fight. It took me maybe {minutes} and I didn't have to go anywhere. I'd tell my sister to try it.
+P|m|*|-|It worked. That's the main thing. I'm not good with apps and I managed.
+P|s|*|-|Nice. I'll use it.
+U|r|*|-|Some parts were nice, some parts I struggled. The start was easy, the middle with the papers was hard, the end was okay. If I had my papers ready it would be quick. Next time I'll know.
+U|m|*|-|It's okay. Not bad, not great. Like most bank apps.
+U|s|*|-|It's fine I guess.
+U|m|*|-|I don't know. I did what it said. I don't know if I did it right.
+N|r|*|-|It took me {minutes} and I'm still not done. At the branch it would have been one visit, even with the queue. I don't see why I must struggle on my phone when there's a branch.
+N|m|*|-|Too long, too many questions, too many things that didn't work. I'll go to the branch.
+N|s|*|-|Wasn't for me.
+N|m|lowinc|-|It feels like this app was made for people with good phones and payslips. People like me, it doesn't think about us.
+P|m|old|-|I was scared but it was okay. I'll show my friends at church.
+U|m|young|-|It's decent. I'd use it if my friends are on it too, that matters for sending money.
+
+## masked
+# said by people who struggled or quit but play it down (politeness_bias High)
+U|s|*|masked|No, it was fine. I'll finish later.
+U|m|*|masked|It was okay. I just didn't have time today, I'll do it on the weekend.
+U|m|*|masked|It's good, it's just me. I'm not good with these phone things.
+P|s|*|masked|No, it's nice. I'll get there.
+U|m|*|masked|I think it's fine. My phone was the problem, not the app.
+U|m|*|masked|It was okay, I'll ask my son to help me finish.
+U|s|*|masked|It's fine. No problem.
+
+## suggestion
+# answers to "what would you change?" Many people don't have one.
+U|s|*|none|I don't know. Nothing really.
+U|s|*|none|I don't know what to change. Maybe make it shorter?
+U|s|*|none|Nothing, it's fine.
+N|m|*|doc_burden|Tell me at the beginning which papers I need. Then I can get them first and not stop in the middle.
+N|m|*|too_many_steps|Make it shorter. Ask me only the important things today, the rest later.
+N|m|*|retype|Don't ask me the same thing twice.
+N|m|*|data_heavy|Make it not use so much data. Or free data for the bank app.
+N|m|*|no_human|Put a button that says "call me back" so a person phones me.
+N|m|*|jargon|Use normal words. Like how you'd explain to your granny.
+N|m|*|fees_unclear|Show me the fees before I press pay, in big letters.
+N|m|*|camera_fail|If the picture doesn't work after three times, let me send it a different way, or let someone check it.
+N|m|*|small_text|Bigger writing, please.
+N|m|*|language|Put it in my language.
+N|m|*|lost_progress|Save what I typed, so when I come back I don't start again.
+N|m|*|otp_fail|If the SMS doesn't come, give me another way, like a call.
+N|m|*|error_unclear|When something goes wrong, tell me what went wrong in normal words.
+N|m|*|navigation|Put the things people use at the front. Don't hide them.
+N|m|*|scam_fear|Show me something that proves it's really the bank, so I know it's not a scam.
+N|m|*|cluttered|Less adverts. Just my money and the buttons.
+N|m|*|wait_unclear|If I must wait, tell me how long.
+N|m|*|device_limit|Make something for people who don't have smartphones. Not everyone has an iPhone.
+N|m|*|doc_alternative|Let me use another thing as proof of address, like a letter from the chief or the school.
+N|m|treasurer|reconciliation|Let me add the cash payments myself so the record is right.
+N|m|member|payment_timing|Let each person choose their own payment date. We don't all get paid on the same day.
+P|m|*|-|Keep it like this. Just maybe a bit faster.
+N|m|*|limits|Tell me my limits before I hit them.
+
+## addon_lead
+# prepended to a comment. fits: as above. sentiment: which sentiments it can join (P/U/N or * for all)
+N|m|prepaid|-|My data was almost finished, so I was rushing.
+*|m|*|-|I did it in the {place}, so I was a bit distracted.
+*|m|parent|-|I did this with the kids running around, so I was in and out.
+*|m|old|-|My eyes are not so good anymore, so I took my time.
+*|m|low|-|I'm not so clever with phones, I must be honest.
+*|m|high|-|I do everything on my phone, so I compare with other apps a lot.
+N|m|*|-|I was already in a bad mood because the last bank gave me problems.
+*|m|informal|-|I did it between customers, so I kept stopping.
+*|m|grant|onb|I wanted to do this before my grant comes in, so I can get it straight into the account.
+*|m|foreign|-|For people like me who are not from here, banking is always a struggle.
+*|m|working|-|I did it on my lunch break, so I didn't have a lot of time.
+*|m|rural|-|Where I stay the network is not always there.
+*|m|young|onb|I just wanted to get my salary account open.
+*|m|*|-|{family} was sitting next to me.
+
+## addon_tail
+# appended to a comment
+N|m|prepaid|-|And all of that while my data is running out.
+N|m|*|-|By then I was tired and just wanted it over.
+N|m|old|-|I'm too old to be fighting with a phone.
+N|m|parent|-|With kids, you don't have time for this.
+N|m|*|-|I nearly went to {other_bank} instead.
+N|m|*|-|I'll still finish it, but I wasn't happy.
+N|m|low|-|In the end I called {family} to help me.
+N|m|*|-|If it was a bigger amount I wouldn't even try it on the app.
+N|m|foreign|-|This always happens to us foreigners.
+N|m|informal|-|I lost two customers while I was busy with this.
+P|m|*|-|I'll tell {family} about it.
+P|m|old|-|Even me, I managed.
+P|m|*|-|That made me feel better about the whole thing.
+P|m|prepaid|-|And it didn't finish my data, which I was worried about.
+P|m|low|-|I didn't need to ask anyone, which is a first.
+P|m|*|-|{other_bank} could learn from that.
+U|m|*|-|But it's a bank, they're all like that.
+U|m|*|-|I'll see how it goes after a few months.
+U|m|*|-|Anyway, it's done.
+U|m|*|-|Maybe it's just me.
+*|m|*|-|That's what I remember anyway.

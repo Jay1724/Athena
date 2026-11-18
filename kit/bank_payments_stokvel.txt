@@ -1,0 +1,92 @@
+## beneficiary
+N|r|*|too_many_steps,unclear_words|To add my landlord I needed the account number, the bank, the branch code and a "reference". He only gave me the account number on WhatsApp. I had to message him again and wait. By then I had forgotten what I was doing in the app.
+P|m|*|quick,autofill|I just picked the bank and it filled the branch code by itself. I remember when you had to know the branch code. This is better.
+N|m|*|scam_fear|It added the person but I wasn't sure if the name is right. It doesn't show me the name of the account owner. What if I typed one number wrong and the money goes to a stranger?
+P|r|*|feels_safe,confirmation_clear|When I put the account number it showed "account holder: T Mokoena". That's my sister, so I knew it's correct. That made me relax, because I made a mistake once at another bank and never got that money back.
+U|m|*|-|Adding someone took a bit but it's a once-off thing, so it's fine.
+N|m|low|unclear_words|"Recipient reference" and "my reference"... which one does the other person see? I always mix them up.
+N|s|*|otp_fail|It wanted an OTP just to add a person. Then another one to pay. Too much.
+P|m|*|simple|I added my mother with just her cellphone number. Didn't need her account details. Nice.
+U|m|informal|-|Most people I pay are not in a bank. So beneficiaries don't really help me.
+N|m|*|navigation|I couldn't find where to add a new person. It's hiding under "Transact", then "Pay", then a plus at the top. Why not just "Add person"?
+
+## eft_payment
+P|r|*|quick,confirmation_clear|I paid my rent in like a minute. Choose the person, put the amount, it shows the summary, I confirm, done. And then it showed the proof of payment straight away so I sent it to the landlord on WhatsApp.
+N|m|*|wait_unclear|The money left my account but the other person didn't get it until the next day. It never said it will take long. My landlord thought I was lying.
+N|r|*|fees_unclear|It only told me there's a fee for immediate payment after I already pressed pay. R10 for my R{amount}? If I knew, I would have chosen the normal one. Show me the fee before, not after.
+U|m|*|-|Paying is fine. I've done it many times on other apps, it's the same.
+N|m|old|small_text|The confirm button is right next to cancel and both are small. I pressed cancel by mistake twice.
+P|s|*|quick|Fast. Easy. No complaints.
+N|m|*|limits|It said I'm over my limit. What limit? I never set a limit. And it didn't tell me how to change it.
+N|r|lowinc|fees_unclear,trust_doubt|Every time I pay it takes money for the payment. When you only have R{amount} you feel every rand. I've started taking out cash and paying people cash, it's cheaper.
+P|m|*|clear|I liked that it said "your money will arrive in 1-2 days" before I paid. So I knew to pay earlier.
+N|m|*|crash|In the middle of paying the app said "session expired". Did it go or not? I had to call the bank to check.
+U|m|young|-|It works but it's a lot of taps for something I do every week. Let me save my rent payment and just press it.
+P|m|*|repeat_payment|There's "pay again" next to last month's payment. I just pressed it. Took ten seconds.
+N|s|*|error_unclear|"Transaction could not be completed." Why?
+
+## bills_airtime
+P|m|prepaid|quick|Buying data is easy, three taps. I do it every few days so that matters.
+N|r|*|electricity_fail|I bought electricity and the money went off but the token didn't come. I waited an hour. Meanwhile we're sitting in the dark. Then I got the token by SMS late at night. It never told me there's a delay.
+P|r|*|saved_meter,quick|It remembers my meter number. Before I always had to go find the little card on the meter box outside. Now it's just "buy again". That's the thing I use the most.
+U|m|*|-|Airtime and data is fine. Same as everywhere.
+N|m|*|cluttered|There are too many bundles to choose from. Daily, weekly, monthly, night, social... I just want normal data.
+N|m|old|unclear_words|The token came with 20 numbers. I didn't know if I must type all of them in the meter. Spaces or no spaces?
+P|s|*|simple|Electricity in a minute. Good.
+N|m|*|navigation|Where's electricity? I looked under "Pay" and it wasn't there. It's under "Buy". To me paying for electricity is paying.
+
+## cash_send
+P|r|*|relevant,quick|I send money to my mother in Limpopo every month. She doesn't have a bank account. Here I put her number, the amount, and she gets an SMS with a PIN and she draws at Shoprite. It's cheaper than taking a taxi to go give her the money.
+N|m|*|fees_unclear|The fee for sending R200 was R10. That's 5 percent. It said it nowhere until the end.
+N|r|*|error_unclear,trust_doubt|My brother went to the till to draw the money and the cashier said the PIN is wrong. I checked, the PIN was right. He stood there with people behind him. It worked the second day. I don't know what happened and the app said nothing.
+U|m|*|-|Cash send works. Nothing special.
+P|m|foreign|relevant|I can send money to my wife and she can draw it at the shop. Before I used a guy who charges a lot. This is cheaper.
+N|m|*|limits|There's a limit of R3,000. I wanted to send for school fees and I had to do it in two goes and pay two fees.
+P|s|*|quick|Sent in a minute. She got it.
+
+## payment_confirmation
+P|m|*|confirmation_clear|The proof of payment opens as a picture and I can share it on WhatsApp. That's what everybody asks for, the POP.
+N|m|*|confirmation_missing|After I paid, it just went back to the home screen. No "done", nothing. I checked my balance to see if it really went.
+N|r|*|pop_format|The proof of payment is a PDF that only opens with some special app. My landlord on his old phone can't open it. I had to screenshot the screen instead and he said it's not proper proof.
+U|s|*|-|Got the confirmation. Fine.
+P|m|old|confirmation_clear|It showed in big letters "Payment successful" with a tick and the amount. That's all I need to see.
+N|m|*|notification_spam|After I paid I got an SMS, an email and a notification all saying the same thing. One is enough.
+
+## stokvel_setup
+P|r|treasurer|relevant,simple|Making our stokvel group on the app was easy. I put the name, how much each person pays, the day, and then it gave me a link to share on our WhatsApp group. By the evening nine of our twelve members had joined.
+N|r|treasurer,female|doc_burden|To open the group account it wanted the constitution, minutes from a meeting, and IDs of three signatories. We are twelve ladies who've been doing this for eleven years with a notebook. We don't have minutes. It made us feel like we're not proper.
+N|m|member|trust_doubt|The chairlady sent a link and said join. I didn't click straight away because these days links on WhatsApp are scams. I first phoned her to check.
+U|m|*|-|Setting up took some time, but it's a once-off. We'll see how it works month to month.
+N|m|treasurer|device_limit|Two of our members don't have smartphones. They can't join the app. So now we're half on the app and half paying cash to me, which is worse than before.
+P|m|treasurer|relevant|I liked that I could choose the rules: how much, which date, and the order of who gets paid out. It's like our notebook but on the phone.
+N|m|treasurer|unclear_words|It asked "is the group a legal entity". I don't know. We're a stokvel. Is that a yes?
+U|s|member|-|Joined. My sister did it for me.
+N|m|member|cross_bank|I'm with {other_bank}. It wanted me to open an account at this bank to join. I don't want two banks just for the stokvel.
+P|m|member|feels_safe|What I liked is that the money goes into a group account and not into somebody's personal account. Last time our treasurer "borrowed" from the stokvel money.
+
+## stokvel_contributions
+P|r|member|confirmation_clear,feels_safe|When I pay my R{amount}, everyone in the group can see I paid. No more arguing at the meeting about who paid and who didn't. That used to cause fights in our stokvel, really.
+N|m|member|fees_unclear|Paying in from my other bank costs me a fee every month. So now my contribution is more than everyone else's.
+N|r|member,lowinc|payment_timing|My grant comes on the 3rd but the stokvel debit order goes off on the 1st. Two months now it bounced and I got charged for that too. I asked the treasurer to change the date and she says the app only allows one date for everybody.
+P|m|member|reminder|It sends a reminder two days before I must pay. I forget easily, so that helps me.
+U|m|member|-|I pay on the app, it's fine. Some months I still give cash at the meeting when I don't have it on the phone.
+N|m|treasurer|reconciliation|Some members pay by EFT with their own reference, like "Mama T" or "stokvel". The app doesn't know who it is. I still have to check every payment one by one.
+P|m|treasurer|reconciliation|It matches who paid automatically and shows me a list with ticks. The ones who didn't pay are in red. I used to spend a whole Sunday with my notebook.
+N|m|member|cash_gap|I sell at the market, so I have cash, not money in the bank. I have to go deposit it first and pay a fee for that, then pay the stokvel.
+U|s|member|-|Paying works. Nothing to say.
+
+## stokvel_payout
+P|r|member|relevant,clear|I could see when it's my turn for the payout, it's in August. I'm planning school uniform for my kids around that. It's nice to see it on the phone and not just remember what the chairlady said.
+N|r|treasurer|approval_burden|For the payout two of us have to approve on the app. The other signatory was in Durban with no data for a week. So the payout was late and the member was very angry with me, not with the app.
+N|m|member|wait_unclear|My payout said "processing" for three days. In December. Everybody needs their money in December.
+P|m|member|quick|The December payout came on the day it said. Straight to my account. No standing in the bank queue with cash in my bag, which is dangerous.
+U|m|member|-|We still do the groceries the normal way. We just use the app to collect.
+N|m|member|fees_unclear|When the payout came, there was less than I expected. There was a fee for the payout. Nobody told us.
+
+## stokvel_records
+P|r|treasurer|reconciliation,clear|I can download a statement for the meeting with every member's payments. I printed it and everybody could see. People trust it more than my handwriting, haha.
+N|m|treasurer|navigation|I can't find the history of last year. It only shows six months. Our year runs from January to December.
+N|r|treasurer|edit_records|One member paid cash at the meeting. There's no way to add that on the app. So the app says she didn't pay and she's upset with me. Cash still happens, the app must allow that.
+U|m|member|-|I just check that my payment shows. I don't look at the rest.
+N|m|member|trust_doubt|I can see the balance but not what money went out and why. The treasurer can see more than us. That's not fair, it's all our money.
+P|m|member|feels_safe|Everyone can see the balance. It stopped a lot of the "where's the money" talk in our group.

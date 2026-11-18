@@ -1,0 +1,10 @@
+{
+ "name": "Pay a new person - concept C",
+ "audience": {"existing_bank_customer": "Yes"},
+ "steps": [
+  {"name": "1. Find 'Pay'", "topic": "navigation", "issues": {"navigation": 2}, "strengths": []},
+  {"name": "2. Add the person", "topic": "beneficiary", "issues": {"unclear_words": 1, "otp_fail": 1}, "strengths": ["autofill", "feels_safe"]},
+  {"name": "3. Amount and pay", "topic": "eft_payment", "issues": {"fees_unclear": 2, "wait_unclear": 1}, "strengths": ["quick"]},
+  {"name": "4. Proof of payment", "topic": "payment_confirmation", "issues": {"pop_format": 1}, "strengths": ["confirmation_clear"]}
+ ]
+}

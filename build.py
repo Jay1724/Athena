@@ -19,7 +19,7 @@ h=re.sub(r'/\*THEME\*/.*?/\*END THEME\*/\s*','',h,flags=re.S)
 if os.path.exists('src/theme.css'):
     h=h.replace('</style>','/*THEME*/\n'+P('theme.css')+'\n/*END THEME*/\n</style>',1)
 bl=list(re.finditer(r'<script>\n(.*?)</script>',h,re.S))
-new=[P('journey.js')+"\n"+P('journey_ui.js')+"\n"+P('flow.js')+"\n"+P('personas.js')+"\n"+P('summary.js')+"\n"+P('design.js')+"\n"+P('voice.js')+"\n"+P('voc.js'),P('model.js'),P('ui.js')]
+new=[P('journey.js')+"\n"+P('journey_ui.js')+"\n"+P('flow.js')+"\n"+P('personas.js')+"\n"+P('summary.js')+"\n"+P('design.js')+"\n"+P('fields.js')+"\n"+P('voice.js')+"\n"+P('pack.js')+"\n"+P('kitbank.js')+"\n"+P('panel.js')+"\n"+P('packview.js')+"\n"+P('voc.js'),P('model.js'),P('ui.js')]
 for b,n in reversed(list(zip(bl,new))):
     h=h[:b.start(1)]+n.rstrip("\n")+"\n"+h[b.end(1):]
 open('index.html','w').write(h)
