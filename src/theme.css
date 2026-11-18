@@ -343,3 +343,4 @@ details.fstep[open]>.fs-sum{border-bottom:1px solid var(--line)}
 .iv.flat{color:var(--mut);font-size:16px}.iv.wait{font-size:12.5px;font-weight:400;color:var(--mut)}
 .ix-s{font-size:13px;padding:0 16px 12px 48px}.ix-s select{font:inherit;font-size:13px;padding:4px;border-radius:6px;border:1px solid var(--line)}
 @media(max-width:760px){.ix-l{grid-template-columns:20px 1fr}.iv{grid-column:2;text-align:left}.ibar{flex-direction:column;align-items:flex-start;gap:6px}}
+.cu-h{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;margin-bottom:10px}.cu-h .iv{min-width:150px}

@@ -89,7 +89,7 @@ function useManual(){
 
 // ---------- run ----------
 function run(){
- const prod=cur();BASE=simJ(prod,ZERO(),P);SCEN=simJ(prod,L,P);
+ const prod=cur();BASE=simJ(prod,Object.assign(ZERO(),{base:1}),P);SCEN=simJ(prod,L,P);
  const ts=$("tslider");ts.max=SCEN.H-1;if(+ts.value>SCEN.H-1)ts.value=SCEN.H-1;
  if(selStep>=prod.steps.length)selStep=0;
  $("hmCmp").style.display=changed()?"":"none";
@@ -251,7 +251,7 @@ function affected(i){const p=cur();if(p.standalone&&["soft","nudge","redirect"].
 // what each fix is worth on its own, at a medium effect: one extra run per fix, cached per flow
 var IVAL={k:"",v:null,busy:false};
 function ideaVals(){const p=cur(),key=p.name+"|"+BASE.cust.length+"|"+BASE.openN;if(IVAL.k===key)return IVAL.v;
- if(!IVAL.busy){IVAL.busy=true;setTimeout(()=>{try{const v={};IDEAS.filter(i=>affected(i)).forEach(i=>{const S=simJ(p,Object.assign(ZERO(),{[i.k]:STR.medium}),P);v[i.k]=(S.openN-BASE.openN)/S.cust.length*1000});IVAL={k:key,v,busy:false}}catch(e){IVAL.busy=false}drawIdeas()},40)}return null}
+ if(!IVAL.busy){IVAL.busy=true;setTimeout(()=>{try{const v={};IDEAS.filter(i=>affected(i)).forEach(i=>{const S=simJ(p,Object.assign(ZERO(),{[i.k]:STR.medium,base:1}),P);v[i.k]=(S.openN-BASE.openN)/S.cust.length*1000});IVAL={k:key,v,busy:false}}catch(e){IVAL.busy=false}drawIdeas()},40)}return null}
 function drawIdeas(){
  // only ideas that can act on this flow are shown; an idea left on from another flow is switched off
  let off=false;IDEAS.forEach(i=>{if(!affected(i)&&IDEA.on[i.k]){IDEA.on[i.k]=false;off=true}});if(off)setL();
@@ -270,15 +270,26 @@ function drawIBar(){const el=$("iBar");if(!el||!BASE||!SCEN)return;const n=BASE.
  el.innerHTML=ch?`<div><b>${on?on+(on===1?" fix":" fixes"):"Your change"}: ${b.toFixed(1)}%</b> of people who start open an account, up from ${a.toFixed(1)}% <span class="${g>=0?"up":"dn"}">(${g>=0?"+":"−"}${f(Math.abs(g))} per 1,000)</span></div><button class="linkbtn" id="iSee">Full results ↓</button>`
   :`<div><b>Today: ${a.toFixed(1)}%</b> of people who start open an account. Tick a fix to see the difference.</div>`;
  if(typeof goalSwap==="function")goalSwap(el)}
+// the step's quit rate today, from the baseline run
+function stepQuit(k){if(!BASE)return null;let n=0,q=0;BASE.cust.forEach(c=>{if(c.path&&c.path.some(x=>x.k===k)){n++;if(c.status==="drop"&&c.dropK===k)q++}});return n?q/n:null}
+var CVAL={k:"",v:null};
+function customVal(){const p=cur(),s=p.steps[CUSTOM.k];if(!s||!BASE||(!CUSTOM.red&&CUSTOM.skip==="none"))return null;const key=p.name+"|"+CUSTOM.k+"|"+CUSTOM.red+"|"+CUSTOM.skip+"|"+BASE.openN;if(CVAL.k===key)return CVAL.v;
+ const S=simJ(p,ZERO(),P);CVAL={k:key,v:(S.openN-BASE.openN)/S.cust.length*1000};return CVAL.v}
+const cvHtml=v=>v==null?"":`<div class="iv${v>0.05?"":" flat"}">${v>0.05?"+"+(v>=10?v.toFixed(0):v.toFixed(1)):"About 0"}<small>accounts opened per 1,000 who start</small></div>`;
+function cuHint(){const q=stepQuit(CUSTOM.k);if(q==null)return"";const now=Math.round(q*100),aft=Math.round(q*(1-CUSTOM.red/100)*100);return CUSTOM.red?`From ${now} in 100 who reach this step quitting today to ${aft} in 100.`:`Today ${now} in 100 who reach this step quit here.`}
+function updCustom(){const a=$("cuVal"),b=$("cuQ");if(a)a.innerHTML=cvHtml(customVal());if(b)b.textContent=cuHint();if(typeof goalSwap==="function")goalSwap($("custom"))}
 function drawCustom(){
- const p=cur();
- $("custom").innerHTML=`<b>Or change one step yourself</b><div class="fld"><span>Step</span><select id="cuK">${p.steps.map((s,k)=>`<option value="${k}" ${k===CUSTOM.k?"selected":""}>${esc(s.name)}</option>`).join("")}</select></div>
- <label>Fewer people leave it by <span id="cuV">${CUSTOM.red}%</span></label><input type="range" id="cuR" min="0" max="80" step="5" value="${CUSTOM.red}">
+ const p=cur(),v=customVal();
+ $("custom").innerHTML=`<div class="cu-h"><div><b>Or test your own fix on one step</b><div class="hint" style="margin:2px 0 0">For a fix that isn't in the list. Choose a step and say how much better your fix makes it.</div></div>
+ <div id="cuVal">${cvHtml(v)}</div></div>
+ <div class="fld"><span>Step</span><select id="cuK">${p.steps.map((s,k)=>`<option value="${k}" ${k===CUSTOM.k?"selected":""}>${esc(s.name)}</option>`).join("")}</select></div>
+ <label>Cut the people who quit here by <span id="cuV">${CUSTOM.red}%</span></label><input type="range" id="cuR" min="0" max="80" step="5" value="${CUSTOM.red}">
+ <div class="hint" id="cuQ" style="margin:2px 0 8px">${cuHint()}</div>
  <div class="fld"><span>Remove this step for</span><select id="cuS">${[["none","Nobody"],["existing","Existing customers"],["all","Everyone"]].map(([v,l])=>`<option value="${v}" ${CUSTOM.skip===v?"selected":""}>${l}</option>`).join("")}</select></div>`;
 }
 function applyCustom(){
  const p=cur();if(CUSTOM.set>=0&&p.steps[CUSTOM.set]){p.steps[CUSTOM.set].delta=0;p.steps[CUSTOM.set].skip="none"}
- const s=p.steps[CUSTOM.k];s.delta=-CUSTOM.red;s.skip=CUSTOM.skip;CUSTOM.set=CUSTOM.k;drawStepEd();run();
+ const s=p.steps[CUSTOM.k];s.delta=-CUSTOM.red;s.skip=CUSTOM.skip;CUSTOM.set=CUSTOM.k;drawStepEd();run();updCustom();
 }
 function drawResults(){
  drawIBar();

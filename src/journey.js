@@ -123,7 +123,7 @@ function simJ(prod,lev,P){
    for(let k=0;k<K;k++){
     const s=st[k],u=[r(),r(),r(),r(),r(),r()],tag=s.tag;
     const reuse=pe.seg==="existing"&&lev.reuse>0&&(tag==="idcap"||tag==="verify"||tag==="fica")&&reuseU<lev.reuse;
-    if(reuse||s.skip==="all"||(s.skip==="existing"&&pe.seg==="existing")){R.skip[k]++;if(s.post){open=t;R.openN++;R.opened[Math.min(H-1,Math.floor(t))]++}continue}
+    if(reuse||!lev.base&&(s.skip==="all"||(s.skip==="existing"&&pe.seg==="existing"))){R.skip[k]++;if(s.post){open=t;R.openN++;R.opened[Math.min(H-1,Math.floor(t))]++}continue}
     R.att[k]++;R.perp[j].att[k]++;
     let tm=1,lm=1;
     if(tag==="details"){lm=1-.5*lev.fields;tm=1-.3*lev.fields}
@@ -141,7 +141,7 @@ function simJ(prod,lev,P){
     if(!s.post){if(lev.guide>0)lm*=1-.2*lev.guide;if(lev.speed>0){tm*=1-.4*lev.speed;lm*=1-.08*lev.speed}
      if(lev.trust>0&&(tag==="verify"||tag==="decision"||tag==="sign"||tag==="idcap"))lm*=1-.25*lev.trust}
     if(s.post)lm*=1-.4*lev.nudge;
-    lm*=1+s.delta/100;tm*=Math.max(.05,1+s.dtime/100);
+    if(!lev.base){lm*=1+s.delta/100;tm*=Math.max(.05,1+s.dtime/100)}
     const te=1+s.sens*pe.techE;
     let ind=1,evk="",xt=0;
     if(!s.post&&tag!=="elig"){const Q=evQ(B,tag,mi);let D=moodE(B);ind=MOODF[mi];
