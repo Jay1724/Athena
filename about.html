@@ -49,6 +49,8 @@ ol.steps{counter-reset:s;list-style:none;margin:20px 0 0;padding:0;display:grid;
 ol.steps li{counter-increment:s;background:var(--bg);border-radius:16px;padding:18px 20px;font-size:15.5px;line-height:1.45}
 ol.steps li::before{content:counter(s);display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--blue);color:#fff;font-weight:700;font-size:14px;margin-bottom:10px}
 ol.steps li b{display:block;font-size:17px;margin-bottom:4px}
+h3.sub{font-size:17px;margin:26px 0 0;letter-spacing:-.01em}
+#research td:first-child{white-space:normal;font-weight:500;width:34%}
 .note{background:#fff8e1;border-radius:14px;padding:14px 18px;font-size:15px;margin-top:18px}
 .next{list-style:none;padding:0;margin:14px 0 0}.next li{padding:12px 0 12px 32px;border-top:1px solid var(--line);position:relative;font-size:16px}.next li:first-child{border-top:0}
 .next li::before{content:"";position:absolute;left:2px;top:15px;width:16px;height:16px;border:1.5px solid var(--mut);border-radius:5px}
@@ -57,7 +59,7 @@ footer{max-width:980px;margin:0 auto;padding:0 22px 48px;color:var(--mut);font-s
 </style>
 </head>
 <body>
-<nav><div class="in"><b>Athena</b><a class="hide" href="#how">How it works</a><a class="hide" href="#design">For design</a><a class="hide" href="#business">For business</a><a class="btn" href="index.html">Open the simulator</a></div></nav>
+<nav><div class="in"><b>Athena</b><a class="hide" href="#how">How it works</a><a class="hide" href="#research">Research</a><a class="hide" href="#design">For design</a><a class="hide" href="#business">For business</a><a class="btn" href="index.html">Open the simulator</a></div></nav>
 
 <div class="hero">
 <h1>Athena</h1>
@@ -132,6 +134,35 @@ footer{max-width:980px;margin:0 auto;padding:0 22px 48px;color:var(--mut);font-s
 <li><b>The persona pack (v7.1)</b>10,000 synthetic people across 20 archetypes, from the Financial Survivor and the Grant Receiver to the Young Climber and the Established Provider. Weighted to stand for about 44 million adults, each with over 100 attributes: life, access, documents, behaviour and voice.</li>
 <li><b>The persona feedback kit (v2)</b>589 tagged lines in everyday South African English, an engine that picks lines to fit each person's life and the problems on each step, and a brief that lets Claude write fresh answers. Comments never contradict what a person did, and polite people play things down, the way real participants do.</li>
 </ul>
+</section>
+
+<section id="research">
+<div class="k">Grounded in research</div>
+<h2>Built on published statistics and established design laws.</h2>
+<p>Athena stands on published South African statistics, established design laws and current guidance on synthetic research. The pack's total of about 44 million adults lines up with FinScope's 44.7 million adults aged 16 and over.</p>
+<h3 class="sub">Who South Africans are</h3>
+<table>
+<tr><th>Source</th><th>What it grounds</th><th>A figure from it</th></tr>
+<tr><td><a href="https://www.statssa.gov.za/?p=18613">Stats SA, Mid-year population estimates 2025</a></td><td>Population size, provinces, population groups</td><td>63.1 million people in 2025</td></tr>
+<tr><td><a href="https://www.statssa.gov.za/publications/P0318/MEDIA%20RELEASE%20-%20%20GHS%202024.pdf">Stats SA, General Household Survey 2024</a></td><td>Households, grants, living conditions</td><td>40.1% of people received a social grant in 2024</td></tr>
+<tr><td><a href="https://finmark.org.za/Publications/FinScope_SA_Consumer_2023.pdf">FinScope Consumer South Africa 2023</a></td><td>Banking, financial inclusion, adult population</td><td>44.7 million adults aged 16+, about 3.5 million born outside South Africa</td></tr>
+<tr><td><a href="https://www.joburgetc.com/?p=57478">SASSA grant figures</a></td><td>Grant types and who receives them</td><td>19.2 million regular grant beneficiaries in March 2025, plus over 9 million on the SRD grant</td></tr>
+<tr><td><a href="https://www.ewn.co.za/more-than-11-million-south-africans-are-members-of-stokvels-nasasa">NASASA</a></td><td>Stokvel membership</td><td>More than 11 million members</td></tr>
+<tr><td><a href="https://www.icasa.org.za/uploads/files/The-State-of-the-ICT-Sector-Report-of-South-Africa-2025.pdf">ICASA, State of the ICT Sector 2025</a></td><td>Phones, data and prices</td><td>82.7 million smartphone subscriptions in 2024</td></tr>
+</table>
+<h3 class="sub">How people use screens</h3>
+<table>
+<tr><th>Source</th><th>What it grounds</th></tr>
+<tr><td><a href="https://lawsofux.com/">Laws of UX, Jon Yablonski</a></td><td>Most of the 22 design laws in the screen review: Hick's, Miller's, Fitts's, Jakob's, Tesler's and Postel's laws, the Doherty threshold, the goal-gradient, Zeigarnik and peak-end effects</td></tr>
+<tr><td>Jan Carlzon, <i>Moments of Truth</i> (1987), and Google's <a href="https://agency.googleblog.com/2011/06/zero-moment-of-truth-new-marketing.html"><i>Winning the Zero Moment of Truth</i></a> (2011)</td><td>The moment-of-truth checks: the zero, first and second moments a customer decides to trust, start and keep using the account</td></tr>
+<tr><td><a href="https://www.w3.org/WAI/news/2023-10-05/wcag22rec">W3C, WCAG 2.2</a> (October 2023)</td><td>The inclusive design check: large text, contrast, touch targets and screen readers</td></tr>
+</table>
+<h3 class="sub">How to use synthetic research well</h3>
+<table>
+<tr><th>Source</th><th>What it means for Athena</th></tr>
+<tr><td><a href="https://nngroup.com/articles/why-you-only-need-to-test-with-5-users/">Nielsen Norman Group, <i>Why you only need to test with 5 users</i></a></td><td>Five users is enough only when users are alike. With very different groups, as in South Africa, each group needs testing. Athena shows which groups to recruit.</td></tr>
+<tr><td><a href="https://nngroup.com/articles/synthetic-users/">Nielsen Norman Group, <i>Synthetic Users: If, When, and How to Use AI-Generated Research</i></a></td><td>Synthetic users should complement real research, not replace it, and suit hypotheses rather than final decisions. Athena is built and labelled that way.</td></tr>
+</table>
 </section>
 
 <section id="design">

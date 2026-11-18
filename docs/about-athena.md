@@ -66,6 +66,36 @@ Two assets make the synthetic customers behave like South Africans rather than l
 
 **The persona feedback kit (v2).** The rules for turning what happened into what people say: 589 tagged lines written in everyday South African English, an engine that picks lines to fit each person's life and the problems on each step, and a brief that lets Claude write fresh answers in the same voice. Comments never contradict what a person did, and polite people play things down, the way real participants do.
 
+## Grounded in research
+
+Athena stands on published South African statistics, established design laws and current guidance on synthetic research. The pack's total of about 44 million adults lines up with FinScope's 44.7 million adults aged 16 and over.
+
+**Who South Africans are**
+
+| Source | What it grounds in Athena | A figure from it |
+| --- | --- | --- |
+| [Stats SA, Mid-year population estimates 2025](https://www.statssa.gov.za/?p=18613) | Population size, provinces, population groups | 63.1 million people in 2025 |
+| [Stats SA, General Household Survey 2024](https://www.statssa.gov.za/publications/P0318/MEDIA%20RELEASE%20-%20%20GHS%202024.pdf) | Households, grants, living conditions | 40.1% of people received a social grant in 2024 |
+| [FinScope Consumer South Africa 2023, FinMark Trust](https://finmark.org.za/Publications/FinScope_SA_Consumer_2023.pdf) | Banking, financial inclusion, adult population | 44.7 million adults aged 16+, about 3.5 million born outside South Africa |
+| [SASSA grant figures](https://www.joburgetc.com/?p=57478) | Grant types and who receives them | 19.2 million regular grant beneficiaries in March 2025, plus over 9 million on the SRD grant |
+| [NASASA](https://www.ewn.co.za/more-than-11-million-south-africans-are-members-of-stokvels-nasasa) | Stokvel membership | More than 11 million members |
+| [ICASA, State of the ICT Sector 2025](https://www.icasa.org.za/uploads/files/The-State-of-the-ICT-Sector-Report-of-South-Africa-2025.pdf) | Phones, data and prices | 82.7 million smartphone subscriptions in 2024 |
+
+**How people use screens**
+
+| Source | What it grounds in Athena |
+| --- | --- |
+| [Laws of UX, Jon Yablonski](https://lawsofux.com/) | Most of the 22 design laws in the screen review: Hick's, Miller's, Fitts's, Jakob's, Tesler's and Postel's laws, the Doherty threshold, the goal-gradient, Zeigarnik and peak-end effects |
+| Jan Carlzon, *Moments of Truth* (1987), and Google's [*Winning the Zero Moment of Truth*](https://agency.googleblog.com/2011/06/zero-moment-of-truth-new-marketing.html) (Jim Lecinski, 2011) | The moment-of-truth checks: the zero, first and second moments a customer decides to trust, start and keep using the account |
+| [W3C, WCAG 2.2](https://www.w3.org/WAI/news/2023-10-05/wcag22rec) (Recommendation, October 2023) | The inclusive design check: large text, contrast, touch targets and screen readers |
+
+**How to use synthetic research well**
+
+| Source | What it means for Athena |
+| --- | --- |
+| [Nielsen Norman Group, *Why you only need to test with 5 users*](https://nngroup.com/articles/why-you-only-need-to-test-with-5-users/) | Five users is enough only when users are alike. With very different groups, as in South Africa, each group needs testing. Athena shows which groups to recruit. |
+| [Nielsen Norman Group, *Synthetic Users: If, When, and How to Use AI-Generated Research*](https://nngroup.com/articles/synthetic-users/) | Synthetic users should complement real research, not replace it, and suit hypotheses rather than final decisions. Athena is built and labelled that way. |
+
 ## For product design teams
 
 Athena gives designers evidence early, in the language they work in: screens, steps and fields.
