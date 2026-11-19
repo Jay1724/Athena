@@ -1,0 +1,2161 @@
+product,month,step,reason,count
+Achieva Account,2024-11,Account opened → first transaction,Never made a first transaction,1340
+Achieva Account,2024-11,Affordability and risk decision,Declined by risk rules,349
+Achieva Account,2024-11,Affordability and risk decision,Waiting for manual review,219
+Achieva Account,2024-11,Choose account,Comparing offers elsewhere,3426
+Achieva Account,2024-11,Choose account,Unclear fees or features,2561
+Achieva Account,2024-11,Choose account,No real intent,1287
+Achieva Account,2024-11,Eligibility check,Unsure whether they qualify,274
+Achieva Account,2024-11,Eligibility check,Changed mind,171
+Achieva Account,2024-11,ID capture,Camera or glare failure,425
+Achieva Account,2024-11,ID capture,No ID to hand,302
+Achieva Account,2024-11,ID capture,Not eligible after all,190
+Achieva Account,2024-11,Identity verification,Liveness failed repeatedly,463
+Achieva Account,2024-11,Identity verification,Record lookup mismatch,384
+Achieva Account,2024-11,Identity verification,Network timeout,381
+Achieva Account,2024-11,Personal details,Form too long,1115
+Achieva Account,2024-11,Personal details,Info not at hand,934
+Achieva Account,2024-11,Personal details,Privacy concern,952
+Achieva Account,2024-11,Proof of address or income,No proof to hand,654
+Achieva Account,2024-11,Proof of address or income,Upload or size errors,305
+Achieva Account,2024-11,Proof of address or income,Prefers a branch,356
+Achieva Account,2024-11,Terms and e-sign,Terms too long,88
+Achieva Account,2024-11,Terms and e-sign,OTP not received,85
+Achieva Account,2024-11,Terms and e-sign,Changed mind,46
+Achieva Account,2024-12,Account opened → first transaction,Never made a first transaction,1018
+Achieva Account,2024-12,Affordability and risk decision,Declined by risk rules,251
+Achieva Account,2024-12,Affordability and risk decision,Waiting for manual review,218
+Achieva Account,2024-12,Choose account,Comparing offers elsewhere,3265
+Achieva Account,2024-12,Choose account,Unclear fees or features,2340
+Achieva Account,2024-12,Choose account,No real intent,1241
+Achieva Account,2024-12,Eligibility check,Unsure whether they qualify,188
+Achieva Account,2024-12,Eligibility check,Changed mind,143
+Achieva Account,2024-12,ID capture,Camera or glare failure,388
+Achieva Account,2024-12,ID capture,No ID to hand,278
+Achieva Account,2024-12,ID capture,Not eligible after all,151
+Achieva Account,2024-12,Identity verification,Liveness failed repeatedly,481
+Achieva Account,2024-12,Identity verification,Record lookup mismatch,407
+Achieva Account,2024-12,Identity verification,Network timeout,358
+Achieva Account,2024-12,Personal details,Form too long,1027
+Achieva Account,2024-12,Personal details,Info not at hand,794
+Achieva Account,2024-12,Personal details,Privacy concern,929
+Achieva Account,2024-12,Proof of address or income,No proof to hand,537
+Achieva Account,2024-12,Proof of address or income,Upload or size errors,238
+Achieva Account,2024-12,Proof of address or income,Prefers a branch,315
+Achieva Account,2024-12,Terms and e-sign,Terms too long,64
+Achieva Account,2024-12,Terms and e-sign,OTP not received,67
+Achieva Account,2024-12,Terms and e-sign,Changed mind,36
+Achieva Account,2025-01,Account opened → first transaction,Never made a first transaction,1457
+Achieva Account,2025-01,Affordability and risk decision,Declined by risk rules,327
+Achieva Account,2025-01,Affordability and risk decision,Waiting for manual review,312
+Achieva Account,2025-01,Choose account,Comparing offers elsewhere,3329
+Achieva Account,2025-01,Choose account,Unclear fees or features,3522
+Achieva Account,2025-01,Choose account,No real intent,2694
+Achieva Account,2025-01,Eligibility check,Unsure whether they qualify,294
+Achieva Account,2025-01,Eligibility check,Changed mind,178
+Achieva Account,2025-01,ID capture,Camera or glare failure,416
+Achieva Account,2025-01,ID capture,No ID to hand,340
+Achieva Account,2025-01,ID capture,Not eligible after all,320
+Achieva Account,2025-01,Identity verification,Liveness failed repeatedly,696
+Achieva Account,2025-01,Identity verification,Record lookup mismatch,442
+Achieva Account,2025-01,Identity verification,Network timeout,392
+Achieva Account,2025-01,Personal details,Form too long,1341
+Achieva Account,2025-01,Personal details,Info not at hand,991
+Achieva Account,2025-01,Personal details,Privacy concern,1282
+Achieva Account,2025-01,Proof of address or income,No proof to hand,728
+Achieva Account,2025-01,Proof of address or income,Upload or size errors,368
+Achieva Account,2025-01,Proof of address or income,Prefers a branch,470
+Achieva Account,2025-01,Terms and e-sign,Terms too long,92
+Achieva Account,2025-01,Terms and e-sign,OTP not received,103
+Achieva Account,2025-01,Terms and e-sign,Changed mind,31
+Achieva Account,2025-02,Account opened → first transaction,Never made a first transaction,1120
+Achieva Account,2025-02,Affordability and risk decision,Declined by risk rules,308
+Achieva Account,2025-02,Affordability and risk decision,Waiting for manual review,215
+Achieva Account,2025-02,Choose account,Comparing offers elsewhere,3082
+Achieva Account,2025-02,Choose account,Unclear fees or features,2480
+Achieva Account,2025-02,Choose account,No real intent,1852
+Achieva Account,2025-02,Eligibility check,Unsure whether they qualify,203
+Achieva Account,2025-02,Eligibility check,Changed mind,160
+Achieva Account,2025-02,ID capture,Camera or glare failure,367
+Achieva Account,2025-02,ID capture,No ID to hand,260
+Achieva Account,2025-02,ID capture,Not eligible after all,241
+Achieva Account,2025-02,Identity verification,Liveness failed repeatedly,468
+Achieva Account,2025-02,Identity verification,Record lookup mismatch,412
+Achieva Account,2025-02,Identity verification,Network timeout,305
+Achieva Account,2025-02,Personal details,Form too long,1054
+Achieva Account,2025-02,Personal details,Info not at hand,850
+Achieva Account,2025-02,Personal details,Privacy concern,965
+Achieva Account,2025-02,Proof of address or income,No proof to hand,552
+Achieva Account,2025-02,Proof of address or income,Upload or size errors,297
+Achieva Account,2025-02,Proof of address or income,Prefers a branch,354
+Achieva Account,2025-02,Terms and e-sign,Terms too long,92
+Achieva Account,2025-02,Terms and e-sign,OTP not received,93
+Achieva Account,2025-02,Terms and e-sign,Changed mind,32
+Achieva Account,2025-03,Account opened → first transaction,Never made a first transaction,1180
+Achieva Account,2025-03,Affordability and risk decision,Declined by risk rules,256
+Achieva Account,2025-03,Affordability and risk decision,Waiting for manual review,320
+Achieva Account,2025-03,Choose account,Comparing offers elsewhere,3149
+Achieva Account,2025-03,Choose account,Unclear fees or features,2736
+Achieva Account,2025-03,Choose account,No real intent,2336
+Achieva Account,2025-03,Eligibility check,Unsure whether they qualify,257
+Achieva Account,2025-03,Eligibility check,Changed mind,157
+Achieva Account,2025-03,ID capture,Camera or glare failure,495
+Achieva Account,2025-03,ID capture,No ID to hand,328
+Achieva Account,2025-03,ID capture,Not eligible after all,212
+Achieva Account,2025-03,Identity verification,Liveness failed repeatedly,563
+Achieva Account,2025-03,Identity verification,Record lookup mismatch,387
+Achieva Account,2025-03,Identity verification,Network timeout,350
+Achieva Account,2025-03,Personal details,Form too long,1080
+Achieva Account,2025-03,Personal details,Info not at hand,841
+Achieva Account,2025-03,Personal details,Privacy concern,1223
+Achieva Account,2025-03,Proof of address or income,No proof to hand,607
+Achieva Account,2025-03,Proof of address or income,Upload or size errors,293
+Achieva Account,2025-03,Proof of address or income,Prefers a branch,372
+Achieva Account,2025-03,Terms and e-sign,Terms too long,84
+Achieva Account,2025-03,Terms and e-sign,OTP not received,74
+Achieva Account,2025-03,Terms and e-sign,Changed mind,51
+Achieva Account,2025-04,Account opened → first transaction,Never made a first transaction,1198
+Achieva Account,2025-04,Affordability and risk decision,Declined by risk rules,285
+Achieva Account,2025-04,Affordability and risk decision,Waiting for manual review,241
+Achieva Account,2025-04,Choose account,Comparing offers elsewhere,2888
+Achieva Account,2025-04,Choose account,Unclear fees or features,2663
+Achieva Account,2025-04,Choose account,No real intent,2204
+Achieva Account,2025-04,Eligibility check,Unsure whether they qualify,216
+Achieva Account,2025-04,Eligibility check,Changed mind,182
+Achieva Account,2025-04,ID capture,Camera or glare failure,327
+Achieva Account,2025-04,ID capture,No ID to hand,323
+Achieva Account,2025-04,ID capture,Not eligible after all,230
+Achieva Account,2025-04,Identity verification,Liveness failed repeatedly,550
+Achieva Account,2025-04,Identity verification,Record lookup mismatch,368
+Achieva Account,2025-04,Identity verification,Network timeout,286
+Achieva Account,2025-04,Personal details,Form too long,1166
+Achieva Account,2025-04,Personal details,Info not at hand,864
+Achieva Account,2025-04,Personal details,Privacy concern,810
+Achieva Account,2025-04,Proof of address or income,No proof to hand,668
+Achieva Account,2025-04,Proof of address or income,Upload or size errors,281
+Achieva Account,2025-04,Proof of address or income,Prefers a branch,326
+Achieva Account,2025-04,Terms and e-sign,Terms too long,75
+Achieva Account,2025-04,Terms and e-sign,OTP not received,79
+Achieva Account,2025-04,Terms and e-sign,Changed mind,56
+Achieva Account,2025-05,Account opened → first transaction,Never made a first transaction,1152
+Achieva Account,2025-05,Affordability and risk decision,Declined by risk rules,271
+Achieva Account,2025-05,Affordability and risk decision,Waiting for manual review,238
+Achieva Account,2025-05,Choose account,Comparing offers elsewhere,2992
+Achieva Account,2025-05,Choose account,Unclear fees or features,2711
+Achieva Account,2025-05,Choose account,No real intent,2511
+Achieva Account,2025-05,Eligibility check,Unsure whether they qualify,297
+Achieva Account,2025-05,Eligibility check,Changed mind,139
+Achieva Account,2025-05,ID capture,Camera or glare failure,481
+Achieva Account,2025-05,ID capture,No ID to hand,292
+Achieva Account,2025-05,ID capture,Not eligible after all,192
+Achieva Account,2025-05,Identity verification,Liveness failed repeatedly,505
+Achieva Account,2025-05,Identity verification,Record lookup mismatch,417
+Achieva Account,2025-05,Identity verification,Network timeout,364
+Achieva Account,2025-05,Personal details,Form too long,1219
+Achieva Account,2025-05,Personal details,Info not at hand,969
+Achieva Account,2025-05,Personal details,Privacy concern,911
+Achieva Account,2025-05,Proof of address or income,No proof to hand,674
+Achieva Account,2025-05,Proof of address or income,Upload or size errors,345
+Achieva Account,2025-05,Proof of address or income,Prefers a branch,353
+Achieva Account,2025-05,Terms and e-sign,Terms too long,78
+Achieva Account,2025-05,Terms and e-sign,OTP not received,108
+Achieva Account,2025-05,Terms and e-sign,Changed mind,40
+Achieva Account,2025-06,Account opened → first transaction,Never made a first transaction,1072
+Achieva Account,2025-06,Affordability and risk decision,Declined by risk rules,254
+Achieva Account,2025-06,Affordability and risk decision,Waiting for manual review,185
+Achieva Account,2025-06,Choose account,Comparing offers elsewhere,2765
+Achieva Account,2025-06,Choose account,Unclear fees or features,2446
+Achieva Account,2025-06,Choose account,No real intent,2308
+Achieva Account,2025-06,Eligibility check,Unsure whether they qualify,269
+Achieva Account,2025-06,Eligibility check,Changed mind,123
+Achieva Account,2025-06,ID capture,Camera or glare failure,428
+Achieva Account,2025-06,ID capture,No ID to hand,292
+Achieva Account,2025-06,ID capture,Not eligible after all,201
+Achieva Account,2025-06,Identity verification,Liveness failed repeatedly,468
+Achieva Account,2025-06,Identity verification,Record lookup mismatch,329
+Achieva Account,2025-06,Identity verification,Network timeout,362
+Achieva Account,2025-06,Personal details,Form too long,1030
+Achieva Account,2025-06,Personal details,Info not at hand,875
+Achieva Account,2025-06,Personal details,Privacy concern,939
+Achieva Account,2025-06,Proof of address or income,No proof to hand,680
+Achieva Account,2025-06,Proof of address or income,Upload or size errors,328
+Achieva Account,2025-06,Proof of address or income,Prefers a branch,279
+Achieva Account,2025-06,Terms and e-sign,Terms too long,71
+Achieva Account,2025-06,Terms and e-sign,OTP not received,77
+Achieva Account,2025-06,Terms and e-sign,Changed mind,40
+Achieva Account,2025-07,Account opened → first transaction,Never made a first transaction,1160
+Achieva Account,2025-07,Affordability and risk decision,Declined by risk rules,329
+Achieva Account,2025-07,Affordability and risk decision,Waiting for manual review,220
+Achieva Account,2025-07,Choose account,Comparing offers elsewhere,3154
+Achieva Account,2025-07,Choose account,Unclear fees or features,2981
+Achieva Account,2025-07,Choose account,No real intent,2199
+Achieva Account,2025-07,Eligibility check,Unsure whether they qualify,269
+Achieva Account,2025-07,Eligibility check,Changed mind,181
+Achieva Account,2025-07,ID capture,Camera or glare failure,444
+Achieva Account,2025-07,ID capture,No ID to hand,426
+Achieva Account,2025-07,ID capture,Not eligible after all,178
+Achieva Account,2025-07,Identity verification,Liveness failed repeatedly,615
+Achieva Account,2025-07,Identity verification,Record lookup mismatch,425
+Achieva Account,2025-07,Identity verification,Network timeout,414
+Achieva Account,2025-07,Personal details,Form too long,1398
+Achieva Account,2025-07,Personal details,Info not at hand,948
+Achieva Account,2025-07,Personal details,Privacy concern,720
+Achieva Account,2025-07,Proof of address or income,No proof to hand,903
+Achieva Account,2025-07,Proof of address or income,Upload or size errors,338
+Achieva Account,2025-07,Proof of address or income,Prefers a branch,301
+Achieva Account,2025-07,Terms and e-sign,Terms too long,89
+Achieva Account,2025-07,Terms and e-sign,OTP not received,94
+Achieva Account,2025-07,Terms and e-sign,Changed mind,57
+Achieva Account,2025-08,Account opened → first transaction,Never made a first transaction,1124
+Achieva Account,2025-08,Affordability and risk decision,Declined by risk rules,275
+Achieva Account,2025-08,Affordability and risk decision,Waiting for manual review,251
+Achieva Account,2025-08,Choose account,Comparing offers elsewhere,2898
+Achieva Account,2025-08,Choose account,Unclear fees or features,2693
+Achieva Account,2025-08,Choose account,No real intent,2337
+Achieva Account,2025-08,Eligibility check,Unsure whether they qualify,198
+Achieva Account,2025-08,Eligibility check,Changed mind,204
+Achieva Account,2025-08,ID capture,Camera or glare failure,423
+Achieva Account,2025-08,ID capture,No ID to hand,350
+Achieva Account,2025-08,ID capture,Not eligible after all,213
+Achieva Account,2025-08,Identity verification,Liveness failed repeatedly,530
+Achieva Account,2025-08,Identity verification,Record lookup mismatch,372
+Achieva Account,2025-08,Identity verification,Network timeout,411
+Achieva Account,2025-08,Personal details,Form too long,1142
+Achieva Account,2025-08,Personal details,Info not at hand,851
+Achieva Account,2025-08,Personal details,Privacy concern,906
+Achieva Account,2025-08,Proof of address or income,No proof to hand,778
+Achieva Account,2025-08,Proof of address or income,Upload or size errors,371
+Achieva Account,2025-08,Proof of address or income,Prefers a branch,271
+Achieva Account,2025-08,Terms and e-sign,Terms too long,85
+Achieva Account,2025-08,Terms and e-sign,OTP not received,104
+Achieva Account,2025-08,Terms and e-sign,Changed mind,56
+Achieva Account,2025-09,Account opened → first transaction,Never made a first transaction,1143
+Achieva Account,2025-09,Affordability and risk decision,Declined by risk rules,267
+Achieva Account,2025-09,Affordability and risk decision,Waiting for manual review,226
+Achieva Account,2025-09,Choose account,Comparing offers elsewhere,3350
+Achieva Account,2025-09,Choose account,Unclear fees or features,2797
+Achieva Account,2025-09,Choose account,No real intent,1286
+Achieva Account,2025-09,Eligibility check,Unsure whether they qualify,282
+Achieva Account,2025-09,Eligibility check,Changed mind,154
+Achieva Account,2025-09,ID capture,Camera or glare failure,480
+Achieva Account,2025-09,ID capture,No ID to hand,332
+Achieva Account,2025-09,ID capture,Not eligible after all,214
+Achieva Account,2025-09,Identity verification,Liveness failed repeatedly,544
+Achieva Account,2025-09,Identity verification,Record lookup mismatch,389
+Achieva Account,2025-09,Identity verification,Network timeout,355
+Achieva Account,2025-09,Personal details,Form too long,1098
+Achieva Account,2025-09,Personal details,Info not at hand,847
+Achieva Account,2025-09,Personal details,Privacy concern,812
+Achieva Account,2025-09,Proof of address or income,No proof to hand,717
+Achieva Account,2025-09,Proof of address or income,Upload or size errors,329
+Achieva Account,2025-09,Proof of address or income,Prefers a branch,343
+Achieva Account,2025-09,Terms and e-sign,Terms too long,91
+Achieva Account,2025-09,Terms and e-sign,OTP not received,83
+Achieva Account,2025-09,Terms and e-sign,Changed mind,55
+Achieva Account,2025-10,Account opened → first transaction,Never made a first transaction,1276
+Achieva Account,2025-10,Affordability and risk decision,Declined by risk rules,305
+Achieva Account,2025-10,Affordability and risk decision,Waiting for manual review,242
+Achieva Account,2025-10,Choose account,Comparing offers elsewhere,3418
+Achieva Account,2025-10,Choose account,Unclear fees or features,2883
+Achieva Account,2025-10,Choose account,No real intent,1631
+Achieva Account,2025-10,Eligibility check,Unsure whether they qualify,257
+Achieva Account,2025-10,Eligibility check,Changed mind,195
+Achieva Account,2025-10,ID capture,Camera or glare failure,413
+Achieva Account,2025-10,ID capture,No ID to hand,368
+Achieva Account,2025-10,ID capture,Not eligible after all,308
+Achieva Account,2025-10,Identity verification,Liveness failed repeatedly,527
+Achieva Account,2025-10,Identity verification,Record lookup mismatch,462
+Achieva Account,2025-10,Identity verification,Network timeout,452
+Achieva Account,2025-10,Personal details,Form too long,1375
+Achieva Account,2025-10,Personal details,Info not at hand,979
+Achieva Account,2025-10,Personal details,Privacy concern,718
+Achieva Account,2025-10,Proof of address or income,No proof to hand,612
+Achieva Account,2025-10,Proof of address or income,Upload or size errors,406
+Achieva Account,2025-10,Proof of address or income,Prefers a branch,450
+Achieva Account,2025-10,Terms and e-sign,Terms too long,108
+Achieva Account,2025-10,Terms and e-sign,OTP not received,92
+Achieva Account,2025-10,Terms and e-sign,Changed mind,40
+Achieva Account,2025-11,Account opened → first transaction,Never made a first transaction,1138
+Achieva Account,2025-11,Affordability and risk decision,Declined by risk rules,264
+Achieva Account,2025-11,Affordability and risk decision,Waiting for manual review,240
+Achieva Account,2025-11,Choose account,Comparing offers elsewhere,3514
+Achieva Account,2025-11,Choose account,Unclear fees or features,2548
+Achieva Account,2025-11,Choose account,No real intent,851
+Achieva Account,2025-11,Eligibility check,Unsure whether they qualify,243
+Achieva Account,2025-11,Eligibility check,Changed mind,151
+Achieva Account,2025-11,ID capture,Camera or glare failure,433
+Achieva Account,2025-11,ID capture,No ID to hand,340
+Achieva Account,2025-11,ID capture,Not eligible after all,208
+Achieva Account,2025-11,Identity verification,Liveness failed repeatedly,441
+Achieva Account,2025-11,Identity verification,Record lookup mismatch,339
+Achieva Account,2025-11,Identity verification,Network timeout,430
+Achieva Account,2025-11,Personal details,Form too long,1059
+Achieva Account,2025-11,Personal details,Info not at hand,775
+Achieva Account,2025-11,Personal details,Privacy concern,810
+Achieva Account,2025-11,Proof of address or income,No proof to hand,639
+Achieva Account,2025-11,Proof of address or income,Upload or size errors,362
+Achieva Account,2025-11,Proof of address or income,Prefers a branch,369
+Achieva Account,2025-11,Terms and e-sign,Terms too long,97
+Achieva Account,2025-11,Terms and e-sign,OTP not received,100
+Achieva Account,2025-11,Terms and e-sign,Changed mind,43
+Achieva Account,2025-12,Account opened → first transaction,Never made a first transaction,997
+Achieva Account,2025-12,Affordability and risk decision,Declined by risk rules,238
+Achieva Account,2025-12,Affordability and risk decision,Waiting for manual review,206
+Achieva Account,2025-12,Choose account,Comparing offers elsewhere,3093
+Achieva Account,2025-12,Choose account,Unclear fees or features,2226
+Achieva Account,2025-12,Choose account,No real intent,985
+Achieva Account,2025-12,Eligibility check,Unsure whether they qualify,213
+Achieva Account,2025-12,Eligibility check,Changed mind,131
+Achieva Account,2025-12,ID capture,Camera or glare failure,403
+Achieva Account,2025-12,ID capture,No ID to hand,380
+Achieva Account,2025-12,ID capture,Not eligible after all,107
+Achieva Account,2025-12,Identity verification,Liveness failed repeatedly,394
+Achieva Account,2025-12,Identity verification,Record lookup mismatch,342
+Achieva Account,2025-12,Identity verification,Network timeout,425
+Achieva Account,2025-12,Personal details,Form too long,896
+Achieva Account,2025-12,Personal details,Info not at hand,776
+Achieva Account,2025-12,Personal details,Privacy concern,863
+Achieva Account,2025-12,Proof of address or income,No proof to hand,509
+Achieva Account,2025-12,Proof of address or income,Upload or size errors,310
+Achieva Account,2025-12,Proof of address or income,Prefers a branch,383
+Achieva Account,2025-12,Terms and e-sign,Terms too long,73
+Achieva Account,2025-12,Terms and e-sign,OTP not received,90
+Achieva Account,2025-12,Terms and e-sign,Changed mind,48
+Achieva Account,2026-01,Account opened → first transaction,Never made a first transaction,1496
+Achieva Account,2026-01,Affordability and risk decision,Declined by risk rules,352
+Achieva Account,2026-01,Affordability and risk decision,Waiting for manual review,351
+Achieva Account,2026-01,Choose account,Comparing offers elsewhere,3509
+Achieva Account,2026-01,Choose account,Unclear fees or features,2940
+Achieva Account,2026-01,Choose account,No real intent,2360
+Achieva Account,2026-01,Eligibility check,Unsure whether they qualify,344
+Achieva Account,2026-01,Eligibility check,Changed mind,203
+Achieva Account,2026-01,ID capture,Camera or glare failure,532
+Achieva Account,2026-01,ID capture,No ID to hand,425
+Achieva Account,2026-01,ID capture,Not eligible after all,255
+Achieva Account,2026-01,Identity verification,Liveness failed repeatedly,622
+Achieva Account,2026-01,Identity verification,Record lookup mismatch,409
+Achieva Account,2026-01,Identity verification,Network timeout,474
+Achieva Account,2026-01,Personal details,Form too long,1478
+Achieva Account,2026-01,Personal details,Info not at hand,1155
+Achieva Account,2026-01,Personal details,Privacy concern,1067
+Achieva Account,2026-01,Proof of address or income,No proof to hand,794
+Achieva Account,2026-01,Proof of address or income,Upload or size errors,464
+Achieva Account,2026-01,Proof of address or income,Prefers a branch,458
+Achieva Account,2026-01,Terms and e-sign,Terms too long,88
+Achieva Account,2026-01,Terms and e-sign,OTP not received,108
+Achieva Account,2026-01,Terms and e-sign,Changed mind,80
+Achieva Account,2026-02,Account opened → first transaction,Never made a first transaction,1235
+Achieva Account,2026-02,Affordability and risk decision,Declined by risk rules,347
+Achieva Account,2026-02,Affordability and risk decision,Waiting for manual review,258
+Achieva Account,2026-02,Choose account,Comparing offers elsewhere,2386
+Achieva Account,2026-02,Choose account,Unclear fees or features,2308
+Achieva Account,2026-02,Choose account,No real intent,2279
+Achieva Account,2026-02,Eligibility check,Unsure whether they qualify,241
+Achieva Account,2026-02,Eligibility check,Changed mind,185
+Achieva Account,2026-02,ID capture,Camera or glare failure,478
+Achieva Account,2026-02,ID capture,No ID to hand,350
+Achieva Account,2026-02,ID capture,Not eligible after all,150
+Achieva Account,2026-02,Identity verification,Liveness failed repeatedly,440
+Achieva Account,2026-02,Identity verification,Record lookup mismatch,364
+Achieva Account,2026-02,Identity verification,Network timeout,368
+Achieva Account,2026-02,Personal details,Form too long,1265
+Achieva Account,2026-02,Personal details,Info not at hand,847
+Achieva Account,2026-02,Personal details,Privacy concern,830
+Achieva Account,2026-02,Proof of address or income,No proof to hand,785
+Achieva Account,2026-02,Proof of address or income,Upload or size errors,357
+Achieva Account,2026-02,Proof of address or income,Prefers a branch,300
+Achieva Account,2026-02,Terms and e-sign,Terms too long,91
+Achieva Account,2026-02,Terms and e-sign,OTP not received,92
+Achieva Account,2026-02,Terms and e-sign,Changed mind,56
+Achieva Account,2026-03,Account opened → first transaction,Never made a first transaction,1319
+Achieva Account,2026-03,Affordability and risk decision,Declined by risk rules,364
+Achieva Account,2026-03,Affordability and risk decision,Waiting for manual review,251
+Achieva Account,2026-03,Choose account,Comparing offers elsewhere,3373
+Achieva Account,2026-03,Choose account,Unclear fees or features,2753
+Achieva Account,2026-03,Choose account,No real intent,1625
+Achieva Account,2026-03,Eligibility check,Unsure whether they qualify,222
+Achieva Account,2026-03,Eligibility check,Changed mind,204
+Achieva Account,2026-03,ID capture,Camera or glare failure,422
+Achieva Account,2026-03,ID capture,No ID to hand,329
+Achieva Account,2026-03,ID capture,Not eligible after all,203
+Achieva Account,2026-03,Identity verification,Liveness failed repeatedly,474
+Achieva Account,2026-03,Identity verification,Record lookup mismatch,346
+Achieva Account,2026-03,Identity verification,Network timeout,512
+Achieva Account,2026-03,Personal details,Form too long,1324
+Achieva Account,2026-03,Personal details,Info not at hand,857
+Achieva Account,2026-03,Personal details,Privacy concern,896
+Achieva Account,2026-03,Proof of address or income,No proof to hand,730
+Achieva Account,2026-03,Proof of address or income,Upload or size errors,386
+Achieva Account,2026-03,Proof of address or income,Prefers a branch,315
+Achieva Account,2026-03,Terms and e-sign,Terms too long,121
+Achieva Account,2026-03,Terms and e-sign,OTP not received,107
+Achieva Account,2026-03,Terms and e-sign,Changed mind,35
+Achieva Account,2026-04,Account opened → first transaction,Never made a first transaction,1177
+Achieva Account,2026-04,Affordability and risk decision,Declined by risk rules,304
+Achieva Account,2026-04,Affordability and risk decision,Waiting for manual review,191
+Achieva Account,2026-04,Choose account,Comparing offers elsewhere,2640
+Achieva Account,2026-04,Choose account,Unclear fees or features,2366
+Achieva Account,2026-04,Choose account,No real intent,1968
+Achieva Account,2026-04,Eligibility check,Unsure whether they qualify,235
+Achieva Account,2026-04,Eligibility check,Changed mind,147
+Achieva Account,2026-04,ID capture,Camera or glare failure,381
+Achieva Account,2026-04,ID capture,No ID to hand,334
+Achieva Account,2026-04,ID capture,Not eligible after all,183
+Achieva Account,2026-04,Identity verification,Liveness failed repeatedly,416
+Achieva Account,2026-04,Identity verification,Record lookup mismatch,300
+Achieva Account,2026-04,Identity verification,Network timeout,506
+Achieva Account,2026-04,Personal details,Form too long,1394
+Achieva Account,2026-04,Personal details,Info not at hand,877
+Achieva Account,2026-04,Personal details,Privacy concern,699
+Achieva Account,2026-04,Proof of address or income,No proof to hand,687
+Achieva Account,2026-04,Proof of address or income,Upload or size errors,287
+Achieva Account,2026-04,Proof of address or income,Prefers a branch,307
+Achieva Account,2026-04,Terms and e-sign,Terms too long,97
+Achieva Account,2026-04,Terms and e-sign,OTP not received,84
+Achieva Account,2026-04,Terms and e-sign,Changed mind,46
+Achieva Account,2026-05,Account opened → first transaction,Never made a first transaction,1244
+Achieva Account,2026-05,Affordability and risk decision,Declined by risk rules,282
+Achieva Account,2026-05,Affordability and risk decision,Waiting for manual review,281
+Achieva Account,2026-05,Choose account,Comparing offers elsewhere,3010
+Achieva Account,2026-05,Choose account,Unclear fees or features,2455
+Achieva Account,2026-05,Choose account,No real intent,1835
+Achieva Account,2026-05,Eligibility check,Unsure whether they qualify,219
+Achieva Account,2026-05,Eligibility check,Changed mind,175
+Achieva Account,2026-05,ID capture,Camera or glare failure,399
+Achieva Account,2026-05,ID capture,No ID to hand,350
+Achieva Account,2026-05,ID capture,Not eligible after all,231
+Achieva Account,2026-05,Identity verification,Liveness failed repeatedly,459
+Achieva Account,2026-05,Identity verification,Record lookup mismatch,429
+Achieva Account,2026-05,Identity verification,Network timeout,346
+Achieva Account,2026-05,Personal details,Form too long,1329
+Achieva Account,2026-05,Personal details,Info not at hand,942
+Achieva Account,2026-05,Personal details,Privacy concern,842
+Achieva Account,2026-05,Proof of address or income,No proof to hand,668
+Achieva Account,2026-05,Proof of address or income,Upload or size errors,353
+Achieva Account,2026-05,Proof of address or income,Prefers a branch,360
+Achieva Account,2026-05,Terms and e-sign,Terms too long,80
+Achieva Account,2026-05,Terms and e-sign,OTP not received,81
+Achieva Account,2026-05,Terms and e-sign,Changed mind,32
+Achieva Account,2026-06,Account opened → first transaction,Never made a first transaction,1214
+Achieva Account,2026-06,Affordability and risk decision,Declined by risk rules,288
+Achieva Account,2026-06,Affordability and risk decision,Waiting for manual review,267
+Achieva Account,2026-06,Choose account,Comparing offers elsewhere,2905
+Achieva Account,2026-06,Choose account,Unclear fees or features,2308
+Achieva Account,2026-06,Choose account,No real intent,1800
+Achieva Account,2026-06,Eligibility check,Unsure whether they qualify,247
+Achieva Account,2026-06,Eligibility check,Changed mind,141
+Achieva Account,2026-06,ID capture,Camera or glare failure,399
+Achieva Account,2026-06,ID capture,No ID to hand,331
+Achieva Account,2026-06,ID capture,Not eligible after all,145
+Achieva Account,2026-06,Identity verification,Liveness failed repeatedly,476
+Achieva Account,2026-06,Identity verification,Record lookup mismatch,329
+Achieva Account,2026-06,Identity verification,Network timeout,383
+Achieva Account,2026-06,Personal details,Form too long,1285
+Achieva Account,2026-06,Personal details,Info not at hand,858
+Achieva Account,2026-06,Personal details,Privacy concern,763
+Achieva Account,2026-06,Proof of address or income,No proof to hand,616
+Achieva Account,2026-06,Proof of address or income,Upload or size errors,291
+Achieva Account,2026-06,Proof of address or income,Prefers a branch,322
+Achieva Account,2026-06,Terms and e-sign,Terms too long,91
+Achieva Account,2026-06,Terms and e-sign,OTP not received,92
+Achieva Account,2026-06,Terms and e-sign,Changed mind,70
+Achieva Account,2026-07,Account opened → first transaction,Never made a first transaction,1279
+Achieva Account,2026-07,Affordability and risk decision,Declined by risk rules,342
+Achieva Account,2026-07,Affordability and risk decision,Waiting for manual review,242
+Achieva Account,2026-07,Choose account,Comparing offers elsewhere,2779
+Achieva Account,2026-07,Choose account,Unclear fees or features,2856
+Achieva Account,2026-07,Choose account,No real intent,2470
+Achieva Account,2026-07,Eligibility check,Unsure whether they qualify,272
+Achieva Account,2026-07,Eligibility check,Changed mind,169
+Achieva Account,2026-07,ID capture,Camera or glare failure,437
+Achieva Account,2026-07,ID capture,No ID to hand,399
+Achieva Account,2026-07,ID capture,Not eligible after all,163
+Achieva Account,2026-07,Identity verification,Liveness failed repeatedly,567
+Achieva Account,2026-07,Identity verification,Record lookup mismatch,419
+Achieva Account,2026-07,Identity verification,Network timeout,366
+Achieva Account,2026-07,Personal details,Form too long,1085
+Achieva Account,2026-07,Personal details,Info not at hand,862
+Achieva Account,2026-07,Personal details,Privacy concern,1290
+Achieva Account,2026-07,Proof of address or income,No proof to hand,637
+Achieva Account,2026-07,Proof of address or income,Upload or size errors,341
+Achieva Account,2026-07,Proof of address or income,Prefers a branch,476
+Achieva Account,2026-07,Terms and e-sign,Terms too long,85
+Achieva Account,2026-07,Terms and e-sign,OTP not received,77
+Achieva Account,2026-07,Terms and e-sign,Changed mind,39
+Achieva Account,2026-08,Account opened → first transaction,Never made a first transaction,1191
+Achieva Account,2026-08,Affordability and risk decision,Declined by risk rules,269
+Achieva Account,2026-08,Affordability and risk decision,Waiting for manual review,271
+Achieva Account,2026-08,Choose account,Comparing offers elsewhere,2911
+Achieva Account,2026-08,Choose account,Unclear fees or features,2578
+Achieva Account,2026-08,Choose account,No real intent,1963
+Achieva Account,2026-08,Eligibility check,Unsure whether they qualify,217
+Achieva Account,2026-08,Eligibility check,Changed mind,165
+Achieva Account,2026-08,ID capture,Camera or glare failure,395
+Achieva Account,2026-08,ID capture,No ID to hand,266
+Achieva Account,2026-08,ID capture,Not eligible after all,244
+Achieva Account,2026-08,Identity verification,Liveness failed repeatedly,530
+Achieva Account,2026-08,Identity verification,Record lookup mismatch,391
+Achieva Account,2026-08,Identity verification,Network timeout,341
+Achieva Account,2026-08,Personal details,Form too long,1207
+Achieva Account,2026-08,Personal details,Info not at hand,1020
+Achieva Account,2026-08,Personal details,Privacy concern,928
+Achieva Account,2026-08,Proof of address or income,No proof to hand,611
+Achieva Account,2026-08,Proof of address or income,Upload or size errors,278
+Achieva Account,2026-08,Proof of address or income,Prefers a branch,388
+Achieva Account,2026-08,Terms and e-sign,Terms too long,90
+Achieva Account,2026-08,Terms and e-sign,OTP not received,80
+Achieva Account,2026-08,Terms and e-sign,Changed mind,57
+Achieva Account,2026-09,Account opened → first transaction,Never made a first transaction,1109
+Achieva Account,2026-09,Affordability and risk decision,Declined by risk rules,248
+Achieva Account,2026-09,Affordability and risk decision,Waiting for manual review,244
+Achieva Account,2026-09,Choose account,Comparing offers elsewhere,2807
+Achieva Account,2026-09,Choose account,Unclear fees or features,2677
+Achieva Account,2026-09,Choose account,No real intent,2206
+Achieva Account,2026-09,Eligibility check,Unsure whether they qualify,238
+Achieva Account,2026-09,Eligibility check,Changed mind,156
+Achieva Account,2026-09,ID capture,Camera or glare failure,424
+Achieva Account,2026-09,ID capture,No ID to hand,337
+Achieva Account,2026-09,ID capture,Not eligible after all,165
+Achieva Account,2026-09,Identity verification,Liveness failed repeatedly,488
+Achieva Account,2026-09,Identity verification,Record lookup mismatch,315
+Achieva Account,2026-09,Identity verification,Network timeout,352
+Achieva Account,2026-09,Personal details,Form too long,1008
+Achieva Account,2026-09,Personal details,Info not at hand,762
+Achieva Account,2026-09,Personal details,Privacy concern,1078
+Achieva Account,2026-09,Proof of address or income,No proof to hand,677
+Achieva Account,2026-09,Proof of address or income,Upload or size errors,330
+Achieva Account,2026-09,Proof of address or income,Prefers a branch,282
+Achieva Account,2026-09,Terms and e-sign,Terms too long,80
+Achieva Account,2026-09,Terms and e-sign,OTP not received,75
+Achieva Account,2026-09,Terms and e-sign,Changed mind,32
+Achieva Account,2026-10,Account opened → first transaction,Never made a first transaction,1113
+Achieva Account,2026-10,Affordability and risk decision,Declined by risk rules,353
+Achieva Account,2026-10,Affordability and risk decision,Waiting for manual review,214
+Achieva Account,2026-10,Choose account,Comparing offers elsewhere,2927
+Achieva Account,2026-10,Choose account,Unclear fees or features,2785
+Achieva Account,2026-10,Choose account,No real intent,2462
+Achieva Account,2026-10,Eligibility check,Unsure whether they qualify,206
+Achieva Account,2026-10,Eligibility check,Changed mind,180
+Achieva Account,2026-10,ID capture,Camera or glare failure,433
+Achieva Account,2026-10,ID capture,No ID to hand,325
+Achieva Account,2026-10,ID capture,Not eligible after all,186
+Achieva Account,2026-10,Identity verification,Liveness failed repeatedly,505
+Achieva Account,2026-10,Identity verification,Record lookup mismatch,351
+Achieva Account,2026-10,Identity verification,Network timeout,425
+Achieva Account,2026-10,Personal details,Form too long,1204
+Achieva Account,2026-10,Personal details,Info not at hand,1041
+Achieva Account,2026-10,Personal details,Privacy concern,865
+Achieva Account,2026-10,Proof of address or income,No proof to hand,661
+Achieva Account,2026-10,Proof of address or income,Upload or size errors,316
+Achieva Account,2026-10,Proof of address or income,Prefers a branch,307
+Achieva Account,2026-10,Terms and e-sign,Terms too long,82
+Achieva Account,2026-10,Terms and e-sign,OTP not received,85
+Achieva Account,2026-10,Terms and e-sign,Changed mind,36
+MyMo Account,2024-11,Account opened → first transaction,Never made a first transaction,5039
+MyMo Account,2024-11,Choose account,Comparing offers elsewhere,5745
+MyMo Account,2024-11,Choose account,Unclear fees or features,5096
+MyMo Account,2024-11,Choose account,No real intent,2052
+MyMo Account,2024-11,Confirm address,No proof to hand,538
+MyMo Account,2024-11,Confirm address,Upload or size errors,302
+MyMo Account,2024-11,Confirm address,Prefers a branch,315
+MyMo Account,2024-11,Eligibility check,Unsure whether they qualify,443
+MyMo Account,2024-11,Eligibility check,Changed mind,313
+MyMo Account,2024-11,ID capture (SA ID),Camera or glare failure,1214
+MyMo Account,2024-11,ID capture (SA ID),No ID to hand,963
+MyMo Account,2024-11,ID capture (SA ID),Not eligible after all,377
+MyMo Account,2024-11,Identity verification,Liveness failed repeatedly,1303
+MyMo Account,2024-11,Identity verification,Record lookup mismatch,1064
+MyMo Account,2024-11,Identity verification,Network timeout,1293
+MyMo Account,2024-11,Personal details,Form too long,2720
+MyMo Account,2024-11,Personal details,Info not at hand,1839
+MyMo Account,2024-11,Personal details,Privacy concern,2329
+MyMo Account,2024-11,Terms and e-sign,Terms too long,276
+MyMo Account,2024-11,Terms and e-sign,OTP not received,283
+MyMo Account,2024-11,Terms and e-sign,Changed mind,158
+MyMo Account,2024-12,Account opened → first transaction,Never made a first transaction,4612
+MyMo Account,2024-12,Choose account,Comparing offers elsewhere,4388
+MyMo Account,2024-12,Choose account,Unclear fees or features,4056
+MyMo Account,2024-12,Choose account,No real intent,3143
+MyMo Account,2024-12,Confirm address,No proof to hand,517
+MyMo Account,2024-12,Confirm address,Upload or size errors,247
+MyMo Account,2024-12,Confirm address,Prefers a branch,217
+MyMo Account,2024-12,Eligibility check,Unsure whether they qualify,429
+MyMo Account,2024-12,Eligibility check,Changed mind,228
+MyMo Account,2024-12,ID capture (SA ID),Camera or glare failure,882
+MyMo Account,2024-12,ID capture (SA ID),No ID to hand,812
+MyMo Account,2024-12,ID capture (SA ID),Not eligible after all,542
+MyMo Account,2024-12,Identity verification,Liveness failed repeatedly,1660
+MyMo Account,2024-12,Identity verification,Record lookup mismatch,996
+MyMo Account,2024-12,Identity verification,Network timeout,779
+MyMo Account,2024-12,Personal details,Form too long,2302
+MyMo Account,2024-12,Personal details,Info not at hand,1896
+MyMo Account,2024-12,Personal details,Privacy concern,1887
+MyMo Account,2024-12,Terms and e-sign,Terms too long,247
+MyMo Account,2024-12,Terms and e-sign,OTP not received,227
+MyMo Account,2024-12,Terms and e-sign,Changed mind,107
+MyMo Account,2025-01,Account opened → first transaction,Never made a first transaction,6162
+MyMo Account,2025-01,Choose account,Comparing offers elsewhere,6651
+MyMo Account,2025-01,Choose account,Unclear fees or features,5742
+MyMo Account,2025-01,Choose account,No real intent,4483
+MyMo Account,2025-01,Confirm address,No proof to hand,670
+MyMo Account,2025-01,Confirm address,Upload or size errors,367
+MyMo Account,2025-01,Confirm address,Prefers a branch,328
+MyMo Account,2025-01,Eligibility check,Unsure whether they qualify,571
+MyMo Account,2025-01,Eligibility check,Changed mind,355
+MyMo Account,2025-01,ID capture (SA ID),Camera or glare failure,1472
+MyMo Account,2025-01,ID capture (SA ID),No ID to hand,1129
+MyMo Account,2025-01,ID capture (SA ID),Not eligible after all,735
+MyMo Account,2025-01,Identity verification,Liveness failed repeatedly,1753
+MyMo Account,2025-01,Identity verification,Record lookup mismatch,1441
+MyMo Account,2025-01,Identity verification,Network timeout,1466
+MyMo Account,2025-01,Personal details,Form too long,3491
+MyMo Account,2025-01,Personal details,Info not at hand,2746
+MyMo Account,2025-01,Personal details,Privacy concern,2281
+MyMo Account,2025-01,Terms and e-sign,Terms too long,376
+MyMo Account,2025-01,Terms and e-sign,OTP not received,403
+MyMo Account,2025-01,Terms and e-sign,Changed mind,128
+MyMo Account,2025-02,Account opened → first transaction,Never made a first transaction,4819
+MyMo Account,2025-02,Choose account,Comparing offers elsewhere,5346
+MyMo Account,2025-02,Choose account,Unclear fees or features,4705
+MyMo Account,2025-02,Choose account,No real intent,3720
+MyMo Account,2025-02,Confirm address,No proof to hand,512
+MyMo Account,2025-02,Confirm address,Upload or size errors,305
+MyMo Account,2025-02,Confirm address,Prefers a branch,248
+MyMo Account,2025-02,Eligibility check,Unsure whether they qualify,426
+MyMo Account,2025-02,Eligibility check,Changed mind,316
+MyMo Account,2025-02,ID capture (SA ID),Camera or glare failure,1312
+MyMo Account,2025-02,ID capture (SA ID),No ID to hand,1123
+MyMo Account,2025-02,ID capture (SA ID),Not eligible after all,273
+MyMo Account,2025-02,Identity verification,Liveness failed repeatedly,1726
+MyMo Account,2025-02,Identity verification,Record lookup mismatch,1220
+MyMo Account,2025-02,Identity verification,Network timeout,948
+MyMo Account,2025-02,Personal details,Form too long,2798
+MyMo Account,2025-02,Personal details,Info not at hand,1898
+MyMo Account,2025-02,Personal details,Privacy concern,2331
+MyMo Account,2025-02,Terms and e-sign,Terms too long,292
+MyMo Account,2025-02,Terms and e-sign,OTP not received,264
+MyMo Account,2025-02,Terms and e-sign,Changed mind,129
+MyMo Account,2025-03,Account opened → first transaction,Never made a first transaction,4861
+MyMo Account,2025-03,Choose account,Comparing offers elsewhere,5297
+MyMo Account,2025-03,Choose account,Unclear fees or features,4155
+MyMo Account,2025-03,Choose account,No real intent,5302
+MyMo Account,2025-03,Confirm address,No proof to hand,576
+MyMo Account,2025-03,Confirm address,Upload or size errors,313
+MyMo Account,2025-03,Confirm address,Prefers a branch,231
+MyMo Account,2025-03,Eligibility check,Unsure whether they qualify,530
+MyMo Account,2025-03,Eligibility check,Changed mind,217
+MyMo Account,2025-03,ID capture (SA ID),Camera or glare failure,1318
+MyMo Account,2025-03,ID capture (SA ID),No ID to hand,1102
+MyMo Account,2025-03,ID capture (SA ID),Not eligible after all,380
+MyMo Account,2025-03,Identity verification,Liveness failed repeatedly,1558
+MyMo Account,2025-03,Identity verification,Record lookup mismatch,1049
+MyMo Account,2025-03,Identity verification,Network timeout,1176
+MyMo Account,2025-03,Personal details,Form too long,2721
+MyMo Account,2025-03,Personal details,Info not at hand,2178
+MyMo Account,2025-03,Personal details,Privacy concern,2298
+MyMo Account,2025-03,Terms and e-sign,Terms too long,314
+MyMo Account,2025-03,Terms and e-sign,OTP not received,320
+MyMo Account,2025-03,Terms and e-sign,Changed mind,147
+MyMo Account,2025-04,Account opened → first transaction,Never made a first transaction,4677
+MyMo Account,2025-04,Choose account,Comparing offers elsewhere,5645
+MyMo Account,2025-04,Choose account,Unclear fees or features,4921
+MyMo Account,2025-04,Choose account,No real intent,3022
+MyMo Account,2025-04,Confirm address,No proof to hand,469
+MyMo Account,2025-04,Confirm address,Upload or size errors,286
+MyMo Account,2025-04,Confirm address,Prefers a branch,293
+MyMo Account,2025-04,Eligibility check,Unsure whether they qualify,413
+MyMo Account,2025-04,Eligibility check,Changed mind,333
+MyMo Account,2025-04,ID capture (SA ID),Camera or glare failure,1213
+MyMo Account,2025-04,ID capture (SA ID),No ID to hand,862
+MyMo Account,2025-04,ID capture (SA ID),Not eligible after all,546
+MyMo Account,2025-04,Identity verification,Liveness failed repeatedly,1515
+MyMo Account,2025-04,Identity verification,Record lookup mismatch,1037
+MyMo Account,2025-04,Identity verification,Network timeout,1257
+MyMo Account,2025-04,Personal details,Form too long,2678
+MyMo Account,2025-04,Personal details,Info not at hand,1922
+MyMo Account,2025-04,Personal details,Privacy concern,2022
+MyMo Account,2025-04,Terms and e-sign,Terms too long,287
+MyMo Account,2025-04,Terms and e-sign,OTP not received,260
+MyMo Account,2025-04,Terms and e-sign,Changed mind,133
+MyMo Account,2025-05,Account opened → first transaction,Never made a first transaction,4801
+MyMo Account,2025-05,Choose account,Comparing offers elsewhere,6260
+MyMo Account,2025-05,Choose account,Unclear fees or features,5471
+MyMo Account,2025-05,Choose account,No real intent,2889
+MyMo Account,2025-05,Confirm address,No proof to hand,554
+MyMo Account,2025-05,Confirm address,Upload or size errors,291
+MyMo Account,2025-05,Confirm address,Prefers a branch,339
+MyMo Account,2025-05,Eligibility check,Unsure whether they qualify,512
+MyMo Account,2025-05,Eligibility check,Changed mind,294
+MyMo Account,2025-05,ID capture (SA ID),Camera or glare failure,1278
+MyMo Account,2025-05,ID capture (SA ID),No ID to hand,968
+MyMo Account,2025-05,ID capture (SA ID),Not eligible after all,658
+MyMo Account,2025-05,Identity verification,Liveness failed repeatedly,1757
+MyMo Account,2025-05,Identity verification,Record lookup mismatch,1307
+MyMo Account,2025-05,Identity verification,Network timeout,999
+MyMo Account,2025-05,Personal details,Form too long,3010
+MyMo Account,2025-05,Personal details,Info not at hand,1987
+MyMo Account,2025-05,Personal details,Privacy concern,1932
+MyMo Account,2025-05,Terms and e-sign,Terms too long,343
+MyMo Account,2025-05,Terms and e-sign,OTP not received,270
+MyMo Account,2025-05,Terms and e-sign,Changed mind,135
+MyMo Account,2025-06,Account opened → first transaction,Never made a first transaction,4307
+MyMo Account,2025-06,Choose account,Comparing offers elsewhere,5370
+MyMo Account,2025-06,Choose account,Unclear fees or features,4285
+MyMo Account,2025-06,Choose account,No real intent,3781
+MyMo Account,2025-06,Confirm address,No proof to hand,545
+MyMo Account,2025-06,Confirm address,Upload or size errors,285
+MyMo Account,2025-06,Confirm address,Prefers a branch,244
+MyMo Account,2025-06,Eligibility check,Unsure whether they qualify,496
+MyMo Account,2025-06,Eligibility check,Changed mind,261
+MyMo Account,2025-06,ID capture (SA ID),Camera or glare failure,1071
+MyMo Account,2025-06,ID capture (SA ID),No ID to hand,929
+MyMo Account,2025-06,ID capture (SA ID),Not eligible after all,668
+MyMo Account,2025-06,Identity verification,Liveness failed repeatedly,1608
+MyMo Account,2025-06,Identity verification,Record lookup mismatch,1157
+MyMo Account,2025-06,Identity verification,Network timeout,891
+MyMo Account,2025-06,Personal details,Form too long,2233
+MyMo Account,2025-06,Personal details,Info not at hand,2150
+MyMo Account,2025-06,Personal details,Privacy concern,1938
+MyMo Account,2025-06,Terms and e-sign,Terms too long,252
+MyMo Account,2025-06,Terms and e-sign,OTP not received,254
+MyMo Account,2025-06,Terms and e-sign,Changed mind,143
+MyMo Account,2025-07,Account opened → first transaction,Never made a first transaction,4824
+MyMo Account,2025-07,Choose account,Comparing offers elsewhere,5713
+MyMo Account,2025-07,Choose account,Unclear fees or features,5376
+MyMo Account,2025-07,Choose account,No real intent,3417
+MyMo Account,2025-07,Confirm address,No proof to hand,569
+MyMo Account,2025-07,Confirm address,Upload or size errors,296
+MyMo Account,2025-07,Confirm address,Prefers a branch,411
+MyMo Account,2025-07,Eligibility check,Unsure whether they qualify,458
+MyMo Account,2025-07,Eligibility check,Changed mind,317
+MyMo Account,2025-07,ID capture (SA ID),Camera or glare failure,1315
+MyMo Account,2025-07,ID capture (SA ID),No ID to hand,1314
+MyMo Account,2025-07,ID capture (SA ID),Not eligible after all,436
+MyMo Account,2025-07,Identity verification,Liveness failed repeatedly,1503
+MyMo Account,2025-07,Identity verification,Record lookup mismatch,1213
+MyMo Account,2025-07,Identity verification,Network timeout,1266
+MyMo Account,2025-07,Personal details,Form too long,2750
+MyMo Account,2025-07,Personal details,Info not at hand,2084
+MyMo Account,2025-07,Personal details,Privacy concern,2119
+MyMo Account,2025-07,Terms and e-sign,Terms too long,303
+MyMo Account,2025-07,Terms and e-sign,OTP not received,325
+MyMo Account,2025-07,Terms and e-sign,Changed mind,164
+MyMo Account,2025-08,Account opened → first transaction,Never made a first transaction,4672
+MyMo Account,2025-08,Choose account,Comparing offers elsewhere,5060
+MyMo Account,2025-08,Choose account,Unclear fees or features,5098
+MyMo Account,2025-08,Choose account,No real intent,2958
+MyMo Account,2025-08,Confirm address,No proof to hand,655
+MyMo Account,2025-08,Confirm address,Upload or size errors,308
+MyMo Account,2025-08,Confirm address,Prefers a branch,307
+MyMo Account,2025-08,Eligibility check,Unsure whether they qualify,481
+MyMo Account,2025-08,Eligibility check,Changed mind,302
+MyMo Account,2025-08,ID capture (SA ID),Camera or glare failure,1454
+MyMo Account,2025-08,ID capture (SA ID),No ID to hand,940
+MyMo Account,2025-08,ID capture (SA ID),Not eligible after all,479
+MyMo Account,2025-08,Identity verification,Liveness failed repeatedly,1309
+MyMo Account,2025-08,Identity verification,Record lookup mismatch,1127
+MyMo Account,2025-08,Identity verification,Network timeout,1147
+MyMo Account,2025-08,Personal details,Form too long,2584
+MyMo Account,2025-08,Personal details,Info not at hand,2007
+MyMo Account,2025-08,Personal details,Privacy concern,1908
+MyMo Account,2025-08,Terms and e-sign,Terms too long,268
+MyMo Account,2025-08,Terms and e-sign,OTP not received,294
+MyMo Account,2025-08,Terms and e-sign,Changed mind,204
+MyMo Account,2025-09,Account opened → first transaction,Never made a first transaction,4642
+MyMo Account,2025-09,Choose account,Comparing offers elsewhere,4599
+MyMo Account,2025-09,Choose account,Unclear fees or features,4449
+MyMo Account,2025-09,Choose account,No real intent,3450
+MyMo Account,2025-09,Confirm address,No proof to hand,554
+MyMo Account,2025-09,Confirm address,Upload or size errors,266
+MyMo Account,2025-09,Confirm address,Prefers a branch,341
+MyMo Account,2025-09,Eligibility check,Unsure whether they qualify,429
+MyMo Account,2025-09,Eligibility check,Changed mind,366
+MyMo Account,2025-09,ID capture (SA ID),Camera or glare failure,1343
+MyMo Account,2025-09,ID capture (SA ID),No ID to hand,1086
+MyMo Account,2025-09,ID capture (SA ID),Not eligible after all,375
+MyMo Account,2025-09,Identity verification,Liveness failed repeatedly,1349
+MyMo Account,2025-09,Identity verification,Record lookup mismatch,1015
+MyMo Account,2025-09,Identity verification,Network timeout,1183
+MyMo Account,2025-09,Personal details,Form too long,2477
+MyMo Account,2025-09,Personal details,Info not at hand,1896
+MyMo Account,2025-09,Personal details,Privacy concern,1699
+MyMo Account,2025-09,Terms and e-sign,Terms too long,318
+MyMo Account,2025-09,Terms and e-sign,OTP not received,337
+MyMo Account,2025-09,Terms and e-sign,Changed mind,149
+MyMo Account,2025-10,Account opened → first transaction,Never made a first transaction,5093
+MyMo Account,2025-10,Choose account,Comparing offers elsewhere,5066
+MyMo Account,2025-10,Choose account,Unclear fees or features,4709
+MyMo Account,2025-10,Choose account,No real intent,3536
+MyMo Account,2025-10,Confirm address,No proof to hand,601
+MyMo Account,2025-10,Confirm address,Upload or size errors,339
+MyMo Account,2025-10,Confirm address,Prefers a branch,379
+MyMo Account,2025-10,Eligibility check,Unsure whether they qualify,446
+MyMo Account,2025-10,Eligibility check,Changed mind,373
+MyMo Account,2025-10,ID capture (SA ID),Camera or glare failure,1516
+MyMo Account,2025-10,ID capture (SA ID),No ID to hand,1107
+MyMo Account,2025-10,ID capture (SA ID),Not eligible after all,230
+MyMo Account,2025-10,Identity verification,Liveness failed repeatedly,1440
+MyMo Account,2025-10,Identity verification,Record lookup mismatch,984
+MyMo Account,2025-10,Identity verification,Network timeout,1411
+MyMo Account,2025-10,Personal details,Form too long,3052
+MyMo Account,2025-10,Personal details,Info not at hand,2138
+MyMo Account,2025-10,Personal details,Privacy concern,1591
+MyMo Account,2025-10,Terms and e-sign,Terms too long,262
+MyMo Account,2025-10,Terms and e-sign,OTP not received,307
+MyMo Account,2025-10,Terms and e-sign,Changed mind,225
+MyMo Account,2025-11,Account opened → first transaction,Never made a first transaction,4382
+MyMo Account,2025-11,Choose account,Comparing offers elsewhere,4440
+MyMo Account,2025-11,Choose account,Unclear fees or features,4507
+MyMo Account,2025-11,Choose account,No real intent,2835
+MyMo Account,2025-11,Confirm address,No proof to hand,561
+MyMo Account,2025-11,Confirm address,Upload or size errors,284
+MyMo Account,2025-11,Confirm address,Prefers a branch,265
+MyMo Account,2025-11,Eligibility check,Unsure whether they qualify,434
+MyMo Account,2025-11,Eligibility check,Changed mind,306
+MyMo Account,2025-11,ID capture (SA ID),Camera or glare failure,1178
+MyMo Account,2025-11,ID capture (SA ID),No ID to hand,851
+MyMo Account,2025-11,ID capture (SA ID),Not eligible after all,504
+MyMo Account,2025-11,Identity verification,Liveness failed repeatedly,1368
+MyMo Account,2025-11,Identity verification,Record lookup mismatch,1096
+MyMo Account,2025-11,Identity verification,Network timeout,874
+MyMo Account,2025-11,Personal details,Form too long,2027
+MyMo Account,2025-11,Personal details,Info not at hand,1722
+MyMo Account,2025-11,Personal details,Privacy concern,2106
+MyMo Account,2025-11,Terms and e-sign,Terms too long,280
+MyMo Account,2025-11,Terms and e-sign,OTP not received,275
+MyMo Account,2025-11,Terms and e-sign,Changed mind,116
+MyMo Account,2025-12,Account opened → first transaction,Never made a first transaction,3944
+MyMo Account,2025-12,Choose account,Comparing offers elsewhere,3833
+MyMo Account,2025-12,Choose account,Unclear fees or features,3760
+MyMo Account,2025-12,Choose account,No real intent,2904
+MyMo Account,2025-12,Confirm address,No proof to hand,522
+MyMo Account,2025-12,Confirm address,Upload or size errors,244
+MyMo Account,2025-12,Confirm address,Prefers a branch,274
+MyMo Account,2025-12,Eligibility check,Unsure whether they qualify,388
+MyMo Account,2025-12,Eligibility check,Changed mind,293
+MyMo Account,2025-12,ID capture (SA ID),Camera or glare failure,1141
+MyMo Account,2025-12,ID capture (SA ID),No ID to hand,833
+MyMo Account,2025-12,ID capture (SA ID),Not eligible after all,377
+MyMo Account,2025-12,Identity verification,Liveness failed repeatedly,1319
+MyMo Account,2025-12,Identity verification,Record lookup mismatch,1013
+MyMo Account,2025-12,Identity verification,Network timeout,1017
+MyMo Account,2025-12,Personal details,Form too long,2321
+MyMo Account,2025-12,Personal details,Info not at hand,1526
+MyMo Account,2025-12,Personal details,Privacy concern,1659
+MyMo Account,2025-12,Terms and e-sign,Terms too long,239
+MyMo Account,2025-12,Terms and e-sign,OTP not received,235
+MyMo Account,2025-12,Terms and e-sign,Changed mind,165
+MyMo Account,2026-01,Account opened → first transaction,Never made a first transaction,5851
+MyMo Account,2026-01,Choose account,Comparing offers elsewhere,5000
+MyMo Account,2026-01,Choose account,Unclear fees or features,6984
+MyMo Account,2026-01,Choose account,No real intent,2871
+MyMo Account,2026-01,Confirm address,No proof to hand,609
+MyMo Account,2026-01,Confirm address,Upload or size errors,374
+MyMo Account,2026-01,Confirm address,Prefers a branch,470
+MyMo Account,2026-01,Eligibility check,Unsure whether they qualify,575
+MyMo Account,2026-01,Eligibility check,Changed mind,350
+MyMo Account,2026-01,ID capture (SA ID),Camera or glare failure,1412
+MyMo Account,2026-01,ID capture (SA ID),No ID to hand,1194
+MyMo Account,2026-01,ID capture (SA ID),Not eligible after all,599
+MyMo Account,2026-01,Identity verification,Liveness failed repeatedly,1821
+MyMo Account,2026-01,Identity verification,Record lookup mismatch,1344
+MyMo Account,2026-01,Identity verification,Network timeout,1296
+MyMo Account,2026-01,Personal details,Form too long,3215
+MyMo Account,2026-01,Personal details,Info not at hand,2179
+MyMo Account,2026-01,Personal details,Privacy concern,2514
+MyMo Account,2026-01,Terms and e-sign,Terms too long,361
+MyMo Account,2026-01,Terms and e-sign,OTP not received,336
+MyMo Account,2026-01,Terms and e-sign,Changed mind,216
+MyMo Account,2026-02,Account opened → first transaction,Never made a first transaction,4695
+MyMo Account,2026-02,Choose account,Comparing offers elsewhere,4508
+MyMo Account,2026-02,Choose account,Unclear fees or features,4334
+MyMo Account,2026-02,Choose account,No real intent,2690
+MyMo Account,2026-02,Confirm address,No proof to hand,600
+MyMo Account,2026-02,Confirm address,Upload or size errors,338
+MyMo Account,2026-02,Confirm address,Prefers a branch,303
+MyMo Account,2026-02,Eligibility check,Unsure whether they qualify,529
+MyMo Account,2026-02,Eligibility check,Changed mind,240
+MyMo Account,2026-02,ID capture (SA ID),Camera or glare failure,1043
+MyMo Account,2026-02,ID capture (SA ID),No ID to hand,855
+MyMo Account,2026-02,ID capture (SA ID),Not eligible after all,565
+MyMo Account,2026-02,Identity verification,Liveness failed repeatedly,1413
+MyMo Account,2026-02,Identity verification,Record lookup mismatch,1054
+MyMo Account,2026-02,Identity verification,Network timeout,915
+MyMo Account,2026-02,Personal details,Form too long,2579
+MyMo Account,2026-02,Personal details,Info not at hand,2051
+MyMo Account,2026-02,Personal details,Privacy concern,1588
+MyMo Account,2026-02,Terms and e-sign,Terms too long,308
+MyMo Account,2026-02,Terms and e-sign,OTP not received,299
+MyMo Account,2026-02,Terms and e-sign,Changed mind,128
+MyMo Account,2026-03,Account opened → first transaction,Never made a first transaction,5265
+MyMo Account,2026-03,Choose account,Comparing offers elsewhere,5148
+MyMo Account,2026-03,Choose account,Unclear fees or features,4337
+MyMo Account,2026-03,Choose account,No real intent,3070
+MyMo Account,2026-03,Confirm address,No proof to hand,541
+MyMo Account,2026-03,Confirm address,Upload or size errors,299
+MyMo Account,2026-03,Confirm address,Prefers a branch,344
+MyMo Account,2026-03,Eligibility check,Unsure whether they qualify,499
+MyMo Account,2026-03,Eligibility check,Changed mind,285
+MyMo Account,2026-03,ID capture (SA ID),Camera or glare failure,1214
+MyMo Account,2026-03,ID capture (SA ID),No ID to hand,955
+MyMo Account,2026-03,ID capture (SA ID),Not eligible after all,501
+MyMo Account,2026-03,Identity verification,Liveness failed repeatedly,1592
+MyMo Account,2026-03,Identity verification,Record lookup mismatch,1134
+MyMo Account,2026-03,Identity verification,Network timeout,885
+MyMo Account,2026-03,Personal details,Form too long,3076
+MyMo Account,2026-03,Personal details,Info not at hand,2125
+MyMo Account,2026-03,Personal details,Privacy concern,1505
+MyMo Account,2026-03,Terms and e-sign,Terms too long,273
+MyMo Account,2026-03,Terms and e-sign,OTP not received,259
+MyMo Account,2026-03,Terms and e-sign,Changed mind,196
+MyMo Account,2026-04,Account opened → first transaction,Never made a first transaction,4744
+MyMo Account,2026-04,Choose account,Comparing offers elsewhere,4760
+MyMo Account,2026-04,Choose account,Unclear fees or features,4036
+MyMo Account,2026-04,Choose account,No real intent,2828
+MyMo Account,2026-04,Confirm address,No proof to hand,482
+MyMo Account,2026-04,Confirm address,Upload or size errors,250
+MyMo Account,2026-04,Confirm address,Prefers a branch,390
+MyMo Account,2026-04,Eligibility check,Unsure whether they qualify,467
+MyMo Account,2026-04,Eligibility check,Changed mind,221
+MyMo Account,2026-04,ID capture (SA ID),Camera or glare failure,1249
+MyMo Account,2026-04,ID capture (SA ID),No ID to hand,745
+MyMo Account,2026-04,ID capture (SA ID),Not eligible after all,399
+MyMo Account,2026-04,Identity verification,Liveness failed repeatedly,1419
+MyMo Account,2026-04,Identity verification,Record lookup mismatch,926
+MyMo Account,2026-04,Identity verification,Network timeout,964
+MyMo Account,2026-04,Personal details,Form too long,2859
+MyMo Account,2026-04,Personal details,Info not at hand,2363
+MyMo Account,2026-04,Personal details,Privacy concern,1054
+MyMo Account,2026-04,Terms and e-sign,Terms too long,278
+MyMo Account,2026-04,Terms and e-sign,OTP not received,255
+MyMo Account,2026-04,Terms and e-sign,Changed mind,136
+MyMo Account,2026-05,Account opened → first transaction,Never made a first transaction,5136
+MyMo Account,2026-05,Choose account,Comparing offers elsewhere,4642
+MyMo Account,2026-05,Choose account,Unclear fees or features,4479
+MyMo Account,2026-05,Choose account,No real intent,3086
+MyMo Account,2026-05,Confirm address,No proof to hand,554
+MyMo Account,2026-05,Confirm address,Upload or size errors,303
+MyMo Account,2026-05,Confirm address,Prefers a branch,290
+MyMo Account,2026-05,Eligibility check,Unsure whether they qualify,440
+MyMo Account,2026-05,Eligibility check,Changed mind,275
+MyMo Account,2026-05,ID capture (SA ID),Camera or glare failure,714
+MyMo Account,2026-05,ID capture (SA ID),No ID to hand,658
+MyMo Account,2026-05,ID capture (SA ID),Not eligible after all,318
+MyMo Account,2026-05,Identity verification,Liveness failed repeatedly,1378
+MyMo Account,2026-05,Identity verification,Record lookup mismatch,1045
+MyMo Account,2026-05,Identity verification,Network timeout,1265
+MyMo Account,2026-05,Personal details,Form too long,2461
+MyMo Account,2026-05,Personal details,Info not at hand,2072
+MyMo Account,2026-05,Personal details,Privacy concern,2105
+MyMo Account,2026-05,Terms and e-sign,Terms too long,291
+MyMo Account,2026-05,Terms and e-sign,OTP not received,264
+MyMo Account,2026-05,Terms and e-sign,Changed mind,132
+MyMo Account,2026-06,Account opened → first transaction,Never made a first transaction,4777
+MyMo Account,2026-06,Choose account,Comparing offers elsewhere,4983
+MyMo Account,2026-06,Choose account,Unclear fees or features,4055
+MyMo Account,2026-06,Choose account,No real intent,2725
+MyMo Account,2026-06,Confirm address,No proof to hand,465
+MyMo Account,2026-06,Confirm address,Upload or size errors,239
+MyMo Account,2026-06,Confirm address,Prefers a branch,340
+MyMo Account,2026-06,Eligibility check,Unsure whether they qualify,374
+MyMo Account,2026-06,Eligibility check,Changed mind,309
+MyMo Account,2026-06,ID capture (SA ID),Camera or glare failure,718
+MyMo Account,2026-06,ID capture (SA ID),No ID to hand,578
+MyMo Account,2026-06,ID capture (SA ID),Not eligible after all,268
+MyMo Account,2026-06,Identity verification,Liveness failed repeatedly,1353
+MyMo Account,2026-06,Identity verification,Record lookup mismatch,1031
+MyMo Account,2026-06,Identity verification,Network timeout,1005
+MyMo Account,2026-06,Personal details,Form too long,2524
+MyMo Account,2026-06,Personal details,Info not at hand,1831
+MyMo Account,2026-06,Personal details,Privacy concern,1834
+MyMo Account,2026-06,Terms and e-sign,Terms too long,263
+MyMo Account,2026-06,Terms and e-sign,OTP not received,247
+MyMo Account,2026-06,Terms and e-sign,Changed mind,211
+MyMo Account,2026-07,Account opened → first transaction,Never made a first transaction,5290
+MyMo Account,2026-07,Choose account,Comparing offers elsewhere,4954
+MyMo Account,2026-07,Choose account,Unclear fees or features,5248
+MyMo Account,2026-07,Choose account,No real intent,3128
+MyMo Account,2026-07,Confirm address,No proof to hand,536
+MyMo Account,2026-07,Confirm address,Upload or size errors,289
+MyMo Account,2026-07,Confirm address,Prefers a branch,332
+MyMo Account,2026-07,Eligibility check,Unsure whether they qualify,415
+MyMo Account,2026-07,Eligibility check,Changed mind,329
+MyMo Account,2026-07,ID capture (SA ID),Camera or glare failure,843
+MyMo Account,2026-07,ID capture (SA ID),No ID to hand,605
+MyMo Account,2026-07,ID capture (SA ID),Not eligible after all,438
+MyMo Account,2026-07,Identity verification,Liveness failed repeatedly,1751
+MyMo Account,2026-07,Identity verification,Record lookup mismatch,1044
+MyMo Account,2026-07,Identity verification,Network timeout,1045
+MyMo Account,2026-07,Personal details,Form too long,2793
+MyMo Account,2026-07,Personal details,Info not at hand,1813
+MyMo Account,2026-07,Personal details,Privacy concern,2060
+MyMo Account,2026-07,Terms and e-sign,Terms too long,321
+MyMo Account,2026-07,Terms and e-sign,OTP not received,267
+MyMo Account,2026-07,Terms and e-sign,Changed mind,125
+MyMo Account,2026-08,Account opened → first transaction,Never made a first transaction,4835
+MyMo Account,2026-08,Choose account,Comparing offers elsewhere,4607
+MyMo Account,2026-08,Choose account,Unclear fees or features,4124
+MyMo Account,2026-08,Choose account,No real intent,4143
+MyMo Account,2026-08,Confirm address,No proof to hand,500
+MyMo Account,2026-08,Confirm address,Upload or size errors,227
+MyMo Account,2026-08,Confirm address,Prefers a branch,337
+MyMo Account,2026-08,Eligibility check,Unsure whether they qualify,355
+MyMo Account,2026-08,Eligibility check,Changed mind,321
+MyMo Account,2026-08,ID capture (SA ID),Camera or glare failure,737
+MyMo Account,2026-08,ID capture (SA ID),No ID to hand,553
+MyMo Account,2026-08,ID capture (SA ID),Not eligible after all,479
+MyMo Account,2026-08,Identity verification,Liveness failed repeatedly,1489
+MyMo Account,2026-08,Identity verification,Record lookup mismatch,1012
+MyMo Account,2026-08,Identity verification,Network timeout,1174
+MyMo Account,2026-08,Personal details,Form too long,2647
+MyMo Account,2026-08,Personal details,Info not at hand,2053
+MyMo Account,2026-08,Personal details,Privacy concern,1795
+MyMo Account,2026-08,Terms and e-sign,Terms too long,298
+MyMo Account,2026-08,Terms and e-sign,OTP not received,332
+MyMo Account,2026-08,Terms and e-sign,Changed mind,38
+MyMo Account,2026-09,Account opened → first transaction,Never made a first transaction,4496
+MyMo Account,2026-09,Choose account,Comparing offers elsewhere,4684
+MyMo Account,2026-09,Choose account,Unclear fees or features,4119
+MyMo Account,2026-09,Choose account,No real intent,3393
+MyMo Account,2026-09,Confirm address,No proof to hand,475
+MyMo Account,2026-09,Confirm address,Upload or size errors,264
+MyMo Account,2026-09,Confirm address,Prefers a branch,342
+MyMo Account,2026-09,Eligibility check,Unsure whether they qualify,436
+MyMo Account,2026-09,Eligibility check,Changed mind,259
+MyMo Account,2026-09,ID capture (SA ID),Camera or glare failure,713
+MyMo Account,2026-09,ID capture (SA ID),No ID to hand,594
+MyMo Account,2026-09,ID capture (SA ID),Not eligible after all,370
+MyMo Account,2026-09,Identity verification,Liveness failed repeatedly,1357
+MyMo Account,2026-09,Identity verification,Record lookup mismatch,1004
+MyMo Account,2026-09,Identity verification,Network timeout,1286
+MyMo Account,2026-09,Personal details,Form too long,2234
+MyMo Account,2026-09,Personal details,Info not at hand,1928
+MyMo Account,2026-09,Personal details,Privacy concern,2208
+MyMo Account,2026-09,Terms and e-sign,Terms too long,248
+MyMo Account,2026-09,Terms and e-sign,OTP not received,231
+MyMo Account,2026-09,Terms and e-sign,Changed mind,145
+MyMo Account,2026-10,Account opened → first transaction,Never made a first transaction,4455
+MyMo Account,2026-10,Choose account,Comparing offers elsewhere,5175
+MyMo Account,2026-10,Choose account,Unclear fees or features,4310
+MyMo Account,2026-10,Choose account,No real intent,3650
+MyMo Account,2026-10,Confirm address,No proof to hand,526
+MyMo Account,2026-10,Confirm address,Upload or size errors,231
+MyMo Account,2026-10,Confirm address,Prefers a branch,315
+MyMo Account,2026-10,Eligibility check,Unsure whether they qualify,408
+MyMo Account,2026-10,Eligibility check,Changed mind,270
+MyMo Account,2026-10,ID capture (SA ID),Camera or glare failure,750
+MyMo Account,2026-10,ID capture (SA ID),No ID to hand,543
+MyMo Account,2026-10,ID capture (SA ID),Not eligible after all,501
+MyMo Account,2026-10,Identity verification,Liveness failed repeatedly,1540
+MyMo Account,2026-10,Identity verification,Record lookup mismatch,1186
+MyMo Account,2026-10,Identity verification,Network timeout,895
+MyMo Account,2026-10,Personal details,Form too long,2909
+MyMo Account,2026-10,Personal details,Info not at hand,2010
+MyMo Account,2026-10,Personal details,Privacy concern,1371
+MyMo Account,2026-10,Terms and e-sign,Terms too long,287
+MyMo Account,2026-10,Terms and e-sign,OTP not received,243
+MyMo Account,2026-10,Terms and e-sign,Changed mind,101
+MyMo Plus Account,2024-11,Account opened → first transaction,Never made a first transaction,1042
+MyMo Plus Account,2024-11,Affordability and risk decision,Declined by risk rules,184
+MyMo Plus Account,2024-11,Affordability and risk decision,Waiting for manual review,160
+MyMo Plus Account,2024-11,Choose account,Comparing offers elsewhere,1820
+MyMo Plus Account,2024-11,Choose account,Unclear fees or features,1608
+MyMo Plus Account,2024-11,Choose account,No real intent,1035
+MyMo Plus Account,2024-11,Eligibility check,Unsure whether they qualify,131
+MyMo Plus Account,2024-11,Eligibility check,Changed mind,72
+MyMo Plus Account,2024-11,ID capture,Camera or glare failure,324
+MyMo Plus Account,2024-11,ID capture,No ID to hand,240
+MyMo Plus Account,2024-11,ID capture,Not eligible after all,132
+MyMo Plus Account,2024-11,Identity verification,Liveness failed repeatedly,312
+MyMo Plus Account,2024-11,Identity verification,Record lookup mismatch,271
+MyMo Plus Account,2024-11,Identity verification,Network timeout,282
+MyMo Plus Account,2024-11,Personal details,Form too long,839
+MyMo Plus Account,2024-11,Personal details,Info not at hand,576
+MyMo Plus Account,2024-11,Personal details,Privacy concern,437
+MyMo Plus Account,2024-11,Proof of address or income,No proof to hand,498
+MyMo Plus Account,2024-11,Proof of address or income,Upload or size errors,234
+MyMo Plus Account,2024-11,Proof of address or income,Prefers a branch,183
+MyMo Plus Account,2024-11,Terms and e-sign,Terms too long,76
+MyMo Plus Account,2024-11,Terms and e-sign,OTP not received,59
+MyMo Plus Account,2024-11,Terms and e-sign,Changed mind,28
+MyMo Plus Account,2024-12,Account opened → first transaction,Never made a first transaction,837
+MyMo Plus Account,2024-12,Affordability and risk decision,Declined by risk rules,158
+MyMo Plus Account,2024-12,Affordability and risk decision,Waiting for manual review,129
+MyMo Plus Account,2024-12,Choose account,Comparing offers elsewhere,1642
+MyMo Plus Account,2024-12,Choose account,Unclear fees or features,1515
+MyMo Plus Account,2024-12,Choose account,No real intent,913
+MyMo Plus Account,2024-12,Eligibility check,Unsure whether they qualify,94
+MyMo Plus Account,2024-12,Eligibility check,Changed mind,84
+MyMo Plus Account,2024-12,ID capture,Camera or glare failure,304
+MyMo Plus Account,2024-12,ID capture,No ID to hand,204
+MyMo Plus Account,2024-12,ID capture,Not eligible after all,142
+MyMo Plus Account,2024-12,Identity verification,Liveness failed repeatedly,326
+MyMo Plus Account,2024-12,Identity verification,Record lookup mismatch,244
+MyMo Plus Account,2024-12,Identity verification,Network timeout,266
+MyMo Plus Account,2024-12,Personal details,Form too long,742
+MyMo Plus Account,2024-12,Personal details,Info not at hand,503
+MyMo Plus Account,2024-12,Personal details,Privacy concern,391
+MyMo Plus Account,2024-12,Proof of address or income,No proof to hand,384
+MyMo Plus Account,2024-12,Proof of address or income,Upload or size errors,170
+MyMo Plus Account,2024-12,Proof of address or income,Prefers a branch,226
+MyMo Plus Account,2024-12,Terms and e-sign,Terms too long,52
+MyMo Plus Account,2024-12,Terms and e-sign,OTP not received,46
+MyMo Plus Account,2024-12,Terms and e-sign,Changed mind,25
+MyMo Plus Account,2025-01,Account opened → first transaction,Never made a first transaction,1357
+MyMo Plus Account,2025-01,Affordability and risk decision,Declined by risk rules,226
+MyMo Plus Account,2025-01,Affordability and risk decision,Waiting for manual review,182
+MyMo Plus Account,2025-01,Choose account,Comparing offers elsewhere,2646
+MyMo Plus Account,2025-01,Choose account,Unclear fees or features,1966
+MyMo Plus Account,2025-01,Choose account,No real intent,1076
+MyMo Plus Account,2025-01,Eligibility check,Unsure whether they qualify,137
+MyMo Plus Account,2025-01,Eligibility check,Changed mind,111
+MyMo Plus Account,2025-01,ID capture,Camera or glare failure,407
+MyMo Plus Account,2025-01,ID capture,No ID to hand,327
+MyMo Plus Account,2025-01,ID capture,Not eligible after all,139
+MyMo Plus Account,2025-01,Identity verification,Liveness failed repeatedly,475
+MyMo Plus Account,2025-01,Identity verification,Record lookup mismatch,397
+MyMo Plus Account,2025-01,Identity verification,Network timeout,287
+MyMo Plus Account,2025-01,Personal details,Form too long,990
+MyMo Plus Account,2025-01,Personal details,Info not at hand,610
+MyMo Plus Account,2025-01,Personal details,Privacy concern,678
+MyMo Plus Account,2025-01,Proof of address or income,No proof to hand,582
+MyMo Plus Account,2025-01,Proof of address or income,Upload or size errors,263
+MyMo Plus Account,2025-01,Proof of address or income,Prefers a branch,266
+MyMo Plus Account,2025-01,Terms and e-sign,Terms too long,101
+MyMo Plus Account,2025-01,Terms and e-sign,OTP not received,96
+MyMo Plus Account,2025-01,Terms and e-sign,Changed mind,13
+MyMo Plus Account,2025-02,Account opened → first transaction,Never made a first transaction,1019
+MyMo Plus Account,2025-02,Affordability and risk decision,Declined by risk rules,188
+MyMo Plus Account,2025-02,Affordability and risk decision,Waiting for manual review,104
+MyMo Plus Account,2025-02,Choose account,Comparing offers elsewhere,2200
+MyMo Plus Account,2025-02,Choose account,Unclear fees or features,1683
+MyMo Plus Account,2025-02,Choose account,No real intent,759
+MyMo Plus Account,2025-02,Eligibility check,Unsure whether they qualify,99
+MyMo Plus Account,2025-02,Eligibility check,Changed mind,78
+MyMo Plus Account,2025-02,ID capture,Camera or glare failure,324
+MyMo Plus Account,2025-02,ID capture,No ID to hand,200
+MyMo Plus Account,2025-02,ID capture,Not eligible after all,159
+MyMo Plus Account,2025-02,Identity verification,Liveness failed repeatedly,420
+MyMo Plus Account,2025-02,Identity verification,Record lookup mismatch,345
+MyMo Plus Account,2025-02,Identity verification,Network timeout,127
+MyMo Plus Account,2025-02,Personal details,Form too long,802
+MyMo Plus Account,2025-02,Personal details,Info not at hand,512
+MyMo Plus Account,2025-02,Personal details,Privacy concern,515
+MyMo Plus Account,2025-02,Proof of address or income,No proof to hand,450
+MyMo Plus Account,2025-02,Proof of address or income,Upload or size errors,218
+MyMo Plus Account,2025-02,Proof of address or income,Prefers a branch,195
+MyMo Plus Account,2025-02,Terms and e-sign,Terms too long,64
+MyMo Plus Account,2025-02,Terms and e-sign,OTP not received,66
+MyMo Plus Account,2025-02,Terms and e-sign,Changed mind,43
+MyMo Plus Account,2025-03,Account opened → first transaction,Never made a first transaction,1076
+MyMo Plus Account,2025-03,Affordability and risk decision,Declined by risk rules,176
+MyMo Plus Account,2025-03,Affordability and risk decision,Waiting for manual review,157
+MyMo Plus Account,2025-03,Choose account,Comparing offers elsewhere,1711
+MyMo Plus Account,2025-03,Choose account,Unclear fees or features,1832
+MyMo Plus Account,2025-03,Choose account,No real intent,1438
+MyMo Plus Account,2025-03,Eligibility check,Unsure whether they qualify,154
+MyMo Plus Account,2025-03,Eligibility check,Changed mind,96
+MyMo Plus Account,2025-03,ID capture,Camera or glare failure,339
+MyMo Plus Account,2025-03,ID capture,No ID to hand,259
+MyMo Plus Account,2025-03,ID capture,Not eligible after all,138
+MyMo Plus Account,2025-03,Identity verification,Liveness failed repeatedly,413
+MyMo Plus Account,2025-03,Identity verification,Record lookup mismatch,315
+MyMo Plus Account,2025-03,Identity verification,Network timeout,249
+MyMo Plus Account,2025-03,Personal details,Form too long,783
+MyMo Plus Account,2025-03,Personal details,Info not at hand,580
+MyMo Plus Account,2025-03,Personal details,Privacy concern,594
+MyMo Plus Account,2025-03,Proof of address or income,No proof to hand,458
+MyMo Plus Account,2025-03,Proof of address or income,Upload or size errors,219
+MyMo Plus Account,2025-03,Proof of address or income,Prefers a branch,286
+MyMo Plus Account,2025-03,Terms and e-sign,Terms too long,67
+MyMo Plus Account,2025-03,Terms and e-sign,OTP not received,79
+MyMo Plus Account,2025-03,Terms and e-sign,Changed mind,35
+MyMo Plus Account,2025-04,Account opened → first transaction,Never made a first transaction,941
+MyMo Plus Account,2025-04,Affordability and risk decision,Declined by risk rules,183
+MyMo Plus Account,2025-04,Affordability and risk decision,Waiting for manual review,120
+MyMo Plus Account,2025-04,Choose account,Comparing offers elsewhere,1846
+MyMo Plus Account,2025-04,Choose account,Unclear fees or features,1627
+MyMo Plus Account,2025-04,Choose account,No real intent,1190
+MyMo Plus Account,2025-04,Eligibility check,Unsure whether they qualify,148
+MyMo Plus Account,2025-04,Eligibility check,Changed mind,89
+MyMo Plus Account,2025-04,ID capture,Camera or glare failure,363
+MyMo Plus Account,2025-04,ID capture,No ID to hand,290
+MyMo Plus Account,2025-04,ID capture,Not eligible after all,150
+MyMo Plus Account,2025-04,Identity verification,Liveness failed repeatedly,343
+MyMo Plus Account,2025-04,Identity verification,Record lookup mismatch,275
+MyMo Plus Account,2025-04,Identity verification,Network timeout,341
+MyMo Plus Account,2025-04,Personal details,Form too long,725
+MyMo Plus Account,2025-04,Personal details,Info not at hand,526
+MyMo Plus Account,2025-04,Personal details,Privacy concern,585
+MyMo Plus Account,2025-04,Proof of address or income,No proof to hand,454
+MyMo Plus Account,2025-04,Proof of address or income,Upload or size errors,243
+MyMo Plus Account,2025-04,Proof of address or income,Prefers a branch,254
+MyMo Plus Account,2025-04,Terms and e-sign,Terms too long,56
+MyMo Plus Account,2025-04,Terms and e-sign,OTP not received,55
+MyMo Plus Account,2025-04,Terms and e-sign,Changed mind,39
+MyMo Plus Account,2025-05,Account opened → first transaction,Never made a first transaction,1060
+MyMo Plus Account,2025-05,Affordability and risk decision,Declined by risk rules,185
+MyMo Plus Account,2025-05,Affordability and risk decision,Waiting for manual review,123
+MyMo Plus Account,2025-05,Choose account,Comparing offers elsewhere,1891
+MyMo Plus Account,2025-05,Choose account,Unclear fees or features,1771
+MyMo Plus Account,2025-05,Choose account,No real intent,1515
+MyMo Plus Account,2025-05,Eligibility check,Unsure whether they qualify,153
+MyMo Plus Account,2025-05,Eligibility check,Changed mind,84
+MyMo Plus Account,2025-05,ID capture,Camera or glare failure,357
+MyMo Plus Account,2025-05,ID capture,No ID to hand,322
+MyMo Plus Account,2025-05,ID capture,Not eligible after all,99
+MyMo Plus Account,2025-05,Identity verification,Liveness failed repeatedly,396
+MyMo Plus Account,2025-05,Identity verification,Record lookup mismatch,321
+MyMo Plus Account,2025-05,Identity verification,Network timeout,285
+MyMo Plus Account,2025-05,Personal details,Form too long,710
+MyMo Plus Account,2025-05,Personal details,Info not at hand,604
+MyMo Plus Account,2025-05,Personal details,Privacy concern,658
+MyMo Plus Account,2025-05,Proof of address or income,No proof to hand,508
+MyMo Plus Account,2025-05,Proof of address or income,Upload or size errors,270
+MyMo Plus Account,2025-05,Proof of address or income,Prefers a branch,194
+MyMo Plus Account,2025-05,Terms and e-sign,Terms too long,54
+MyMo Plus Account,2025-05,Terms and e-sign,OTP not received,65
+MyMo Plus Account,2025-05,Terms and e-sign,Changed mind,33
+MyMo Plus Account,2025-06,Account opened → first transaction,Never made a first transaction,918
+MyMo Plus Account,2025-06,Affordability and risk decision,Declined by risk rules,165
+MyMo Plus Account,2025-06,Affordability and risk decision,Waiting for manual review,117
+MyMo Plus Account,2025-06,Choose account,Comparing offers elsewhere,1672
+MyMo Plus Account,2025-06,Choose account,Unclear fees or features,1503
+MyMo Plus Account,2025-06,Choose account,No real intent,1652
+MyMo Plus Account,2025-06,Eligibility check,Unsure whether they qualify,107
+MyMo Plus Account,2025-06,Eligibility check,Changed mind,92
+MyMo Plus Account,2025-06,ID capture,Camera or glare failure,350
+MyMo Plus Account,2025-06,ID capture,No ID to hand,277
+MyMo Plus Account,2025-06,ID capture,Not eligible after all,118
+MyMo Plus Account,2025-06,Identity verification,Liveness failed repeatedly,412
+MyMo Plus Account,2025-06,Identity verification,Record lookup mismatch,252
+MyMo Plus Account,2025-06,Identity verification,Network timeout,295
+MyMo Plus Account,2025-06,Personal details,Form too long,737
+MyMo Plus Account,2025-06,Personal details,Info not at hand,468
+MyMo Plus Account,2025-06,Personal details,Privacy concern,564
+MyMo Plus Account,2025-06,Proof of address or income,No proof to hand,400
+MyMo Plus Account,2025-06,Proof of address or income,Upload or size errors,237
+MyMo Plus Account,2025-06,Proof of address or income,Prefers a branch,282
+MyMo Plus Account,2025-06,Terms and e-sign,Terms too long,63
+MyMo Plus Account,2025-06,Terms and e-sign,OTP not received,51
+MyMo Plus Account,2025-06,Terms and e-sign,Changed mind,34
+MyMo Plus Account,2025-07,Account opened → first transaction,Never made a first transaction,1047
+MyMo Plus Account,2025-07,Affordability and risk decision,Declined by risk rules,205
+MyMo Plus Account,2025-07,Affordability and risk decision,Waiting for manual review,149
+MyMo Plus Account,2025-07,Choose account,Comparing offers elsewhere,2414
+MyMo Plus Account,2025-07,Choose account,Unclear fees or features,1978
+MyMo Plus Account,2025-07,Choose account,No real intent,952
+MyMo Plus Account,2025-07,Eligibility check,Unsure whether they qualify,169
+MyMo Plus Account,2025-07,Eligibility check,Changed mind,112
+MyMo Plus Account,2025-07,ID capture,Camera or glare failure,380
+MyMo Plus Account,2025-07,ID capture,No ID to hand,296
+MyMo Plus Account,2025-07,ID capture,Not eligible after all,233
+MyMo Plus Account,2025-07,Identity verification,Liveness failed repeatedly,395
+MyMo Plus Account,2025-07,Identity verification,Record lookup mismatch,343
+MyMo Plus Account,2025-07,Identity verification,Network timeout,319
+MyMo Plus Account,2025-07,Personal details,Form too long,900
+MyMo Plus Account,2025-07,Personal details,Info not at hand,550
+MyMo Plus Account,2025-07,Personal details,Privacy concern,525
+MyMo Plus Account,2025-07,Proof of address or income,No proof to hand,547
+MyMo Plus Account,2025-07,Proof of address or income,Upload or size errors,259
+MyMo Plus Account,2025-07,Proof of address or income,Prefers a branch,328
+MyMo Plus Account,2025-07,Terms and e-sign,Terms too long,63
+MyMo Plus Account,2025-07,Terms and e-sign,OTP not received,67
+MyMo Plus Account,2025-07,Terms and e-sign,Changed mind,29
+MyMo Plus Account,2025-08,Account opened → first transaction,Never made a first transaction,1118
+MyMo Plus Account,2025-08,Affordability and risk decision,Declined by risk rules,175
+MyMo Plus Account,2025-08,Affordability and risk decision,Waiting for manual review,170
+MyMo Plus Account,2025-08,Choose account,Comparing offers elsewhere,1697
+MyMo Plus Account,2025-08,Choose account,Unclear fees or features,1838
+MyMo Plus Account,2025-08,Choose account,No real intent,1416
+MyMo Plus Account,2025-08,Eligibility check,Unsure whether they qualify,206
+MyMo Plus Account,2025-08,Eligibility check,Changed mind,72
+MyMo Plus Account,2025-08,ID capture,Camera or glare failure,381
+MyMo Plus Account,2025-08,ID capture,No ID to hand,296
+MyMo Plus Account,2025-08,ID capture,Not eligible after all,177
+MyMo Plus Account,2025-08,Identity verification,Liveness failed repeatedly,404
+MyMo Plus Account,2025-08,Identity verification,Record lookup mismatch,305
+MyMo Plus Account,2025-08,Identity verification,Network timeout,346
+MyMo Plus Account,2025-08,Personal details,Form too long,836
+MyMo Plus Account,2025-08,Personal details,Info not at hand,575
+MyMo Plus Account,2025-08,Personal details,Privacy concern,480
+MyMo Plus Account,2025-08,Proof of address or income,No proof to hand,565
+MyMo Plus Account,2025-08,Proof of address or income,Upload or size errors,237
+MyMo Plus Account,2025-08,Proof of address or income,Prefers a branch,288
+MyMo Plus Account,2025-08,Terms and e-sign,Terms too long,76
+MyMo Plus Account,2025-08,Terms and e-sign,OTP not received,79
+MyMo Plus Account,2025-08,Terms and e-sign,Changed mind,35
+MyMo Plus Account,2025-09,Account opened → first transaction,Never made a first transaction,964
+MyMo Plus Account,2025-09,Affordability and risk decision,Declined by risk rules,205
+MyMo Plus Account,2025-09,Affordability and risk decision,Waiting for manual review,150
+MyMo Plus Account,2025-09,Choose account,Comparing offers elsewhere,2000
+MyMo Plus Account,2025-09,Choose account,Unclear fees or features,1549
+MyMo Plus Account,2025-09,Choose account,No real intent,1231
+MyMo Plus Account,2025-09,Eligibility check,Unsure whether they qualify,139
+MyMo Plus Account,2025-09,Eligibility check,Changed mind,91
+MyMo Plus Account,2025-09,ID capture,Camera or glare failure,333
+MyMo Plus Account,2025-09,ID capture,No ID to hand,272
+MyMo Plus Account,2025-09,ID capture,Not eligible after all,205
+MyMo Plus Account,2025-09,Identity verification,Liveness failed repeatedly,407
+MyMo Plus Account,2025-09,Identity verification,Record lookup mismatch,318
+MyMo Plus Account,2025-09,Identity verification,Network timeout,321
+MyMo Plus Account,2025-09,Personal details,Form too long,687
+MyMo Plus Account,2025-09,Personal details,Info not at hand,556
+MyMo Plus Account,2025-09,Personal details,Privacy concern,558
+MyMo Plus Account,2025-09,Proof of address or income,No proof to hand,438
+MyMo Plus Account,2025-09,Proof of address or income,Upload or size errors,248
+MyMo Plus Account,2025-09,Proof of address or income,Prefers a branch,312
+MyMo Plus Account,2025-09,Terms and e-sign,Terms too long,83
+MyMo Plus Account,2025-09,Terms and e-sign,OTP not received,77
+MyMo Plus Account,2025-09,Terms and e-sign,Changed mind,36
+MyMo Plus Account,2025-10,Account opened → first transaction,Never made a first transaction,1117
+MyMo Plus Account,2025-10,Affordability and risk decision,Declined by risk rules,213
+MyMo Plus Account,2025-10,Affordability and risk decision,Waiting for manual review,154
+MyMo Plus Account,2025-10,Choose account,Comparing offers elsewhere,2070
+MyMo Plus Account,2025-10,Choose account,Unclear fees or features,2095
+MyMo Plus Account,2025-10,Choose account,No real intent,906
+MyMo Plus Account,2025-10,Eligibility check,Unsure whether they qualify,136
+MyMo Plus Account,2025-10,Eligibility check,Changed mind,111
+MyMo Plus Account,2025-10,ID capture,Camera or glare failure,387
+MyMo Plus Account,2025-10,ID capture,No ID to hand,298
+MyMo Plus Account,2025-10,ID capture,Not eligible after all,228
+MyMo Plus Account,2025-10,Identity verification,Liveness failed repeatedly,414
+MyMo Plus Account,2025-10,Identity verification,Record lookup mismatch,344
+MyMo Plus Account,2025-10,Identity verification,Network timeout,319
+MyMo Plus Account,2025-10,Personal details,Form too long,818
+MyMo Plus Account,2025-10,Personal details,Info not at hand,580
+MyMo Plus Account,2025-10,Personal details,Privacy concern,622
+MyMo Plus Account,2025-10,Proof of address or income,No proof to hand,577
+MyMo Plus Account,2025-10,Proof of address or income,Upload or size errors,300
+MyMo Plus Account,2025-10,Proof of address or income,Prefers a branch,271
+MyMo Plus Account,2025-10,Terms and e-sign,Terms too long,75
+MyMo Plus Account,2025-10,Terms and e-sign,OTP not received,74
+MyMo Plus Account,2025-10,Terms and e-sign,Changed mind,52
+MyMo Plus Account,2025-11,Account opened → first transaction,Never made a first transaction,968
+MyMo Plus Account,2025-11,Affordability and risk decision,Declined by risk rules,194
+MyMo Plus Account,2025-11,Affordability and risk decision,Waiting for manual review,148
+MyMo Plus Account,2025-11,Choose account,Comparing offers elsewhere,1783
+MyMo Plus Account,2025-11,Choose account,Unclear fees or features,1768
+MyMo Plus Account,2025-11,Choose account,No real intent,974
+MyMo Plus Account,2025-11,Eligibility check,Unsure whether they qualify,130
+MyMo Plus Account,2025-11,Eligibility check,Changed mind,95
+MyMo Plus Account,2025-11,ID capture,Camera or glare failure,327
+MyMo Plus Account,2025-11,ID capture,No ID to hand,262
+MyMo Plus Account,2025-11,ID capture,Not eligible after all,185
+MyMo Plus Account,2025-11,Identity verification,Liveness failed repeatedly,331
+MyMo Plus Account,2025-11,Identity verification,Record lookup mismatch,286
+MyMo Plus Account,2025-11,Identity verification,Network timeout,352
+MyMo Plus Account,2025-11,Personal details,Form too long,763
+MyMo Plus Account,2025-11,Personal details,Info not at hand,547
+MyMo Plus Account,2025-11,Personal details,Privacy concern,493
+MyMo Plus Account,2025-11,Proof of address or income,No proof to hand,528
+MyMo Plus Account,2025-11,Proof of address or income,Upload or size errors,249
+MyMo Plus Account,2025-11,Proof of address or income,Prefers a branch,257
+MyMo Plus Account,2025-11,Terms and e-sign,Terms too long,76
+MyMo Plus Account,2025-11,Terms and e-sign,OTP not received,82
+MyMo Plus Account,2025-11,Terms and e-sign,Changed mind,45
+MyMo Plus Account,2025-12,Account opened → first transaction,Never made a first transaction,902
+MyMo Plus Account,2025-12,Affordability and risk decision,Declined by risk rules,170
+MyMo Plus Account,2025-12,Affordability and risk decision,Waiting for manual review,135
+MyMo Plus Account,2025-12,Choose account,Comparing offers elsewhere,1739
+MyMo Plus Account,2025-12,Choose account,Unclear fees or features,1478
+MyMo Plus Account,2025-12,Choose account,No real intent,828
+MyMo Plus Account,2025-12,Eligibility check,Unsure whether they qualify,136
+MyMo Plus Account,2025-12,Eligibility check,Changed mind,79
+MyMo Plus Account,2025-12,ID capture,Camera or glare failure,330
+MyMo Plus Account,2025-12,ID capture,No ID to hand,211
+MyMo Plus Account,2025-12,ID capture,Not eligible after all,150
+MyMo Plus Account,2025-12,Identity verification,Liveness failed repeatedly,388
+MyMo Plus Account,2025-12,Identity verification,Record lookup mismatch,332
+MyMo Plus Account,2025-12,Identity verification,Network timeout,213
+MyMo Plus Account,2025-12,Personal details,Form too long,610
+MyMo Plus Account,2025-12,Personal details,Info not at hand,413
+MyMo Plus Account,2025-12,Personal details,Privacy concern,551
+MyMo Plus Account,2025-12,Proof of address or income,No proof to hand,460
+MyMo Plus Account,2025-12,Proof of address or income,Upload or size errors,238
+MyMo Plus Account,2025-12,Proof of address or income,Prefers a branch,267
+MyMo Plus Account,2025-12,Terms and e-sign,Terms too long,62
+MyMo Plus Account,2025-12,Terms and e-sign,OTP not received,70
+MyMo Plus Account,2025-12,Terms and e-sign,Changed mind,17
+MyMo Plus Account,2026-01,Account opened → first transaction,Never made a first transaction,1320
+MyMo Plus Account,2026-01,Affordability and risk decision,Declined by risk rules,249
+MyMo Plus Account,2026-01,Affordability and risk decision,Waiting for manual review,195
+MyMo Plus Account,2026-01,Choose account,Comparing offers elsewhere,2439
+MyMo Plus Account,2026-01,Choose account,Unclear fees or features,2070
+MyMo Plus Account,2026-01,Choose account,No real intent,1267
+MyMo Plus Account,2026-01,Eligibility check,Unsure whether they qualify,186
+MyMo Plus Account,2026-01,Eligibility check,Changed mind,113
+MyMo Plus Account,2026-01,ID capture,Camera or glare failure,490
+MyMo Plus Account,2026-01,ID capture,No ID to hand,359
+MyMo Plus Account,2026-01,ID capture,Not eligible after all,135
+MyMo Plus Account,2026-01,Identity verification,Liveness failed repeatedly,485
+MyMo Plus Account,2026-01,Identity verification,Record lookup mismatch,425
+MyMo Plus Account,2026-01,Identity verification,Network timeout,290
+MyMo Plus Account,2026-01,Personal details,Form too long,826
+MyMo Plus Account,2026-01,Personal details,Info not at hand,712
+MyMo Plus Account,2026-01,Personal details,Privacy concern,794
+MyMo Plus Account,2026-01,Proof of address or income,No proof to hand,707
+MyMo Plus Account,2026-01,Proof of address or income,Upload or size errors,332
+MyMo Plus Account,2026-01,Proof of address or income,Prefers a branch,271
+MyMo Plus Account,2026-01,Terms and e-sign,Terms too long,97
+MyMo Plus Account,2026-01,Terms and e-sign,OTP not received,107
+MyMo Plus Account,2026-01,Terms and e-sign,Changed mind,48
+MyMo Plus Account,2026-02,Account opened → first transaction,Never made a first transaction,1091
+MyMo Plus Account,2026-02,Affordability and risk decision,Declined by risk rules,205
+MyMo Plus Account,2026-02,Affordability and risk decision,Waiting for manual review,155
+MyMo Plus Account,2026-02,Choose account,Comparing offers elsewhere,1935
+MyMo Plus Account,2026-02,Choose account,Unclear fees or features,1650
+MyMo Plus Account,2026-02,Choose account,No real intent,929
+MyMo Plus Account,2026-02,Eligibility check,Unsure whether they qualify,133
+MyMo Plus Account,2026-02,Eligibility check,Changed mind,93
+MyMo Plus Account,2026-02,ID capture,Camera or glare failure,366
+MyMo Plus Account,2026-02,ID capture,No ID to hand,271
+MyMo Plus Account,2026-02,ID capture,Not eligible after all,185
+MyMo Plus Account,2026-02,Identity verification,Liveness failed repeatedly,398
+MyMo Plus Account,2026-02,Identity verification,Record lookup mismatch,290
+MyMo Plus Account,2026-02,Identity verification,Network timeout,271
+MyMo Plus Account,2026-02,Personal details,Form too long,749
+MyMo Plus Account,2026-02,Personal details,Info not at hand,615
+MyMo Plus Account,2026-02,Personal details,Privacy concern,584
+MyMo Plus Account,2026-02,Proof of address or income,No proof to hand,542
+MyMo Plus Account,2026-02,Proof of address or income,Upload or size errors,274
+MyMo Plus Account,2026-02,Proof of address or income,Prefers a branch,286
+MyMo Plus Account,2026-02,Terms and e-sign,Terms too long,75
+MyMo Plus Account,2026-02,Terms and e-sign,OTP not received,88
+MyMo Plus Account,2026-02,Terms and e-sign,Changed mind,34
+MyMo Plus Account,2026-03,Account opened → first transaction,Never made a first transaction,1196
+MyMo Plus Account,2026-03,Affordability and risk decision,Declined by risk rules,254
+MyMo Plus Account,2026-03,Affordability and risk decision,Waiting for manual review,186
+MyMo Plus Account,2026-03,Choose account,Comparing offers elsewhere,2083
+MyMo Plus Account,2026-03,Choose account,Unclear fees or features,1557
+MyMo Plus Account,2026-03,Choose account,No real intent,1401
+MyMo Plus Account,2026-03,Eligibility check,Unsure whether they qualify,152
+MyMo Plus Account,2026-03,Eligibility check,Changed mind,105
+MyMo Plus Account,2026-03,ID capture,Camera or glare failure,366
+MyMo Plus Account,2026-03,ID capture,No ID to hand,317
+MyMo Plus Account,2026-03,ID capture,Not eligible after all,209
+MyMo Plus Account,2026-03,Identity verification,Liveness failed repeatedly,444
+MyMo Plus Account,2026-03,Identity verification,Record lookup mismatch,310
+MyMo Plus Account,2026-03,Identity verification,Network timeout,346
+MyMo Plus Account,2026-03,Personal details,Form too long,765
+MyMo Plus Account,2026-03,Personal details,Info not at hand,599
+MyMo Plus Account,2026-03,Personal details,Privacy concern,736
+MyMo Plus Account,2026-03,Proof of address or income,No proof to hand,604
+MyMo Plus Account,2026-03,Proof of address or income,Upload or size errors,324
+MyMo Plus Account,2026-03,Proof of address or income,Prefers a branch,285
+MyMo Plus Account,2026-03,Terms and e-sign,Terms too long,84
+MyMo Plus Account,2026-03,Terms and e-sign,OTP not received,76
+MyMo Plus Account,2026-03,Terms and e-sign,Changed mind,31
+MyMo Plus Account,2026-04,Account opened → first transaction,Never made a first transaction,1166
+MyMo Plus Account,2026-04,Affordability and risk decision,Declined by risk rules,233
+MyMo Plus Account,2026-04,Affordability and risk decision,Waiting for manual review,148
+MyMo Plus Account,2026-04,Choose account,Comparing offers elsewhere,1788
+MyMo Plus Account,2026-04,Choose account,Unclear fees or features,1856
+MyMo Plus Account,2026-04,Choose account,No real intent,1004
+MyMo Plus Account,2026-04,Eligibility check,Unsure whether they qualify,121
+MyMo Plus Account,2026-04,Eligibility check,Changed mind,101
+MyMo Plus Account,2026-04,ID capture,Camera or glare failure,340
+MyMo Plus Account,2026-04,ID capture,No ID to hand,234
+MyMo Plus Account,2026-04,ID capture,Not eligible after all,202
+MyMo Plus Account,2026-04,Identity verification,Liveness failed repeatedly,442
+MyMo Plus Account,2026-04,Identity verification,Record lookup mismatch,339
+MyMo Plus Account,2026-04,Identity verification,Network timeout,235
+MyMo Plus Account,2026-04,Personal details,Form too long,705
+MyMo Plus Account,2026-04,Personal details,Info not at hand,665
+MyMo Plus Account,2026-04,Personal details,Privacy concern,653
+MyMo Plus Account,2026-04,Proof of address or income,No proof to hand,501
+MyMo Plus Account,2026-04,Proof of address or income,Upload or size errors,211
+MyMo Plus Account,2026-04,Proof of address or income,Prefers a branch,328
+MyMo Plus Account,2026-04,Terms and e-sign,Terms too long,88
+MyMo Plus Account,2026-04,Terms and e-sign,OTP not received,86
+MyMo Plus Account,2026-04,Terms and e-sign,Changed mind,35
+MyMo Plus Account,2026-05,Account opened → first transaction,Never made a first transaction,1135
+MyMo Plus Account,2026-05,Affordability and risk decision,Declined by risk rules,185
+MyMo Plus Account,2026-05,Affordability and risk decision,Waiting for manual review,152
+MyMo Plus Account,2026-05,Choose account,Comparing offers elsewhere,2126
+MyMo Plus Account,2026-05,Choose account,Unclear fees or features,1741
+MyMo Plus Account,2026-05,Choose account,No real intent,1180
+MyMo Plus Account,2026-05,Eligibility check,Unsure whether they qualify,129
+MyMo Plus Account,2026-05,Eligibility check,Changed mind,106
+MyMo Plus Account,2026-05,ID capture,Camera or glare failure,384
+MyMo Plus Account,2026-05,ID capture,No ID to hand,315
+MyMo Plus Account,2026-05,ID capture,Not eligible after all,99
+MyMo Plus Account,2026-05,Identity verification,Liveness failed repeatedly,391
+MyMo Plus Account,2026-05,Identity verification,Record lookup mismatch,351
+MyMo Plus Account,2026-05,Identity verification,Network timeout,294
+MyMo Plus Account,2026-05,Personal details,Form too long,835
+MyMo Plus Account,2026-05,Personal details,Info not at hand,578
+MyMo Plus Account,2026-05,Personal details,Privacy concern,675
+MyMo Plus Account,2026-05,Proof of address or income,No proof to hand,506
+MyMo Plus Account,2026-05,Proof of address or income,Upload or size errors,286
+MyMo Plus Account,2026-05,Proof of address or income,Prefers a branch,247
+MyMo Plus Account,2026-05,Terms and e-sign,Terms too long,72
+MyMo Plus Account,2026-05,Terms and e-sign,OTP not received,68
+MyMo Plus Account,2026-05,Terms and e-sign,Changed mind,35
+MyMo Plus Account,2026-06,Account opened → first transaction,Never made a first transaction,1100
+MyMo Plus Account,2026-06,Affordability and risk decision,Declined by risk rules,184
+MyMo Plus Account,2026-06,Affordability and risk decision,Waiting for manual review,133
+MyMo Plus Account,2026-06,Choose account,Comparing offers elsewhere,1850
+MyMo Plus Account,2026-06,Choose account,Unclear fees or features,1917
+MyMo Plus Account,2026-06,Choose account,No real intent,1104
+MyMo Plus Account,2026-06,Eligibility check,Unsure whether they qualify,148
+MyMo Plus Account,2026-06,Eligibility check,Changed mind,103
+MyMo Plus Account,2026-06,ID capture,Camera or glare failure,355
+MyMo Plus Account,2026-06,ID capture,No ID to hand,269
+MyMo Plus Account,2026-06,ID capture,Not eligible after all,144
+MyMo Plus Account,2026-06,Identity verification,Liveness failed repeatedly,402
+MyMo Plus Account,2026-06,Identity verification,Record lookup mismatch,325
+MyMo Plus Account,2026-06,Identity verification,Network timeout,337
+MyMo Plus Account,2026-06,Personal details,Form too long,848
+MyMo Plus Account,2026-06,Personal details,Info not at hand,643
+MyMo Plus Account,2026-06,Personal details,Privacy concern,449
+MyMo Plus Account,2026-06,Proof of address or income,No proof to hand,419
+MyMo Plus Account,2026-06,Proof of address or income,Upload or size errors,201
+MyMo Plus Account,2026-06,Proof of address or income,Prefers a branch,349
+MyMo Plus Account,2026-06,Terms and e-sign,Terms too long,85
+MyMo Plus Account,2026-06,Terms and e-sign,OTP not received,92
+MyMo Plus Account,2026-06,Terms and e-sign,Changed mind,23
+MyMo Plus Account,2026-07,Account opened → first transaction,Never made a first transaction,1232
+MyMo Plus Account,2026-07,Affordability and risk decision,Declined by risk rules,216
+MyMo Plus Account,2026-07,Affordability and risk decision,Waiting for manual review,192
+MyMo Plus Account,2026-07,Choose account,Comparing offers elsewhere,2153
+MyMo Plus Account,2026-07,Choose account,Unclear fees or features,1696
+MyMo Plus Account,2026-07,Choose account,No real intent,1415
+MyMo Plus Account,2026-07,Eligibility check,Unsure whether they qualify,130
+MyMo Plus Account,2026-07,Eligibility check,Changed mind,107
+MyMo Plus Account,2026-07,ID capture,Camera or glare failure,375
+MyMo Plus Account,2026-07,ID capture,No ID to hand,290
+MyMo Plus Account,2026-07,ID capture,Not eligible after all,189
+MyMo Plus Account,2026-07,Identity verification,Liveness failed repeatedly,517
+MyMo Plus Account,2026-07,Identity verification,Record lookup mismatch,339
+MyMo Plus Account,2026-07,Identity verification,Network timeout,273
+MyMo Plus Account,2026-07,Personal details,Form too long,1023
+MyMo Plus Account,2026-07,Personal details,Info not at hand,637
+MyMo Plus Account,2026-07,Personal details,Privacy concern,609
+MyMo Plus Account,2026-07,Proof of address or income,No proof to hand,469
+MyMo Plus Account,2026-07,Proof of address or income,Upload or size errors,256
+MyMo Plus Account,2026-07,Proof of address or income,Prefers a branch,278
+MyMo Plus Account,2026-07,Terms and e-sign,Terms too long,60
+MyMo Plus Account,2026-07,Terms and e-sign,OTP not received,66
+MyMo Plus Account,2026-07,Terms and e-sign,Changed mind,35
+MyMo Plus Account,2026-08,Account opened → first transaction,Never made a first transaction,1090
+MyMo Plus Account,2026-08,Affordability and risk decision,Declined by risk rules,197
+MyMo Plus Account,2026-08,Affordability and risk decision,Waiting for manual review,199
+MyMo Plus Account,2026-08,Choose account,Comparing offers elsewhere,2409
+MyMo Plus Account,2026-08,Choose account,Unclear fees or features,1725
+MyMo Plus Account,2026-08,Choose account,No real intent,1119
+MyMo Plus Account,2026-08,Eligibility check,Unsure whether they qualify,132
+MyMo Plus Account,2026-08,Eligibility check,Changed mind,109
+MyMo Plus Account,2026-08,ID capture,Camera or glare failure,379
+MyMo Plus Account,2026-08,ID capture,No ID to hand,290
+MyMo Plus Account,2026-08,ID capture,Not eligible after all,160
+MyMo Plus Account,2026-08,Identity verification,Liveness failed repeatedly,392
+MyMo Plus Account,2026-08,Identity verification,Record lookup mismatch,315
+MyMo Plus Account,2026-08,Identity verification,Network timeout,319
+MyMo Plus Account,2026-08,Personal details,Form too long,866
+MyMo Plus Account,2026-08,Personal details,Info not at hand,738
+MyMo Plus Account,2026-08,Personal details,Privacy concern,515
+MyMo Plus Account,2026-08,Proof of address or income,No proof to hand,547
+MyMo Plus Account,2026-08,Proof of address or income,Upload or size errors,246
+MyMo Plus Account,2026-08,Proof of address or income,Prefers a branch,274
+MyMo Plus Account,2026-08,Terms and e-sign,Terms too long,66
+MyMo Plus Account,2026-08,Terms and e-sign,OTP not received,61
+MyMo Plus Account,2026-08,Terms and e-sign,Changed mind,33
+MyMo Plus Account,2026-09,Account opened → first transaction,Never made a first transaction,1065
+MyMo Plus Account,2026-09,Affordability and risk decision,Declined by risk rules,191
+MyMo Plus Account,2026-09,Affordability and risk decision,Waiting for manual review,156
+MyMo Plus Account,2026-09,Choose account,Comparing offers elsewhere,1969
+MyMo Plus Account,2026-09,Choose account,Unclear fees or features,1877
+MyMo Plus Account,2026-09,Choose account,No real intent,1370
+MyMo Plus Account,2026-09,Eligibility check,Unsure whether they qualify,147
+MyMo Plus Account,2026-09,Eligibility check,Changed mind,92
+MyMo Plus Account,2026-09,ID capture,Camera or glare failure,343
+MyMo Plus Account,2026-09,ID capture,No ID to hand,277
+MyMo Plus Account,2026-09,ID capture,Not eligible after all,158
+MyMo Plus Account,2026-09,Identity verification,Liveness failed repeatedly,466
+MyMo Plus Account,2026-09,Identity verification,Record lookup mismatch,320
+MyMo Plus Account,2026-09,Identity verification,Network timeout,219
+MyMo Plus Account,2026-09,Personal details,Form too long,722
+MyMo Plus Account,2026-09,Personal details,Info not at hand,548
+MyMo Plus Account,2026-09,Personal details,Privacy concern,639
+MyMo Plus Account,2026-09,Proof of address or income,No proof to hand,524
+MyMo Plus Account,2026-09,Proof of address or income,Upload or size errors,265
+MyMo Plus Account,2026-09,Proof of address or income,Prefers a branch,254
+MyMo Plus Account,2026-09,Terms and e-sign,Terms too long,74
+MyMo Plus Account,2026-09,Terms and e-sign,OTP not received,78
+MyMo Plus Account,2026-09,Terms and e-sign,Changed mind,21
+MyMo Plus Account,2026-10,Account opened → first transaction,Never made a first transaction,1084
+MyMo Plus Account,2026-10,Affordability and risk decision,Declined by risk rules,185
+MyMo Plus Account,2026-10,Affordability and risk decision,Waiting for manual review,211
+MyMo Plus Account,2026-10,Choose account,Comparing offers elsewhere,2123
+MyMo Plus Account,2026-10,Choose account,Unclear fees or features,1959
+MyMo Plus Account,2026-10,Choose account,No real intent,1448
+MyMo Plus Account,2026-10,Eligibility check,Unsure whether they qualify,133
+MyMo Plus Account,2026-10,Eligibility check,Changed mind,76
+MyMo Plus Account,2026-10,ID capture,Camera or glare failure,423
+MyMo Plus Account,2026-10,ID capture,No ID to hand,313
+MyMo Plus Account,2026-10,ID capture,Not eligible after all,135
+MyMo Plus Account,2026-10,Identity verification,Liveness failed repeatedly,399
+MyMo Plus Account,2026-10,Identity verification,Record lookup mismatch,269
+MyMo Plus Account,2026-10,Identity verification,Network timeout,404
+MyMo Plus Account,2026-10,Personal details,Form too long,761
+MyMo Plus Account,2026-10,Personal details,Info not at hand,626
+MyMo Plus Account,2026-10,Personal details,Privacy concern,697
+MyMo Plus Account,2026-10,Proof of address or income,No proof to hand,532
+MyMo Plus Account,2026-10,Proof of address or income,Upload or size errors,252
+MyMo Plus Account,2026-10,Proof of address or income,Prefers a branch,329
+MyMo Plus Account,2026-10,Terms and e-sign,Terms too long,69
+MyMo Plus Account,2026-10,Terms and e-sign,OTP not received,79
+MyMo Plus Account,2026-10,Terms and e-sign,Changed mind,38
+Prestige Banking Account,2024-11,Account opened → first transaction,Never made a first transaction,374
+Prestige Banking Account,2024-11,Affordability and risk decision,Declined by risk rules,92
+Prestige Banking Account,2024-11,Affordability and risk decision,Waiting for manual review,79
+Prestige Banking Account,2024-11,Choose account,Comparing offers elsewhere,1103
+Prestige Banking Account,2024-11,Choose account,Unclear fees or features,858
+Prestige Banking Account,2024-11,Choose account,No real intent,690
+Prestige Banking Account,2024-11,Eligibility check,Unsure whether they qualify,80
+Prestige Banking Account,2024-11,Eligibility check,Changed mind,46
+Prestige Banking Account,2024-11,ID capture,Camera or glare failure,123
+Prestige Banking Account,2024-11,ID capture,No ID to hand,102
+Prestige Banking Account,2024-11,ID capture,Not eligible after all,53
+Prestige Banking Account,2024-11,Identity verification,Liveness failed repeatedly,150
+Prestige Banking Account,2024-11,Identity verification,Record lookup mismatch,97
+Prestige Banking Account,2024-11,Identity verification,Network timeout,108
+Prestige Banking Account,2024-11,Personal details,Form too long,309
+Prestige Banking Account,2024-11,Personal details,Info not at hand,194
+Prestige Banking Account,2024-11,Personal details,Privacy concern,235
+Prestige Banking Account,2024-11,Proof of income and address,No proof to hand,236
+Prestige Banking Account,2024-11,Proof of income and address,Upload or size errors,119
+Prestige Banking Account,2024-11,Proof of income and address,Prefers a branch,167
+Prestige Banking Account,2024-11,Terms and e-sign,Terms too long,22
+Prestige Banking Account,2024-11,Terms and e-sign,OTP not received,21
+Prestige Banking Account,2024-11,Terms and e-sign,Changed mind,13
+Prestige Banking Account,2024-12,Account opened → first transaction,Never made a first transaction,339
+Prestige Banking Account,2024-12,Affordability and risk decision,Declined by risk rules,95
+Prestige Banking Account,2024-12,Affordability and risk decision,Waiting for manual review,62
+Prestige Banking Account,2024-12,Choose account,Comparing offers elsewhere,881
+Prestige Banking Account,2024-12,Choose account,Unclear fees or features,865
+Prestige Banking Account,2024-12,Choose account,No real intent,590
+Prestige Banking Account,2024-12,Eligibility check,Unsure whether they qualify,61
+Prestige Banking Account,2024-12,Eligibility check,Changed mind,47
+Prestige Banking Account,2024-12,ID capture,Camera or glare failure,99
+Prestige Banking Account,2024-12,ID capture,No ID to hand,90
+Prestige Banking Account,2024-12,ID capture,Not eligible after all,63
+Prestige Banking Account,2024-12,Identity verification,Liveness failed repeatedly,144
+Prestige Banking Account,2024-12,Identity verification,Record lookup mismatch,98
+Prestige Banking Account,2024-12,Identity verification,Network timeout,94
+Prestige Banking Account,2024-12,Personal details,Form too long,257
+Prestige Banking Account,2024-12,Personal details,Info not at hand,194
+Prestige Banking Account,2024-12,Personal details,Privacy concern,263
+Prestige Banking Account,2024-12,Proof of income and address,No proof to hand,215
+Prestige Banking Account,2024-12,Proof of income and address,Upload or size errors,120
+Prestige Banking Account,2024-12,Proof of income and address,Prefers a branch,112
+Prestige Banking Account,2024-12,Terms and e-sign,Terms too long,22
+Prestige Banking Account,2024-12,Terms and e-sign,OTP not received,19
+Prestige Banking Account,2024-12,Terms and e-sign,Changed mind,12
+Prestige Banking Account,2025-01,Account opened → first transaction,Never made a first transaction,444
+Prestige Banking Account,2025-01,Affordability and risk decision,Declined by risk rules,127
+Prestige Banking Account,2025-01,Affordability and risk decision,Waiting for manual review,112
+Prestige Banking Account,2025-01,Choose account,Comparing offers elsewhere,1576
+Prestige Banking Account,2025-01,Choose account,Unclear fees or features,1072
+Prestige Banking Account,2025-01,Choose account,No real intent,843
+Prestige Banking Account,2025-01,Eligibility check,Unsure whether they qualify,112
+Prestige Banking Account,2025-01,Eligibility check,Changed mind,61
+Prestige Banking Account,2025-01,ID capture,Camera or glare failure,154
+Prestige Banking Account,2025-01,ID capture,No ID to hand,125
+Prestige Banking Account,2025-01,ID capture,Not eligible after all,75
+Prestige Banking Account,2025-01,Identity verification,Liveness failed repeatedly,146
+Prestige Banking Account,2025-01,Identity verification,Record lookup mismatch,120
+Prestige Banking Account,2025-01,Identity verification,Network timeout,141
+Prestige Banking Account,2025-01,Personal details,Form too long,393
+Prestige Banking Account,2025-01,Personal details,Info not at hand,293
+Prestige Banking Account,2025-01,Personal details,Privacy concern,327
+Prestige Banking Account,2025-01,Proof of income and address,No proof to hand,288
+Prestige Banking Account,2025-01,Proof of income and address,Upload or size errors,163
+Prestige Banking Account,2025-01,Proof of income and address,Prefers a branch,170
+Prestige Banking Account,2025-01,Terms and e-sign,Terms too long,28
+Prestige Banking Account,2025-01,Terms and e-sign,OTP not received,27
+Prestige Banking Account,2025-01,Terms and e-sign,Changed mind,10
+Prestige Banking Account,2025-02,Account opened → first transaction,Never made a first transaction,345
+Prestige Banking Account,2025-02,Affordability and risk decision,Declined by risk rules,82
+Prestige Banking Account,2025-02,Affordability and risk decision,Waiting for manual review,78
+Prestige Banking Account,2025-02,Choose account,Comparing offers elsewhere,1086
+Prestige Banking Account,2025-02,Choose account,Unclear fees or features,944
+Prestige Banking Account,2025-02,Choose account,No real intent,798
+Prestige Banking Account,2025-02,Eligibility check,Unsure whether they qualify,76
+Prestige Banking Account,2025-02,Eligibility check,Changed mind,49
+Prestige Banking Account,2025-02,ID capture,Camera or glare failure,134
+Prestige Banking Account,2025-02,ID capture,No ID to hand,106
+Prestige Banking Account,2025-02,ID capture,Not eligible after all,36
+Prestige Banking Account,2025-02,Identity verification,Liveness failed repeatedly,130
+Prestige Banking Account,2025-02,Identity verification,Record lookup mismatch,96
+Prestige Banking Account,2025-02,Identity verification,Network timeout,124
+Prestige Banking Account,2025-02,Personal details,Form too long,371
+Prestige Banking Account,2025-02,Personal details,Info not at hand,201
+Prestige Banking Account,2025-02,Personal details,Privacy concern,185
+Prestige Banking Account,2025-02,Proof of income and address,No proof to hand,238
+Prestige Banking Account,2025-02,Proof of income and address,Upload or size errors,124
+Prestige Banking Account,2025-02,Proof of income and address,Prefers a branch,176
+Prestige Banking Account,2025-02,Terms and e-sign,Terms too long,32
+Prestige Banking Account,2025-02,Terms and e-sign,OTP not received,35
+Prestige Banking Account,2025-02,Terms and e-sign,Changed mind,14
+Prestige Banking Account,2025-03,Account opened → first transaction,Never made a first transaction,385
+Prestige Banking Account,2025-03,Affordability and risk decision,Declined by risk rules,107
+Prestige Banking Account,2025-03,Affordability and risk decision,Waiting for manual review,88
+Prestige Banking Account,2025-03,Choose account,Comparing offers elsewhere,1186
+Prestige Banking Account,2025-03,Choose account,Unclear fees or features,1045
+Prestige Banking Account,2025-03,Choose account,No real intent,786
+Prestige Banking Account,2025-03,Eligibility check,Unsure whether they qualify,84
+Prestige Banking Account,2025-03,Eligibility check,Changed mind,49
+Prestige Banking Account,2025-03,ID capture,Camera or glare failure,155
+Prestige Banking Account,2025-03,ID capture,No ID to hand,142
+Prestige Banking Account,2025-03,ID capture,Not eligible after all,36
+Prestige Banking Account,2025-03,Identity verification,Liveness failed repeatedly,162
+Prestige Banking Account,2025-03,Identity verification,Record lookup mismatch,114
+Prestige Banking Account,2025-03,Identity verification,Network timeout,134
+Prestige Banking Account,2025-03,Personal details,Form too long,362
+Prestige Banking Account,2025-03,Personal details,Info not at hand,244
+Prestige Banking Account,2025-03,Personal details,Privacy concern,282
+Prestige Banking Account,2025-03,Proof of income and address,No proof to hand,308
+Prestige Banking Account,2025-03,Proof of income and address,Upload or size errors,151
+Prestige Banking Account,2025-03,Proof of income and address,Prefers a branch,116
+Prestige Banking Account,2025-03,Terms and e-sign,Terms too long,30
+Prestige Banking Account,2025-03,Terms and e-sign,OTP not received,32
+Prestige Banking Account,2025-03,Terms and e-sign,Changed mind,17
+Prestige Banking Account,2025-04,Account opened → first transaction,Never made a first transaction,353
+Prestige Banking Account,2025-04,Affordability and risk decision,Declined by risk rules,96
+Prestige Banking Account,2025-04,Affordability and risk decision,Waiting for manual review,75
+Prestige Banking Account,2025-04,Choose account,Comparing offers elsewhere,1077
+Prestige Banking Account,2025-04,Choose account,Unclear fees or features,860
+Prestige Banking Account,2025-04,Choose account,No real intent,908
+Prestige Banking Account,2025-04,Eligibility check,Unsure whether they qualify,81
+Prestige Banking Account,2025-04,Eligibility check,Changed mind,42
+Prestige Banking Account,2025-04,ID capture,Camera or glare failure,141
+Prestige Banking Account,2025-04,ID capture,No ID to hand,103
+Prestige Banking Account,2025-04,ID capture,Not eligible after all,68
+Prestige Banking Account,2025-04,Identity verification,Liveness failed repeatedly,156
+Prestige Banking Account,2025-04,Identity verification,Record lookup mismatch,110
+Prestige Banking Account,2025-04,Identity verification,Network timeout,92
+Prestige Banking Account,2025-04,Personal details,Form too long,269
+Prestige Banking Account,2025-04,Personal details,Info not at hand,235
+Prestige Banking Account,2025-04,Personal details,Privacy concern,310
+Prestige Banking Account,2025-04,Proof of income and address,No proof to hand,287
+Prestige Banking Account,2025-04,Proof of income and address,Upload or size errors,149
+Prestige Banking Account,2025-04,Proof of income and address,Prefers a branch,130
+Prestige Banking Account,2025-04,Terms and e-sign,Terms too long,31
+Prestige Banking Account,2025-04,Terms and e-sign,OTP not received,27
+Prestige Banking Account,2025-04,Terms and e-sign,Changed mind,18
+Prestige Banking Account,2025-05,Account opened → first transaction,Never made a first transaction,359
+Prestige Banking Account,2025-05,Affordability and risk decision,Declined by risk rules,102
+Prestige Banking Account,2025-05,Affordability and risk decision,Waiting for manual review,88
+Prestige Banking Account,2025-05,Choose account,Comparing offers elsewhere,1188
+Prestige Banking Account,2025-05,Choose account,Unclear fees or features,923
+Prestige Banking Account,2025-05,Choose account,No real intent,906
+Prestige Banking Account,2025-05,Eligibility check,Unsure whether they qualify,85
+Prestige Banking Account,2025-05,Eligibility check,Changed mind,56
+Prestige Banking Account,2025-05,ID capture,Camera or glare failure,139
+Prestige Banking Account,2025-05,ID capture,No ID to hand,106
+Prestige Banking Account,2025-05,ID capture,Not eligible after all,77
+Prestige Banking Account,2025-05,Identity verification,Liveness failed repeatedly,157
+Prestige Banking Account,2025-05,Identity verification,Record lookup mismatch,137
+Prestige Banking Account,2025-05,Identity verification,Network timeout,138
+Prestige Banking Account,2025-05,Personal details,Form too long,346
+Prestige Banking Account,2025-05,Personal details,Info not at hand,249
+Prestige Banking Account,2025-05,Personal details,Privacy concern,200
+Prestige Banking Account,2025-05,Proof of income and address,No proof to hand,267
+Prestige Banking Account,2025-05,Proof of income and address,Upload or size errors,165
+Prestige Banking Account,2025-05,Proof of income and address,Prefers a branch,196
+Prestige Banking Account,2025-05,Terms and e-sign,Terms too long,27
+Prestige Banking Account,2025-05,Terms and e-sign,OTP not received,27
+Prestige Banking Account,2025-05,Terms and e-sign,Changed mind,10
+Prestige Banking Account,2025-06,Account opened → first transaction,Never made a first transaction,351
+Prestige Banking Account,2025-06,Affordability and risk decision,Declined by risk rules,86
+Prestige Banking Account,2025-06,Affordability and risk decision,Waiting for manual review,96
+Prestige Banking Account,2025-06,Choose account,Comparing offers elsewhere,1278
+Prestige Banking Account,2025-06,Choose account,Unclear fees or features,896
+Prestige Banking Account,2025-06,Choose account,No real intent,602
+Prestige Banking Account,2025-06,Eligibility check,Unsure whether they qualify,81
+Prestige Banking Account,2025-06,Eligibility check,Changed mind,59
+Prestige Banking Account,2025-06,ID capture,Camera or glare failure,141
+Prestige Banking Account,2025-06,ID capture,No ID to hand,122
+Prestige Banking Account,2025-06,ID capture,Not eligible after all,43
+Prestige Banking Account,2025-06,Identity verification,Liveness failed repeatedly,150
+Prestige Banking Account,2025-06,Identity verification,Record lookup mismatch,113
+Prestige Banking Account,2025-06,Identity verification,Network timeout,106
+Prestige Banking Account,2025-06,Personal details,Form too long,336
+Prestige Banking Account,2025-06,Personal details,Info not at hand,207
+Prestige Banking Account,2025-06,Personal details,Privacy concern,233
+Prestige Banking Account,2025-06,Proof of income and address,No proof to hand,277
+Prestige Banking Account,2025-06,Proof of income and address,Upload or size errors,137
+Prestige Banking Account,2025-06,Proof of income and address,Prefers a branch,172
+Prestige Banking Account,2025-06,Terms and e-sign,Terms too long,28
+Prestige Banking Account,2025-06,Terms and e-sign,OTP not received,33
+Prestige Banking Account,2025-06,Terms and e-sign,Changed mind,11
+Prestige Banking Account,2025-07,Account opened → first transaction,Never made a first transaction,369
+Prestige Banking Account,2025-07,Affordability and risk decision,Declined by risk rules,101
+Prestige Banking Account,2025-07,Affordability and risk decision,Waiting for manual review,95
+Prestige Banking Account,2025-07,Choose account,Comparing offers elsewhere,1352
+Prestige Banking Account,2025-07,Choose account,Unclear fees or features,1163
+Prestige Banking Account,2025-07,Choose account,No real intent,736
+Prestige Banking Account,2025-07,Eligibility check,Unsure whether they qualify,95
+Prestige Banking Account,2025-07,Eligibility check,Changed mind,63
+Prestige Banking Account,2025-07,ID capture,Camera or glare failure,136
+Prestige Banking Account,2025-07,ID capture,No ID to hand,121
+Prestige Banking Account,2025-07,ID capture,Not eligible after all,54
+Prestige Banking Account,2025-07,Identity verification,Liveness failed repeatedly,167
+Prestige Banking Account,2025-07,Identity verification,Record lookup mismatch,145
+Prestige Banking Account,2025-07,Identity verification,Network timeout,110
+Prestige Banking Account,2025-07,Personal details,Form too long,360
+Prestige Banking Account,2025-07,Personal details,Info not at hand,240
+Prestige Banking Account,2025-07,Personal details,Privacy concern,291
+Prestige Banking Account,2025-07,Proof of income and address,No proof to hand,302
+Prestige Banking Account,2025-07,Proof of income and address,Upload or size errors,159
+Prestige Banking Account,2025-07,Proof of income and address,Prefers a branch,229
+Prestige Banking Account,2025-07,Terms and e-sign,Terms too long,27
+Prestige Banking Account,2025-07,Terms and e-sign,OTP not received,39
+Prestige Banking Account,2025-07,Terms and e-sign,Changed mind,17
+Prestige Banking Account,2025-08,Account opened → first transaction,Never made a first transaction,371
+Prestige Banking Account,2025-08,Affordability and risk decision,Declined by risk rules,105
+Prestige Banking Account,2025-08,Affordability and risk decision,Waiting for manual review,82
+Prestige Banking Account,2025-08,Choose account,Comparing offers elsewhere,1144
+Prestige Banking Account,2025-08,Choose account,Unclear fees or features,1137
+Prestige Banking Account,2025-08,Choose account,No real intent,665
+Prestige Banking Account,2025-08,Eligibility check,Unsure whether they qualify,92
+Prestige Banking Account,2025-08,Eligibility check,Changed mind,82
+Prestige Banking Account,2025-08,ID capture,Camera or glare failure,181
+Prestige Banking Account,2025-08,ID capture,No ID to hand,118
+Prestige Banking Account,2025-08,ID capture,Not eligible after all,63
+Prestige Banking Account,2025-08,Identity verification,Liveness failed repeatedly,158
+Prestige Banking Account,2025-08,Identity verification,Record lookup mismatch,119
+Prestige Banking Account,2025-08,Identity verification,Network timeout,125
+Prestige Banking Account,2025-08,Personal details,Form too long,283
+Prestige Banking Account,2025-08,Personal details,Info not at hand,263
+Prestige Banking Account,2025-08,Personal details,Privacy concern,283
+Prestige Banking Account,2025-08,Proof of income and address,No proof to hand,356
+Prestige Banking Account,2025-08,Proof of income and address,Upload or size errors,179
+Prestige Banking Account,2025-08,Proof of income and address,Prefers a branch,139
+Prestige Banking Account,2025-08,Terms and e-sign,Terms too long,39
+Prestige Banking Account,2025-08,Terms and e-sign,OTP not received,35
+Prestige Banking Account,2025-08,Terms and e-sign,Changed mind,15
+Prestige Banking Account,2025-09,Account opened → first transaction,Never made a first transaction,364
+Prestige Banking Account,2025-09,Affordability and risk decision,Declined by risk rules,90
+Prestige Banking Account,2025-09,Affordability and risk decision,Waiting for manual review,90
+Prestige Banking Account,2025-09,Choose account,Comparing offers elsewhere,1043
+Prestige Banking Account,2025-09,Choose account,Unclear fees or features,1031
+Prestige Banking Account,2025-09,Choose account,No real intent,903
+Prestige Banking Account,2025-09,Eligibility check,Unsure whether they qualify,77
+Prestige Banking Account,2025-09,Eligibility check,Changed mind,63
+Prestige Banking Account,2025-09,ID capture,Camera or glare failure,158
+Prestige Banking Account,2025-09,ID capture,No ID to hand,114
+Prestige Banking Account,2025-09,ID capture,Not eligible after all,70
+Prestige Banking Account,2025-09,Identity verification,Liveness failed repeatedly,152
+Prestige Banking Account,2025-09,Identity verification,Record lookup mismatch,124
+Prestige Banking Account,2025-09,Identity verification,Network timeout,121
+Prestige Banking Account,2025-09,Personal details,Form too long,301
+Prestige Banking Account,2025-09,Personal details,Info not at hand,257
+Prestige Banking Account,2025-09,Personal details,Privacy concern,244
+Prestige Banking Account,2025-09,Proof of income and address,No proof to hand,317
+Prestige Banking Account,2025-09,Proof of income and address,Upload or size errors,162
+Prestige Banking Account,2025-09,Proof of income and address,Prefers a branch,164
+Prestige Banking Account,2025-09,Terms and e-sign,Terms too long,33
+Prestige Banking Account,2025-09,Terms and e-sign,OTP not received,30
+Prestige Banking Account,2025-09,Terms and e-sign,Changed mind,17
+Prestige Banking Account,2025-10,Account opened → first transaction,Never made a first transaction,410
+Prestige Banking Account,2025-10,Affordability and risk decision,Declined by risk rules,112
+Prestige Banking Account,2025-10,Affordability and risk decision,Waiting for manual review,89
+Prestige Banking Account,2025-10,Choose account,Comparing offers elsewhere,1270
+Prestige Banking Account,2025-10,Choose account,Unclear fees or features,1070
+Prestige Banking Account,2025-10,Choose account,No real intent,833
+Prestige Banking Account,2025-10,Eligibility check,Unsure whether they qualify,91
+Prestige Banking Account,2025-10,Eligibility check,Changed mind,63
+Prestige Banking Account,2025-10,ID capture,Camera or glare failure,174
+Prestige Banking Account,2025-10,ID capture,No ID to hand,144
+Prestige Banking Account,2025-10,ID capture,Not eligible after all,57
+Prestige Banking Account,2025-10,Identity verification,Liveness failed repeatedly,170
+Prestige Banking Account,2025-10,Identity verification,Record lookup mismatch,113
+Prestige Banking Account,2025-10,Identity verification,Network timeout,133
+Prestige Banking Account,2025-10,Personal details,Form too long,397
+Prestige Banking Account,2025-10,Personal details,Info not at hand,291
+Prestige Banking Account,2025-10,Personal details,Privacy concern,235
+Prestige Banking Account,2025-10,Proof of income and address,No proof to hand,395
+Prestige Banking Account,2025-10,Proof of income and address,Upload or size errors,163
+Prestige Banking Account,2025-10,Proof of income and address,Prefers a branch,141
+Prestige Banking Account,2025-10,Terms and e-sign,Terms too long,34
+Prestige Banking Account,2025-10,Terms and e-sign,OTP not received,34
+Prestige Banking Account,2025-10,Terms and e-sign,Changed mind,18
+Prestige Banking Account,2025-11,Account opened → first transaction,Never made a first transaction,407
+Prestige Banking Account,2025-11,Affordability and risk decision,Declined by risk rules,125
+Prestige Banking Account,2025-11,Affordability and risk decision,Waiting for manual review,77
+Prestige Banking Account,2025-11,Choose account,Comparing offers elsewhere,1155
+Prestige Banking Account,2025-11,Choose account,Unclear fees or features,844
+Prestige Banking Account,2025-11,Choose account,No real intent,918
+Prestige Banking Account,2025-11,Eligibility check,Unsure whether they qualify,74
+Prestige Banking Account,2025-11,Eligibility check,Changed mind,67
+Prestige Banking Account,2025-11,ID capture,Camera or glare failure,125
+Prestige Banking Account,2025-11,ID capture,No ID to hand,111
+Prestige Banking Account,2025-11,ID capture,Not eligible after all,76
+Prestige Banking Account,2025-11,Identity verification,Liveness failed repeatedly,140
+Prestige Banking Account,2025-11,Identity verification,Record lookup mismatch,109
+Prestige Banking Account,2025-11,Identity verification,Network timeout,130
+Prestige Banking Account,2025-11,Personal details,Form too long,304
+Prestige Banking Account,2025-11,Personal details,Info not at hand,206
+Prestige Banking Account,2025-11,Personal details,Privacy concern,264
+Prestige Banking Account,2025-11,Proof of income and address,No proof to hand,354
+Prestige Banking Account,2025-11,Proof of income and address,Upload or size errors,177
+Prestige Banking Account,2025-11,Proof of income and address,Prefers a branch,130
+Prestige Banking Account,2025-11,Terms and e-sign,Terms too long,24
+Prestige Banking Account,2025-11,Terms and e-sign,OTP not received,28
+Prestige Banking Account,2025-11,Terms and e-sign,Changed mind,13
+Prestige Banking Account,2025-12,Account opened → first transaction,Never made a first transaction,371
+Prestige Banking Account,2025-12,Affordability and risk decision,Declined by risk rules,101
+Prestige Banking Account,2025-12,Affordability and risk decision,Waiting for manual review,93
+Prestige Banking Account,2025-12,Choose account,Comparing offers elsewhere,1022
+Prestige Banking Account,2025-12,Choose account,Unclear fees or features,935
+Prestige Banking Account,2025-12,Choose account,No real intent,517
+Prestige Banking Account,2025-12,Eligibility check,Unsure whether they qualify,79
+Prestige Banking Account,2025-12,Eligibility check,Changed mind,62
+Prestige Banking Account,2025-12,ID capture,Camera or glare failure,131
+Prestige Banking Account,2025-12,ID capture,No ID to hand,86
+Prestige Banking Account,2025-12,ID capture,Not eligible after all,29
+Prestige Banking Account,2025-12,Identity verification,Liveness failed repeatedly,157
+Prestige Banking Account,2025-12,Identity verification,Record lookup mismatch,121
+Prestige Banking Account,2025-12,Identity verification,Network timeout,131
+Prestige Banking Account,2025-12,Personal details,Form too long,303
+Prestige Banking Account,2025-12,Personal details,Info not at hand,212
+Prestige Banking Account,2025-12,Personal details,Privacy concern,211
+Prestige Banking Account,2025-12,Proof of income and address,No proof to hand,269
+Prestige Banking Account,2025-12,Proof of income and address,Upload or size errors,163
+Prestige Banking Account,2025-12,Proof of income and address,Prefers a branch,132
+Prestige Banking Account,2025-12,Terms and e-sign,Terms too long,19
+Prestige Banking Account,2025-12,Terms and e-sign,OTP not received,25
+Prestige Banking Account,2025-12,Terms and e-sign,Changed mind,14
+Prestige Banking Account,2026-01,Account opened → first transaction,Never made a first transaction,498
+Prestige Banking Account,2026-01,Affordability and risk decision,Declined by risk rules,149
+Prestige Banking Account,2026-01,Affordability and risk decision,Waiting for manual review,131
+Prestige Banking Account,2026-01,Choose account,Comparing offers elsewhere,1428
+Prestige Banking Account,2026-01,Choose account,Unclear fees or features,1198
+Prestige Banking Account,2026-01,Choose account,No real intent,879
+Prestige Banking Account,2026-01,Eligibility check,Unsure whether they qualify,90
+Prestige Banking Account,2026-01,Eligibility check,Changed mind,71
+Prestige Banking Account,2026-01,ID capture,Camera or glare failure,170
+Prestige Banking Account,2026-01,ID capture,No ID to hand,148
+Prestige Banking Account,2026-01,ID capture,Not eligible after all,90
+Prestige Banking Account,2026-01,Identity verification,Liveness failed repeatedly,198
+Prestige Banking Account,2026-01,Identity verification,Record lookup mismatch,154
+Prestige Banking Account,2026-01,Identity verification,Network timeout,126
+Prestige Banking Account,2026-01,Personal details,Form too long,495
+Prestige Banking Account,2026-01,Personal details,Info not at hand,313
+Prestige Banking Account,2026-01,Personal details,Privacy concern,262
+Prestige Banking Account,2026-01,Proof of income and address,No proof to hand,421
+Prestige Banking Account,2026-01,Proof of income and address,Upload or size errors,226
+Prestige Banking Account,2026-01,Proof of income and address,Prefers a branch,209
+Prestige Banking Account,2026-01,Terms and e-sign,Terms too long,36
+Prestige Banking Account,2026-01,Terms and e-sign,OTP not received,33
+Prestige Banking Account,2026-01,Terms and e-sign,Changed mind,18
+Prestige Banking Account,2026-02,Account opened → first transaction,Never made a first transaction,400
+Prestige Banking Account,2026-02,Affordability and risk decision,Declined by risk rules,117
+Prestige Banking Account,2026-02,Affordability and risk decision,Waiting for manual review,96
+Prestige Banking Account,2026-02,Choose account,Comparing offers elsewhere,1116
+Prestige Banking Account,2026-02,Choose account,Unclear fees or features,1157
+Prestige Banking Account,2026-02,Choose account,No real intent,660
+Prestige Banking Account,2026-02,Eligibility check,Unsure whether they qualify,80
+Prestige Banking Account,2026-02,Eligibility check,Changed mind,55
+Prestige Banking Account,2026-02,ID capture,Camera or glare failure,150
+Prestige Banking Account,2026-02,ID capture,No ID to hand,118
+Prestige Banking Account,2026-02,ID capture,Not eligible after all,71
+Prestige Banking Account,2026-02,Identity verification,Liveness failed repeatedly,141
+Prestige Banking Account,2026-02,Identity verification,Record lookup mismatch,107
+Prestige Banking Account,2026-02,Identity verification,Network timeout,116
+Prestige Banking Account,2026-02,Personal details,Form too long,341
+Prestige Banking Account,2026-02,Personal details,Info not at hand,211
+Prestige Banking Account,2026-02,Personal details,Privacy concern,278
+Prestige Banking Account,2026-02,Proof of income and address,No proof to hand,388
+Prestige Banking Account,2026-02,Proof of income and address,Upload or size errors,188
+Prestige Banking Account,2026-02,Proof of income and address,Prefers a branch,146
+Prestige Banking Account,2026-02,Terms and e-sign,Terms too long,32
+Prestige Banking Account,2026-02,Terms and e-sign,OTP not received,35
+Prestige Banking Account,2026-02,Terms and e-sign,Changed mind,13
+Prestige Banking Account,2026-03,Account opened → first transaction,Never made a first transaction,447
+Prestige Banking Account,2026-03,Affordability and risk decision,Declined by risk rules,96
+Prestige Banking Account,2026-03,Affordability and risk decision,Waiting for manual review,119
+Prestige Banking Account,2026-03,Choose account,Comparing offers elsewhere,1403
+Prestige Banking Account,2026-03,Choose account,Unclear fees or features,1116
+Prestige Banking Account,2026-03,Choose account,No real intent,751
+Prestige Banking Account,2026-03,Eligibility check,Unsure whether they qualify,113
+Prestige Banking Account,2026-03,Eligibility check,Changed mind,61
+Prestige Banking Account,2026-03,ID capture,Camera or glare failure,175
+Prestige Banking Account,2026-03,ID capture,No ID to hand,118
+Prestige Banking Account,2026-03,ID capture,Not eligible after all,76
+Prestige Banking Account,2026-03,Identity verification,Liveness failed repeatedly,205
+Prestige Banking Account,2026-03,Identity verification,Record lookup mismatch,120
+Prestige Banking Account,2026-03,Identity verification,Network timeout,99
+Prestige Banking Account,2026-03,Personal details,Form too long,337
+Prestige Banking Account,2026-03,Personal details,Info not at hand,239
+Prestige Banking Account,2026-03,Personal details,Privacy concern,312
+Prestige Banking Account,2026-03,Proof of income and address,No proof to hand,390
+Prestige Banking Account,2026-03,Proof of income and address,Upload or size errors,190
+Prestige Banking Account,2026-03,Proof of income and address,Prefers a branch,190
+Prestige Banking Account,2026-03,Terms and e-sign,Terms too long,26
+Prestige Banking Account,2026-03,Terms and e-sign,OTP not received,24
+Prestige Banking Account,2026-03,Terms and e-sign,Changed mind,14
+Prestige Banking Account,2026-04,Account opened → first transaction,Never made a first transaction,432
+Prestige Banking Account,2026-04,Affordability and risk decision,Declined by risk rules,107
+Prestige Banking Account,2026-04,Affordability and risk decision,Waiting for manual review,93
+Prestige Banking Account,2026-04,Choose account,Comparing offers elsewhere,1231
+Prestige Banking Account,2026-04,Choose account,Unclear fees or features,1007
+Prestige Banking Account,2026-04,Choose account,No real intent,824
+Prestige Banking Account,2026-04,Eligibility check,Unsure whether they qualify,88
+Prestige Banking Account,2026-04,Eligibility check,Changed mind,67
+Prestige Banking Account,2026-04,ID capture,Camera or glare failure,147
+Prestige Banking Account,2026-04,ID capture,No ID to hand,103
+Prestige Banking Account,2026-04,ID capture,Not eligible after all,63
+Prestige Banking Account,2026-04,Identity verification,Liveness failed repeatedly,153
+Prestige Banking Account,2026-04,Identity verification,Record lookup mismatch,122
+Prestige Banking Account,2026-04,Identity verification,Network timeout,115
+Prestige Banking Account,2026-04,Personal details,Form too long,378
+Prestige Banking Account,2026-04,Personal details,Info not at hand,253
+Prestige Banking Account,2026-04,Personal details,Privacy concern,237
+Prestige Banking Account,2026-04,Proof of income and address,No proof to hand,304
+Prestige Banking Account,2026-04,Proof of income and address,Upload or size errors,154
+Prestige Banking Account,2026-04,Proof of income and address,Prefers a branch,181
+Prestige Banking Account,2026-04,Terms and e-sign,Terms too long,33
+Prestige Banking Account,2026-04,Terms and e-sign,OTP not received,37
+Prestige Banking Account,2026-04,Terms and e-sign,Changed mind,21
+Prestige Banking Account,2026-05,Account opened → first transaction,Never made a first transaction,472
+Prestige Banking Account,2026-05,Affordability and risk decision,Declined by risk rules,127
+Prestige Banking Account,2026-05,Affordability and risk decision,Waiting for manual review,100
+Prestige Banking Account,2026-05,Choose account,Comparing offers elsewhere,1224
+Prestige Banking Account,2026-05,Choose account,Unclear fees or features,1006
+Prestige Banking Account,2026-05,Choose account,No real intent,915
+Prestige Banking Account,2026-05,Eligibility check,Unsure whether they qualify,103
+Prestige Banking Account,2026-05,Eligibility check,Changed mind,61
+Prestige Banking Account,2026-05,ID capture,Camera or glare failure,138
+Prestige Banking Account,2026-05,ID capture,No ID to hand,128
+Prestige Banking Account,2026-05,ID capture,Not eligible after all,95
+Prestige Banking Account,2026-05,Identity verification,Liveness failed repeatedly,204
+Prestige Banking Account,2026-05,Identity verification,Record lookup mismatch,150
+Prestige Banking Account,2026-05,Identity verification,Network timeout,87
+Prestige Banking Account,2026-05,Personal details,Form too long,395
+Prestige Banking Account,2026-05,Personal details,Info not at hand,289
+Prestige Banking Account,2026-05,Personal details,Privacy concern,273
+Prestige Banking Account,2026-05,Proof of income and address,No proof to hand,330
+Prestige Banking Account,2026-05,Proof of income and address,Upload or size errors,185
+Prestige Banking Account,2026-05,Proof of income and address,Prefers a branch,204
+Prestige Banking Account,2026-05,Terms and e-sign,Terms too long,31
+Prestige Banking Account,2026-05,Terms and e-sign,OTP not received,40
+Prestige Banking Account,2026-05,Terms and e-sign,Changed mind,19
+Prestige Banking Account,2026-06,Account opened → first transaction,Never made a first transaction,388
+Prestige Banking Account,2026-06,Affordability and risk decision,Declined by risk rules,122
+Prestige Banking Account,2026-06,Affordability and risk decision,Waiting for manual review,90
+Prestige Banking Account,2026-06,Choose account,Comparing offers elsewhere,1282
+Prestige Banking Account,2026-06,Choose account,Unclear fees or features,1241
+Prestige Banking Account,2026-06,Choose account,No real intent,637
+Prestige Banking Account,2026-06,Eligibility check,Unsure whether they qualify,91
+Prestige Banking Account,2026-06,Eligibility check,Changed mind,59
+Prestige Banking Account,2026-06,ID capture,Camera or glare failure,137
+Prestige Banking Account,2026-06,ID capture,No ID to hand,120
+Prestige Banking Account,2026-06,ID capture,Not eligible after all,47
+Prestige Banking Account,2026-06,Identity verification,Liveness failed repeatedly,155
+Prestige Banking Account,2026-06,Identity verification,Record lookup mismatch,123
+Prestige Banking Account,2026-06,Identity verification,Network timeout,116
+Prestige Banking Account,2026-06,Personal details,Form too long,349
+Prestige Banking Account,2026-06,Personal details,Info not at hand,273
+Prestige Banking Account,2026-06,Personal details,Privacy concern,290
+Prestige Banking Account,2026-06,Proof of income and address,No proof to hand,310
+Prestige Banking Account,2026-06,Proof of income and address,Upload or size errors,166
+Prestige Banking Account,2026-06,Proof of income and address,Prefers a branch,161
+Prestige Banking Account,2026-06,Terms and e-sign,Terms too long,35
+Prestige Banking Account,2026-06,Terms and e-sign,OTP not received,33
+Prestige Banking Account,2026-06,Terms and e-sign,Changed mind,13
+Prestige Banking Account,2026-07,Account opened → first transaction,Never made a first transaction,448
+Prestige Banking Account,2026-07,Affordability and risk decision,Declined by risk rules,126
+Prestige Banking Account,2026-07,Affordability and risk decision,Waiting for manual review,96
+Prestige Banking Account,2026-07,Choose account,Comparing offers elsewhere,1481
+Prestige Banking Account,2026-07,Choose account,Unclear fees or features,1152
+Prestige Banking Account,2026-07,Choose account,No real intent,876
+Prestige Banking Account,2026-07,Eligibility check,Unsure whether they qualify,93
+Prestige Banking Account,2026-07,Eligibility check,Changed mind,47
+Prestige Banking Account,2026-07,ID capture,Camera or glare failure,156
+Prestige Banking Account,2026-07,ID capture,No ID to hand,128
+Prestige Banking Account,2026-07,ID capture,Not eligible after all,47
+Prestige Banking Account,2026-07,Identity verification,Liveness failed repeatedly,197
+Prestige Banking Account,2026-07,Identity verification,Record lookup mismatch,153
+Prestige Banking Account,2026-07,Identity verification,Network timeout,96
+Prestige Banking Account,2026-07,Personal details,Form too long,424
+Prestige Banking Account,2026-07,Personal details,Info not at hand,298
+Prestige Banking Account,2026-07,Personal details,Privacy concern,261
+Prestige Banking Account,2026-07,Proof of income and address,No proof to hand,397
+Prestige Banking Account,2026-07,Proof of income and address,Upload or size errors,177
+Prestige Banking Account,2026-07,Proof of income and address,Prefers a branch,133
+Prestige Banking Account,2026-07,Terms and e-sign,Terms too long,35
+Prestige Banking Account,2026-07,Terms and e-sign,OTP not received,33
+Prestige Banking Account,2026-07,Terms and e-sign,Changed mind,14
+Prestige Banking Account,2026-08,Account opened → first transaction,Never made a first transaction,417
+Prestige Banking Account,2026-08,Affordability and risk decision,Declined by risk rules,126
+Prestige Banking Account,2026-08,Affordability and risk decision,Waiting for manual review,93
+Prestige Banking Account,2026-08,Choose account,Comparing offers elsewhere,1379
+Prestige Banking Account,2026-08,Choose account,Unclear fees or features,1196
+Prestige Banking Account,2026-08,Choose account,No real intent,787
+Prestige Banking Account,2026-08,Eligibility check,Unsure whether they qualify,84
+Prestige Banking Account,2026-08,Eligibility check,Changed mind,66
+Prestige Banking Account,2026-08,ID capture,Camera or glare failure,146
+Prestige Banking Account,2026-08,ID capture,No ID to hand,126
+Prestige Banking Account,2026-08,ID capture,Not eligible after all,67
+Prestige Banking Account,2026-08,Identity verification,Liveness failed repeatedly,181
+Prestige Banking Account,2026-08,Identity verification,Record lookup mismatch,152
+Prestige Banking Account,2026-08,Identity verification,Network timeout,135
+Prestige Banking Account,2026-08,Personal details,Form too long,370
+Prestige Banking Account,2026-08,Personal details,Info not at hand,312
+Prestige Banking Account,2026-08,Personal details,Privacy concern,303
+Prestige Banking Account,2026-08,Proof of income and address,No proof to hand,298
+Prestige Banking Account,2026-08,Proof of income and address,Upload or size errors,150
+Prestige Banking Account,2026-08,Proof of income and address,Prefers a branch,173
+Prestige Banking Account,2026-08,Terms and e-sign,Terms too long,29
+Prestige Banking Account,2026-08,Terms and e-sign,OTP not received,34
+Prestige Banking Account,2026-08,Terms and e-sign,Changed mind,13
+Prestige Banking Account,2026-09,Account opened → first transaction,Never made a first transaction,411
+Prestige Banking Account,2026-09,Affordability and risk decision,Declined by risk rules,116
+Prestige Banking Account,2026-09,Affordability and risk decision,Waiting for manual review,109
+Prestige Banking Account,2026-09,Choose account,Comparing offers elsewhere,1515
+Prestige Banking Account,2026-09,Choose account,Unclear fees or features,1127
+Prestige Banking Account,2026-09,Choose account,No real intent,669
+Prestige Banking Account,2026-09,Eligibility check,Unsure whether they qualify,94
+Prestige Banking Account,2026-09,Eligibility check,Changed mind,70
+Prestige Banking Account,2026-09,ID capture,Camera or glare failure,179
+Prestige Banking Account,2026-09,ID capture,No ID to hand,144
+Prestige Banking Account,2026-09,ID capture,Not eligible after all,33
+Prestige Banking Account,2026-09,Identity verification,Liveness failed repeatedly,172
+Prestige Banking Account,2026-09,Identity verification,Record lookup mismatch,117
+Prestige Banking Account,2026-09,Identity verification,Network timeout,129
+Prestige Banking Account,2026-09,Personal details,Form too long,389
+Prestige Banking Account,2026-09,Personal details,Info not at hand,277
+Prestige Banking Account,2026-09,Personal details,Privacy concern,264
+Prestige Banking Account,2026-09,Proof of income and address,No proof to hand,355
+Prestige Banking Account,2026-09,Proof of income and address,Upload or size errors,154
+Prestige Banking Account,2026-09,Proof of income and address,Prefers a branch,123
+Prestige Banking Account,2026-09,Terms and e-sign,Terms too long,34
+Prestige Banking Account,2026-09,Terms and e-sign,OTP not received,38
+Prestige Banking Account,2026-09,Terms and e-sign,Changed mind,9
+Prestige Banking Account,2026-10,Account opened → first transaction,Never made a first transaction,401
+Prestige Banking Account,2026-10,Affordability and risk decision,Declined by risk rules,133
+Prestige Banking Account,2026-10,Affordability and risk decision,Waiting for manual review,111
+Prestige Banking Account,2026-10,Choose account,Comparing offers elsewhere,1536
+Prestige Banking Account,2026-10,Choose account,Unclear fees or features,1325
+Prestige Banking Account,2026-10,Choose account,No real intent,787
+Prestige Banking Account,2026-10,Eligibility check,Unsure whether they qualify,105
+Prestige Banking Account,2026-10,Eligibility check,Changed mind,69
+Prestige Banking Account,2026-10,ID capture,Camera or glare failure,153
+Prestige Banking Account,2026-10,ID capture,No ID to hand,124
+Prestige Banking Account,2026-10,ID capture,Not eligible after all,61
+Prestige Banking Account,2026-10,Identity verification,Liveness failed repeatedly,168
+Prestige Banking Account,2026-10,Identity verification,Record lookup mismatch,136
+Prestige Banking Account,2026-10,Identity verification,Network timeout,148
+Prestige Banking Account,2026-10,Personal details,Form too long,344
+Prestige Banking Account,2026-10,Personal details,Info not at hand,282
+Prestige Banking Account,2026-10,Personal details,Privacy concern,334
+Prestige Banking Account,2026-10,Proof of income and address,No proof to hand,319
+Prestige Banking Account,2026-10,Proof of income and address,Upload or size errors,182
+Prestige Banking Account,2026-10,Proof of income and address,Prefers a branch,206
+Prestige Banking Account,2026-10,Terms and e-sign,Terms too long,22
+Prestige Banking Account,2026-10,Terms and e-sign,OTP not received,24
+Prestige Banking Account,2026-10,Terms and e-sign,Changed mind,24

@@ -61,6 +61,16 @@ If you change the persona pack (`data/persona_pack_v7_1_10000.csv`) or the feedb
 
 In the page, who quits and where comes from the calibrated simulation. Each simulated customer is a pack person from the same archetype, picked by population weight, and their feedback follows the kit's engine.
 
+## Athena Offline
+
+`athena-offline.html` is a single file that runs in a browser with no internet. Nothing is uploaded: files are read and saved in that browser only (IndexedDB), and a project file can be exported to move between laptops.
+
+- **Your data:** load funnel counts (daily, weekly or monthly) and drop-off reasons as CSV. Athena checks them (completed above entered, chain errors, gaps, duplicates, spikes, history length) and guesses each step's type for you to correct. Templates and sample data are in the tab and in `samples/`.
+- **Forecast:** the next 3 months of starters and accounts opened per step, with a likely range. It learns the yearly pattern, the weekly rhythm and payday, then proves itself by replaying the past 12 months (error, range coverage, and a comparison with a "same as last month" guess), which sets a High, Medium or Low trust level.
+- **Offline screen review:** describe each screen in a short form. Fixed rules check it against the design laws and the feedback kit's problem tags, then the 10,000 personas run through it. For a future flow, screens better than a typical one lose fewer people in the prediction (at most half), worse ones lose more (at most double).
+
+Build it with `python3 build_offline.py` (runs `build.py`, then adds the offline modules and fails if any online link remains).
+
 ## Docs
 
 - [About Athena](docs/about-athena.md): what it is, why the name, and what it does for design teams and the business

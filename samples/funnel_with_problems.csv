@@ -1,0 +1,713 @@
+product,date,step,entered,completed
+MyMo Account,2026-08-01,Choose account,1187,766
+MyMo Account,2026-08-01,Eligibility check,766,750
+MyMo Account,2026-08-01,Personal details,750,545
+MyMo Account,2026-08-01,ID capture (SA ID),545,487
+MyMo Account,2026-08-01,Identity verification,487,365
+MyMo Account,2026-08-01,Confirm address,365,335
+MyMo Account,2026-08-01,Terms and e-sign,335,316
+MyMo Account,2026-08-01,Account opened → first transaction,316,158
+MyMo Account,2026-08-02,Choose account,951,603
+MyMo Account,2026-08-02,Eligibility check,603,587
+MyMo Account,2026-08-02,Personal details,587,432
+MyMo Account,2026-08-02,ID capture (SA ID),432,397
+MyMo Account,2026-08-02,Identity verification,397,304
+MyMo Account,2026-08-02,Confirm address,304,271
+MyMo Account,2026-08-02,Terms and e-sign,271,254
+MyMo Account,2026-08-02,Account opened → first transaction,254,139
+MyMo Account,2026-08-03,Choose account,1187,768
+MyMo Account,2026-08-03,Eligibility check,768,748
+MyMo Account,2026-08-03,Personal details,748,539
+MyMo Account,2026-08-03,ID capture (SA ID),539,480
+MyMo Account,2026-08-03,Identity verification,480,374
+MyMo Account,2026-08-03,Confirm address,374,343
+MyMo Account,2026-08-03,Terms and e-sign,343,309
+MyMo Account,2026-08-03,Account opened → first transaction,309,152
+MyMo Account,2026-08-04,Choose account,1210,775
+MyMo Account,2026-08-04,Eligibility check,775,753
+MyMo Account,2026-08-04,Personal details,753,542
+MyMo Account,2026-08-04,ID capture (SA ID),542,487
+MyMo Account,2026-08-04,Identity verification,487,368
+MyMo Account,2026-08-04,Confirm address,368,339
+MyMo Account,2026-08-04,Terms and e-sign,339,316
+MyMo Account,2026-08-04,Account opened → first transaction,316,152
+MyMo Account,2026-08-05,Choose account,1284,824
+MyMo Account,2026-08-05,Eligibility check,824,808
+MyMo Account,2026-08-05,Personal details,808,561
+MyMo Account,2026-08-05,ID capture (SA ID),561,499
+MyMo Account,2026-08-05,Identity verification,499,379
+MyMo Account,2026-08-05,Confirm address,379,339
+MyMo Account,2026-08-05,Terms and e-sign,339,310
+MyMo Account,2026-08-05,Account opened → first transaction,310,142
+MyMo Account,2026-08-06,Choose account,1265,864
+MyMo Account,2026-08-06,Eligibility check,864,852
+MyMo Account,2026-08-06,Personal details,852,582
+MyMo Account,2026-08-06,ID capture (SA ID),582,512
+MyMo Account,2026-08-06,Identity verification,512,403
+MyMo Account,2026-08-06,Confirm address,403,361
+MyMo Account,2026-08-06,Terms and e-sign,361,336
+MyMo Account,2026-08-06,Account opened → first transaction,336,139
+MyMo Account,2026-08-07,Choose account,1347,906
+MyMo Account,2026-08-07,Eligibility check,906,876
+MyMo Account,2026-08-07,Personal details,876,620
+MyMo Account,2026-08-07,ID capture (SA ID),620,553
+MyMo Account,2026-08-07,Identity verification,553,420
+MyMo Account,2026-08-07,Confirm address,420,380
+MyMo Account,2026-08-07,Terms and e-sign,380,357
+MyMo Account,2026-08-07,Account opened → first transaction,357,181
+MyMo Account,2026-08-08,Choose account,865,559
+MyMo Account,2026-08-08,Eligibility check,559,544
+MyMo Account,2026-08-08,Personal details,544,407
+MyMo Account,2026-08-08,ID capture (SA ID),407,358
+MyMo Account,2026-08-08,Identity verification,358,275
+MyMo Account,2026-08-08,Confirm address,275,252
+MyMo Account,2026-08-08,Terms and e-sign,252,227
+MyMo Account,2026-08-08,Account opened → first transaction,227,104
+MyMo Account,2026-08-09,Choose account,781,536
+MyMo Account,2026-08-09,Eligibility check,536,520
+MyMo Account,2026-08-09,Personal details,520,381
+MyMo Account,2026-08-09,ID capture (SA ID),381,348
+MyMo Account,2026-08-09,Identity verification,348,262
+MyMo Account,2026-08-09,Confirm address,262,241
+MyMo Account,2026-08-09,Terms and e-sign,241,224
+MyMo Account,2026-08-09,Account opened → first transaction,224,119
+MyMo Account,2026-08-10,Choose account,1393,889
+MyMo Account,2026-08-10,Eligibility check,889,872
+MyMo Account,2026-08-10,Personal details,872,628
+MyMo Account,2026-08-10,ID capture (SA ID),628,551
+MyMo Account,2026-08-10,Identity verification,551,418
+MyMo Account,2026-08-10,Confirm address,418,384
+MyMo Account,2026-08-10,Terms and e-sign,384,365
+MyMo Account,2026-08-10,Account opened → first transaction,365,189
+MyMo Account,2026-08-11,Choose account,1138,757
+MyMo Account,2026-08-11,Eligibility check,757,732
+MyMo Account,2026-08-11,Personal details,732,514
+MyMo Account,2026-08-11,ID capture (SA ID),514,461
+MyMo Account,2026-08-11,Identity verification,461,346
+MyMo Account,2026-08-11,Confirm address,346,320
+MyMo Account,2026-08-11,Terms and e-sign,320,304
+MyMo Account,2026-08-11,Account opened → first transaction,304,141
+MyMo Account,2026-08-12,Choose account,1172,791
+MyMo Account,2026-08-12,Eligibility check,791,766
+MyMo Account,2026-08-12,Personal details,766,539
+MyMo Account,2026-08-12,ID capture (SA ID),539,492
+MyMo Account,2026-08-12,Identity verification,492,369
+MyMo Account,2026-08-12,Confirm address,369,337
+MyMo Account,2026-08-12,Terms and e-sign,337,316
+MyMo Account,2026-08-12,Account opened → first transaction,316,160
+MyMo Account,2026-08-13,Choose account,1238,846
+MyMo Account,2026-08-13,Eligibility check,846,821
+MyMo Account,2026-08-13,Personal details,821,581
+MyMo Account,2026-08-13,ID capture (SA ID),581,508
+MyMo Account,2026-08-13,Identity verification,508,391
+MyMo Account,2026-08-13,Confirm address,391,354
+MyMo Account,2026-08-13,Terms and e-sign,354,330
+MyMo Account,2026-08-13,Account opened → first transaction,330,149
+MyMo Account,2026-08-17,Choose account,1321,849
+MyMo Account,2026-08-17,Eligibility check,849,814
+MyMo Account,2026-08-17,Personal details,814,588
+MyMo Account,2026-08-17,ID capture (SA ID),588,513
+MyMo Account,2026-08-17,Identity verification,513,382
+MyMo Account,2026-08-17,Confirm address,382,347
+MyMo Account,2026-08-17,Terms and e-sign,347,324
+MyMo Account,2026-08-17,Account opened → first transaction,324,131
+MyMo Account,2026-08-18,Choose account,1141,738
+MyMo Account,2026-08-18,Eligibility check,738,717
+MyMo Account,2026-08-18,Personal details,717,523
+MyMo Account,2026-08-18,ID capture (SA ID),523,477
+MyMo Account,2026-08-18,Identity verification,477,353
+MyMo Account,2026-08-18,Confirm address,353,320
+MyMo Account,2026-08-18,Terms and e-sign,320,300
+MyMo Account,2026-08-18,Account opened → first transaction,300,164
+MyMo Account,2026-08-19,Choose account,1248,828
+MyMo Account,2026-08-19,Eligibility check,828,797
+MyMo Account,2026-08-19,Personal details,797,568
+MyMo Account,2026-08-19,ID capture (SA ID),568,503
+MyMo Account,2026-08-19,Identity verification,503,358
+MyMo Account,2026-08-19,Confirm address,358,325
+MyMo Account,2026-08-19,Terms and e-sign,325,300
+MyMo Account,2026-08-19,Account opened → first transaction,300,169
+MyMo Account,2026-08-20,Choose account,1219,758
+MyMo Account,2026-08-20,Eligibility check,758,735
+MyMo Account,2026-08-20,Personal details,735,555
+MyMo Account,2026-08-20,ID capture (SA ID),555,502
+MyMo Account,2026-08-20,Identity verification,502,395
+MyMo Account,2026-08-20,Confirm address,395,356
+MyMo Account,2026-08-20,Terms and e-sign,356,335
+MyMo Account,2026-08-20,Account opened → first transaction,335,201
+MyMo Account,2026-08-21,Choose account,1369,862
+MyMo Account,2026-08-21,Eligibility check,862,839
+MyMo Account,2026-08-21,Personal details,839,588
+MyMo Account,2026-08-21,ID capture (SA ID),588,524
+MyMo Account,2026-08-21,Identity verification,524,403
+MyMo Account,2026-08-21,Confirm address,403,354
+MyMo Account,2026-08-21,Terms and e-sign,354,335
+MyMo Account,2026-08-21,Account opened → first transaction,335,151
+MyMo Account,2026-08-22,Choose account,840,579
+MyMo Account,2026-08-22,Eligibility check,579,566
+MyMo Account,2026-08-22,Personal details,566,419
+MyMo Account,2026-08-22,ID capture (SA ID),419,379
+MyMo Account,2026-08-22,Identity verification,379,274
+MyMo Account,2026-08-22,Confirm address,274,254
+MyMo Account,2026-08-22,Terms and e-sign,254,243
+MyMo Account,2026-08-22,Account opened → first transaction,243,127
+MyMo Account,2026-08-23,Choose account,825,558
+MyMo Account,2026-08-23,Eligibility check,558,541
+MyMo Account,2026-08-23,Personal details,541,374
+MyMo Account,2026-08-23,ID capture (SA ID),374,338
+MyMo Account,2026-08-23,Identity verification,338,237
+MyMo Account,2026-08-23,Confirm address,237,218
+MyMo Account,2026-08-23,Terms and e-sign,218,200
+MyMo Account,2026-08-23,Account opened → first transaction,200,110
+MyMo Account,2026-08-24,Choose account,1365,854
+MyMo Account,2026-08-24,Eligibility check,854,818
+MyMo Account,2026-08-24,Personal details,818,601
+MyMo Account,2026-08-24,ID capture (SA ID),601,536
+MyMo Account,2026-08-24,Identity verification,536,404
+MyMo Account,2026-08-24,Confirm address,404,353
+MyMo Account,2026-08-24,Terms and e-sign,353,325
+MyMo Account,2026-08-24,Account opened → first transaction,325,136
+MyMo Account,2026-08-25,Choose account,1553,996
+MyMo Account,2026-08-25,Eligibility check,996,979
+MyMo Account,2026-08-25,Personal details,979,711
+MyMo Account,2026-08-25,ID capture (SA ID),711,636
+MyMo Account,2026-08-25,Identity verification,636,474
+MyMo Account,2026-08-25,Confirm address,474,412
+MyMo Account,2026-08-25,Terms and e-sign,412,390
+MyMo Account,2026-08-25,Account opened → first transaction,390,211
+MyMo Account,2026-08-26,Choose account,1464,960
+MyMo Account,2026-08-26,Eligibility check,960,930
+MyMo Account,2026-08-26,Personal details,930,708
+MyMo Account,2026-08-26,ID capture (SA ID),708,631
+MyMo Account,2026-08-26,Identity verification,631,463
+MyMo Account,2026-08-26,Confirm address,463,413
+MyMo Account,2026-08-26,Terms and e-sign,413,386
+MyMo Account,2026-08-26,Account opened → first transaction,386,207
+MyMo Account,2026-08-27,Choose account,1563,968
+MyMo Account,2026-08-27,Eligibility check,968,947
+MyMo Account,2026-08-27,Personal details,947,677
+MyMo Account,2026-08-27,ID capture (SA ID),677,596
+MyMo Account,2026-08-27,Identity verification,596,442
+MyMo Account,2026-08-27,Confirm address,442,400
+MyMo Account,2026-08-27,Terms and e-sign,400,372
+MyMo Account,2026-08-27,Account opened → first transaction,372,195
+MyMo Account,2026-08-28,Choose account,1456,984
+MyMo Account,2026-08-28,Eligibility check,984,953
+MyMo Account,2026-08-28,Personal details,953,692
+MyMo Account,2026-08-28,ID capture (SA ID),692,637
+MyMo Account,2026-08-28,Identity verification,637,471
+MyMo Account,2026-08-28,Confirm address,471,428
+MyMo Account,2026-08-28,Terms and e-sign,428,401
+MyMo Account,2026-08-28,Account opened → first transaction,401,206
+MyMo Account,2026-08-29,Choose account,1084,662
+MyMo Account,2026-08-29,Eligibility check,662,641
+MyMo Account,2026-08-29,Personal details,641,456
+MyMo Account,2026-08-29,ID capture (SA ID),456,413
+MyMo Account,2026-08-29,Identity verification,413,309
+MyMo Account,2026-08-29,Confirm address,309,275
+MyMo Account,2026-08-29,Terms and e-sign,275,258
+MyMo Account,2026-08-29,Account opened → first transaction,258,123
+MyMo Account,2026-08-30,Choose account,927,619
+MyMo Account,2026-08-30,Eligibility check,619,595
+MyMo Account,2026-08-30,Personal details,595,431
+MyMo Account,2026-08-30,ID capture (SA ID),431,393
+MyMo Account,2026-08-30,Identity verification,393,294
+MyMo Account,2026-08-30,Confirm address,294,273
+MyMo Account,2026-08-30,Terms and e-sign,273,261
+MyMo Account,2026-08-30,Account opened → first transaction,261,103
+MyMo Account,2026-08-31,Choose account,1456,934
+MyMo Account,2026-08-31,Eligibility check,934,912
+MyMo Account,2026-08-31,Personal details,912,629
+MyMo Account,2026-08-31,ID capture (SA ID),629,564
+MyMo Account,2026-08-31,Identity verification,564,436
+MyMo Account,2026-08-31,Confirm address,436,398
+MyMo Account,2026-08-31,Terms and e-sign,398,381
+MyMo Account,2026-08-31,Account opened → first transaction,381,182
+MyMo Account,2026-09-01,Choose account,1539,1011
+MyMo Account,2026-09-01,Eligibility check,1011,972
+MyMo Account,2026-09-01,Personal details,972,696
+MyMo Account,2026-09-01,ID capture (SA ID),696,633
+MyMo Account,2026-09-01,Identity verification,633,452
+MyMo Account,2026-09-01,Confirm address,452,397
+MyMo Account,2026-09-01,Terms and e-sign,397,371
+MyMo Account,2026-09-01,Account opened → first transaction,371,193
+MyMo Account,2026-09-02,Choose account,1401,900
+MyMo Account,2026-09-02,Eligibility check,900,868
+MyMo Account,2026-09-02,Personal details,868,628
+MyMo Account,2026-09-02,ID capture (SA ID),628,569
+MyMo Account,2026-09-02,Identity verification,569,422
+MyMo Account,2026-09-02,Confirm address,422,382
+MyMo Account,2026-09-02,Terms and e-sign,382,351
+MyMo Account,2026-09-02,Account opened → first transaction,351,186
+MyMo Account,2026-09-03,Choose account,1275,835
+MyMo Account,2026-09-03,Eligibility check,835,808
+MyMo Account,2026-09-03,Personal details,808,928
+MyMo Account,2026-09-03,ID capture (SA ID),580,515
+MyMo Account,2026-09-03,Identity verification,515,374
+MyMo Account,2026-09-03,Confirm address,374,338
+MyMo Account,2026-09-03,Terms and e-sign,338,313
+MyMo Account,2026-09-03,Account opened → first transaction,313,167
+MyMo Account,2026-09-04,Choose account,1152,758
+MyMo Account,2026-09-04,Eligibility check,758,738
+MyMo Account,2026-09-04,Personal details,738,533
+MyMo Account,2026-09-04,ID capture (SA ID),533,474
+MyMo Account,2026-09-04,Identity verification,474,338
+MyMo Account,2026-09-04,Confirm address,338,308
+MyMo Account,2026-09-04,Terms and e-sign,308,293
+MyMo Account,2026-09-04,Account opened → first transaction,293,159
+MyMo Account,2026-09-05,Choose account,965,630
+MyMo Account,2026-09-05,Eligibility check,630,610
+MyMo Account,2026-09-05,Personal details,610,439
+MyMo Account,2026-09-05,ID capture (SA ID),439,397
+MyMo Account,2026-09-05,Identity verification,397,308
+MyMo Account,2026-09-05,Confirm address,308,289
+MyMo Account,2026-09-05,Terms and e-sign,289,273
+MyMo Account,2026-09-05,Account opened → first transaction,273,138
+MyMo Account,2026-09-06,Choose account,671,437
+MyMo Account,2026-09-06,Eligibility check,437,421
+MyMo Account,2026-09-06,Personal details,421,282
+MyMo Account,2026-09-06,ID capture (SA ID),282,257
+MyMo Account,2026-09-06,Identity verification,257,187
+MyMo Account,2026-09-06,Confirm address,187,161
+MyMo Account,2026-09-06,Terms and e-sign,161,148
+MyMo Account,2026-09-06,Account opened → first transaction,148,76
+MyMo Account,2026-09-07,Choose account,1132,748
+MyMo Account,2026-09-07,Eligibility check,748,732
+MyMo Account,2026-09-07,Personal details,732,526
+MyMo Account,2026-09-07,ID capture (SA ID),526,466
+MyMo Account,2026-09-07,Identity verification,466,353
+MyMo Account,2026-09-07,Confirm address,353,309
+MyMo Account,2026-09-07,Terms and e-sign,309,282
+MyMo Account,2026-09-07,Account opened → first transaction,282,147
+MyMo Account,2026-09-08,Choose account,1315,865
+MyMo Account,2026-09-08,Eligibility check,865,841
+MyMo Account,2026-09-08,Personal details,841,551
+MyMo Account,2026-09-08,ID capture (SA ID),551,489
+MyMo Account,2026-09-08,Identity verification,489,360
+MyMo Account,2026-09-08,Confirm address,360,324
+MyMo Account,2026-09-08,Terms and e-sign,324,299
+MyMo Account,2026-09-08,Account opened → first transaction,299,132
+MyMo Account,2026-09-09,Choose account,1233,869
+MyMo Account,2026-09-09,Eligibility check,869,852
+MyMo Account,2026-09-09,Personal details,852,589
+MyMo Account,2026-09-09,ID capture (SA ID),589,522
+MyMo Account,2026-09-09,Identity verification,522,405
+MyMo Account,2026-09-09,Confirm address,405,372
+MyMo Account,2026-09-09,Terms and e-sign,372,355
+MyMo Account,2026-09-09,Account opened → first transaction,355,192
+MyMo Account,2026-09-10,Choose account,1176,717
+MyMo Account,2026-09-10,Eligibility check,717,699
+MyMo Account,2026-09-10,Personal details,699,492
+MyMo Account,2026-09-10,ID capture (SA ID),1392,435
+MyMo Account,2026-09-10,Identity verification,435,336
+MyMo Account,2026-09-10,Confirm address,336,299
+MyMo Account,2026-09-10,Terms and e-sign,299,284
+MyMo Account,2026-09-10,Account opened → first transaction,284,143
+MyMo Account,2026-09-11,Choose account,1234,813
+MyMo Account,2026-09-11,Eligibility check,813,787
+MyMo Account,2026-09-11,Personal details,787,603
+MyMo Account,2026-09-11,ID capture (SA ID),603,539
+MyMo Account,2026-09-11,Identity verification,539,396
+MyMo Account,2026-09-11,Confirm address,396,351
+MyMo Account,2026-09-11,Terms and e-sign,351,329
+MyMo Account,2026-09-11,Account opened → first transaction,329,171
+MyMo Account,2026-09-12,Choose account,904,558
+MyMo Account,2026-09-12,Eligibility check,558,542
+MyMo Account,2026-09-12,Personal details,542,380
+MyMo Account,2026-09-12,ID capture (SA ID),380,339
+MyMo Account,2026-09-12,Identity verification,339,259
+MyMo Account,2026-09-12,Confirm address,259,232
+MyMo Account,2026-09-12,Terms and e-sign,232,218
+MyMo Account,2026-09-12,Account opened → first transaction,218,115
+MyMo Account,2026-09-13,Choose account,761,511
+MyMo Account,2026-09-13,Eligibility check,511,502
+MyMo Account,2026-09-13,Personal details,502,356
+MyMo Account,2026-09-13,ID capture (SA ID),356,316
+MyMo Account,2026-09-13,Identity verification,316,240
+MyMo Account,2026-09-13,Confirm address,240,221
+MyMo Account,2026-09-13,Terms and e-sign,221,207
+MyMo Account,2026-09-13,Account opened → first transaction,207,93
+MyMo Account,2026-09-14,Choose account,1332,881
+MyMo Account,2026-09-14,Eligibility check,881,858
+MyMo Account,2026-09-14,Personal details,858,621
+MyMo Account,2026-09-14,ID capture (SA ID),621,545
+MyMo Account,2026-09-14,Identity verification,545,393
+MyMo Account,2026-09-14,Confirm address,393,358
+MyMo Account,2026-09-14,Terms and e-sign,358,338
+MyMo Account,2026-09-14,Account opened → first transaction,338,201
+MyMo Account,2026-09-15,Choose account,1293,857
+MyMo Account,2026-09-15,Eligibility check,857,824
+MyMo Account,2026-09-15,Personal details,824,606
+MyMo Account,2026-09-15,ID capture (SA ID),606,551
+MyMo Account,2026-09-15,Identity verification,551,400
+MyMo Account,2026-09-15,Confirm address,400,363
+MyMo Account,2026-09-15,Terms and e-sign,363,344
+MyMo Account,2026-09-15,Account opened → first transaction,344,161
+MyMo Account,2026-09-16,Choose account,1157,747
+MyMo Account,2026-09-16,Eligibility check,747,726
+MyMo Account,2026-09-16,Personal details,726,527
+MyMo Account,2026-09-16,ID capture (SA ID),527,467
+MyMo Account,2026-09-16,Identity verification,467,343
+MyMo Account,2026-09-16,Confirm address,343,303
+MyMo Account,2026-09-16,Terms and e-sign,303,283
+MyMo Account,2026-09-16,Account opened → first transaction,283,139
+MyMo Account,2026-09-17,Choose account,1278,812
+MyMo Account,2026-09-17,Eligibility check,812,785
+MyMo Account,2026-09-17,Personal details,785,567
+MyMo Account,2026-09-17,ID capture (SA ID),567,502
+MyMo Account,2026-09-17,Identity verification,502,364
+MyMo Account,2026-09-17,Confirm address,364,326
+MyMo Account,2026-09-17,Terms and e-sign,326,307
+MyMo Account,2026-09-17,Account opened → first transaction,307,158
+MyMo Account,2026-09-18,Choose account,1089,709
+MyMo Account,2026-09-18,Eligibility check,709,687
+MyMo Account,2026-09-18,Personal details,687,501
+MyMo Account,2026-09-18,ID capture (SA ID),501,452
+MyMo Account,2026-09-18,Identity verification,452,330
+MyMo Account,2026-09-18,Confirm address,330,297
+MyMo Account,2026-09-18,Terms and e-sign,297,274
+MyMo Account,2026-09-18,Account opened → first transaction,274,136
+MyMo Account,2026-09-19,Choose account,919,587
+MyMo Account,2026-09-19,Eligibility check,587,577
+MyMo Account,2026-09-19,Personal details,577,411
+MyMo Account,2026-09-19,ID capture (SA ID),411,363
+MyMo Account,2026-09-19,Identity verification,363,280
+MyMo Account,2026-09-19,Confirm address,280,249
+MyMo Account,2026-09-19,Terms and e-sign,249,242
+MyMo Account,2026-09-19,Account opened → first transaction,242,112
+MyMo Account,2026-09-20,Choose account,779,496
+MyMo Account,2026-09-20,Eligibility check,496,483
+MyMo Account,2026-09-20,Personal details,483,360
+MyMo Account,2026-09-20,ID capture (SA ID),360,333
+MyMo Account,2026-09-20,Identity verification,333,239
+MyMo Account,2026-09-20,Confirm address,239,209
+MyMo Account,2026-09-20,Terms and e-sign,209,197
+MyMo Account,2026-09-20,Account opened → first transaction,197,89
+MyMo Account,2026-09-21,Choose account,1302,822
+MyMo Account,2026-09-21,Eligibility check,822,795
+MyMo Account,2026-09-21,Personal details,795,575
+MyMo Account,2026-09-21,ID capture (SA ID),575,513
+MyMo Account,2026-09-21,Identity verification,513,393
+MyMo Account,2026-09-21,Confirm address,393,353
+MyMo Account,2026-09-21,Terms and e-sign,353,319
+MyMo Account,2026-09-21,Account opened → first transaction,319,156
+MyMo Account,2026-09-22,Choose account,1167,768
+MyMo Account,2026-09-22,Eligibility check,768,751
+MyMo Account,2026-09-22,Personal details,751,548
+MyMo Account,2026-09-22,ID capture (SA ID),548,493
+MyMo Account,2026-09-22,Identity verification,493,378
+MyMo Account,2026-09-22,Confirm address,378,337
+MyMo Account,2026-09-22,Terms and e-sign,337,316
+MyMo Account,2026-09-22,Account opened → first transaction,316,154
+MyMo Account,2026-09-23,Choose account,1285,886
+MyMo Account,2026-09-23,Eligibility check,886,860
+MyMo Account,2026-09-23,Personal details,860,615
+MyMo Account,2026-09-23,ID capture (SA ID),615,559
+MyMo Account,2026-09-23,Identity verification,559,423
+MyMo Account,2026-09-23,Confirm address,423,379
+MyMo Account,2026-09-23,Terms and e-sign,379,358
+MyMo Account,2026-09-23,Account opened → first transaction,358,178
+MyMo Account,2026-09-24,Choose account,1302,839
+MyMo Account,2026-09-24,Eligibility check,839,809
+MyMo Account,2026-09-24,Personal details,809,587
+MyMo Account,2026-09-24,ID capture (SA ID),587,523
+MyMo Account,2026-09-24,Identity verification,523,390
+MyMo Account,2026-09-24,Confirm address,390,347
+MyMo Account,2026-09-24,Terms and e-sign,347,317
+MyMo Account,2026-09-24,Account opened → first transaction,317,160
+MyMo Account,2026-09-25,Choose account,1341,875
+MyMo Account,2026-09-25,Eligibility check,875,847
+MyMo Account,2026-09-25,Personal details,847,609
+MyMo Account,2026-09-25,ID capture (SA ID),609,557
+MyMo Account,2026-09-25,Identity verification,557,419
+MyMo Account,2026-09-25,Confirm address,419,385
+MyMo Account,2026-09-25,Terms and e-sign,385,372
+MyMo Account,2026-09-25,Account opened → first transaction,372,181
+MyMo Account,2026-09-26,Choose account,948,630
+MyMo Account,2026-09-26,Eligibility check,630,607
+MyMo Account,2026-09-26,Personal details,607,409
+MyMo Account,2026-09-26,ID capture (SA ID),409,380
+MyMo Account,2026-09-26,Identity verification,380,281
+MyMo Account,2026-09-26,Confirm address,281,254
+MyMo Account,2026-09-26,Terms and e-sign,254,237
+MyMo Account,2026-09-26,Account opened → first transaction,237,119
+MyMo Account,2026-09-27,Choose account,918,620
+MyMo Account,2026-09-27,Eligibility check,620,603
+MyMo Account,2026-09-27,Personal details,603,431
+MyMo Account,2026-09-27,ID capture (SA ID),431,383
+MyMo Account,2026-09-27,Identity verification,383,298
+MyMo Account,2026-09-27,Confirm address,298,269
+MyMo Account,2026-09-27,Terms and e-sign,269,258
+MyMo Account,2026-09-27,Account opened → first transaction,258,120
+MyMo Account,2026-09-28,Choose account,1575,1041
+MyMo Account,2026-09-28,Eligibility check,1041,1005
+MyMo Account,2026-09-28,Personal details,1005,724
+MyMo Account,2026-09-28,ID capture (SA ID),724,645
+MyMo Account,2026-09-28,Identity verification,645,474
+MyMo Account,2026-09-28,Confirm address,474,429
+MyMo Account,2026-09-28,Terms and e-sign,429,401
+MyMo Account,2026-09-28,Account opened → first transaction,401,199
+MyMo Account,2026-09-29,Choose account,1538,1047
+MyMo Account,2026-09-29,Eligibility check,1047,1022
+MyMo Account,2026-09-29,Personal details,1022,730
+MyMo Account,2026-09-29,ID capture (SA ID),730,640
+MyMo Account,2026-09-29,Identity verification,640,510
+MyMo Account,2026-09-29,Confirm address,510,459
+MyMo Account,2026-09-29,Terms and e-sign,459,424
+MyMo Account,2026-09-29,Account opened → first transaction,424,196
+MyMo Account,2026-09-30,Choose account,1355,871
+MyMo Account,2026-09-30,Eligibility check,871,834
+MyMo Account,2026-09-30,Personal details,834,599
+MyMo Account,2026-09-30,ID capture (SA ID),599,541
+MyMo Account,2026-09-30,Identity verification,541,406
+MyMo Account,2026-09-30,Confirm address,406,370
+MyMo Account,2026-09-30,Terms and e-sign,370,336
+MyMo Account,2026-09-30,Account opened → first transaction,336,179
+MyMo Account,2026-10-01,Choose account,1417,875
+MyMo Account,2026-10-01,Eligibility check,875,846
+MyMo Account,2026-10-01,Personal details,846,572
+MyMo Account,2026-10-01,ID capture (SA ID),572,527
+MyMo Account,2026-10-01,Identity verification,527,378
+MyMo Account,2026-10-01,Confirm address,378,343
+MyMo Account,2026-10-01,Terms and e-sign,343,320
+MyMo Account,2026-10-01,Account opened → first transaction,320,172
+MyMo Account,2026-10-02,Choose account,1367,797
+MyMo Account,2026-10-02,Eligibility check,797,780
+MyMo Account,2026-10-02,Personal details,780,573
+MyMo Account,2026-10-02,ID capture (SA ID),573,507
+MyMo Account,2026-10-02,Identity verification,507,398
+MyMo Account,2026-10-02,Confirm address,398,362
+MyMo Account,2026-10-02,Terms and e-sign,362,337
+MyMo Account,2026-10-02,Account opened → first transaction,337,167
+MyMo Account,2026-10-03,Choose account,884,557
+MyMo Account,2026-10-03,Eligibility check,557,539
+MyMo Account,2026-10-03,Personal details,539,365
+MyMo Account,2026-10-03,ID capture (SA ID),365,329
+MyMo Account,2026-10-03,Identity verification,329,239
+MyMo Account,2026-10-03,Confirm address,239,215
+MyMo Account,2026-10-03,Terms and e-sign,215,202
+MyMo Account,2026-10-03,Account opened → first transaction,202,99
+MyMo Account,2026-10-04,Choose account,787,535
+MyMo Account,2026-10-04,Eligibility check,535,517
+MyMo Account,2026-10-04,Personal details,517,394
+MyMo Account,2026-10-04,ID capture (SA ID),394,349
+MyMo Account,2026-10-04,Identity verification,349,267
+MyMo Account,2026-10-04,Confirm address,267,243
+MyMo Account,2026-10-04,Terms and e-sign,243,222
+MyMo Account,2026-10-04,Account opened → first transaction,222,118
+MyMo Account,2026-10-05,Choose account,7278,748
+MyMo Account,2026-10-05,Eligibility check,748,728
+MyMo Account,2026-10-05,Personal details,728,511
+MyMo Account,2026-10-05,ID capture (SA ID),511,454
+MyMo Account,2026-10-05,Identity verification,454,325
+MyMo Account,2026-10-05,Confirm address,325,279
+MyMo Account,2026-10-05,Terms and e-sign,279,264
+MyMo Account,2026-10-05,Account opened → first transaction,264,124
+MyMo Account,2026-10-06,Choose account,1238,818
+MyMo Account,2026-10-06,Eligibility check,818,784
+MyMo Account,2026-10-06,Personal details,784,561
+MyMo Account,2026-10-06,ID capture (SA ID),561,511
+MyMo Account,2026-10-06,Identity verification,511,377
+MyMo Account,2026-10-06,Confirm address,377,331
+MyMo Account,2026-10-06,Terms and e-sign,331,316
+MyMo Account,2026-10-06,Account opened → first transaction,316,147
+MyMo Account,2026-10-07,Choose account,1126,705
+MyMo Account,2026-10-07,Eligibility check,705,685
+MyMo Account,2026-10-07,Personal details,685,514
+MyMo Account,2026-10-07,ID capture (SA ID),514,455
+MyMo Account,2026-10-07,Identity verification,455,331
+MyMo Account,2026-10-07,Confirm address,331,303
+MyMo Account,2026-10-07,Terms and e-sign,303,288
+MyMo Account,2026-10-07,Account opened → first transaction,288,133
+MyMo Account,2026-10-08,Choose account,1111,682
+MyMo Account,2026-10-08,Eligibility check,682,664
+MyMo Account,2026-10-08,Personal details,664,462
+MyMo Account,2026-10-08,ID capture (SA ID),462,416
+MyMo Account,2026-10-08,Identity verification,416,321
+MyMo Account,2026-10-08,Confirm address,321,299
+MyMo Account,2026-10-08,Terms and e-sign,299,289
+MyMo Account,2026-10-08,Account opened → first transaction,289,158
+MyMo Account,2026-10-09,Choose account,1274,786
+MyMo Account,2026-10-09,Eligibility check,786,760
+MyMo Account,2026-10-09,Personal details,760,534
+MyMo Account,2026-10-09,ID capture (SA ID),534,473
+MyMo Account,2026-10-09,Identity verification,473,358
+MyMo Account,2026-10-09,Confirm address,358,332
+MyMo Account,2026-10-09,Terms and e-sign,332,318
+MyMo Account,2026-10-09,Account opened → first transaction,318,171
+MyMo Account,2026-10-10,Choose account,856,547
+MyMo Account,2026-10-10,Eligibility check,547,534
+MyMo Account,2026-10-10,Personal details,534,404
+MyMo Account,2026-10-10,ID capture (SA ID),404,354
+MyMo Account,2026-10-10,Identity verification,354,273
+MyMo Account,2026-10-10,Confirm address,273,248
+MyMo Account,2026-10-10,Terms and e-sign,248,230
+MyMo Account,2026-10-10,Account opened → first transaction,230,120
+MyMo Account,2026-10-11,Choose account,862,564
+MyMo Account,2026-10-11,Eligibility check,564,554
+MyMo Account,2026-10-11,Personal details,554,423
+MyMo Account,2026-10-11,ID capture (SA ID),423,367
+MyMo Account,2026-10-11,Identity verification,367,270
+MyMo Account,2026-10-11,Confirm address,270,247
+MyMo Account,2026-10-11,Terms and e-sign,247,226
+MyMo Account,2026-10-11,Account opened → first transaction,226,118
+MyMo Account,2026-10-12,Choose account,1218,789
+MyMo Account,2026-10-12,Eligibility check,789,772
+MyMo Account,2026-10-12,Personal details,772,559
+MyMo Account,2026-10-12,ID capture (SA ID),559,499
+MyMo Account,2026-10-12,Identity verification,499,355
+MyMo Account,2026-10-12,Confirm address,355,323
+MyMo Account,2026-10-12,Terms and e-sign,323,-5
+MyMo Account,2026-10-12,Account opened → first transaction,309,165
+MyMo Account,2026-10-13,Choose account,1206,785
+MyMo Account,2026-10-13,Eligibility check,785,761
+MyMo Account,2026-10-13,Personal details,761,540
+MyMo Account,2026-10-13,ID capture (SA ID),540,477
+MyMo Account,2026-10-13,Identity verification,477,369
+MyMo Account,2026-10-13,Confirm address,369,331
+MyMo Account,2026-10-13,Terms and e-sign,331,315
+MyMo Account,2026-10-13,Account opened → first transaction,315,160
+MyMo Account,2026-10-14,Choose account,1211,755
+MyMo Account,2026-10-14,Eligibility check,755,729
+MyMo Account,2026-10-14,Personal details,729,508
+MyMo Account,2026-10-14,ID capture (SA ID),508,459
+MyMo Account,2026-10-14,Identity verification,459,337
+MyMo Account,2026-10-14,Confirm address,337,315
+MyMo Account,2026-10-14,Terms and e-sign,315,290
+MyMo Account,2026-10-14,Account opened → first transaction,290,167
+MyMo Account,2026-10-15,Choose account,1147,795
+MyMo Account,2026-10-15,Eligibility check,795,769
+MyMo Account,2026-10-15,Personal details,769,595
+MyMo Account,2026-10-15,ID capture (SA ID),595,537
+MyMo Account,2026-10-15,Identity verification,537,397
+MyMo Account,2026-10-15,Confirm address,397,358
+MyMo Account,2026-10-15,Terms and e-sign,358,330
+MyMo Account,2026-10-15,Account opened → first transaction,330,175
+MyMo Account,2026-10-16,Choose account,1127,673
+MyMo Account,2026-10-16,Eligibility check,673,653
+MyMo Account,2026-10-16,Personal details,653,453
+MyMo Account,2026-10-16,ID capture (SA ID),453,397
+MyMo Account,2026-10-16,Identity verification,397,308
+MyMo Account,2026-10-16,Confirm address,308,272
+MyMo Account,2026-10-16,Terms and e-sign,272,256
+MyMo Account,2026-10-16,Account opened → first transaction,256,121
+MyMo Account,2026-10-17,Choose account,874,556
+MyMo Account,2026-10-17,Eligibility check,556,538
+MyMo Account,2026-10-17,Personal details,538,386
+MyMo Account,2026-10-17,ID capture (SA ID),386,336
+MyMo Account,2026-10-17,Identity verification,336,241
+MyMo Account,2026-10-17,Confirm address,241,213
+MyMo Account,2026-10-17,Terms and e-sign,213,191
+MyMo Account,2026-10-17,Account opened → first transaction,191,93
+MyMo Account,2026-10-18,Choose account,751,475
+MyMo Account,2026-10-18,Eligibility check,475,455
+MyMo Account,2026-10-18,Personal details,455,339
+MyMo Account,2026-10-18,ID capture (SA ID),339,294
+MyMo Account,2026-10-18,Identity verification,294,222
+MyMo Account,2026-10-18,Confirm address,222,195
+MyMo Account,2026-10-18,Terms and e-sign,195,181
+MyMo Account,2026-10-18,Account opened → first transaction,181,99
+MyMo Account,2026-10-19,Choose account,1275,854
+MyMo Account,2026-10-19,Eligibility check,854,825
+MyMo Account,2026-10-19,Personal details,825,599
+MyMo Account,2026-10-19,ID capture (SA ID),599,537
+MyMo Account,2026-10-19,Identity verification,537,398
+MyMo Account,2026-10-19,Confirm address,398,360
+MyMo Account,2026-10-19,Terms and e-sign,360,332
+MyMo Account,2026-10-19,Account opened → first transaction,332,157
+MyMo Account,2026-10-20,Choose account,1151,736
+MyMo Account,2026-10-20,Eligibility check,736,717
+MyMo Account,2026-10-20,Personal details,717,506
+MyMo Account,2026-10-20,ID capture (SA ID),506,451
+MyMo Account,2026-10-20,Identity verification,451,333
+MyMo Account,2026-10-20,Confirm address,333,307
+MyMo Account,2026-10-20,Terms and e-sign,307,282
+MyMo Account,2026-10-20,Account opened → first transaction,282,131
+MyMo Account,2026-10-21,Choose account,1206,796
+MyMo Account,2026-10-21,Eligibility check,796,773
+MyMo Account,2026-10-21,Personal details,773,573
+MyMo Account,2026-10-21,ID capture (SA ID),573,510
+MyMo Account,2026-10-21,Identity verification,510,385
+MyMo Account,2026-10-21,Confirm address,385,341
+MyMo Account,2026-10-21,Terms and e-sign,341,306
+MyMo Account,2026-10-21,Account opened → first transaction,306,162
+MyMo Account,2026-10-22,Choose account,1218,754
+MyMo Account,2026-10-22,Eligibility check,754,736
+MyMo Account,2026-10-22,Personal details,736,517
+MyMo Account,2026-10-22,ID capture (SA ID),517,459
+MyMo Account,2026-10-22,Identity verification,459,358
+MyMo Account,2026-10-22,Confirm address,358,323
+MyMo Account,2026-10-22,Terms and e-sign,323,307
+MyMo Account,2026-10-22,Account opened → first transaction,307,173
+MyMo Account,2026-10-23,Choose account,1131,712
+MyMo Account,2026-10-23,Eligibility check,712,695
+MyMo Account,2026-10-23,Personal details,695,511
+MyMo Account,2026-10-23,ID capture (SA ID),511,447
+MyMo Account,2026-10-23,Identity verification,447,332
+MyMo Account,2026-10-23,Confirm address,332,290
+MyMo Account,2026-10-23,Terms and e-sign,290,267
+MyMo Account,2026-10-23,Account opened → first transaction,267,146
+MyMo Account,2026-10-24,Choose account,950,592
+MyMo Account,2026-10-24,Eligibility check,592,574
+MyMo Account,2026-10-24,Personal details,574,404
+MyMo Account,2026-10-24,ID capture (SA ID),404,348
+MyMo Account,2026-10-24,Identity verification,348,267
+MyMo Account,2026-10-24,Confirm address,267,248
+MyMo Account,2026-10-24,Terms and e-sign,248,233
+MyMo Account,2026-10-24,Account opened → first transaction,233,109
+MyMo Account,2026-10-25,Choose account,971,653
+MyMo Account,2026-10-25,Eligibility check,653,632
+MyMo Account,2026-10-25,Personal details,632,474
+MyMo Account,2026-10-25,ID capture (SA ID),474,427
+MyMo Account,2026-10-25,Identity verification,427,326
+MyMo Account,2026-10-25,Confirm address,326,290
+MyMo Account,2026-10-25,Terms and e-sign,290,271
+MyMo Account,2026-10-25,Account opened → first transaction,271,135
+MyMo Account,2026-10-26,Choose account,1456,935
+MyMo Account,2026-10-26,Eligibility check,935,904
+MyMo Account,2026-10-26,Personal details,904,669
+MyMo Account,2026-10-26,ID capture (SA ID),669,618
+MyMo Account,2026-10-26,Identity verification,618,454
+MyMo Account,2026-10-26,Confirm address,454,413
+MyMo Account,2026-10-26,Terms and e-sign,413,380
+MyMo Account,2026-10-26,Account opened → first transaction,380,201
+MyMo Account,2026-10-27,Choose account,1508,992
+MyMo Account,2026-10-27,Eligibility check,992,962
+MyMo Account,2026-10-27,Personal details,962,658
+MyMo Account,2026-10-27,ID capture (SA ID),658,576
+MyMo Account,2026-10-27,Identity verification,576,438
+MyMo Account,2026-10-27,Confirm address,438,384
+MyMo Account,2026-10-27,Terms and e-sign,384,362
+MyMo Account,2026-10-27,Account opened → first transaction,362,163
+MyMo Account,2026-10-28,Choose account,1527,986
+MyMo Account,2026-10-28,Eligibility check,986,967
+MyMo Account,2026-10-28,Personal details,967,703
+MyMo Account,2026-10-28,ID capture (SA ID),703,620
+MyMo Account,2026-10-28,Identity verification,620,467
+MyMo Account,2026-10-28,Confirm address,467,426
+MyMo Account,2026-10-28,Terms and e-sign,426,409
+MyMo Account,2026-10-28,Account opened → first transaction,409,196
+MyMo Account,2026-10-29,Choose account,1583,1011
+MyMo Account,2026-10-29,Eligibility check,1011,989
+MyMo Account,2026-10-29,Personal details,989,695
+MyMo Account,2026-10-29,ID capture (SA ID),695,618
+MyMo Account,2026-10-29,Identity verification,618,462
+MyMo Account,2026-10-29,Confirm address,462,407
+MyMo Account,2026-10-29,Terms and e-sign,407,387
+MyMo Account,2026-10-29,Account opened → first transaction,387,210
+MyMo Account,2026-10-30,Choose account,1397,856
+MyMo Account,2026-10-30,Eligibility check,856,827
+MyMo Account,2026-10-30,Personal details,827,592
+MyMo Account,2026-10-30,ID capture (SA ID),592,513
+MyMo Account,2026-10-30,Identity verification,513,384
+MyMo Account,2026-10-30,Confirm address,384,353
+MyMo Account,2026-10-30,Terms and e-sign,353,324
+MyMo Account,2026-10-30,Account opened → first transaction,324,154
+MyMo Account,2026-10-31,Choose account,1241,829
+MyMo Account,2026-10-31,Eligibility check,829,801
+MyMo Account,2026-10-31,Personal details,801,586
+MyMo Account,2026-10-31,ID capture (SA ID),586,521
+MyMo Account,2026-10-31,Identity verification,521,395
+MyMo Account,2026-10-31,Confirm address,395,342
+MyMo Account,2026-10-31,Terms and e-sign,342,318
+MyMo Account,2026-10-31,Account opened → first transaction,318,163

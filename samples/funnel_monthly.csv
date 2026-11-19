@@ -1,0 +1,841 @@
+product,month,step,entered,completed
+Achieva Account,2024-11,Choose account,17672,10398
+Achieva Account,2024-11,Eligibility check,10398,9953
+Achieva Account,2024-11,Personal details,9953,6952
+Achieva Account,2024-11,ID capture,6952,6035
+Achieva Account,2024-11,Identity verification,6035,4807
+Achieva Account,2024-11,Proof of address or income,4807,3492
+Achieva Account,2024-11,Affordability and risk decision,3492,2924
+Achieva Account,2024-11,Terms and e-sign,2924,2705
+Achieva Account,2024-11,Account opened → first transaction,2705,1365
+Achieva Account,2024-12,Choose account,15884,9038
+Achieva Account,2024-12,Eligibility check,9038,8707
+Achieva Account,2024-12,Personal details,8707,5957
+Achieva Account,2024-12,ID capture,5957,5140
+Achieva Account,2024-12,Identity verification,5140,3894
+Achieva Account,2024-12,Proof of address or income,3894,2804
+Achieva Account,2024-12,Affordability and risk decision,2804,2335
+Achieva Account,2024-12,Terms and e-sign,2335,2168
+Achieva Account,2024-12,Account opened → first transaction,2168,1150
+Achieva Account,2025-01,Choose account,21702,12157
+Achieva Account,2025-01,Eligibility check,12157,11685
+Achieva Account,2025-01,Personal details,11685,8071
+Achieva Account,2025-01,ID capture,8071,6995
+Achieva Account,2025-01,Identity verification,6995,5465
+Achieva Account,2025-01,Proof of address or income,5465,3899
+Achieva Account,2025-01,Affordability and risk decision,3899,3260
+Achieva Account,2025-01,Terms and e-sign,3260,3034
+Achieva Account,2025-01,Account opened → first transaction,3034,1577
+Achieva Account,2025-02,Choose account,17069,9655
+Achieva Account,2025-02,Eligibility check,9655,9292
+Achieva Account,2025-02,Personal details,9292,6423
+Achieva Account,2025-02,ID capture,6423,5555
+Achieva Account,2025-02,Identity verification,5555,4370
+Achieva Account,2025-02,Proof of address or income,4370,3167
+Achieva Account,2025-02,Affordability and risk decision,3167,2644
+Achieva Account,2025-02,Terms and e-sign,2644,2427
+Achieva Account,2025-02,Account opened → first transaction,2427,1307
+Achieva Account,2025-03,Choose account,18839,10618
+Achieva Account,2025-03,Eligibility check,10618,10204
+Achieva Account,2025-03,Personal details,10204,7060
+Achieva Account,2025-03,ID capture,7060,6025
+Achieva Account,2025-03,Identity verification,6025,4725
+Achieva Account,2025-03,Proof of address or income,4725,3453
+Achieva Account,2025-03,Affordability and risk decision,3453,2877
+Achieva Account,2025-03,Terms and e-sign,2877,2668
+Achieva Account,2025-03,Account opened → first transaction,2668,1488
+Achieva Account,2025-04,Choose account,17598,9843
+Achieva Account,2025-04,Eligibility check,9843,9445
+Achieva Account,2025-04,Personal details,9445,6605
+Achieva Account,2025-04,ID capture,6605,5725
+Achieva Account,2025-04,Identity verification,5725,4521
+Achieva Account,2025-04,Proof of address or income,4521,3246
+Achieva Account,2025-04,Affordability and risk decision,3246,2720
+Achieva Account,2025-04,Terms and e-sign,2720,2510
+Achieva Account,2025-04,Account opened → first transaction,2510,1312
+Achieva Account,2025-05,Choose account,18652,10438
+Achieva Account,2025-05,Eligibility check,10438,10002
+Achieva Account,2025-05,Personal details,10002,6903
+Achieva Account,2025-05,ID capture,6903,5938
+Achieva Account,2025-05,Identity verification,5938,4652
+Achieva Account,2025-05,Proof of address or income,4652,3280
+Achieva Account,2025-05,Affordability and risk decision,3280,2771
+Achieva Account,2025-05,Terms and e-sign,2771,2545
+Achieva Account,2025-05,Account opened → first transaction,2545,1393
+Achieva Account,2025-06,Choose account,17224,9705
+Achieva Account,2025-06,Eligibility check,9705,9313
+Achieva Account,2025-06,Personal details,9313,6469
+Achieva Account,2025-06,ID capture,6469,5548
+Achieva Account,2025-06,Identity verification,5548,4389
+Achieva Account,2025-06,Proof of address or income,4389,3102
+Achieva Account,2025-06,Affordability and risk decision,3102,2663
+Achieva Account,2025-06,Terms and e-sign,2663,2475
+Achieva Account,2025-06,Account opened → first transaction,2475,1403
+Achieva Account,2025-07,Choose account,19354,11020
+Achieva Account,2025-07,Eligibility check,11020,10570
+Achieva Account,2025-07,Personal details,10570,7504
+Achieva Account,2025-07,ID capture,7504,6456
+Achieva Account,2025-07,Identity verification,6456,5002
+Achieva Account,2025-07,Proof of address or income,5002,3460
+Achieva Account,2025-07,Affordability and risk decision,3460,2911
+Achieva Account,2025-07,Terms and e-sign,2911,2671
+Achieva Account,2025-07,Account opened → first transaction,2671,1511
+Achieva Account,2025-08,Choose account,18251,10323
+Achieva Account,2025-08,Eligibility check,10323,9921
+Achieva Account,2025-08,Personal details,9921,7022
+Achieva Account,2025-08,ID capture,7022,6036
+Achieva Account,2025-08,Identity verification,6036,4723
+Achieva Account,2025-08,Proof of address or income,4723,3303
+Achieva Account,2025-08,Affordability and risk decision,3303,2777
+Achieva Account,2025-08,Terms and e-sign,2777,2532
+Achieva Account,2025-08,Account opened → first transaction,2532,1408
+Achieva Account,2025-09,Choose account,17559,10126
+Achieva Account,2025-09,Eligibility check,10126,9690
+Achieva Account,2025-09,Personal details,9690,6933
+Achieva Account,2025-09,ID capture,6933,5907
+Achieva Account,2025-09,Identity verification,5907,4619
+Achieva Account,2025-09,Proof of address or income,4619,3230
+Achieva Account,2025-09,Affordability and risk decision,3230,2737
+Achieva Account,2025-09,Terms and e-sign,2737,2508
+Achieva Account,2025-09,Account opened → first transaction,2508,1365
+Achieva Account,2025-10,Choose account,19091,11159
+Achieva Account,2025-10,Eligibility check,11159,10707
+Achieva Account,2025-10,Personal details,10707,7635
+Achieva Account,2025-10,ID capture,7635,6546
+Achieva Account,2025-10,Identity verification,6546,5105
+Achieva Account,2025-10,Proof of address or income,5105,3637
+Achieva Account,2025-10,Affordability and risk decision,3637,3090
+Achieva Account,2025-10,Terms and e-sign,3090,2850
+Achieva Account,2025-10,Account opened → first transaction,2850,1574
+Achieva Account,2025-11,Choose account,16738,9825
+Achieva Account,2025-11,Eligibility check,9825,9431
+Achieva Account,2025-11,Personal details,9431,6787
+Achieva Account,2025-11,ID capture,6787,5806
+Achieva Account,2025-11,Identity verification,5806,4596
+Achieva Account,2025-11,Proof of address or income,4596,3226
+Achieva Account,2025-11,Affordability and risk decision,3226,2722
+Achieva Account,2025-11,Terms and e-sign,2722,2482
+Achieva Account,2025-11,Account opened → first transaction,2482,1344
+Achieva Account,2025-12,Choose account,15270,8966
+Achieva Account,2025-12,Eligibility check,8966,8622
+Achieva Account,2025-12,Personal details,8622,6087
+Achieva Account,2025-12,ID capture,6087,5197
+Achieva Account,2025-12,Identity verification,5197,4036
+Achieva Account,2025-12,Proof of address or income,4036,2834
+Achieva Account,2025-12,Affordability and risk decision,2834,2390
+Achieva Account,2025-12,Terms and e-sign,2390,2179
+Achieva Account,2025-12,Account opened → first transaction,2179,1182
+Achieva Account,2026-01,Choose account,21673,12864
+Achieva Account,2026-01,Eligibility check,12864,12317
+Achieva Account,2026-01,Personal details,12317,8617
+Achieva Account,2026-01,ID capture,8617,7405
+Achieva Account,2026-01,Identity verification,7405,5900
+Achieva Account,2026-01,Proof of address or income,5900,4184
+Achieva Account,2026-01,Affordability and risk decision,4184,3481
+Achieva Account,2026-01,Terms and e-sign,3481,3205
+Achieva Account,2026-01,Account opened → first transaction,3205,1709
+Achieva Account,2026-02,Choose account,17409,10436
+Achieva Account,2026-02,Eligibility check,10436,10010
+Achieva Account,2026-02,Personal details,10010,7068
+Achieva Account,2026-02,ID capture,7068,6090
+Achieva Account,2026-02,Identity verification,6090,4918
+Achieva Account,2026-02,Proof of address or income,4918,3476
+Achieva Account,2026-02,Affordability and risk decision,3476,2871
+Achieva Account,2026-02,Terms and e-sign,2871,2632
+Achieva Account,2026-02,Account opened → first transaction,2632,1397
+Achieva Account,2026-03,Choose account,18576,10825
+Achieva Account,2026-03,Eligibility check,10825,10399
+Achieva Account,2026-03,Personal details,10399,7322
+Achieva Account,2026-03,ID capture,7322,6368
+Achieva Account,2026-03,Identity verification,6368,5036
+Achieva Account,2026-03,Proof of address or income,5036,3605
+Achieva Account,2026-03,Affordability and risk decision,3605,2990
+Achieva Account,2026-03,Terms and e-sign,2990,2727
+Achieva Account,2026-03,Account opened → first transaction,2727,1408
+Achieva Account,2026-04,Choose account,16990,10016
+Achieva Account,2026-04,Eligibility check,10016,9634
+Achieva Account,2026-04,Personal details,9634,6664
+Achieva Account,2026-04,ID capture,6664,5766
+Achieva Account,2026-04,Identity verification,5766,4544
+Achieva Account,2026-04,Proof of address or income,4544,3263
+Achieva Account,2026-04,Affordability and risk decision,3263,2768
+Achieva Account,2026-04,Terms and e-sign,2768,2541
+Achieva Account,2026-04,Account opened → first transaction,2541,1364
+Achieva Account,2026-05,Choose account,17780,10480
+Achieva Account,2026-05,Eligibility check,10480,10086
+Achieva Account,2026-05,Personal details,10086,6973
+Achieva Account,2026-05,ID capture,6973,5993
+Achieva Account,2026-05,Identity verification,5993,4759
+Achieva Account,2026-05,Proof of address or income,4759,3378
+Achieva Account,2026-05,Affordability and risk decision,3378,2815
+Achieva Account,2026-05,Terms and e-sign,2815,2622
+Achieva Account,2026-05,Account opened → first transaction,2622,1378
+Achieva Account,2026-06,Choose account,16942,9929
+Achieva Account,2026-06,Eligibility check,9929,9541
+Achieva Account,2026-06,Personal details,9541,6635
+Achieva Account,2026-06,ID capture,6635,5760
+Achieva Account,2026-06,Identity verification,5760,4572
+Achieva Account,2026-06,Proof of address or income,4572,3343
+Achieva Account,2026-06,Affordability and risk decision,3343,2788
+Achieva Account,2026-06,Terms and e-sign,2788,2535
+Achieva Account,2026-06,Account opened → first transaction,2535,1321
+Achieva Account,2026-07,Choose account,19073,10968
+Achieva Account,2026-07,Eligibility check,10968,10527
+Achieva Account,2026-07,Personal details,10527,7290
+Achieva Account,2026-07,ID capture,7290,6291
+Achieva Account,2026-07,Identity verification,6291,4939
+Achieva Account,2026-07,Proof of address or income,4939,3485
+Achieva Account,2026-07,Affordability and risk decision,3485,2901
+Achieva Account,2026-07,Terms and e-sign,2901,2700
+Achieva Account,2026-07,Account opened → first transaction,2700,1421
+Achieva Account,2026-08,Choose account,17758,10306
+Achieva Account,2026-08,Eligibility check,10306,9924
+Achieva Account,2026-08,Personal details,9924,6769
+Achieva Account,2026-08,ID capture,6769,5864
+Achieva Account,2026-08,Identity verification,5864,4602
+Achieva Account,2026-08,Proof of address or income,4602,3325
+Achieva Account,2026-08,Affordability and risk decision,3325,2785
+Achieva Account,2026-08,Terms and e-sign,2785,2558
+Achieva Account,2026-08,Account opened → first transaction,2558,1367
+Achieva Account,2026-09,Choose account,17456,9766
+Achieva Account,2026-09,Eligibility check,9766,9372
+Achieva Account,2026-09,Personal details,9372,6524
+Achieva Account,2026-09,ID capture,6524,5598
+Achieva Account,2026-09,Identity verification,5598,4443
+Achieva Account,2026-09,Proof of address or income,4443,3154
+Achieva Account,2026-09,Affordability and risk decision,3154,2662
+Achieva Account,2026-09,Terms and e-sign,2662,2475
+Achieva Account,2026-09,Account opened → first transaction,2475,1366
+Achieva Account,2026-10,Choose account,18382,10208
+Achieva Account,2026-10,Eligibility check,10208,9822
+Achieva Account,2026-10,Personal details,9822,6712
+Achieva Account,2026-10,ID capture,6712,5768
+Achieva Account,2026-10,Identity verification,5768,4487
+Achieva Account,2026-10,Proof of address or income,4487,3203
+Achieva Account,2026-10,Affordability and risk decision,3203,2636
+Achieva Account,2026-10,Terms and e-sign,2636,2433
+Achieva Account,2026-10,Account opened → first transaction,2433,1320
+MyMo Account,2024-11,Choose account,38374,25481
+MyMo Account,2024-11,Eligibility check,25481,24725
+MyMo Account,2024-11,Personal details,24725,17837
+MyMo Account,2024-11,ID capture (SA ID),17837,15283
+MyMo Account,2024-11,Identity verification,15283,11623
+MyMo Account,2024-11,Confirm address,11623,10468
+MyMo Account,2024-11,Terms and e-sign,10468,9751
+MyMo Account,2024-11,Account opened → first transaction,9751,4712
+MyMo Account,2024-12,Choose account,34044,22457
+MyMo Account,2024-12,Eligibility check,22457,21800
+MyMo Account,2024-12,Personal details,21800,15715
+MyMo Account,2024-12,ID capture (SA ID),15715,13479
+MyMo Account,2024-12,Identity verification,13479,10044
+MyMo Account,2024-12,Confirm address,10044,9063
+MyMo Account,2024-12,Terms and e-sign,9063,8482
+MyMo Account,2024-12,Account opened → first transaction,8482,3870
+MyMo Account,2025-01,Choose account,48441,31565
+MyMo Account,2025-01,Eligibility check,31565,30639
+MyMo Account,2025-01,Personal details,30639,22121
+MyMo Account,2025-01,ID capture (SA ID),22121,18785
+MyMo Account,2025-01,Identity verification,18785,14125
+MyMo Account,2025-01,Confirm address,14125,12760
+MyMo Account,2025-01,Terms and e-sign,12760,11853
+MyMo Account,2025-01,Account opened → first transaction,11853,5691
+MyMo Account,2025-02,Choose account,39481,25710
+MyMo Account,2025-02,Eligibility check,25710,24968
+MyMo Account,2025-02,Personal details,24968,17941
+MyMo Account,2025-02,ID capture (SA ID),17941,15233
+MyMo Account,2025-02,Identity verification,15233,11339
+MyMo Account,2025-02,Confirm address,11339,10274
+MyMo Account,2025-02,Terms and e-sign,10274,9589
+MyMo Account,2025-02,Account opened → first transaction,9589,4770
+MyMo Account,2025-03,Choose account,41040,26286
+MyMo Account,2025-03,Eligibility check,26286,25539
+MyMo Account,2025-03,Personal details,25539,18342
+MyMo Account,2025-03,ID capture (SA ID),18342,15542
+MyMo Account,2025-03,Identity verification,15542,11759
+MyMo Account,2025-03,Confirm address,11759,10639
+MyMo Account,2025-03,Terms and e-sign,10639,9858
+MyMo Account,2025-03,Account opened → first transaction,9858,4997
+MyMo Account,2025-04,Choose account,38576,24988
+MyMo Account,2025-04,Eligibility check,24988,24242
+MyMo Account,2025-04,Personal details,24242,17620
+MyMo Account,2025-04,ID capture (SA ID),17620,14999
+MyMo Account,2025-04,Identity verification,14999,11190
+MyMo Account,2025-04,Confirm address,11190,10142
+MyMo Account,2025-04,Terms and e-sign,10142,9462
+MyMo Account,2025-04,Account opened → first transaction,9462,4785
+MyMo Account,2025-05,Choose account,41283,26663
+MyMo Account,2025-05,Eligibility check,26663,25857
+MyMo Account,2025-05,Personal details,25857,18928
+MyMo Account,2025-05,ID capture (SA ID),18928,16024
+MyMo Account,2025-05,Identity verification,16024,11961
+MyMo Account,2025-05,Confirm address,11961,10777
+MyMo Account,2025-05,Terms and e-sign,10777,10029
+MyMo Account,2025-05,Account opened → first transaction,10029,5228
+MyMo Account,2025-06,Choose account,37599,24163
+MyMo Account,2025-06,Eligibility check,24163,23406
+MyMo Account,2025-06,Personal details,23406,17085
+MyMo Account,2025-06,ID capture (SA ID),17085,14417
+MyMo Account,2025-06,Identity verification,14417,10761
+MyMo Account,2025-06,Confirm address,10761,9687
+MyMo Account,2025-06,Terms and e-sign,9687,9038
+MyMo Account,2025-06,Account opened → first transaction,9038,4731
+MyMo Account,2025-07,Choose account,41494,26988
+MyMo Account,2025-07,Eligibility check,26988,26213
+MyMo Account,2025-07,Personal details,26213,19260
+MyMo Account,2025-07,ID capture (SA ID),19260,16195
+MyMo Account,2025-07,Identity verification,16195,12213
+MyMo Account,2025-07,Confirm address,12213,10937
+MyMo Account,2025-07,Terms and e-sign,10937,10145
+MyMo Account,2025-07,Account opened → first transaction,10145,5321
+MyMo Account,2025-08,Choose account,38600,25484
+MyMo Account,2025-08,Eligibility check,25484,24701
+MyMo Account,2025-08,Personal details,24701,18202
+MyMo Account,2025-08,ID capture (SA ID),18202,15329
+MyMo Account,2025-08,Identity verification,15329,11746
+MyMo Account,2025-08,Confirm address,11746,10476
+MyMo Account,2025-08,Terms and e-sign,10476,9710
+MyMo Account,2025-08,Account opened → first transaction,9710,5038
+MyMo Account,2025-09,Choose account,37271,24773
+MyMo Account,2025-09,Eligibility check,24773,23978
+MyMo Account,2025-09,Personal details,23978,17906
+MyMo Account,2025-09,ID capture (SA ID),17906,15102
+MyMo Account,2025-09,Identity verification,15102,11555
+MyMo Account,2025-09,Confirm address,11555,10394
+MyMo Account,2025-09,Terms and e-sign,10394,9590
+MyMo Account,2025-09,Account opened → first transaction,9590,4948
+MyMo Account,2025-10,Choose account,39939,26628
+MyMo Account,2025-10,Eligibility check,26628,25809
+MyMo Account,2025-10,Personal details,25809,19028
+MyMo Account,2025-10,ID capture (SA ID),19028,16175
+MyMo Account,2025-10,Identity verification,16175,12340
+MyMo Account,2025-10,Confirm address,12340,11021
+MyMo Account,2025-10,Terms and e-sign,11021,10227
+MyMo Account,2025-10,Account opened → first transaction,10227,5134
+MyMo Account,2025-11,Choose account,35044,23262
+MyMo Account,2025-11,Eligibility check,23262,22522
+MyMo Account,2025-11,Personal details,22522,16667
+MyMo Account,2025-11,ID capture (SA ID),16667,14134
+MyMo Account,2025-11,Identity verification,14134,10796
+MyMo Account,2025-11,Confirm address,10796,9686
+MyMo Account,2025-11,Terms and e-sign,9686,9015
+MyMo Account,2025-11,Account opened → first transaction,9015,4633
+MyMo Account,2025-12,Choose account,32151,21654
+MyMo Account,2025-12,Eligibility check,21654,20973
+MyMo Account,2025-12,Personal details,20973,15467
+MyMo Account,2025-12,ID capture (SA ID),15467,13116
+MyMo Account,2025-12,Identity verification,13116,9767
+MyMo Account,2025-12,Confirm address,9767,8727
+MyMo Account,2025-12,Terms and e-sign,8727,8088
+MyMo Account,2025-12,Account opened → first transaction,8088,4144
+MyMo Account,2026-01,Choose account,45557,30702
+MyMo Account,2026-01,Eligibility check,30702,29777
+MyMo Account,2026-01,Personal details,29777,21869
+MyMo Account,2026-01,ID capture (SA ID),21869,18664
+MyMo Account,2026-01,Identity verification,18664,14203
+MyMo Account,2026-01,Confirm address,14203,12750
+MyMo Account,2026-01,Terms and e-sign,12750,11837
+MyMo Account,2026-01,Account opened → first transaction,11837,5986
+MyMo Account,2026-02,Choose account,35774,24242
+MyMo Account,2026-02,Eligibility check,24242,23473
+MyMo Account,2026-02,Personal details,23473,17255
+MyMo Account,2026-02,ID capture (SA ID),17255,14792
+MyMo Account,2026-02,Identity verification,14792,11410
+MyMo Account,2026-02,Confirm address,11410,10169
+MyMo Account,2026-02,Terms and e-sign,10169,9434
+MyMo Account,2026-02,Account opened → first transaction,9434,4739
+MyMo Account,2026-03,Choose account,38306,25751
+MyMo Account,2026-03,Eligibility check,25751,24967
+MyMo Account,2026-03,Personal details,24967,18261
+MyMo Account,2026-03,ID capture (SA ID),18261,15591
+MyMo Account,2026-03,Identity verification,15591,11980
+MyMo Account,2026-03,Confirm address,11980,10796
+MyMo Account,2026-03,Terms and e-sign,10796,10068
+MyMo Account,2026-03,Account opened → first transaction,10068,4803
+MyMo Account,2026-04,Choose account,35474,23850
+MyMo Account,2026-04,Eligibility check,23850,23162
+MyMo Account,2026-04,Personal details,23162,16886
+MyMo Account,2026-04,ID capture (SA ID),16886,14493
+MyMo Account,2026-04,Identity verification,14493,11184
+MyMo Account,2026-04,Confirm address,11184,10062
+MyMo Account,2026-04,Terms and e-sign,10062,9393
+MyMo Account,2026-04,Account opened → first transaction,9393,4649
+MyMo Account,2026-05,Choose account,36575,24368
+MyMo Account,2026-05,Eligibility check,24368,23653
+MyMo Account,2026-05,Personal details,23653,17015
+MyMo Account,2026-05,ID capture (SA ID),17015,15325
+MyMo Account,2026-05,Identity verification,15325,11637
+MyMo Account,2026-05,Confirm address,11637,10490
+MyMo Account,2026-05,Terms and e-sign,10490,9803
+MyMo Account,2026-05,Account opened → first transaction,9803,4667
+MyMo Account,2026-06,Choose account,34483,22720
+MyMo Account,2026-06,Eligibility check,22720,22037
+MyMo Account,2026-06,Personal details,22037,15848
+MyMo Account,2026-06,ID capture (SA ID),15848,14284
+MyMo Account,2026-06,Identity verification,14284,10895
+MyMo Account,2026-06,Confirm address,10895,9851
+MyMo Account,2026-06,Terms and e-sign,9851,9130
+MyMo Account,2026-06,Account opened → first transaction,9130,4353
+MyMo Account,2026-07,Choose account,38587,25257
+MyMo Account,2026-07,Eligibility check,25257,24513
+MyMo Account,2026-07,Personal details,24513,17847
+MyMo Account,2026-07,ID capture (SA ID),17847,15961
+MyMo Account,2026-07,Identity verification,15961,12121
+MyMo Account,2026-07,Confirm address,12121,10964
+MyMo Account,2026-07,Terms and e-sign,10964,10251
+MyMo Account,2026-07,Account opened → first transaction,10251,4961
+MyMo Account,2026-08,Choose account,36738,23864
+MyMo Account,2026-08,Eligibility check,23864,23188
+MyMo Account,2026-08,Personal details,23188,16693
+MyMo Account,2026-08,ID capture (SA ID),16693,14924
+MyMo Account,2026-08,Identity verification,14924,11249
+MyMo Account,2026-08,Confirm address,11249,10185
+MyMo Account,2026-08,Terms and e-sign,10185,9517
+MyMo Account,2026-08,Account opened → first transaction,9517,4682
+MyMo Account,2026-09,Choose account,35336,23140
+MyMo Account,2026-09,Eligibility check,23140,22445
+MyMo Account,2026-09,Personal details,22445,16075
+MyMo Account,2026-09,ID capture (SA ID),16075,14398
+MyMo Account,2026-09,Identity verification,14398,10751
+MyMo Account,2026-09,Confirm address,10751,9670
+MyMo Account,2026-09,Terms and e-sign,9670,9046
+MyMo Account,2026-09,Account opened → first transaction,9046,4550
+MyMo Account,2026-10,Choose account,36283,23148
+MyMo Account,2026-10,Eligibility check,23148,22470
+MyMo Account,2026-10,Personal details,22470,16180
+MyMo Account,2026-10,ID capture (SA ID),16180,14386
+MyMo Account,2026-10,Identity verification,14386,10765
+MyMo Account,2026-10,Confirm address,10765,9693
+MyMo Account,2026-10,Terms and e-sign,9693,9062
+MyMo Account,2026-10,Account opened → first transaction,9062,4607
+MyMo Plus Account,2024-11,Choose account,11799,7336
+MyMo Plus Account,2024-11,Eligibility check,7336,7133
+MyMo Plus Account,2024-11,Personal details,7133,5281
+MyMo Plus Account,2024-11,ID capture,5281,4585
+MyMo Plus Account,2024-11,Identity verification,4585,3720
+MyMo Plus Account,2024-11,Proof of address or income,3720,2805
+MyMo Plus Account,2024-11,Affordability and risk decision,2805,2461
+MyMo Plus Account,2024-11,Terms and e-sign,2461,2298
+MyMo Plus Account,2024-11,Account opened → first transaction,2298,1256
+MyMo Plus Account,2024-12,Choose account,10441,6371
+MyMo Plus Account,2024-12,Eligibility check,6371,6193
+MyMo Plus Account,2024-12,Personal details,6193,4557
+MyMo Plus Account,2024-12,ID capture,4557,3907
+MyMo Plus Account,2024-12,Identity verification,3907,3071
+MyMo Plus Account,2024-12,Proof of address or income,3071,2291
+MyMo Plus Account,2024-12,Affordability and risk decision,2291,2004
+MyMo Plus Account,2024-12,Terms and e-sign,2004,1881
+MyMo Plus Account,2024-12,Account opened → first transaction,1881,1044
+MyMo Plus Account,2025-01,Choose account,14831,9143
+MyMo Plus Account,2025-01,Eligibility check,9143,8895
+MyMo Plus Account,2025-01,Personal details,8895,6617
+MyMo Plus Account,2025-01,ID capture,6617,5744
+MyMo Plus Account,2025-01,Identity verification,5744,4585
+MyMo Plus Account,2025-01,Proof of address or income,4585,3474
+MyMo Plus Account,2025-01,Affordability and risk decision,3474,3066
+MyMo Plus Account,2025-01,Terms and e-sign,3066,2856
+MyMo Plus Account,2025-01,Account opened → first transaction,2856,1499
+MyMo Plus Account,2025-02,Choose account,11723,7081
+MyMo Plus Account,2025-02,Eligibility check,7081,6904
+MyMo Plus Account,2025-02,Personal details,6904,5075
+MyMo Plus Account,2025-02,ID capture,5075,4392
+MyMo Plus Account,2025-02,Identity verification,4392,3500
+MyMo Plus Account,2025-02,Proof of address or income,3500,2637
+MyMo Plus Account,2025-02,Affordability and risk decision,2637,2345
+MyMo Plus Account,2025-02,Terms and e-sign,2345,2172
+MyMo Plus Account,2025-02,Account opened → first transaction,2172,1153
+MyMo Plus Account,2025-03,Choose account,12708,7727
+MyMo Plus Account,2025-03,Eligibility check,7727,7477
+MyMo Plus Account,2025-03,Personal details,7477,5520
+MyMo Plus Account,2025-03,ID capture,5520,4784
+MyMo Plus Account,2025-03,Identity verification,4784,3807
+MyMo Plus Account,2025-03,Proof of address or income,3807,2844
+MyMo Plus Account,2025-03,Affordability and risk decision,2844,2511
+MyMo Plus Account,2025-03,Terms and e-sign,2511,2330
+MyMo Plus Account,2025-03,Account opened → first transaction,2330,1254
+MyMo Plus Account,2025-04,Choose account,12178,7515
+MyMo Plus Account,2025-04,Eligibility check,7515,7278
+MyMo Plus Account,2025-04,Personal details,7278,5442
+MyMo Plus Account,2025-04,ID capture,5442,4639
+MyMo Plus Account,2025-04,Identity verification,4639,3680
+MyMo Plus Account,2025-04,Proof of address or income,3680,2729
+MyMo Plus Account,2025-04,Affordability and risk decision,2729,2426
+MyMo Plus Account,2025-04,Terms and e-sign,2426,2276
+MyMo Plus Account,2025-04,Account opened → first transaction,2276,1335
+MyMo Plus Account,2025-05,Choose account,13000,7823
+MyMo Plus Account,2025-05,Eligibility check,7823,7586
+MyMo Plus Account,2025-05,Personal details,7586,5614
+MyMo Plus Account,2025-05,ID capture,5614,4836
+MyMo Plus Account,2025-05,Identity verification,4836,3834
+MyMo Plus Account,2025-05,Proof of address or income,3834,2862
+MyMo Plus Account,2025-05,Affordability and risk decision,2862,2554
+MyMo Plus Account,2025-05,Terms and e-sign,2554,2402
+MyMo Plus Account,2025-05,Account opened → first transaction,2402,1342
+MyMo Plus Account,2025-06,Choose account,12002,7175
+MyMo Plus Account,2025-06,Eligibility check,7175,6976
+MyMo Plus Account,2025-06,Personal details,6976,5207
+MyMo Plus Account,2025-06,ID capture,5207,4462
+MyMo Plus Account,2025-06,Identity verification,4462,3503
+MyMo Plus Account,2025-06,Proof of address or income,3503,2584
+MyMo Plus Account,2025-06,Affordability and risk decision,2584,2302
+MyMo Plus Account,2025-06,Terms and e-sign,2302,2154
+MyMo Plus Account,2025-06,Account opened → first transaction,2154,1236
+MyMo Plus Account,2025-07,Choose account,13724,8380
+MyMo Plus Account,2025-07,Eligibility check,8380,8099
+MyMo Plus Account,2025-07,Personal details,8099,6124
+MyMo Plus Account,2025-07,ID capture,6124,5215
+MyMo Plus Account,2025-07,Identity verification,5215,4158
+MyMo Plus Account,2025-07,Proof of address or income,4158,3024
+MyMo Plus Account,2025-07,Affordability and risk decision,3024,2670
+MyMo Plus Account,2025-07,Terms and e-sign,2670,2511
+MyMo Plus Account,2025-07,Account opened → first transaction,2511,1464
+MyMo Plus Account,2025-08,Choose account,13169,8218
+MyMo Plus Account,2025-08,Eligibility check,8218,7940
+MyMo Plus Account,2025-08,Personal details,7940,6049
+MyMo Plus Account,2025-08,ID capture,6049,5195
+MyMo Plus Account,2025-08,Identity verification,5195,4140
+MyMo Plus Account,2025-08,Proof of address or income,4140,3050
+MyMo Plus Account,2025-08,Affordability and risk decision,3050,2705
+MyMo Plus Account,2025-08,Terms and e-sign,2705,2515
+MyMo Plus Account,2025-08,Account opened → first transaction,2515,1397
+MyMo Plus Account,2025-09,Choose account,12503,7723
+MyMo Plus Account,2025-09,Eligibility check,7723,7493
+MyMo Plus Account,2025-09,Personal details,7493,5692
+MyMo Plus Account,2025-09,ID capture,5692,4882
+MyMo Plus Account,2025-09,Identity verification,4882,3836
+MyMo Plus Account,2025-09,Proof of address or income,3836,2838
+MyMo Plus Account,2025-09,Affordability and risk decision,2838,2483
+MyMo Plus Account,2025-09,Terms and e-sign,2483,2287
+MyMo Plus Account,2025-09,Account opened → first transaction,2287,1323
+MyMo Plus Account,2025-10,Choose account,13534,8463
+MyMo Plus Account,2025-10,Eligibility check,8463,8216
+MyMo Plus Account,2025-10,Personal details,8216,6196
+MyMo Plus Account,2025-10,ID capture,6196,5283
+MyMo Plus Account,2025-10,Identity verification,5283,4206
+MyMo Plus Account,2025-10,Proof of address or income,4206,3058
+MyMo Plus Account,2025-10,Affordability and risk decision,3058,2691
+MyMo Plus Account,2025-10,Terms and e-sign,2691,2490
+MyMo Plus Account,2025-10,Account opened → first transaction,2490,1373
+MyMo Plus Account,2025-11,Choose account,12107,7582
+MyMo Plus Account,2025-11,Eligibility check,7582,7357
+MyMo Plus Account,2025-11,Personal details,7357,5554
+MyMo Plus Account,2025-11,ID capture,5554,4780
+MyMo Plus Account,2025-11,Identity verification,4780,3811
+MyMo Plus Account,2025-11,Proof of address or income,3811,2777
+MyMo Plus Account,2025-11,Affordability and risk decision,2777,2435
+MyMo Plus Account,2025-11,Terms and e-sign,2435,2232
+MyMo Plus Account,2025-11,Account opened → first transaction,2232,1264
+MyMo Plus Account,2025-12,Choose account,11006,6961
+MyMo Plus Account,2025-12,Eligibility check,6961,6746
+MyMo Plus Account,2025-12,Personal details,6746,5172
+MyMo Plus Account,2025-12,ID capture,5172,4481
+MyMo Plus Account,2025-12,Identity verification,4481,3548
+MyMo Plus Account,2025-12,Proof of address or income,3548,2583
+MyMo Plus Account,2025-12,Affordability and risk decision,2583,2278
+MyMo Plus Account,2025-12,Terms and e-sign,2278,2129
+MyMo Plus Account,2025-12,Account opened → first transaction,2129,1227
+MyMo Plus Account,2026-01,Choose account,15591,9815
+MyMo Plus Account,2026-01,Eligibility check,9815,9516
+MyMo Plus Account,2026-01,Personal details,9516,7184
+MyMo Plus Account,2026-01,ID capture,7184,6200
+MyMo Plus Account,2026-01,Identity verification,6200,5000
+MyMo Plus Account,2026-01,Proof of address or income,5000,3690
+MyMo Plus Account,2026-01,Affordability and risk decision,3690,3246
+MyMo Plus Account,2026-01,Terms and e-sign,3246,2994
+MyMo Plus Account,2026-01,Account opened → first transaction,2994,1674
+MyMo Plus Account,2026-02,Choose account,12629,8115
+MyMo Plus Account,2026-02,Eligibility check,8115,7889
+MyMo Plus Account,2026-02,Personal details,7889,5941
+MyMo Plus Account,2026-02,ID capture,5941,5119
+MyMo Plus Account,2026-02,Identity verification,5119,4160
+MyMo Plus Account,2026-02,Proof of address or income,4160,3058
+MyMo Plus Account,2026-02,Affordability and risk decision,3058,2698
+MyMo Plus Account,2026-02,Terms and e-sign,2698,2501
+MyMo Plus Account,2026-02,Account opened → first transaction,2501,1410
+MyMo Plus Account,2026-03,Choose account,13839,8798
+MyMo Plus Account,2026-03,Eligibility check,8798,8541
+MyMo Plus Account,2026-03,Personal details,8541,6441
+MyMo Plus Account,2026-03,ID capture,6441,5549
+MyMo Plus Account,2026-03,Identity verification,5549,4449
+MyMo Plus Account,2026-03,Proof of address or income,4449,3236
+MyMo Plus Account,2026-03,Affordability and risk decision,3236,2796
+MyMo Plus Account,2026-03,Terms and e-sign,2796,2605
+MyMo Plus Account,2026-03,Account opened → first transaction,2605,1409
+MyMo Plus Account,2026-04,Choose account,12842,8194
+MyMo Plus Account,2026-04,Eligibility check,8194,7972
+MyMo Plus Account,2026-04,Personal details,7972,5949
+MyMo Plus Account,2026-04,ID capture,5949,5173
+MyMo Plus Account,2026-04,Identity verification,5173,4157
+MyMo Plus Account,2026-04,Proof of address or income,4157,3117
+MyMo Plus Account,2026-04,Affordability and risk decision,3117,2736
+MyMo Plus Account,2026-04,Terms and e-sign,2736,2527
+MyMo Plus Account,2026-04,Account opened → first transaction,2527,1361
+MyMo Plus Account,2026-05,Choose account,13282,8235
+MyMo Plus Account,2026-05,Eligibility check,8235,8000
+MyMo Plus Account,2026-05,Personal details,8000,5912
+MyMo Plus Account,2026-05,ID capture,5912,5114
+MyMo Plus Account,2026-05,Identity verification,5114,4078
+MyMo Plus Account,2026-05,Proof of address or income,4078,3039
+MyMo Plus Account,2026-05,Affordability and risk decision,3039,2702
+MyMo Plus Account,2026-05,Terms and e-sign,2702,2527
+MyMo Plus Account,2026-05,Account opened → first transaction,2527,1392
+MyMo Plus Account,2026-06,Choose account,12811,7940
+MyMo Plus Account,2026-06,Eligibility check,7940,7689
+MyMo Plus Account,2026-06,Personal details,7689,5749
+MyMo Plus Account,2026-06,ID capture,5749,4981
+MyMo Plus Account,2026-06,Identity verification,4981,3917
+MyMo Plus Account,2026-06,Proof of address or income,3917,2948
+MyMo Plus Account,2026-06,Affordability and risk decision,2948,2631
+MyMo Plus Account,2026-06,Terms and e-sign,2631,2431
+MyMo Plus Account,2026-06,Account opened → first transaction,2431,1331
+MyMo Plus Account,2026-07,Choose account,13957,8693
+MyMo Plus Account,2026-07,Eligibility check,8693,8456
+MyMo Plus Account,2026-07,Personal details,8456,6187
+MyMo Plus Account,2026-07,ID capture,6187,5333
+MyMo Plus Account,2026-07,Identity verification,5333,4204
+MyMo Plus Account,2026-07,Proof of address or income,4204,3201
+MyMo Plus Account,2026-07,Affordability and risk decision,3201,2793
+MyMo Plus Account,2026-07,Terms and e-sign,2793,2632
+MyMo Plus Account,2026-07,Account opened → first transaction,2632,1400
+MyMo Plus Account,2026-08,Choose account,13575,8322
+MyMo Plus Account,2026-08,Eligibility check,8322,8081
+MyMo Plus Account,2026-08,Personal details,8081,5962
+MyMo Plus Account,2026-08,ID capture,5962,5133
+MyMo Plus Account,2026-08,Identity verification,5133,4107
+MyMo Plus Account,2026-08,Proof of address or income,4107,3040
+MyMo Plus Account,2026-08,Affordability and risk decision,3040,2644
+MyMo Plus Account,2026-08,Terms and e-sign,2644,2484
+MyMo Plus Account,2026-08,Account opened → first transaction,2484,1394
+MyMo Plus Account,2026-09,Choose account,13113,7897
+MyMo Plus Account,2026-09,Eligibility check,7897,7658
+MyMo Plus Account,2026-09,Personal details,7658,5749
+MyMo Plus Account,2026-09,ID capture,5749,4971
+MyMo Plus Account,2026-09,Identity verification,4971,3966
+MyMo Plus Account,2026-09,Proof of address or income,3966,2923
+MyMo Plus Account,2026-09,Affordability and risk decision,2923,2576
+MyMo Plus Account,2026-09,Terms and e-sign,2576,2403
+MyMo Plus Account,2026-09,Account opened → first transaction,2403,1338
+MyMo Plus Account,2026-10,Choose account,13922,8392
+MyMo Plus Account,2026-10,Eligibility check,8392,8183
+MyMo Plus Account,2026-10,Personal details,8183,6099
+MyMo Plus Account,2026-10,ID capture,6099,5228
+MyMo Plus Account,2026-10,Identity verification,5228,4156
+MyMo Plus Account,2026-10,Proof of address or income,4156,3043
+MyMo Plus Account,2026-10,Affordability and risk decision,3043,2647
+MyMo Plus Account,2026-10,Terms and e-sign,2647,2461
+MyMo Plus Account,2026-10,Account opened → first transaction,2461,1377
+Prestige Banking Account,2024-11,Choose account,5887,3236
+Prestige Banking Account,2024-11,Eligibility check,3236,3110
+Prestige Banking Account,2024-11,Personal details,3110,2372
+Prestige Banking Account,2024-11,ID capture,2372,2094
+Prestige Banking Account,2024-11,Identity verification,2094,1739
+Prestige Banking Account,2024-11,Proof of income and address,1739,1217
+Prestige Banking Account,2024-11,Affordability and risk decision,1217,1046
+Prestige Banking Account,2024-11,Terms and e-sign,1046,990
+Prestige Banking Account,2024-11,Account opened → first transaction,990,616
+Prestige Banking Account,2024-12,Choose account,5224,2888
+Prestige Banking Account,2024-12,Eligibility check,2888,2780
+Prestige Banking Account,2024-12,Personal details,2780,2066
+Prestige Banking Account,2024-12,ID capture,2066,1814
+Prestige Banking Account,2024-12,Identity verification,1814,1478
+Prestige Banking Account,2024-12,Proof of income and address,1478,1031
+Prestige Banking Account,2024-12,Affordability and risk decision,1031,874
+Prestige Banking Account,2024-12,Terms and e-sign,874,821
+Prestige Banking Account,2024-12,Account opened → first transaction,821,482
+Prestige Banking Account,2025-01,Choose account,7470,3979
+Prestige Banking Account,2025-01,Eligibility check,3979,3806
+Prestige Banking Account,2025-01,Personal details,3806,2793
+Prestige Banking Account,2025-01,ID capture,2793,2439
+Prestige Banking Account,2025-01,Identity verification,2439,2032
+Prestige Banking Account,2025-01,Proof of income and address,2032,1411
+Prestige Banking Account,2025-01,Affordability and risk decision,1411,1172
+Prestige Banking Account,2025-01,Terms and e-sign,1172,1107
+Prestige Banking Account,2025-01,Account opened → first transaction,1107,663
+Prestige Banking Account,2025-02,Choose account,6046,3218
+Prestige Banking Account,2025-02,Eligibility check,3218,3093
+Prestige Banking Account,2025-02,Personal details,3093,2336
+Prestige Banking Account,2025-02,ID capture,2336,2060
+Prestige Banking Account,2025-02,Identity verification,2060,1710
+Prestige Banking Account,2025-02,Proof of income and address,1710,1172
+Prestige Banking Account,2025-02,Affordability and risk decision,1172,1012
+Prestige Banking Account,2025-02,Terms and e-sign,1012,931
+Prestige Banking Account,2025-02,Account opened → first transaction,931,586
+Prestige Banking Account,2025-03,Choose account,6596,3579
+Prestige Banking Account,2025-03,Eligibility check,3579,3446
+Prestige Banking Account,2025-03,Personal details,3446,2558
+Prestige Banking Account,2025-03,ID capture,2558,2225
+Prestige Banking Account,2025-03,Identity verification,2225,1815
+Prestige Banking Account,2025-03,Proof of income and address,1815,1240
+Prestige Banking Account,2025-03,Affordability and risk decision,1240,1045
+Prestige Banking Account,2025-03,Terms and e-sign,1045,966
+Prestige Banking Account,2025-03,Account opened → first transaction,966,581
+Prestige Banking Account,2025-04,Choose account,6181,3336
+Prestige Banking Account,2025-04,Eligibility check,3336,3213
+Prestige Banking Account,2025-04,Personal details,3213,2399
+Prestige Banking Account,2025-04,ID capture,2399,2087
+Prestige Banking Account,2025-04,Identity verification,2087,1729
+Prestige Banking Account,2025-04,Proof of income and address,1729,1163
+Prestige Banking Account,2025-04,Affordability and risk decision,1163,992
+Prestige Banking Account,2025-04,Terms and e-sign,992,916
+Prestige Banking Account,2025-04,Account opened → first transaction,916,563
+Prestige Banking Account,2025-05,Choose account,6552,3535
+Prestige Banking Account,2025-05,Eligibility check,3535,3394
+Prestige Banking Account,2025-05,Personal details,3394,2599
+Prestige Banking Account,2025-05,ID capture,2599,2277
+Prestige Banking Account,2025-05,Identity verification,2277,1845
+Prestige Banking Account,2025-05,Proof of income and address,1845,1217
+Prestige Banking Account,2025-05,Affordability and risk decision,1217,1027
+Prestige Banking Account,2025-05,Terms and e-sign,1027,963
+Prestige Banking Account,2025-05,Account opened → first transaction,963,604
+Prestige Banking Account,2025-06,Choose account,6140,3364
+Prestige Banking Account,2025-06,Eligibility check,3364,3224
+Prestige Banking Account,2025-06,Personal details,3224,2448
+Prestige Banking Account,2025-06,ID capture,2448,2142
+Prestige Banking Account,2025-06,Identity verification,2142,1773
+Prestige Banking Account,2025-06,Proof of income and address,1773,1187
+Prestige Banking Account,2025-06,Affordability and risk decision,1187,1005
+Prestige Banking Account,2025-06,Terms and e-sign,1005,933
+Prestige Banking Account,2025-06,Account opened → first transaction,933,582
+Prestige Banking Account,2025-07,Choose account,7048,3797
+Prestige Banking Account,2025-07,Eligibility check,3797,3639
+Prestige Banking Account,2025-07,Personal details,3639,2748
+Prestige Banking Account,2025-07,ID capture,2748,2437
+Prestige Banking Account,2025-07,Identity verification,2437,2015
+Prestige Banking Account,2025-07,Proof of income and address,2015,1325
+Prestige Banking Account,2025-07,Affordability and risk decision,1325,1129
+Prestige Banking Account,2025-07,Terms and e-sign,1129,1046
+Prestige Banking Account,2025-07,Account opened → first transaction,1046,677
+Prestige Banking Account,2025-08,Choose account,6679,3733
+Prestige Banking Account,2025-08,Eligibility check,3733,3559
+Prestige Banking Account,2025-08,Personal details,3559,2730
+Prestige Banking Account,2025-08,ID capture,2730,2368
+Prestige Banking Account,2025-08,Identity verification,2368,1966
+Prestige Banking Account,2025-08,Proof of income and address,1966,1292
+Prestige Banking Account,2025-08,Affordability and risk decision,1292,1105
+Prestige Banking Account,2025-08,Terms and e-sign,1105,1016
+Prestige Banking Account,2025-08,Account opened → first transaction,1016,645
+Prestige Banking Account,2025-09,Choose account,6584,3607
+Prestige Banking Account,2025-09,Eligibility check,3607,3467
+Prestige Banking Account,2025-09,Personal details,3467,2665
+Prestige Banking Account,2025-09,ID capture,2665,2323
+Prestige Banking Account,2025-09,Identity verification,2323,1926
+Prestige Banking Account,2025-09,Proof of income and address,1926,1283
+Prestige Banking Account,2025-09,Affordability and risk decision,1283,1103
+Prestige Banking Account,2025-09,Terms and e-sign,1103,1023
+Prestige Banking Account,2025-09,Account opened → first transaction,1023,659
+Prestige Banking Account,2025-10,Choose account,7141,3968
+Prestige Banking Account,2025-10,Eligibility check,3968,3814
+Prestige Banking Account,2025-10,Personal details,3814,2891
+Prestige Banking Account,2025-10,ID capture,2891,2516
+Prestige Banking Account,2025-10,Identity verification,2516,2100
+Prestige Banking Account,2025-10,Proof of income and address,2100,1401
+Prestige Banking Account,2025-10,Affordability and risk decision,1401,1200
+Prestige Banking Account,2025-10,Terms and e-sign,1200,1114
+Prestige Banking Account,2025-10,Account opened → first transaction,1114,704
+Prestige Banking Account,2025-11,Choose account,6484,3567
+Prestige Banking Account,2025-11,Eligibility check,3567,3426
+Prestige Banking Account,2025-11,Personal details,3426,2652
+Prestige Banking Account,2025-11,ID capture,2652,2340
+Prestige Banking Account,2025-11,Identity verification,2340,1961
+Prestige Banking Account,2025-11,Proof of income and address,1961,1300
+Prestige Banking Account,2025-11,Affordability and risk decision,1300,1098
+Prestige Banking Account,2025-11,Terms and e-sign,1098,1033
+Prestige Banking Account,2025-11,Account opened → first transaction,1033,626
+Prestige Banking Account,2025-12,Choose account,5759,3285
+Prestige Banking Account,2025-12,Eligibility check,3285,3144
+Prestige Banking Account,2025-12,Personal details,3144,2418
+Prestige Banking Account,2025-12,ID capture,2418,2172
+Prestige Banking Account,2025-12,Identity verification,2172,1763
+Prestige Banking Account,2025-12,Proof of income and address,1763,1199
+Prestige Banking Account,2025-12,Affordability and risk decision,1199,1005
+Prestige Banking Account,2025-12,Terms and e-sign,1005,947
+Prestige Banking Account,2025-12,Account opened → first transaction,947,576
+Prestige Banking Account,2026-01,Choose account,8171,4666
+Prestige Banking Account,2026-01,Eligibility check,4666,4505
+Prestige Banking Account,2026-01,Personal details,4505,3435
+Prestige Banking Account,2026-01,ID capture,3435,3027
+Prestige Banking Account,2026-01,Identity verification,3027,2549
+Prestige Banking Account,2026-01,Proof of income and address,2549,1693
+Prestige Banking Account,2026-01,Affordability and risk decision,1693,1413
+Prestige Banking Account,2026-01,Terms and e-sign,1413,1326
+Prestige Banking Account,2026-01,Account opened → first transaction,1326,828
+Prestige Banking Account,2026-02,Choose account,6651,3718
+Prestige Banking Account,2026-02,Eligibility check,3718,3583
+Prestige Banking Account,2026-02,Personal details,3583,2753
+Prestige Banking Account,2026-02,ID capture,2753,2414
+Prestige Banking Account,2026-02,Identity verification,2414,2050
+Prestige Banking Account,2026-02,Proof of income and address,2050,1328
+Prestige Banking Account,2026-02,Affordability and risk decision,1328,1115
+Prestige Banking Account,2026-02,Terms and e-sign,1115,1035
+Prestige Banking Account,2026-02,Account opened → first transaction,1035,635
+Prestige Banking Account,2026-03,Choose account,7310,4040
+Prestige Banking Account,2026-03,Eligibility check,4040,3866
+Prestige Banking Account,2026-03,Personal details,3866,2978
+Prestige Banking Account,2026-03,ID capture,2978,2609
+Prestige Banking Account,2026-03,Identity verification,2609,2185
+Prestige Banking Account,2026-03,Proof of income and address,2185,1415
+Prestige Banking Account,2026-03,Affordability and risk decision,1415,1200
+Prestige Banking Account,2026-03,Terms and e-sign,1200,1136
+Prestige Banking Account,2026-03,Account opened → first transaction,1136,689
+Prestige Banking Account,2026-04,Choose account,6825,3763
+Prestige Banking Account,2026-04,Eligibility check,3763,3608
+Prestige Banking Account,2026-04,Personal details,3608,2740
+Prestige Banking Account,2026-04,ID capture,2740,2427
+Prestige Banking Account,2026-04,Identity verification,2427,2037
+Prestige Banking Account,2026-04,Proof of income and address,2037,1398
+Prestige Banking Account,2026-04,Affordability and risk decision,1398,1198
+Prestige Banking Account,2026-04,Terms and e-sign,1198,1107
+Prestige Banking Account,2026-04,Account opened → first transaction,1107,675
+Prestige Banking Account,2026-05,Choose account,7280,4135
+Prestige Banking Account,2026-05,Eligibility check,4135,3971
+Prestige Banking Account,2026-05,Personal details,3971,3014
+Prestige Banking Account,2026-05,ID capture,3014,2653
+Prestige Banking Account,2026-05,Identity verification,2653,2212
+Prestige Banking Account,2026-05,Proof of income and address,2212,1493
+Prestige Banking Account,2026-05,Affordability and risk decision,1493,1266
+Prestige Banking Account,2026-05,Terms and e-sign,1266,1176
+Prestige Banking Account,2026-05,Account opened → first transaction,1176,704
+Prestige Banking Account,2026-06,Choose account,6887,3727
+Prestige Banking Account,2026-06,Eligibility check,3727,3577
+Prestige Banking Account,2026-06,Personal details,3577,2665
+Prestige Banking Account,2026-06,ID capture,2665,2361
+Prestige Banking Account,2026-06,Identity verification,2361,1967
+Prestige Banking Account,2026-06,Proof of income and address,1967,1330
+Prestige Banking Account,2026-06,Affordability and risk decision,1330,1118
+Prestige Banking Account,2026-06,Terms and e-sign,1118,1037
+Prestige Banking Account,2026-06,Account opened → first transaction,1037,649
+Prestige Banking Account,2026-07,Choose account,7614,4105
+Prestige Banking Account,2026-07,Eligibility check,4105,3965
+Prestige Banking Account,2026-07,Personal details,3965,2982
+Prestige Banking Account,2026-07,ID capture,2982,2651
+Prestige Banking Account,2026-07,Identity verification,2651,2205
+Prestige Banking Account,2026-07,Proof of income and address,2205,1498
+Prestige Banking Account,2026-07,Affordability and risk decision,1498,1276
+Prestige Banking Account,2026-07,Terms and e-sign,1276,1194
+Prestige Banking Account,2026-07,Account opened → first transaction,1194,746
+Prestige Banking Account,2026-08,Choose account,7346,3984
+Prestige Banking Account,2026-08,Eligibility check,3984,3834
+Prestige Banking Account,2026-08,Personal details,3834,2849
+Prestige Banking Account,2026-08,ID capture,2849,2510
+Prestige Banking Account,2026-08,Identity verification,2510,2042
+Prestige Banking Account,2026-08,Proof of income and address,2042,1421
+Prestige Banking Account,2026-08,Affordability and risk decision,1421,1202
+Prestige Banking Account,2026-08,Terms and e-sign,1202,1126
+Prestige Banking Account,2026-08,Account opened → first transaction,1126,709
+Prestige Banking Account,2026-09,Choose account,7206,3895
+Prestige Banking Account,2026-09,Eligibility check,3895,3731
+Prestige Banking Account,2026-09,Personal details,3731,2801
+Prestige Banking Account,2026-09,ID capture,2801,2445
+Prestige Banking Account,2026-09,Identity verification,2445,2027
+Prestige Banking Account,2026-09,Proof of income and address,2027,1395
+Prestige Banking Account,2026-09,Affordability and risk decision,1395,1170
+Prestige Banking Account,2026-09,Terms and e-sign,1170,1089
+Prestige Banking Account,2026-09,Account opened → first transaction,1089,678
+Prestige Banking Account,2026-10,Choose account,7745,4097
+Prestige Banking Account,2026-10,Eligibility check,4097,3923
+Prestige Banking Account,2026-10,Personal details,3923,2963
+Prestige Banking Account,2026-10,ID capture,2963,2625
+Prestige Banking Account,2026-10,Identity verification,2625,2173
+Prestige Banking Account,2026-10,Proof of income and address,2173,1466
+Prestige Banking Account,2026-10,Affordability and risk decision,1466,1222
+Prestige Banking Account,2026-10,Terms and e-sign,1222,1152
+Prestige Banking Account,2026-10,Account opened → first transaction,1152,751
