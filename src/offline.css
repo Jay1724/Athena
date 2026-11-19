@@ -14,3 +14,6 @@ code{background:#f0f0f3;border-radius:5px;padding:1px 5px;font-size:13px}
 .orv-f textarea,.orv-f input[type=number],.orv-f select{font:inherit;font-size:14px;font-weight:400;border:1px solid var(--line);border-radius:8px;padding:8px}
 .orv-2{display:grid;grid-template-columns:1fr 1fr;gap:10px}.orv-fl{display:grid;grid-template-columns:1fr 1fr;gap:6px 14px}.orv-fl .tg{font-weight:400;display:flex;align-items:flex-start;font-size:13.5px}
 @media(max-width:760px){.orv-2,.orv-fl{grid-template-columns:1fr}}
+
+#accEd input:not([type]),#accEd input[type=text],#acRoot #accBy{font:inherit;font-size:14px;font-weight:400;border:1px solid var(--line);border-radius:8px;padding:8px}
+#accEd table input:not([type]){padding:6px 8px;min-width:180px}#accEd table select,#accEd table input[type=number]{font:inherit;font-size:14px;border:1px solid var(--line);border-radius:8px;padding:6px}

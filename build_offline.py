@@ -27,16 +27,16 @@ rep('<div class="sub">Test an onboarding journey before it goes to market.</div>
 h = re.sub(r'<div style="margin-top:6px;font-size:14px"><a id="aboutLnk".*?</script>', "", h, count=1, flags=re.S)
 rep('<span class="chip ass" style="margin:0">MOCK DATA</span>', '<span class="chip ass" id="dataChip" style="margin:0">MOCK DATA</span>')
 # tabs
-rep('<div class="tabs"><button id="tbS" class="on">Summary</button>', '<div class="tabs"><button id="tbY">Your data</button><button id="tbS" class="on">Summary</button>')
+rep('<div class="tabs"><button id="tbS" class="on">Summary</button>', '<div class="tabs"><button id="tbY">Your data</button><button id="tbA">Accounts</button><button id="tbS" class="on">Summary</button>')
 rep('<button id="tbF">Feedback</button>', '<button id="tbF">Feedback</button><button id="tbP">Forecast</button>')
-rep('<div class="wrap" id="tabS">', '<div class="wrap" id="tabY" style="display:none"><div id="dyRoot"></div></div>\n<div class="wrap" id="tabP" style="display:none"><div id="fpRoot"></div></div>\n<div class="wrap" id="tabS">')
-rep('const TABS=[["summary","S"],', 'const TABS=[["data","Y"],["forecast","P"],["summary","S"],')
+rep('<div class="wrap" id="tabS">', '<div class="wrap" id="tabY" style="display:none"><div id="dyRoot"></div></div>\n<div class="wrap" id="tabA" style="display:none"><div id="acRoot"></div></div>\n<div class="wrap" id="tabP" style="display:none"><div id="fpRoot"></div></div>\n<div class="wrap" id="tabS">')
+rep('const TABS=[["summary","S"],', 'const TABS=[["data","Y"],["accounts","A"],["forecast","P"],["summary","S"],')
 rep("function tab(t){", "window.tab=tab;function tab(t){")
-rep('if(t==="design"&&window.drawDesign)window.drawDesign();', 'if(t==="design"&&window.drawDesign)window.drawDesign();if(t==="data"&&window.drawData)window.drawData();if(t==="forecast"&&window.drawFc)window.drawFc();')
+rep('if(t==="design"&&window.drawDesign)window.drawDesign();', 'if(t==="design"&&window.drawDesign)window.drawDesign();if(t==="data"&&window.drawData)window.drawData();if(t==="accounts"&&window.drawAcc)window.drawAcc();if(t==="forecast"&&window.drawFc)window.drawFc();')
 # offline engines, appended to the main script block (after voc.js, which ends the block)
 blocks = list(re.finditer(r"<script>\n(.*?)</script>", h, re.S))
 main = max(blocks, key=lambda b: len(b.group(1)))
-extra = "\n".join(P(n) for n in ["offline_data.js", "offline_forecast.js", "offline_review.js", "offline_ui.js", "offline_init.js"])
+extra = "\n".join(P(n) for n in ["offline_data.js", "offline_forecast.js", "offline_review.js", "offline_accounts.js", "offline_ui.js", "offline_init.js"])
 h = h[:main.end(1)] + extra + "\n" + h[main.end(1):]
 # styles
 h = h.replace("</style>", P("offline.css") + "\n</style>", 1)

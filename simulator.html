@@ -960,7 +960,7 @@ const ARCH=[
  ["The Financial Survivor","new",.5,1.7,{fica:1.35,activate:1.35,details:1.1,decision:1.3},[4,.5,0],[.97,.05,0],"Day-to-day money stress, minimal income"]];
 // archetypes as personas for one product. onlySeg limits to people who already bank with us ("existing") or not ("new").
 function archetypePersonas(p,onlySeg,fixedElig){
- const key=/prestige|private/i.test(p.name)?2:/achieva/i.test(p.name)?1:0,sh=.6;
+ const key=p.mix!=null?+p.mix:/prestige|private/i.test(p.name)?2:/achieva/i.test(p.name)?1:0,sh=.6;
  const L=ARCH.filter(a=>!onlySeg||a[1]===onlySeg),tot=L.reduce((x,a)=>x+Math.max(a[5][key],.2),0);
  return{personas:L.map(a=>({name:a[0],share:+(100*Math.max(a[5][key],.2)/tot).toFixed(1),seg:a[1],techE:a[2]*sh,dwell:1+(a[3]-1)*sh,elig:fixedElig?1:a[6][key],note:a[7]})),
   pm:L.map(a=>p.steps.map(s=>(1+((a[4][s.tag]||1)-1)*sh)*((BTRAIT[a[0]]||{}).quit===s.tag&&!s.post?1.8:1)))};

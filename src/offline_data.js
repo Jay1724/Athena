@@ -106,9 +106,10 @@ function dataProducts(){
   // drop-off reasons from the reasons files, else typical ones for the step type
   p.steps.forEach(s=>{const rs={},seen={};R.forEach((f,fi)=>f.rows.forEach(r=>{if(r.p!==nm||r.s!==s.name)return;const k=r.d+"|"+r.r+"|"+(r.seg||"");if(seen[k]&&seen[k][0]!==fi){rs[r.r]-=seen[k][1];delete seen[k]}if(!seen[k])seen[k]=[fi,0];seen[k][1]+=r.n;rs[r.r]=(rs[r.r]||0)+r.n}));const tot=Object.values(rs).reduce((a,b)=>a+b,0);
    s.reasons=tot>0?Object.entries(rs).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([r,n])=>[r,n/tot]):(REASON_BY_TAG[s.tag]||null);s.reasonSrc=tot>0?"data":"typical"});
+  const ce=typeof accFor==="function"?accFor(nm):null;if(ce)p.mix=ce.mix;
   const ar=archetypePersonas(p,null,false);p.personas=ar.personas;p.pm=ar.pm;p.personaSrc="assumed";calibrate(p);
-  p.id="d_"+nm;p.tier="Your data";p.mock=false;p.example=false;p.series=seriesOf(P);
-  p.notes=[`Your data: ${P.dates.length} ${P.grain==="day"?"days":P.grain==="week"?"weeks":"months"} from ${P.dates[0]} to ${P.dates[P.dates.length-1]}. The last month is held back to check the model.`];
+  p.id="d_"+nm;p.tier=ce?ce.tier+", your data":"Your data";p.mock=false;p.example=false;p.series=seriesOf(P);
+  p.notes=[`Your data: ${P.dates.length} ${P.grain==="day"?"days":P.grain==="week"?"weeks":"months"} from ${P.dates[0]} to ${P.dates[P.dates.length-1]}. The last month is held back to check the model.`,...(ce&&ce.fee?["Fee: "+ce.fee]:[]),...(ce?ce.facts.filter(x=>!/persona|my assumption|declined-for-criteria/i.test(x)):[])];
   return p})}
 // per-period counts for forecasting: starters and completions at each step
 function seriesOf(P){return{grain:P.grain,steps:P.steps,rows:P.dates.map(d=>({d,v:P.steps.map(s=>{const a=P.per[d]._by[s];return a?[a.e,Math.min(a.c,a.e)]:null})}))}}
@@ -121,7 +122,7 @@ const IDB={open(){return new Promise((ok,no)=>{try{const r=indexedDB.open("athen
 async function saveProject(){ODATA.saved=new Date().toISOString();try{await IDB.put("project",JSON.parse(JSON.stringify(ODATA)));return true}catch(e){return false}}
 async function loadProject(){try{const v=await IDB.get("project");if(v&&v.files){ODATA=Object.assign({files:[],tags:{},saved:null,useMock:false},v);return true}}catch(e){}return false}
 function downloadText(name,text,type){const b=new Blob([text],{type:type||"text/plain"}),u=URL.createObjectURL(b),a=document.createElement("a");a.href=u;a.download=name;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(u);a.remove()},500)}
-function exportProject(){downloadText(`athena-project-${new Date().toISOString().slice(0,10)}.json`,JSON.stringify({athena:1,saved:new Date().toISOString(),data:ODATA}),"application/json")}
+function exportProject(){downloadText(`athena-project-${new Date().toISOString().slice(0,10)}.json`,JSON.stringify({athena:1,saved:new Date().toISOString(),data:ODATA,accounts:typeof OACC!=="undefined"?OACC:null}),"application/json")}
 
 // ---------- sample data, made here so the file needs nothing else ----------
 function sampleFiles(){const rnd=mulberry(42),g=()=>norm(rnd(),rnd());

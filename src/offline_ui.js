@@ -3,7 +3,7 @@ var OFF_READY=false,OMSG="";
 const pc0=v=>Math.round(v*100)+"%",pc1=v=>(v*100).toFixed(1)+"%";
 const MSHORT=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],moLab=mo=>MSHORT[+mo.slice(5)-1]+" "+mo.slice(2,4);
 function setDataChip(){const c=$("dataChip");if(!c)return;const yours=PRODUCTS.some(p=>p.src==="data"&&!p.mock);c.textContent=yours?(ODATA.useMock?"YOUR DATA + MOCK":"YOUR DATA"):"MOCK DATA";c.className="chip "+(yours?"calc":"ass")}
-function applyData(){FCC={k:"",v:null};const D=dataProducts();PRODUCTS=[...D,...(ODATA.useMock||!D.length?mockProducts():[])];SEL=0;PREV=null;IVAL={k:"",v:null,busy:false};resetChanges();drawAll();setDataChip();if(typeof drawSum==="function")try{drawSum()}catch(e){}}
+function applyData(){FCC={k:"",v:null};const D=dataProducts();PRODUCTS=[...D,...accProducts(D,ODATA.useMock||!D.length)];SEL=0;PREV=null;IVAL={k:"",v:null,busy:false};resetChanges();drawAll();setDataChip();if(typeof drawSum==="function")try{drawSum()}catch(e){}}
 
 // ---------- Your data ----------
 function drawData(){const el=$("dyRoot");if(!el)return;const C=OCHK,F=ODATA.files;
@@ -29,9 +29,9 @@ function drawData(){const el=$("dyRoot");if(!el)return;const C=OCHK,F=ODATA.file
  <div class="btns"><button id="dyExp" ${F.length?"":"disabled"}>Export project file</button><label class="filebtn">Import project file<input type="file" id="dyImp" accept=".json" hidden></label><button id="dyClr" ${F.length?"":"disabled"}>Clear all data</button></div></div>`;
 }
 async function addFiles(list){let n=0;for(const fl of list){const text=await fl.text();
-  if(/\.json$/i.test(fl.name)){try{const j=JSON.parse(text);if(j&&j.data&&j.data.files){ODATA=Object.assign({files:[],tags:{},saved:null,useMock:false},j.data);n++;continue}}catch(e){}OMSG=`${fl.name} isn't an Athena project file.`;continue}
+  if(/\.json$/i.test(fl.name)){try{const j=JSON.parse(text);if(j&&j.athena==="accounts"){await accImport(text,fl.name);OMSG=AMSG.replace(/<[^>]+>/g,"");n=-1e9;continue}if(j&&j.data&&j.data.files){ODATA=Object.assign({files:[],tags:{},saved:null,useMock:false},j.data);if(j.accounts&&j.accounts.list){OACC=j.accounts;await saveAcc()}n++;continue}}catch(e){}OMSG=`${fl.name} isn't an Athena project file.`;continue}
   const r=readFileText(fl.name,text);ODATA.files=ODATA.files.filter(x=>x.name!==fl.name);ODATA.files.push(r);n++}
- checkData();OMSG=n?`Read ${n} file${n>1?"s":""}. Check the results below, then press "Use this data".`:OMSG;drawData()}
+ checkData();OMSG=n<0?OMSG:n?`Read ${n} file${n>1?"s":""}. Check the results below, then press "Use this data".`:OMSG;drawData()}
 document.addEventListener("change",async e=>{const t=e.target;if(!t)return;
  if(t.id==="dyFile"&&t.files.length){await addFiles([...t.files]);t.value=""}
  else if(t.id==="dyImp"&&t.files.length){await addFiles([...t.files]);t.value="";if(OCHK&&OCHK.ok){await saveProject();applyData();OMSG="Project imported and in use.";drawData()}}
