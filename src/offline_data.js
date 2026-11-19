@@ -61,8 +61,8 @@ function readFileText(name,text){
 function checkData(){
  const F=ODATA.files.filter(f=>f.kind==="funnel"),R=ODATA.files.filter(f=>f.kind==="reasons"),out=[],prods={};
  ODATA.files.forEach(f=>(f.issues||[]).forEach(x=>out.push(Object.assign({f:f.name},x))));
- F.forEach(f=>f.rows.forEach(r=>{const P=prods[r.p]||(prods[r.p]={name:r.p,grain:f.grain,per:{},steps:[],seen:{}});if(!P.seen[r.s]){P.seen[r.s]=1;P.steps.push(r.s)}
-  const key=r.d+"|"+r.s+"|"+r.seg;const pd=P.per[r.d]||(P.per[r.d]={});if(pd[key]){P.dup=(P.dup||0)+1;return}pd[key]=r}));
+ F.forEach((f,fi)=>f.rows.forEach(r=>{const P=prods[r.p]||(prods[r.p]={name:r.p,grain:f.grain,per:{},steps:[],seen:{}});if(!P.seen[r.s]){P.seen[r.s]=1;P.steps.push(r.s)}
+  const key=r.d+"|"+r.s+"|"+r.seg;const pd=P.per[r.d]||(P.per[r.d]={});if(pd[key]){if(pd[key]._f===fi){P.dup=(P.dup||0)+1;return}P.upd=(P.upd||0)+1}pd[key]=Object.assign({_f:fi},r)}));
  Object.values(prods).forEach(P=>{const nm=P.name,dates=Object.keys(P.per).sort();
   // step order: the order steps appear in the period with the most steps
   let best=dates[0];dates.forEach(d=>{if(Object.keys(P.per[d]).length>Object.keys(P.per[best]).length)best=d});
@@ -74,6 +74,7 @@ function checkData(){
    P.per[d]._by=by});
   if(over)out.push({lv:"error",f:nm,t:`${over} ${over===1?"row shows":"rows show"} more people completing a step than entering it, for example ${oEx}. Those rows are capped at the number who entered.`});
   if(chain)out.push({lv:"warn",f:nm,t:`${chain===1?"Once,":chain+" times,"} more people entered a step than finished the step before it, for example ${cEx}. Check for steps that can be skipped or entered directly.`});
+  if(P.upd)out.push({lv:"info",f:nm,t:`${P.upd} ${P.upd===1?"row was":"rows were"} also in an earlier file. Athena used the newer file's numbers.`});
   if(P.dup)out.push({lv:"warn",f:nm,t:`${P.dup} duplicate ${P.dup===1?"row":"rows"} (same date, step and segment). Athena kept the first.`});
   // gaps
   const step=P.grain==="day"?1:P.grain==="week"?7:null;let gaps=[];
@@ -103,7 +104,7 @@ function dataProducts(){
    P.steps.forEach(s=>{if(by[s])pr.rows.push({step:s,mo,pe:"",e:by[s].e,c:by[s].c,med:null})})});
   const p=buildProduct(nm,pr,tags,posts,true);
   // drop-off reasons from the reasons files, else typical ones for the step type
-  p.steps.forEach(s=>{const rs={};R.forEach(f=>f.rows.forEach(r=>{if(r.p===nm&&r.s===s.name)rs[r.r]=(rs[r.r]||0)+r.n}));const tot=Object.values(rs).reduce((a,b)=>a+b,0);
+  p.steps.forEach(s=>{const rs={},seen={};R.forEach((f,fi)=>f.rows.forEach(r=>{if(r.p!==nm||r.s!==s.name)return;const k=r.d+"|"+r.r+"|"+(r.seg||"");if(seen[k]&&seen[k][0]!==fi){rs[r.r]-=seen[k][1];delete seen[k]}if(!seen[k])seen[k]=[fi,0];seen[k][1]+=r.n;rs[r.r]=(rs[r.r]||0)+r.n}));const tot=Object.values(rs).reduce((a,b)=>a+b,0);
    s.reasons=tot>0?Object.entries(rs).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([r,n])=>[r,n/tot]):(REASON_BY_TAG[s.tag]||null);s.reasonSrc=tot>0?"data":"typical"});
   const ar=archetypePersonas(p,null,false);p.personas=ar.personas;p.pm=ar.pm;p.personaSrc="assumed";calibrate(p);
   p.id="d_"+nm;p.tier="Your data";p.mock=false;p.example=false;p.series=seriesOf(P);

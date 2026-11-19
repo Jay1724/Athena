@@ -3,7 +3,7 @@ var OFF_READY=false,OMSG="";
 const pc0=v=>Math.round(v*100)+"%",pc1=v=>(v*100).toFixed(1)+"%";
 const MSHORT=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],moLab=mo=>MSHORT[+mo.slice(5)-1]+" "+mo.slice(2,4);
 function setDataChip(){const c=$("dataChip");if(!c)return;const yours=PRODUCTS.some(p=>p.src==="data"&&!p.mock);c.textContent=yours?(ODATA.useMock?"YOUR DATA + MOCK":"YOUR DATA"):"MOCK DATA";c.className="chip "+(yours?"calc":"ass")}
-function applyData(){const D=dataProducts();PRODUCTS=[...D,...(ODATA.useMock||!D.length?mockProducts():[])];SEL=0;PREV=null;IVAL={k:"",v:null,busy:false};resetChanges();drawAll();setDataChip();if(typeof drawSum==="function")try{drawSum()}catch(e){}}
+function applyData(){FCC={k:"",v:null};const D=dataProducts();PRODUCTS=[...D,...(ODATA.useMock||!D.length?mockProducts():[])];SEL=0;PREV=null;IVAL={k:"",v:null,busy:false};resetChanges();drawAll();setDataChip();if(typeof drawSum==="function")try{drawSum()}catch(e){}}
 
 // ---------- Your data ----------
 function drawData(){const el=$("dyRoot");if(!el)return;const C=OCHK,F=ODATA.files;

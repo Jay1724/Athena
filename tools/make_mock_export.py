@@ -17,7 +17,7 @@ REASONS={"Choose account":["Compared fees and left","Not sure which account fits
  "Affordability and risk decision":["Declined by risk rules","Income too low","Bureau mismatch"],"Terms and e-sign":["OTP not received","Too much to read"],
  "Account opened → first transaction":["Never made a first transaction","Waiting for card"]}
 lg=lambda p:math.log(p/(1-p));il=lambda x:1/(1+math.exp(-x))
-start=dt.date(2024,11,4);weeks=[start+dt.timedelta(7*i) for i in range(104)]
+start=dt.date(2024,11,4);weeks=[start+dt.timedelta(7*i) for i in range(106)]  # 104 in the main export, the rest arrive as an update
 fun=[];drops={}
 for prod,(base,steps) in FLOWS.items():
   trend=1.0
@@ -36,11 +36,19 @@ for prod,(base,steps) in FLOWS.items():
         c=int(round(n*il(x)))
         fun.append([prod,w.isoformat(),name,n,c,ch])
         key=(prod,mid.strftime("%Y-%m"),name);drops[key]=drops.get(key,0)+(n-c);n=c
+CUT=weeks[104].isoformat();UPD=weeks[100].isoformat()
+upd=[r[:] for r in fun if r[1]>=UPD];fun=[r for r in fun if r[1]<CUT]
+for r in upd:   # the update restates the last 4 weeks with small corrections (late-arriving completions)
+  if r[1]<CUT: r[4]=min(r[3],int(r[4]*1.01)+1)
+H=["Product Name","Week Start","Step Name","Users In","Users Out","Channel"]
 with open(os.path.join(OUT,"weekly_funnel_export.csv"),"w",newline="",encoding="utf-8-sig") as f:
-  w=csv.writer(f,delimiter=";");w.writerow(["Product Name","Week Start","Step Name","Users In","Users Out","Channel"]);w.writerows(fun)
+  w=csv.writer(f,delimiter=";");w.writerow(H);w.writerows(fun)
+with open(os.path.join(OUT,"weekly_funnel_update_nov2026.csv"),"w",newline="",encoding="utf-8-sig") as f:
+  w=csv.writer(f,delimiter=";");w.writerow(H);w.writerows(upd)
 with open(os.path.join(OUT,"dropoff_reasons_export.csv"),"w",newline="",encoding="utf-8-sig") as f:
   w=csv.writer(f,delimiter=";");w.writerow(["Product","Month","Step","Drop-off reason","Drop-offs"])
   for (prod,mo,name),d in sorted(drops.items()):
+    if mo>="2026-11": continue
     rs=REASONS[name];wt=[random.uniform(.5,1.5)*(1.6 if i==0 else 1) for i in range(len(rs))]
     if prod=="Achieva Account" and "Proof" in name and mo>="2026-06": wt[0]*=2
     t=sum(wt);[w.writerow([prod,mo,name,r,int(d*x/t)]) for r,x in zip(rs,wt)]

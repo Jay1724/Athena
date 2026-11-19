@@ -6,6 +6,7 @@ Made by `tools/make_mock_export.py` to test Athena Offline the way a real export
 |---|---|
 | `weekly_funnel_export.csv` | 104 weeks (Nov 2024 to Oct 2026) of people in and out of each step, for 4 accounts |
 | `dropoff_reasons_export.csv` | Monthly drop-off reasons per step |
+| `weekly_funnel_update_nov2026.csv` | The next export: 6 weeks (5 Oct to 15 Nov 2026). The first 4 weeks restate October with late-arriving completions, the last 2 are new |
 | `weekly_funnel_export_messy.csv` | The same funnel with 4 planted problems for the data checks to catch |
 
 Stories planted in the data, to see whether Athena finds them:
@@ -17,3 +18,5 @@ Stories planted in the data, to see whether Athena finds them:
 - Payday weeks (the 22nd to the 2nd) bring about 8% more starters.
 
 Planted problems in the messy file: one week missing (Prestige, 13 July 2026), one row with more people out than in, one step with more people in than came through the step before, and one duplicate row.
+
+To test an update: load the export and reasons, press "Use this data", then add the update file and press it again. Athena keeps the newer numbers where weeks overlap and says how many rows it replaced.

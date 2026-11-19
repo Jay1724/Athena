@@ -1,0 +1,421 @@
+﻿Product Name;Week Start;Step Name;Users In;Users Out;Channel
+MyMo Account;2026-10-05;Choose account;3766;2478;App
+MyMo Account;2026-10-05;Eligibility check;2453;2406;App
+MyMo Account;2026-10-05;Personal details;2382;1908;App
+MyMo Account;2026-10-05;ID capture;1889;1696;App
+MyMo Account;2026-10-05;Identity verification;1679;1300;App
+MyMo Account;2026-10-05;Confirm address;1287;1177;App
+MyMo Account;2026-10-05;Terms and e-sign;1165;1098;App
+MyMo Account;2026-10-05;Account opened → first transaction;1087;565;App
+MyMo Account;2026-10-05;Choose account;2056;1222;Web
+MyMo Account;2026-10-05;Eligibility check;1209;1178;Web
+MyMo Account;2026-10-05;Personal details;1166;868;Web
+MyMo Account;2026-10-05;ID capture;859;751;Web
+MyMo Account;2026-10-05;Identity verification;743;530;Web
+MyMo Account;2026-10-05;Confirm address;524;472;Web
+MyMo Account;2026-10-05;Terms and e-sign;467;429;Web
+MyMo Account;2026-10-05;Account opened → first transaction;424;184;Web
+MyMo Account;2026-10-12;Choose account;3928;2613;App
+MyMo Account;2026-10-12;Eligibility check;2587;2541;App
+MyMo Account;2026-10-12;Personal details;2515;2027;App
+MyMo Account;2026-10-12;ID capture;2006;1785;App
+MyMo Account;2026-10-12;Identity verification;1767;1349;App
+MyMo Account;2026-10-12;Confirm address;1335;1231;App
+MyMo Account;2026-10-12;Terms and e-sign;1218;1144;App
+MyMo Account;2026-10-12;Account opened → first transaction;1132;570;App
+MyMo Account;2026-10-12;Choose account;2020;1196;Web
+MyMo Account;2026-10-12;Eligibility check;1184;1152;Web
+MyMo Account;2026-10-12;Personal details;1140;847;Web
+MyMo Account;2026-10-12;ID capture;838;724;Web
+MyMo Account;2026-10-12;Identity verification;716;516;Web
+MyMo Account;2026-10-12;Confirm address;510;458;Web
+MyMo Account;2026-10-12;Terms and e-sign;453;419;Web
+MyMo Account;2026-10-12;Account opened → first transaction;414;170;Web
+MyMo Account;2026-10-19;Choose account;3939;2611;App
+MyMo Account;2026-10-19;Eligibility check;2585;2532;App
+MyMo Account;2026-10-19;Personal details;2506;2005;App
+MyMo Account;2026-10-19;ID capture;1985;1764;App
+MyMo Account;2026-10-19;Identity verification;1746;1330;App
+MyMo Account;2026-10-19;Confirm address;1316;1202;App
+MyMo Account;2026-10-19;Terms and e-sign;1190;1121;App
+MyMo Account;2026-10-19;Account opened → first transaction;1109;556;App
+MyMo Account;2026-10-19;Choose account;1928;1131;Web
+MyMo Account;2026-10-19;Eligibility check;1119;1085;Web
+MyMo Account;2026-10-19;Personal details;1074;815;Web
+MyMo Account;2026-10-19;ID capture;806;706;Web
+MyMo Account;2026-10-19;Identity verification;699;499;Web
+MyMo Account;2026-10-19;Confirm address;494;439;Web
+MyMo Account;2026-10-19;Terms and e-sign;434;401;Web
+MyMo Account;2026-10-19;Account opened → first transaction;397;169;Web
+MyMo Account;2026-10-26;Choose account;4601;3094;App
+MyMo Account;2026-10-26;Eligibility check;3063;2999;App
+MyMo Account;2026-10-26;Personal details;2969;2396;App
+MyMo Account;2026-10-26;ID capture;2372;2143;App
+MyMo Account;2026-10-26;Identity verification;2121;1604;App
+MyMo Account;2026-10-26;Confirm address;1588;1447;App
+MyMo Account;2026-10-26;Terms and e-sign;1432;1350;App
+MyMo Account;2026-10-26;Account opened → first transaction;1336;698;App
+MyMo Account;2026-10-26;Choose account;1927;1192;Web
+MyMo Account;2026-10-26;Eligibility check;1180;1150;Web
+MyMo Account;2026-10-26;Personal details;1138;870;Web
+MyMo Account;2026-10-26;ID capture;861;755;Web
+MyMo Account;2026-10-26;Identity verification;747;535;Web
+MyMo Account;2026-10-26;Confirm address;529;477;Web
+MyMo Account;2026-10-26;Terms and e-sign;472;437;Web
+MyMo Account;2026-10-26;Account opened → first transaction;432;180;Web
+MyMo Account;2026-11-02;Choose account;4334;2889;App
+MyMo Account;2026-11-02;Eligibility check;2889;2800;App
+MyMo Account;2026-11-02;Personal details;2800;2222;App
+MyMo Account;2026-11-02;ID capture;2222;1969;App
+MyMo Account;2026-11-02;Identity verification;1969;1487;App
+MyMo Account;2026-11-02;Confirm address;1487;1354;App
+MyMo Account;2026-11-02;Terms and e-sign;1354;1266;App
+MyMo Account;2026-11-02;Account opened → first transaction;1266;663;App
+MyMo Account;2026-11-02;Choose account;1970;1170;Web
+MyMo Account;2026-11-02;Eligibility check;1170;1125;Web
+MyMo Account;2026-11-02;Personal details;1125;844;Web
+MyMo Account;2026-11-02;ID capture;844;719;Web
+MyMo Account;2026-11-02;Identity verification;719;502;Web
+MyMo Account;2026-11-02;Confirm address;502;440;Web
+MyMo Account;2026-11-02;Terms and e-sign;440;402;Web
+MyMo Account;2026-11-02;Account opened → first transaction;402;181;Web
+MyMo Account;2026-11-09;Choose account;3790;2554;App
+MyMo Account;2026-11-09;Eligibility check;2554;2481;App
+MyMo Account;2026-11-09;Personal details;2481;1973;App
+MyMo Account;2026-11-09;ID capture;1973;1772;App
+MyMo Account;2026-11-09;Identity verification;1772;1342;App
+MyMo Account;2026-11-09;Confirm address;1342;1222;App
+MyMo Account;2026-11-09;Terms and e-sign;1222;1139;App
+MyMo Account;2026-11-09;Account opened → first transaction;1139;542;App
+MyMo Account;2026-11-09;Choose account;1796;1066;Web
+MyMo Account;2026-11-09;Eligibility check;1066;1028;Web
+MyMo Account;2026-11-09;Personal details;1028;760;Web
+MyMo Account;2026-11-09;ID capture;760;652;Web
+MyMo Account;2026-11-09;Identity verification;652;453;Web
+MyMo Account;2026-11-09;Confirm address;453;405;Web
+MyMo Account;2026-11-09;Terms and e-sign;405;370;Web
+MyMo Account;2026-11-09;Account opened → first transaction;370;164;Web
+MyMo Plus Account;2026-10-05;Choose account;1636;1161;App
+MyMo Plus Account;2026-10-05;Eligibility check;1149;1097;App
+MyMo Plus Account;2026-10-05;Personal details;1086;824;App
+MyMo Plus Account;2026-10-05;ID capture;815;737;App
+MyMo Plus Account;2026-10-05;Identity verification;729;573;App
+MyMo Plus Account;2026-10-05;Proof of address or income;567;451;App
+MyMo Plus Account;2026-10-05;Affordability and risk decision;446;318;App
+MyMo Plus Account;2026-10-05;Terms and e-sign;314;299;App
+MyMo Plus Account;2026-10-05;Account opened → first transaction;296;172;App
+MyMo Plus Account;2026-10-05;Choose account;740;481;Web
+MyMo Plus Account;2026-10-05;Eligibility check;476;452;Web
+MyMo Plus Account;2026-10-05;Personal details;447;310;Web
+MyMo Plus Account;2026-10-05;ID capture;306;268;Web
+MyMo Plus Account;2026-10-05;Identity verification;265;194;Web
+MyMo Plus Account;2026-10-05;Proof of address or income;192;149;Web
+MyMo Plus Account;2026-10-05;Affordability and risk decision;147;102;Web
+MyMo Plus Account;2026-10-05;Terms and e-sign;100;94;Web
+MyMo Plus Account;2026-10-05;Account opened → first transaction;93;49;Web
+MyMo Plus Account;2026-10-12;Choose account;1663;1199;App
+MyMo Plus Account;2026-10-12;Eligibility check;1187;1135;App
+MyMo Plus Account;2026-10-12;Personal details;1123;850;App
+MyMo Plus Account;2026-10-12;ID capture;841;764;App
+MyMo Plus Account;2026-10-12;Identity verification;756;583;App
+MyMo Plus Account;2026-10-12;Proof of address or income;577;466;App
+MyMo Plus Account;2026-10-12;Affordability and risk decision;461;344;App
+MyMo Plus Account;2026-10-12;Terms and e-sign;340;324;App
+MyMo Plus Account;2026-10-12;Account opened → first transaction;320;187;App
+MyMo Plus Account;2026-10-12;Choose account;757;492;Web
+MyMo Plus Account;2026-10-12;Eligibility check;487;462;Web
+MyMo Plus Account;2026-10-12;Personal details;457;323;Web
+MyMo Plus Account;2026-10-12;ID capture;319;283;Web
+MyMo Plus Account;2026-10-12;Identity verification;280;209;Web
+MyMo Plus Account;2026-10-12;Proof of address or income;206;161;Web
+MyMo Plus Account;2026-10-12;Affordability and risk decision;159;107;Web
+MyMo Plus Account;2026-10-12;Terms and e-sign;105;98;Web
+MyMo Plus Account;2026-10-12;Account opened → first transaction;97;52;Web
+MyMo Plus Account;2026-10-19;Choose account;1602;1119;App
+MyMo Plus Account;2026-10-19;Eligibility check;1107;1061;App
+MyMo Plus Account;2026-10-19;Personal details;1050;772;App
+MyMo Plus Account;2026-10-19;ID capture;764;693;App
+MyMo Plus Account;2026-10-19;Identity verification;686;543;App
+MyMo Plus Account;2026-10-19;Proof of address or income;537;434;App
+MyMo Plus Account;2026-10-19;Affordability and risk decision;429;314;App
+MyMo Plus Account;2026-10-19;Terms and e-sign;310;296;App
+MyMo Plus Account;2026-10-19;Account opened → first transaction;293;171;App
+MyMo Plus Account;2026-10-19;Choose account;788;519;Web
+MyMo Plus Account;2026-10-19;Eligibility check;513;483;Web
+MyMo Plus Account;2026-10-19;Personal details;478;327;Web
+MyMo Plus Account;2026-10-19;ID capture;323;285;Web
+MyMo Plus Account;2026-10-19;Identity verification;282;210;Web
+MyMo Plus Account;2026-10-19;Proof of address or income;207;161;Web
+MyMo Plus Account;2026-10-19;Affordability and risk decision;159;109;Web
+MyMo Plus Account;2026-10-19;Terms and e-sign;107;100;Web
+MyMo Plus Account;2026-10-19;Account opened → first transaction;99;53;Web
+MyMo Plus Account;2026-10-26;Choose account;1649;1177;App
+MyMo Plus Account;2026-10-26;Eligibility check;1165;1118;App
+MyMo Plus Account;2026-10-26;Personal details;1106;820;App
+MyMo Plus Account;2026-10-26;ID capture;811;742;App
+MyMo Plus Account;2026-10-26;Identity verification;734;571;App
+MyMo Plus Account;2026-10-26;Proof of address or income;565;462;App
+MyMo Plus Account;2026-10-26;Affordability and risk decision;457;328;App
+MyMo Plus Account;2026-10-26;Terms and e-sign;324;310;App
+MyMo Plus Account;2026-10-26;Account opened → first transaction;306;179;App
+MyMo Plus Account;2026-10-26;Choose account;781;517;Web
+MyMo Plus Account;2026-10-26;Eligibility check;511;485;Web
+MyMo Plus Account;2026-10-26;Personal details;480;340;Web
+MyMo Plus Account;2026-10-26;ID capture;336;298;Web
+MyMo Plus Account;2026-10-26;Identity verification;295;220;Web
+MyMo Plus Account;2026-10-26;Proof of address or income;217;168;Web
+MyMo Plus Account;2026-10-26;Affordability and risk decision;166;112;Web
+MyMo Plus Account;2026-10-26;Terms and e-sign;110;104;Web
+MyMo Plus Account;2026-10-26;Account opened → first transaction;102;55;Web
+MyMo Plus Account;2026-11-02;Choose account;1804;1271;App
+MyMo Plus Account;2026-11-02;Eligibility check;1271;1208;App
+MyMo Plus Account;2026-11-02;Personal details;1208;893;App
+MyMo Plus Account;2026-11-02;ID capture;893;800;App
+MyMo Plus Account;2026-11-02;Identity verification;800;623;App
+MyMo Plus Account;2026-11-02;Proof of address or income;623;493;App
+MyMo Plus Account;2026-11-02;Affordability and risk decision;493;354;App
+MyMo Plus Account;2026-11-02;Terms and e-sign;354;333;App
+MyMo Plus Account;2026-11-02;Account opened → first transaction;333;187;App
+MyMo Plus Account;2026-11-02;Choose account;845;536;Web
+MyMo Plus Account;2026-11-02;Eligibility check;536;503;Web
+MyMo Plus Account;2026-11-02;Personal details;503;362;Web
+MyMo Plus Account;2026-11-02;ID capture;362;315;Web
+MyMo Plus Account;2026-11-02;Identity verification;315;228;Web
+MyMo Plus Account;2026-11-02;Proof of address or income;228;173;Web
+MyMo Plus Account;2026-11-02;Affordability and risk decision;173;119;Web
+MyMo Plus Account;2026-11-02;Terms and e-sign;119;110;Web
+MyMo Plus Account;2026-11-02;Account opened → first transaction;110;57;Web
+MyMo Plus Account;2026-11-09;Choose account;1628;1149;App
+MyMo Plus Account;2026-11-09;Eligibility check;1149;1092;App
+MyMo Plus Account;2026-11-09;Personal details;1092;812;App
+MyMo Plus Account;2026-11-09;ID capture;812;733;App
+MyMo Plus Account;2026-11-09;Identity verification;733;572;App
+MyMo Plus Account;2026-11-09;Proof of address or income;572;458;App
+MyMo Plus Account;2026-11-09;Affordability and risk decision;458;319;App
+MyMo Plus Account;2026-11-09;Terms and e-sign;319;301;App
+MyMo Plus Account;2026-11-09;Account opened → first transaction;301;173;App
+MyMo Plus Account;2026-11-09;Choose account;749;475;Web
+MyMo Plus Account;2026-11-09;Eligibility check;475;444;Web
+MyMo Plus Account;2026-11-09;Personal details;444;307;Web
+MyMo Plus Account;2026-11-09;ID capture;307;272;Web
+MyMo Plus Account;2026-11-09;Identity verification;272;199;Web
+MyMo Plus Account;2026-11-09;Proof of address or income;199;150;Web
+MyMo Plus Account;2026-11-09;Affordability and risk decision;150;99;Web
+MyMo Plus Account;2026-11-09;Terms and e-sign;99;92;Web
+MyMo Plus Account;2026-11-09;Account opened → first transaction;92;47;Web
+Achieva Account;2026-10-05;Choose account;988;720;App
+Achieva Account;2026-10-05;Eligibility check;712;668;App
+Achieva Account;2026-10-05;Personal details;661;513;App
+Achieva Account;2026-10-05;ID capture;507;469;App
+Achieva Account;2026-10-05;Identity verification;464;370;App
+Achieva Account;2026-10-05;Proof of address or income;366;260;App
+Achieva Account;2026-10-05;Affordability and risk decision;257;171;App
+Achieva Account;2026-10-05;Terms and e-sign;169;163;App
+Achieva Account;2026-10-05;Account opened → first transaction;161;104;App
+Achieva Account;2026-10-05;Choose account;482;325;Web
+Achieva Account;2026-10-05;Eligibility check;321;297;Web
+Achieva Account;2026-10-05;Personal details;294;215;Web
+Achieva Account;2026-10-05;ID capture;212;190;Web
+Achieva Account;2026-10-05;Identity verification;188;144;Web
+Achieva Account;2026-10-05;Proof of address or income;142;94;Web
+Achieva Account;2026-10-05;Affordability and risk decision;93;56;Web
+Achieva Account;2026-10-05;Terms and e-sign;55;52;Web
+Achieva Account;2026-10-05;Account opened → first transaction;51;31;Web
+Achieva Account;2026-10-12;Choose account;1043;770;App
+Achieva Account;2026-10-12;Eligibility check;762;720;App
+Achieva Account;2026-10-12;Personal details;712;546;App
+Achieva Account;2026-10-12;ID capture;540;499;App
+Achieva Account;2026-10-12;Identity verification;494;399;App
+Achieva Account;2026-10-12;Proof of address or income;395;285;App
+Achieva Account;2026-10-12;Affordability and risk decision;282;187;App
+Achieva Account;2026-10-12;Terms and e-sign;185;177;App
+Achieva Account;2026-10-12;Account opened → first transaction;175;115;App
+Achieva Account;2026-10-12;Choose account;451;297;Web
+Achieva Account;2026-10-12;Eligibility check;294;273;Web
+Achieva Account;2026-10-12;Personal details;270;198;Web
+Achieva Account;2026-10-12;ID capture;196;178;Web
+Achieva Account;2026-10-12;Identity verification;176;133;Web
+Achieva Account;2026-10-12;Proof of address or income;131;86;Web
+Achieva Account;2026-10-12;Affordability and risk decision;85;52;Web
+Achieva Account;2026-10-12;Terms and e-sign;51;49;Web
+Achieva Account;2026-10-12;Account opened → first transaction;48;29;Web
+Achieva Account;2026-10-19;Choose account;1025;759;App
+Achieva Account;2026-10-19;Eligibility check;751;704;App
+Achieva Account;2026-10-19;Personal details;697;541;App
+Achieva Account;2026-10-19;ID capture;535;494;App
+Achieva Account;2026-10-19;Identity verification;489;398;App
+Achieva Account;2026-10-19;Proof of address or income;394;286;App
+Achieva Account;2026-10-19;Affordability and risk decision;283;191;App
+Achieva Account;2026-10-19;Terms and e-sign;189;181;App
+Achieva Account;2026-10-19;Account opened → first transaction;179;117;App
+Achieva Account;2026-10-19;Choose account;469;313;Web
+Achieva Account;2026-10-19;Eligibility check;309;284;Web
+Achieva Account;2026-10-19;Personal details;281;203;Web
+Achieva Account;2026-10-19;ID capture;200;180;Web
+Achieva Account;2026-10-19;Identity verification;178;135;Web
+Achieva Account;2026-10-19;Proof of address or income;133;87;Web
+Achieva Account;2026-10-19;Affordability and risk decision;86;53;Web
+Achieva Account;2026-10-19;Terms and e-sign;52;49;Web
+Achieva Account;2026-10-19;Account opened → first transaction;48;30;Web
+Achieva Account;2026-10-26;Choose account;1215;872;App
+Achieva Account;2026-10-26;Eligibility check;863;814;App
+Achieva Account;2026-10-26;Personal details;805;629;App
+Achieva Account;2026-10-26;ID capture;622;570;App
+Achieva Account;2026-10-26;Identity verification;564;453;App
+Achieva Account;2026-10-26;Proof of address or income;448;314;App
+Achieva Account;2026-10-26;Affordability and risk decision;310;201;App
+Achieva Account;2026-10-26;Terms and e-sign;199;191;App
+Achieva Account;2026-10-26;Account opened → first transaction;189;124;App
+Achieva Account;2026-10-26;Choose account;504;331;Web
+Achieva Account;2026-10-26;Eligibility check;327;301;Web
+Achieva Account;2026-10-26;Personal details;298;216;Web
+Achieva Account;2026-10-26;ID capture;213;190;Web
+Achieva Account;2026-10-26;Identity verification;188;140;Web
+Achieva Account;2026-10-26;Proof of address or income;138;91;Web
+Achieva Account;2026-10-26;Affordability and risk decision;90;55;Web
+Achieva Account;2026-10-26;Terms and e-sign;54;51;Web
+Achieva Account;2026-10-26;Account opened → first transaction;50;30;Web
+Achieva Account;2026-11-02;Choose account;978;718;App
+Achieva Account;2026-11-02;Eligibility check;718;671;App
+Achieva Account;2026-11-02;Personal details;671;504;App
+Achieva Account;2026-11-02;ID capture;504;455;App
+Achieva Account;2026-11-02;Identity verification;455;363;App
+Achieva Account;2026-11-02;Proof of address or income;363;256;App
+Achieva Account;2026-11-02;Affordability and risk decision;256;168;App
+Achieva Account;2026-11-02;Terms and e-sign;168;159;App
+Achieva Account;2026-11-02;Account opened → first transaction;159;102;App
+Achieva Account;2026-11-02;Choose account;470;308;Web
+Achieva Account;2026-11-02;Eligibility check;308;282;Web
+Achieva Account;2026-11-02;Personal details;282;197;Web
+Achieva Account;2026-11-02;ID capture;197;174;Web
+Achieva Account;2026-11-02;Identity verification;174;129;Web
+Achieva Account;2026-11-02;Proof of address or income;129;86;Web
+Achieva Account;2026-11-02;Affordability and risk decision;86;52;Web
+Achieva Account;2026-11-02;Terms and e-sign;52;49;Web
+Achieva Account;2026-11-02;Account opened → first transaction;49;29;Web
+Achieva Account;2026-11-09;Choose account;1036;744;App
+Achieva Account;2026-11-09;Eligibility check;744;692;App
+Achieva Account;2026-11-09;Personal details;692;510;App
+Achieva Account;2026-11-09;ID capture;510;459;App
+Achieva Account;2026-11-09;Identity verification;459;366;App
+Achieva Account;2026-11-09;Proof of address or income;366;261;App
+Achieva Account;2026-11-09;Affordability and risk decision;261;171;App
+Achieva Account;2026-11-09;Terms and e-sign;171;162;App
+Achieva Account;2026-11-09;Account opened → first transaction;162;105;App
+Achieva Account;2026-11-09;Choose account;451;299;Web
+Achieva Account;2026-11-09;Eligibility check;299;273;Web
+Achieva Account;2026-11-09;Personal details;273;191;Web
+Achieva Account;2026-11-09;ID capture;191;169;Web
+Achieva Account;2026-11-09;Identity verification;169;126;Web
+Achieva Account;2026-11-09;Proof of address or income;126;83;Web
+Achieva Account;2026-11-09;Affordability and risk decision;83;50;Web
+Achieva Account;2026-11-09;Terms and e-sign;50;47;Web
+Achieva Account;2026-11-09;Account opened → first transaction;47;27;Web
+Prestige Banking Account;2026-10-05;Choose account;387;298;App
+Prestige Banking Account;2026-10-05;Eligibility check;295;261;App
+Prestige Banking Account;2026-10-05;Personal details;258;209;App
+Prestige Banking Account;2026-10-05;ID capture;206;192;App
+Prestige Banking Account;2026-10-05;Identity verification;190;153;App
+Prestige Banking Account;2026-10-05;Proof of income and address;151;115;App
+Prestige Banking Account;2026-10-05;Affordability and risk decision;113;70;App
+Prestige Banking Account;2026-10-05;Terms and e-sign;69;67;App
+Prestige Banking Account;2026-10-05;Account opened → first transaction;66;47;App
+Prestige Banking Account;2026-10-05;Choose account;199;140;Web
+Prestige Banking Account;2026-10-05;Eligibility check;138;119;Web
+Prestige Banking Account;2026-10-05;Personal details;117;88;Web
+Prestige Banking Account;2026-10-05;ID capture;87;79;Web
+Prestige Banking Account;2026-10-05;Identity verification;78;61;Web
+Prestige Banking Account;2026-10-05;Proof of income and address;60;43;Web
+Prestige Banking Account;2026-10-05;Affordability and risk decision;42;24;Web
+Prestige Banking Account;2026-10-05;Terms and e-sign;23;23;Web
+Prestige Banking Account;2026-10-05;Account opened → first transaction;22;15;Web
+Prestige Banking Account;2026-10-12;Choose account;381;291;App
+Prestige Banking Account;2026-10-12;Eligibility check;288;258;App
+Prestige Banking Account;2026-10-12;Personal details;255;201;App
+Prestige Banking Account;2026-10-12;ID capture;199;186;App
+Prestige Banking Account;2026-10-12;Identity verification;184;150;App
+Prestige Banking Account;2026-10-12;Proof of income and address;148;114;App
+Prestige Banking Account;2026-10-12;Affordability and risk decision;112;70;App
+Prestige Banking Account;2026-10-12;Terms and e-sign;69;67;App
+Prestige Banking Account;2026-10-12;Account opened → first transaction;66;48;App
+Prestige Banking Account;2026-10-12;Choose account;197;143;Web
+Prestige Banking Account;2026-10-12;Eligibility check;141;121;Web
+Prestige Banking Account;2026-10-12;Personal details;119;89;Web
+Prestige Banking Account;2026-10-12;ID capture;88;80;Web
+Prestige Banking Account;2026-10-12;Identity verification;79;63;Web
+Prestige Banking Account;2026-10-12;Proof of income and address;62;45;Web
+Prestige Banking Account;2026-10-12;Affordability and risk decision;44;25;Web
+Prestige Banking Account;2026-10-12;Terms and e-sign;24;24;Web
+Prestige Banking Account;2026-10-12;Account opened → first transaction;23;16;Web
+Prestige Banking Account;2026-10-19;Choose account;389;292;App
+Prestige Banking Account;2026-10-19;Eligibility check;289;259;App
+Prestige Banking Account;2026-10-19;Personal details;256;204;App
+Prestige Banking Account;2026-10-19;ID capture;201;187;App
+Prestige Banking Account;2026-10-19;Identity verification;185;149;App
+Prestige Banking Account;2026-10-19;Proof of income and address;147;111;App
+Prestige Banking Account;2026-10-19;Affordability and risk decision;109;68;App
+Prestige Banking Account;2026-10-19;Terms and e-sign;67;65;App
+Prestige Banking Account;2026-10-19;Account opened → first transaction;64;47;App
+Prestige Banking Account;2026-10-19;Choose account;191;138;Web
+Prestige Banking Account;2026-10-19;Eligibility check;136;118;Web
+Prestige Banking Account;2026-10-19;Personal details;116;88;Web
+Prestige Banking Account;2026-10-19;ID capture;87;79;Web
+Prestige Banking Account;2026-10-19;Identity verification;78;60;Web
+Prestige Banking Account;2026-10-19;Proof of income and address;59;42;Web
+Prestige Banking Account;2026-10-19;Affordability and risk decision;41;24;Web
+Prestige Banking Account;2026-10-19;Terms and e-sign;23;23;Web
+Prestige Banking Account;2026-10-19;Account opened → first transaction;22;15;Web
+Prestige Banking Account;2026-10-26;Choose account;456;341;App
+Prestige Banking Account;2026-10-26;Eligibility check;337;301;App
+Prestige Banking Account;2026-10-26;Personal details;298;240;App
+Prestige Banking Account;2026-10-26;ID capture;237;218;App
+Prestige Banking Account;2026-10-26;Identity verification;215;175;App
+Prestige Banking Account;2026-10-26;Proof of income and address;173;131;App
+Prestige Banking Account;2026-10-26;Affordability and risk decision;129;79;App
+Prestige Banking Account;2026-10-26;Terms and e-sign;78;76;App
+Prestige Banking Account;2026-10-26;Account opened → first transaction;75;53;App
+Prestige Banking Account;2026-10-26;Choose account;225;159;Web
+Prestige Banking Account;2026-10-26;Eligibility check;157;136;Web
+Prestige Banking Account;2026-10-26;Personal details;134;100;Web
+Prestige Banking Account;2026-10-26;ID capture;99;90;Web
+Prestige Banking Account;2026-10-26;Identity verification;89;70;Web
+Prestige Banking Account;2026-10-26;Proof of income and address;69;48;Web
+Prestige Banking Account;2026-10-26;Affordability and risk decision;47;27;Web
+Prestige Banking Account;2026-10-26;Terms and e-sign;26;26;Web
+Prestige Banking Account;2026-10-26;Account opened → first transaction;25;17;Web
+Prestige Banking Account;2026-11-02;Choose account;406;308;App
+Prestige Banking Account;2026-11-02;Eligibility check;308;267;App
+Prestige Banking Account;2026-11-02;Personal details;267;211;App
+Prestige Banking Account;2026-11-02;ID capture;211;195;App
+Prestige Banking Account;2026-11-02;Identity verification;195;159;App
+Prestige Banking Account;2026-11-02;Proof of income and address;159;116;App
+Prestige Banking Account;2026-11-02;Affordability and risk decision;116;71;App
+Prestige Banking Account;2026-11-02;Terms and e-sign;71;68;App
+Prestige Banking Account;2026-11-02;Account opened → first transaction;68;47;App
+Prestige Banking Account;2026-11-02;Choose account;189;130;Web
+Prestige Banking Account;2026-11-02;Eligibility check;130;111;Web
+Prestige Banking Account;2026-11-02;Personal details;111;82;Web
+Prestige Banking Account;2026-11-02;ID capture;82;74;Web
+Prestige Banking Account;2026-11-02;Identity verification;74;56;Web
+Prestige Banking Account;2026-11-02;Proof of income and address;56;38;Web
+Prestige Banking Account;2026-11-02;Affordability and risk decision;38;21;Web
+Prestige Banking Account;2026-11-02;Terms and e-sign;21;20;Web
+Prestige Banking Account;2026-11-02;Account opened → first transaction;20;13;Web
+Prestige Banking Account;2026-11-09;Choose account;403;303;App
+Prestige Banking Account;2026-11-09;Eligibility check;303;268;App
+Prestige Banking Account;2026-11-09;Personal details;268;213;App
+Prestige Banking Account;2026-11-09;ID capture;213;194;App
+Prestige Banking Account;2026-11-09;Identity verification;194;157;App
+Prestige Banking Account;2026-11-09;Proof of income and address;157;115;App
+Prestige Banking Account;2026-11-09;Affordability and risk decision;115;69;App
+Prestige Banking Account;2026-11-09;Terms and e-sign;69;66;App
+Prestige Banking Account;2026-11-09;Account opened → first transaction;66;48;App
+Prestige Banking Account;2026-11-09;Choose account;179;125;Web
+Prestige Banking Account;2026-11-09;Eligibility check;125;107;Web
+Prestige Banking Account;2026-11-09;Personal details;107;77;Web
+Prestige Banking Account;2026-11-09;ID capture;77;70;Web
+Prestige Banking Account;2026-11-09;Identity verification;70;54;Web
+Prestige Banking Account;2026-11-09;Proof of income and address;54;38;Web
+Prestige Banking Account;2026-11-09;Affordability and risk decision;38;20;Web
+Prestige Banking Account;2026-11-09;Terms and e-sign;20;19;Web
+Prestige Banking Account;2026-11-09;Account opened → first transaction;19;13;Web
