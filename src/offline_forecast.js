@@ -10,10 +10,12 @@ const qtl=(a,q)=>{if(!a.length)return 0;const s=a.slice().sort((x,y)=>x-y),i=(s.
 // calendar weight of each day (day of the week, payday), learned from daily data; 1 for weekly or monthly data
 function calW(series){const rh=rhythmOf(series);if(!rh)return null;const pay=1+(rh.pay||0);return ds=>{const dt=new Date(ds+"T00:00:00Z"),day=dt.getUTCDate();return rh.dow[(dt.getUTCDay()+6)%7]*((day>=25||day<=2)?pay:1)/(1+(pay-1)*8/30.4)}}
 function monthW(mo,wf){const n=MDAYS(mo);if(!wf)return n;let s=0;for(let d=1;d<=n;d++)s+=wf(`${mo}-${pad2(d)}`);return s}
-function monthly(series){const M={};series.rows.forEach(r=>{const mo=r.d.slice(0,7),a=M[mo]||(M[mo]={mo,n:0,v:series.steps.map(()=>[0,0])});a.n++;r.v.forEach((x,k)=>{if(x){a.v[k][0]+=x[0];a.v[k][1]+=x[1]}})});
+function monthly(series){const M={},wk=series.grain==="week",put=(mo,x,v)=>{const a=M[mo]||(M[mo]={mo,n:0,v:series.steps.map(()=>[0,0])});a.n+=wk?7*x:1;v.forEach((y,k)=>{if(y){a.v[k][0]+=y[0]*x;a.v[k][1]+=y[1]*x}})};
+ // weekly rows are shared across the months their 7 days fall in, so a 5-week month isn't read as a busy month
+ series.rows.forEach(r=>{if(!wk){put(r.d.slice(0,7),1,r.v);return}const t=Date.parse(r.d+"T00:00:00Z"),c={};for(let i=0;i<7;i++){const mo=new Date(t+864e5*i).toISOString().slice(0,7);c[mo]=(c[mo]||0)+1}for(const mo in c)put(mo,c[mo]/7,r.v)});
  const L=Object.values(M).sort((a,b)=>a.mo<b.mo?-1:1);
  // a part month at the end (daily or weekly data that stops mid-month) is scaled up so it isn't read as a drop
- if(series.grain!=="month"&&L.length){const last=L[L.length-1],exp=series.grain==="day"?MDAYS(last.mo):MDAYS(last.mo)/7;if(last.n<exp*.9)L.pop()}
+ if(series.grain!=="month"&&L.length){const last=L[L.length-1],exp=MDAYS(last.mo);if(last.n<exp*.9)L.pop();if(wk&&L.length&&L[0].n<MDAYS(L[0].mo)*.9)L.shift()}
  const wf=calW(series);L.forEach(m=>m.W=monthW(m.mo,wf));L.wf=wf;return L}
 // one fitted model from months[0..n-1]
 function fitModel(M,post){

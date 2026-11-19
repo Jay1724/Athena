@@ -2622,7 +2622,7 @@ function readFileText(name,text){
   else{const n=numOf(r[m.count]);if(!isFinite(n)||n<0){bad++;if(badEx.length<3)badEx.push(i+2);return}out.push({p:prod,d:per.d,g:per.g,s:step,r:String(r[m.reason]||"").trim()||"Not given",n})}});
  if(m.period==null)issues.push({lv:"warn",t:"No date or month column, so Athena treats the whole file as one period. Forecasts need dates."});
  if(noPer)issues.push({lv:"error",t:`${noPer} rows have a date Athena couldn't read. Use 2026-10-31 for days, 2026-W44 for weeks or 2026-10 for months.`});
- if(bad)issues.push({lv:"error",t:`${bad} rows have a missing, negative or unreadable number and were left out (rows ${badEx.join(", ")}${bad>3?" and more":""}).`});
+ if(bad)issues.push({lv:"error",t:`${bad} ${bad===1?"row has":"rows have"} a missing, negative or unreadable number and were left out (rows ${badEx.join(", ")}${bad>3?" and more":""}).`});
  return{name,kind,rows:out,issues,grain:grainOf(out.map(x=>x.d),out[0]&&out[0].g)}}
 
 // ---------- the checks ----------
@@ -2640,14 +2640,14 @@ function checkData(){
   dates.forEach(d=>{const by={};Object.values(P.per[d]).forEach(r=>{const a=by[r.s]||(by[r.s]={e:0,c:0});a.e+=r.e;a.c+=r.c;if(r.c>r.e){over++;oEx=oEx||`${r.s} on ${d}`}});
    for(let k=1;k<ord.length;k++){const a=by[ord[k-1]],b=by[ord[k]];if(a&&b&&b.e>a.c*1.02+5){chain++;cEx=cEx||`${ord[k]} on ${d}`}}
    P.per[d]._by=by});
-  if(over)out.push({lv:"error",f:nm,t:`${over} rows show more people completing a step than entering it, for example ${oEx}. Those rows are capped at the number who entered.`});
-  if(chain)out.push({lv:"warn",f:nm,t:`${chain} times more people entered a step than finished the step before it, for example ${cEx}. Check for steps that can be skipped or entered directly.`});
-  if(P.dup)out.push({lv:"warn",f:nm,t:`${P.dup} duplicate rows (same date, step and segment). Athena kept the first.`});
+  if(over)out.push({lv:"error",f:nm,t:`${over} ${over===1?"row shows":"rows show"} more people completing a step than entering it, for example ${oEx}. Those rows are capped at the number who entered.`});
+  if(chain)out.push({lv:"warn",f:nm,t:`${chain===1?"Once,":chain+" times,"} more people entered a step than finished the step before it, for example ${cEx}. Check for steps that can be skipped or entered directly.`});
+  if(P.dup)out.push({lv:"warn",f:nm,t:`${P.dup} duplicate ${P.dup===1?"row":"rows"} (same date, step and segment). Athena kept the first.`});
   // gaps
   const step=P.grain==="day"?1:P.grain==="week"?7:null;let gaps=[];
   if(step){for(let i=1;i<dates.length;i++){const x=dayN(dates[i])-dayN(dates[i-1]);if(x>step)for(let n=dayN(dates[i-1])+step;n<dayN(dates[i]);n+=step)gaps.push(dayS(n))}}
   else if(P.grain==="month"){for(let i=1;i<dates.length;i++){let [y,m]=dates[i-1].split("-").map(Number);for(;;){m++;if(m>12){m=1;y++}const k=`${y}-${pad2(m)}-01`;if(k>=dates[i])break;gaps.push(k.slice(0,7))}}}
-  if(gaps.length)out.push({lv:"warn",f:nm,t:`${gaps.length} missing ${P.grain==="day"?"days":P.grain==="week"?"weeks":"months"}: ${gaps.slice(0,4).join(", ")}${gaps.length>4?" and more":""}. Forecasts fill them from the days around them.`});
+  if(gaps.length)out.push({lv:"warn",f:nm,t:`${gaps.length} missing ${(P.grain==="day"?"day":P.grain==="week"?"week":"month")+(gaps.length===1?"":"s")}: ${gaps.slice(0,4).join(", ")}${gaps.length>4?" and more":""}. Forecasts fill them from the days around them.`});
   // spikes in people starting
   const st=dates.map(d=>{const a=P.per[d]._by[ord[0]];return a?a.e:0}),spikes=[];
   st.forEach((v,i)=>{const w=st.slice(Math.max(0,i-14),i).concat(st.slice(i+1,i+15)).filter(x=>x>0).sort((a,b)=>a-b);if(w.length<6)return;const med=w[w.length>>1],mad=w.map(x=>Math.abs(x-med)).sort((a,b)=>a-b)[w.length>>1]||1;if(Math.abs(v-med)/(1.4826*mad)>6&&Math.abs(v/med-1)>.5)spikes.push(dates[i])});
@@ -2726,10 +2726,12 @@ const qtl=(a,q)=>{if(!a.length)return 0;const s=a.slice().sort((x,y)=>x-y),i=(s.
 // calendar weight of each day (day of the week, payday), learned from daily data; 1 for weekly or monthly data
 function calW(series){const rh=rhythmOf(series);if(!rh)return null;const pay=1+(rh.pay||0);return ds=>{const dt=new Date(ds+"T00:00:00Z"),day=dt.getUTCDate();return rh.dow[(dt.getUTCDay()+6)%7]*((day>=25||day<=2)?pay:1)/(1+(pay-1)*8/30.4)}}
 function monthW(mo,wf){const n=MDAYS(mo);if(!wf)return n;let s=0;for(let d=1;d<=n;d++)s+=wf(`${mo}-${pad2(d)}`);return s}
-function monthly(series){const M={};series.rows.forEach(r=>{const mo=r.d.slice(0,7),a=M[mo]||(M[mo]={mo,n:0,v:series.steps.map(()=>[0,0])});a.n++;r.v.forEach((x,k)=>{if(x){a.v[k][0]+=x[0];a.v[k][1]+=x[1]}})});
+function monthly(series){const M={},wk=series.grain==="week",put=(mo,x,v)=>{const a=M[mo]||(M[mo]={mo,n:0,v:series.steps.map(()=>[0,0])});a.n+=wk?7*x:1;v.forEach((y,k)=>{if(y){a.v[k][0]+=y[0]*x;a.v[k][1]+=y[1]*x}})};
+ // weekly rows are shared across the months their 7 days fall in, so a 5-week month isn't read as a busy month
+ series.rows.forEach(r=>{if(!wk){put(r.d.slice(0,7),1,r.v);return}const t=Date.parse(r.d+"T00:00:00Z"),c={};for(let i=0;i<7;i++){const mo=new Date(t+864e5*i).toISOString().slice(0,7);c[mo]=(c[mo]||0)+1}for(const mo in c)put(mo,c[mo]/7,r.v)});
  const L=Object.values(M).sort((a,b)=>a.mo<b.mo?-1:1);
  // a part month at the end (daily or weekly data that stops mid-month) is scaled up so it isn't read as a drop
- if(series.grain!=="month"&&L.length){const last=L[L.length-1],exp=series.grain==="day"?MDAYS(last.mo):MDAYS(last.mo)/7;if(last.n<exp*.9)L.pop()}
+ if(series.grain!=="month"&&L.length){const last=L[L.length-1],exp=MDAYS(last.mo);if(last.n<exp*.9)L.pop();if(wk&&L.length&&L[0].n<MDAYS(L[0].mo)*.9)L.shift()}
  const wf=calW(series);L.forEach(m=>m.W=monthW(m.mo,wf));L.wf=wf;return L}
 // one fitted model from months[0..n-1]
 function fitModel(M,post){

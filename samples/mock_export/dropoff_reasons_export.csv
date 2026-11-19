@@ -1,0 +1,2113 @@
+﻿Product;Month;Step;Drop-off reason;Drop-offs
+Achieva Account;2024-11;Account opened → first transaction;Never made a first transaction;177
+Achieva Account;2024-11;Account opened → first transaction;Waiting for card;128
+Achieva Account;2024-11;Affordability and risk decision;Declined by risk rules;201
+Achieva Account;2024-11;Affordability and risk decision;Income too low;107
+Achieva Account;2024-11;Affordability and risk decision;Bureau mismatch;169
+Achieva Account;2024-11;Choose account;Compared fees and left;877
+Achieva Account;2024-11;Choose account;Not sure which account fits;651
+Achieva Account;2024-11;Eligibility check;Under 18;116
+Achieva Account;2024-11;Eligibility check;Not a SA resident;161
+Achieva Account;2024-11;ID capture;Photo blurry;87
+Achieva Account;2024-11;ID capture;Green ID book not accepted;72
+Achieva Account;2024-11;ID capture;Camera permission denied;79
+Achieva Account;2024-11;Identity verification;Selfie didn't match;201
+Achieva Account;2024-11;Identity verification;Liveness check failed;124
+Achieva Account;2024-11;Identity verification;Took too long;183
+Achieva Account;2024-11;Personal details;Form too long;393
+Achieva Account;2024-11;Personal details;Didn't know source of funds;303
+Achieva Account;2024-11;Personal details;Timed out;159
+Achieva Account;2024-11;Proof of address or income;No proof of address;199
+Achieva Account;2024-11;Proof of address or income;Payslip upload failed;72
+Achieva Account;2024-11;Proof of address or income;Statement too old;151
+Achieva Account;2024-11;Terms and e-sign;OTP not received;29
+Achieva Account;2024-11;Terms and e-sign;Too much to read;12
+Achieva Account;2024-12;Account opened → first transaction;Never made a first transaction;142
+Achieva Account;2024-12;Account opened → first transaction;Waiting for card;109
+Achieva Account;2024-12;Affordability and risk decision;Declined by risk rules;184
+Achieva Account;2024-12;Affordability and risk decision;Income too low;125
+Achieva Account;2024-12;Affordability and risk decision;Bureau mismatch;86
+Achieva Account;2024-12;Choose account;Compared fees and left;879
+Achieva Account;2024-12;Choose account;Not sure which account fits;490
+Achieva Account;2024-12;Eligibility check;Under 18;167
+Achieva Account;2024-12;Eligibility check;Not a SA resident;74
+Achieva Account;2024-12;ID capture;Photo blurry;97
+Achieva Account;2024-12;ID capture;Green ID book not accepted;51
+Achieva Account;2024-12;ID capture;Camera permission denied;71
+Achieva Account;2024-12;Identity verification;Selfie didn't match;305
+Achieva Account;2024-12;Identity verification;Liveness check failed;89
+Achieva Account;2024-12;Identity verification;Took too long;148
+Achieva Account;2024-12;Personal details;Form too long;248
+Achieva Account;2024-12;Personal details;Didn't know source of funds;204
+Achieva Account;2024-12;Personal details;Timed out;322
+Achieva Account;2024-12;Proof of address or income;No proof of address;174
+Achieva Account;2024-12;Proof of address or income;Payslip upload failed;70
+Achieva Account;2024-12;Proof of address or income;Statement too old;114
+Achieva Account;2024-12;Terms and e-sign;OTP not received;20
+Achieva Account;2024-12;Terms and e-sign;Too much to read;17
+Achieva Account;2025-01;Account opened → first transaction;Never made a first transaction;244
+Achieva Account;2025-01;Account opened → first transaction;Waiting for card;205
+Achieva Account;2025-01;Affordability and risk decision;Declined by risk rules;355
+Achieva Account;2025-01;Affordability and risk decision;Income too low;212
+Achieva Account;2025-01;Affordability and risk decision;Bureau mismatch;98
+Achieva Account;2025-01;Choose account;Compared fees and left;1416
+Achieva Account;2025-01;Choose account;Not sure which account fits;811
+Achieva Account;2025-01;Eligibility check;Under 18;254
+Achieva Account;2025-01;Eligibility check;Not a SA resident;151
+Achieva Account;2025-01;ID capture;Photo blurry;140
+Achieva Account;2025-01;ID capture;Green ID book not accepted;101
+Achieva Account;2025-01;ID capture;Camera permission denied;97
+Achieva Account;2025-01;Identity verification;Selfie didn't match;390
+Achieva Account;2025-01;Identity verification;Liveness check failed;118
+Achieva Account;2025-01;Identity verification;Took too long;227
+Achieva Account;2025-01;Personal details;Form too long;486
+Achieva Account;2025-01;Personal details;Didn't know source of funds;471
+Achieva Account;2025-01;Personal details;Timed out;306
+Achieva Account;2025-01;Proof of address or income;No proof of address;371
+Achieva Account;2025-01;Proof of address or income;Payslip upload failed;156
+Achieva Account;2025-01;Proof of address or income;Statement too old;119
+Achieva Account;2025-01;Terms and e-sign;OTP not received;44
+Achieva Account;2025-01;Terms and e-sign;Too much to read;20
+Achieva Account;2025-02;Account opened → first transaction;Never made a first transaction;191
+Achieva Account;2025-02;Account opened → first transaction;Waiting for card;122
+Achieva Account;2025-02;Affordability and risk decision;Declined by risk rules;274
+Achieva Account;2025-02;Affordability and risk decision;Income too low;88
+Achieva Account;2025-02;Affordability and risk decision;Bureau mismatch;139
+Achieva Account;2025-02;Choose account;Compared fees and left;816
+Achieva Account;2025-02;Choose account;Not sure which account fits;789
+Achieva Account;2025-02;Eligibility check;Under 18;139
+Achieva Account;2025-02;Eligibility check;Not a SA resident;148
+Achieva Account;2025-02;ID capture;Photo blurry;86
+Achieva Account;2025-02;ID capture;Green ID book not accepted;89
+Achieva Account;2025-02;ID capture;Camera permission denied;85
+Achieva Account;2025-02;Identity verification;Selfie didn't match;305
+Achieva Account;2025-02;Identity verification;Liveness check failed;92
+Achieva Account;2025-02;Identity verification;Took too long;142
+Achieva Account;2025-02;Personal details;Form too long;218
+Achieva Account;2025-02;Personal details;Didn't know source of funds;384
+Achieva Account;2025-02;Personal details;Timed out;286
+Achieva Account;2025-02;Proof of address or income;No proof of address;199
+Achieva Account;2025-02;Proof of address or income;Payslip upload failed;115
+Achieva Account;2025-02;Proof of address or income;Statement too old;134
+Achieva Account;2025-02;Terms and e-sign;OTP not received;25
+Achieva Account;2025-02;Terms and e-sign;Too much to read;23
+Achieva Account;2025-03;Account opened → first transaction;Never made a first transaction;205
+Achieva Account;2025-03;Account opened → first transaction;Waiting for card;116
+Achieva Account;2025-03;Affordability and risk decision;Declined by risk rules;227
+Achieva Account;2025-03;Affordability and risk decision;Income too low;189
+Achieva Account;2025-03;Affordability and risk decision;Bureau mismatch;80
+Achieva Account;2025-03;Choose account;Compared fees and left;936
+Achieva Account;2025-03;Choose account;Not sure which account fits;654
+Achieva Account;2025-03;Eligibility check;Under 18;184
+Achieva Account;2025-03;Eligibility check;Not a SA resident;105
+Achieva Account;2025-03;ID capture;Photo blurry;89
+Achieva Account;2025-03;ID capture;Green ID book not accepted;74
+Achieva Account;2025-03;ID capture;Camera permission denied;95
+Achieva Account;2025-03;Identity verification;Selfie didn't match;274
+Achieva Account;2025-03;Identity verification;Liveness check failed;178
+Achieva Account;2025-03;Identity verification;Took too long;83
+Achieva Account;2025-03;Personal details;Form too long;514
+Achieva Account;2025-03;Personal details;Didn't know source of funds;134
+Achieva Account;2025-03;Personal details;Timed out;266
+Achieva Account;2025-03;Proof of address or income;No proof of address;247
+Achieva Account;2025-03;Proof of address or income;Payslip upload failed;101
+Achieva Account;2025-03;Proof of address or income;Statement too old;97
+Achieva Account;2025-03;Terms and e-sign;OTP not received;27
+Achieva Account;2025-03;Terms and e-sign;Too much to read;22
+Achieva Account;2025-04;Account opened → first transaction;Never made a first transaction;218
+Achieva Account;2025-04;Account opened → first transaction;Waiting for card;106
+Achieva Account;2025-04;Affordability and risk decision;Declined by risk rules;262
+Achieva Account;2025-04;Affordability and risk decision;Income too low;166
+Achieva Account;2025-04;Affordability and risk decision;Bureau mismatch;67
+Achieva Account;2025-04;Choose account;Compared fees and left;1196
+Achieva Account;2025-04;Choose account;Not sure which account fits;388
+Achieva Account;2025-04;Eligibility check;Under 18;159
+Achieva Account;2025-04;Eligibility check;Not a SA resident;136
+Achieva Account;2025-04;ID capture;Photo blurry;118
+Achieva Account;2025-04;ID capture;Green ID book not accepted;86
+Achieva Account;2025-04;ID capture;Camera permission denied;49
+Achieva Account;2025-04;Identity verification;Selfie didn't match;185
+Achieva Account;2025-04;Identity verification;Liveness check failed;156
+Achieva Account;2025-04;Identity verification;Took too long;182
+Achieva Account;2025-04;Personal details;Form too long;365
+Achieva Account;2025-04;Personal details;Didn't know source of funds;261
+Achieva Account;2025-04;Personal details;Timed out;245
+Achieva Account;2025-04;Proof of address or income;No proof of address;236
+Achieva Account;2025-04;Proof of address or income;Payslip upload failed;136
+Achieva Account;2025-04;Proof of address or income;Statement too old;76
+Achieva Account;2025-04;Terms and e-sign;OTP not received;27
+Achieva Account;2025-04;Terms and e-sign;Too much to read;20
+Achieva Account;2025-05;Account opened → first transaction;Never made a first transaction;308
+Achieva Account;2025-05;Account opened → first transaction;Waiting for card;94
+Achieva Account;2025-05;Affordability and risk decision;Declined by risk rules;368
+Achieva Account;2025-05;Affordability and risk decision;Income too low;117
+Achieva Account;2025-05;Affordability and risk decision;Bureau mismatch;140
+Achieva Account;2025-05;Choose account;Compared fees and left;1175
+Achieva Account;2025-05;Choose account;Not sure which account fits;900
+Achieva Account;2025-05;Eligibility check;Under 18;271
+Achieva Account;2025-05;Eligibility check;Not a SA resident;87
+Achieva Account;2025-05;ID capture;Photo blurry;100
+Achieva Account;2025-05;ID capture;Green ID book not accepted;115
+Achieva Account;2025-05;ID capture;Camera permission denied;99
+Achieva Account;2025-05;Identity verification;Selfie didn't match;343
+Achieva Account;2025-05;Identity verification;Liveness check failed;131
+Achieva Account;2025-05;Identity verification;Took too long;178
+Achieva Account;2025-05;Personal details;Form too long;582
+Achieva Account;2025-05;Personal details;Didn't know source of funds;228
+Achieva Account;2025-05;Personal details;Timed out;316
+Achieva Account;2025-05;Proof of address or income;No proof of address;293
+Achieva Account;2025-05;Proof of address or income;Payslip upload failed;102
+Achieva Account;2025-05;Proof of address or income;Statement too old;167
+Achieva Account;2025-05;Terms and e-sign;OTP not received;35
+Achieva Account;2025-05;Terms and e-sign;Too much to read;25
+Achieva Account;2025-06;Account opened → first transaction;Never made a first transaction;222
+Achieva Account;2025-06;Account opened → first transaction;Waiting for card;93
+Achieva Account;2025-06;Affordability and risk decision;Declined by risk rules;233
+Achieva Account;2025-06;Affordability and risk decision;Income too low;146
+Achieva Account;2025-06;Affordability and risk decision;Bureau mismatch;107
+Achieva Account;2025-06;Choose account;Compared fees and left;944
+Achieva Account;2025-06;Choose account;Not sure which account fits;664
+Achieva Account;2025-06;Eligibility check;Under 18;177
+Achieva Account;2025-06;Eligibility check;Not a SA resident;116
+Achieva Account;2025-06;ID capture;Photo blurry;127
+Achieva Account;2025-06;ID capture;Green ID book not accepted;44
+Achieva Account;2025-06;ID capture;Camera permission denied;75
+Achieva Account;2025-06;Identity verification;Selfie didn't match;206
+Achieva Account;2025-06;Identity verification;Liveness check failed;203
+Achieva Account;2025-06;Identity verification;Took too long;141
+Achieva Account;2025-06;Personal details;Form too long;483
+Achieva Account;2025-06;Personal details;Didn't know source of funds;123
+Achieva Account;2025-06;Personal details;Timed out;321
+Achieva Account;2025-06;Proof of address or income;No proof of address;150
+Achieva Account;2025-06;Proof of address or income;Payslip upload failed;115
+Achieva Account;2025-06;Proof of address or income;Statement too old;201
+Achieva Account;2025-06;Terms and e-sign;OTP not received;28
+Achieva Account;2025-06;Terms and e-sign;Too much to read;20
+Achieva Account;2025-07;Account opened → first transaction;Never made a first transaction;249
+Achieva Account;2025-07;Account opened → first transaction;Waiting for card;171
+Achieva Account;2025-07;Affordability and risk decision;Declined by risk rules;178
+Achieva Account;2025-07;Affordability and risk decision;Income too low;158
+Achieva Account;2025-07;Affordability and risk decision;Bureau mismatch;298
+Achieva Account;2025-07;Choose account;Compared fees and left;1600
+Achieva Account;2025-07;Choose account;Not sure which account fits;527
+Achieva Account;2025-07;Eligibility check;Under 18;274
+Achieva Account;2025-07;Eligibility check;Not a SA resident;112
+Achieva Account;2025-07;ID capture;Photo blurry;136
+Achieva Account;2025-07;ID capture;Green ID book not accepted;127
+Achieva Account;2025-07;ID capture;Camera permission denied;63
+Achieva Account;2025-07;Identity verification;Selfie didn't match;242
+Achieva Account;2025-07;Identity verification;Liveness check failed;222
+Achieva Account;2025-07;Identity verification;Took too long;203
+Achieva Account;2025-07;Personal details;Form too long;584
+Achieva Account;2025-07;Personal details;Didn't know source of funds;316
+Achieva Account;2025-07;Personal details;Timed out;274
+Achieva Account;2025-07;Proof of address or income;No proof of address;220
+Achieva Account;2025-07;Proof of address or income;Payslip upload failed;149
+Achieva Account;2025-07;Proof of address or income;Statement too old;198
+Achieva Account;2025-07;Terms and e-sign;OTP not received;52
+Achieva Account;2025-07;Terms and e-sign;Too much to read;12
+Achieva Account;2025-08;Account opened → first transaction;Never made a first transaction;195
+Achieva Account;2025-08;Account opened → first transaction;Waiting for card;131
+Achieva Account;2025-08;Affordability and risk decision;Declined by risk rules;259
+Achieva Account;2025-08;Affordability and risk decision;Income too low;157
+Achieva Account;2025-08;Affordability and risk decision;Bureau mismatch;89
+Achieva Account;2025-08;Choose account;Compared fees and left;910
+Achieva Account;2025-08;Choose account;Not sure which account fits;743
+Achieva Account;2025-08;Eligibility check;Under 18;210
+Achieva Account;2025-08;Eligibility check;Not a SA resident;75
+Achieva Account;2025-08;ID capture;Photo blurry;136
+Achieva Account;2025-08;ID capture;Green ID book not accepted;58
+Achieva Account;2025-08;ID capture;Camera permission denied;63
+Achieva Account;2025-08;Identity verification;Selfie didn't match;208
+Achieva Account;2025-08;Identity verification;Liveness check failed;127
+Achieva Account;2025-08;Identity verification;Took too long;200
+Achieva Account;2025-08;Personal details;Form too long;518
+Achieva Account;2025-08;Personal details;Didn't know source of funds;199
+Achieva Account;2025-08;Personal details;Timed out;206
+Achieva Account;2025-08;Proof of address or income;No proof of address;184
+Achieva Account;2025-08;Proof of address or income;Payslip upload failed;139
+Achieva Account;2025-08;Proof of address or income;Statement too old;144
+Achieva Account;2025-08;Terms and e-sign;OTP not received;28
+Achieva Account;2025-08;Terms and e-sign;Too much to read;21
+Achieva Account;2025-09;Account opened → first transaction;Never made a first transaction;209
+Achieva Account;2025-09;Account opened → first transaction;Waiting for card;123
+Achieva Account;2025-09;Affordability and risk decision;Declined by risk rules;243
+Achieva Account;2025-09;Affordability and risk decision;Income too low;146
+Achieva Account;2025-09;Affordability and risk decision;Bureau mismatch;135
+Achieva Account;2025-09;Choose account;Compared fees and left;909
+Achieva Account;2025-09;Choose account;Not sure which account fits;746
+Achieva Account;2025-09;Eligibility check;Under 18;188
+Achieva Account;2025-09;Eligibility check;Not a SA resident;110
+Achieva Account;2025-09;ID capture;Photo blurry;131
+Achieva Account;2025-09;ID capture;Green ID book not accepted;65
+Achieva Account;2025-09;ID capture;Camera permission denied;67
+Achieva Account;2025-09;Identity verification;Selfie didn't match;286
+Achieva Account;2025-09;Identity verification;Liveness check failed;101
+Achieva Account;2025-09;Identity verification;Took too long;163
+Achieva Account;2025-09;Personal details;Form too long;375
+Achieva Account;2025-09;Personal details;Didn't know source of funds;343
+Achieva Account;2025-09;Personal details;Timed out;237
+Achieva Account;2025-09;Proof of address or income;No proof of address;219
+Achieva Account;2025-09;Proof of address or income;Payslip upload failed;107
+Achieva Account;2025-09;Proof of address or income;Statement too old;130
+Achieva Account;2025-09;Terms and e-sign;OTP not received;19
+Achieva Account;2025-09;Terms and e-sign;Too much to read;30
+Achieva Account;2025-10;Account opened → first transaction;Never made a first transaction;239
+Achieva Account;2025-10;Account opened → first transaction;Waiting for card;201
+Achieva Account;2025-10;Affordability and risk decision;Declined by risk rules;312
+Achieva Account;2025-10;Affordability and risk decision;Income too low;261
+Achieva Account;2025-10;Affordability and risk decision;Bureau mismatch;108
+Achieva Account;2025-10;Choose account;Compared fees and left;1334
+Achieva Account;2025-10;Choose account;Not sure which account fits;848
+Achieva Account;2025-10;Eligibility check;Under 18;194
+Achieva Account;2025-10;Eligibility check;Not a SA resident;190
+Achieva Account;2025-10;ID capture;Photo blurry;147
+Achieva Account;2025-10;ID capture;Green ID book not accepted;138
+Achieva Account;2025-10;ID capture;Camera permission denied;55
+Achieva Account;2025-10;Identity verification;Selfie didn't match;306
+Achieva Account;2025-10;Identity verification;Liveness check failed;176
+Achieva Account;2025-10;Identity verification;Took too long;223
+Achieva Account;2025-10;Personal details;Form too long;322
+Achieva Account;2025-10;Personal details;Didn't know source of funds;473
+Achieva Account;2025-10;Personal details;Timed out;422
+Achieva Account;2025-10;Proof of address or income;No proof of address;241
+Achieva Account;2025-10;Proof of address or income;Payslip upload failed;149
+Achieva Account;2025-10;Proof of address or income;Statement too old;215
+Achieva Account;2025-10;Terms and e-sign;OTP not received;42
+Achieva Account;2025-10;Terms and e-sign;Too much to read;24
+Achieva Account;2025-11;Account opened → first transaction;Never made a first transaction;219
+Achieva Account;2025-11;Account opened → first transaction;Waiting for card;111
+Achieva Account;2025-11;Affordability and risk decision;Declined by risk rules;250
+Achieva Account;2025-11;Affordability and risk decision;Income too low;158
+Achieva Account;2025-11;Affordability and risk decision;Bureau mismatch;100
+Achieva Account;2025-11;Choose account;Compared fees and left;609
+Achieva Account;2025-11;Choose account;Not sure which account fits;1049
+Achieva Account;2025-11;Eligibility check;Under 18;137
+Achieva Account;2025-11;Eligibility check;Not a SA resident;166
+Achieva Account;2025-11;ID capture;Photo blurry;124
+Achieva Account;2025-11;ID capture;Green ID book not accepted;82
+Achieva Account;2025-11;ID capture;Camera permission denied;51
+Achieva Account;2025-11;Identity verification;Selfie didn't match;266
+Achieva Account;2025-11;Identity verification;Liveness check failed;196
+Achieva Account;2025-11;Identity verification;Took too long;82
+Achieva Account;2025-11;Personal details;Form too long;350
+Achieva Account;2025-11;Personal details;Didn't know source of funds;368
+Achieva Account;2025-11;Personal details;Timed out;177
+Achieva Account;2025-11;Proof of address or income;No proof of address;261
+Achieva Account;2025-11;Proof of address or income;Payslip upload failed;91
+Achieva Account;2025-11;Proof of address or income;Statement too old;103
+Achieva Account;2025-11;Terms and e-sign;OTP not received;28
+Achieva Account;2025-11;Terms and e-sign;Too much to read;19
+Achieva Account;2025-12;Account opened → first transaction;Never made a first transaction;198
+Achieva Account;2025-12;Account opened → first transaction;Waiting for card;67
+Achieva Account;2025-12;Affordability and risk decision;Declined by risk rules;264
+Achieva Account;2025-12;Affordability and risk decision;Income too low;69
+Achieva Account;2025-12;Affordability and risk decision;Bureau mismatch;93
+Achieva Account;2025-12;Choose account;Compared fees and left;782
+Achieva Account;2025-12;Choose account;Not sure which account fits;665
+Achieva Account;2025-12;Eligibility check;Under 18;161
+Achieva Account;2025-12;Eligibility check;Not a SA resident;96
+Achieva Account;2025-12;ID capture;Photo blurry;108
+Achieva Account;2025-12;ID capture;Green ID book not accepted;65
+Achieva Account;2025-12;ID capture;Camera permission denied;52
+Achieva Account;2025-12;Identity verification;Selfie didn't match;350
+Achieva Account;2025-12;Identity verification;Liveness check failed;101
+Achieva Account;2025-12;Identity verification;Took too long;119
+Achieva Account;2025-12;Personal details;Form too long;334
+Achieva Account;2025-12;Personal details;Didn't know source of funds;179
+Achieva Account;2025-12;Personal details;Timed out;306
+Achieva Account;2025-12;Proof of address or income;No proof of address;187
+Achieva Account;2025-12;Proof of address or income;Payslip upload failed;59
+Achieva Account;2025-12;Proof of address or income;Statement too old;127
+Achieva Account;2025-12;Terms and e-sign;OTP not received;26
+Achieva Account;2025-12;Terms and e-sign;Too much to read;13
+Achieva Account;2026-01;Account opened → first transaction;Never made a first transaction;335
+Achieva Account;2026-01;Account opened → first transaction;Waiting for card;154
+Achieva Account;2026-01;Affordability and risk decision;Declined by risk rules;361
+Achieva Account;2026-01;Affordability and risk decision;Income too low;238
+Achieva Account;2026-01;Affordability and risk decision;Bureau mismatch;181
+Achieva Account;2026-01;Choose account;Compared fees and left;1550
+Achieva Account;2026-01;Choose account;Not sure which account fits;902
+Achieva Account;2026-01;Eligibility check;Under 18;296
+Achieva Account;2026-01;Eligibility check;Not a SA resident;149
+Achieva Account;2026-01;ID capture;Photo blurry;146
+Achieva Account;2026-01;ID capture;Green ID book not accepted;153
+Achieva Account;2026-01;ID capture;Camera permission denied;85
+Achieva Account;2026-01;Identity verification;Selfie didn't match;432
+Achieva Account;2026-01;Identity verification;Liveness check failed;248
+Achieva Account;2026-01;Identity verification;Took too long;135
+Achieva Account;2026-01;Personal details;Form too long;548
+Achieva Account;2026-01;Personal details;Didn't know source of funds;364
+Achieva Account;2026-01;Personal details;Timed out;446
+Achieva Account;2026-01;Proof of address or income;No proof of address;372
+Achieva Account;2026-01;Proof of address or income;Payslip upload failed;211
+Achieva Account;2026-01;Proof of address or income;Statement too old;106
+Achieva Account;2026-01;Terms and e-sign;OTP not received;51
+Achieva Account;2026-01;Terms and e-sign;Too much to read;20
+Achieva Account;2026-02;Account opened → first transaction;Never made a first transaction;184
+Achieva Account;2026-02;Account opened → first transaction;Waiting for card;170
+Achieva Account;2026-02;Affordability and risk decision;Declined by risk rules;277
+Achieva Account;2026-02;Affordability and risk decision;Income too low;174
+Achieva Account;2026-02;Affordability and risk decision;Bureau mismatch;110
+Achieva Account;2026-02;Choose account;Compared fees and left;1121
+Achieva Account;2026-02;Choose account;Not sure which account fits;713
+Achieva Account;2026-02;Eligibility check;Under 18;185
+Achieva Account;2026-02;Eligibility check;Not a SA resident;147
+Achieva Account;2026-02;ID capture;Photo blurry;136
+Achieva Account;2026-02;ID capture;Green ID book not accepted;65
+Achieva Account;2026-02;ID capture;Camera permission denied;83
+Achieva Account;2026-02;Identity verification;Selfie didn't match;260
+Achieva Account;2026-02;Identity verification;Liveness check failed;126
+Achieva Account;2026-02;Identity verification;Took too long;221
+Achieva Account;2026-02;Personal details;Form too long;644
+Achieva Account;2026-02;Personal details;Didn't know source of funds;219
+Achieva Account;2026-02;Personal details;Timed out;158
+Achieva Account;2026-02;Proof of address or income;No proof of address;241
+Achieva Account;2026-02;Proof of address or income;Payslip upload failed;137
+Achieva Account;2026-02;Proof of address or income;Statement too old;131
+Achieva Account;2026-02;Terms and e-sign;OTP not received;25
+Achieva Account;2026-02;Terms and e-sign;Too much to read;27
+Achieva Account;2026-03;Account opened → first transaction;Never made a first transaction;272
+Achieva Account;2026-03;Account opened → first transaction;Waiting for card;84
+Achieva Account;2026-03;Affordability and risk decision;Declined by risk rules;239
+Achieva Account;2026-03;Affordability and risk decision;Income too low;119
+Achieva Account;2026-03;Affordability and risk decision;Bureau mismatch;212
+Achieva Account;2026-03;Choose account;Compared fees and left;1236
+Achieva Account;2026-03;Choose account;Not sure which account fits;560
+Achieva Account;2026-03;Eligibility check;Under 18;162
+Achieva Account;2026-03;Eligibility check;Not a SA resident;170
+Achieva Account;2026-03;ID capture;Photo blurry;182
+Achieva Account;2026-03;ID capture;Green ID book not accepted;57
+Achieva Account;2026-03;ID capture;Camera permission denied;48
+Achieva Account;2026-03;Identity verification;Selfie didn't match;310
+Achieva Account;2026-03;Identity verification;Liveness check failed;99
+Achieva Account;2026-03;Identity verification;Took too long;198
+Achieva Account;2026-03;Personal details;Form too long;400
+Achieva Account;2026-03;Personal details;Didn't know source of funds;200
+Achieva Account;2026-03;Personal details;Timed out;399
+Achieva Account;2026-03;Proof of address or income;No proof of address;312
+Achieva Account;2026-03;Proof of address or income;Payslip upload failed;105
+Achieva Account;2026-03;Proof of address or income;Statement too old;89
+Achieva Account;2026-03;Terms and e-sign;OTP not received;42
+Achieva Account;2026-03;Terms and e-sign;Too much to read;12
+Achieva Account;2026-04;Account opened → first transaction;Never made a first transaction;294
+Achieva Account;2026-04;Account opened → first transaction;Waiting for card;122
+Achieva Account;2026-04;Affordability and risk decision;Declined by risk rules;256
+Achieva Account;2026-04;Affordability and risk decision;Income too low;115
+Achieva Account;2026-04;Affordability and risk decision;Bureau mismatch;275
+Achieva Account;2026-04;Choose account;Compared fees and left;1296
+Achieva Account;2026-04;Choose account;Not sure which account fits;803
+Achieva Account;2026-04;Eligibility check;Under 18;292
+Achieva Account;2026-04;Eligibility check;Not a SA resident;78
+Achieva Account;2026-04;ID capture;Photo blurry;136
+Achieva Account;2026-04;ID capture;Green ID book not accepted;133
+Achieva Account;2026-04;ID capture;Camera permission denied;62
+Achieva Account;2026-04;Identity verification;Selfie didn't match;331
+Achieva Account;2026-04;Identity verification;Liveness check failed;267
+Achieva Account;2026-04;Identity verification;Took too long;111
+Achieva Account;2026-04;Personal details;Form too long;397
+Achieva Account;2026-04;Personal details;Didn't know source of funds;474
+Achieva Account;2026-04;Personal details;Timed out;279
+Achieva Account;2026-04;Proof of address or income;No proof of address;210
+Achieva Account;2026-04;Proof of address or income;Payslip upload failed;120
+Achieva Account;2026-04;Proof of address or income;Statement too old;256
+Achieva Account;2026-04;Terms and e-sign;OTP not received;30
+Achieva Account;2026-04;Terms and e-sign;Too much to read;35
+Achieva Account;2026-05;Account opened → first transaction;Never made a first transaction;210
+Achieva Account;2026-05;Account opened → first transaction;Waiting for card;125
+Achieva Account;2026-05;Affordability and risk decision;Declined by risk rules;163
+Achieva Account;2026-05;Affordability and risk decision;Income too low;234
+Achieva Account;2026-05;Affordability and risk decision;Bureau mismatch;131
+Achieva Account;2026-05;Choose account;Compared fees and left;878
+Achieva Account;2026-05;Choose account;Not sure which account fits;875
+Achieva Account;2026-05;Eligibility check;Under 18;158
+Achieva Account;2026-05;Eligibility check;Not a SA resident;141
+Achieva Account;2026-05;ID capture;Photo blurry;171
+Achieva Account;2026-05;ID capture;Green ID book not accepted;49
+Achieva Account;2026-05;ID capture;Camera permission denied;50
+Achieva Account;2026-05;Identity verification;Selfie didn't match;172
+Achieva Account;2026-05;Identity verification;Liveness check failed;172
+Achieva Account;2026-05;Identity verification;Took too long;207
+Achieva Account;2026-05;Personal details;Form too long;374
+Achieva Account;2026-05;Personal details;Didn't know source of funds;301
+Achieva Account;2026-05;Personal details;Timed out;278
+Achieva Account;2026-05;Proof of address or income;No proof of address;251
+Achieva Account;2026-05;Proof of address or income;Payslip upload failed;86
+Achieva Account;2026-05;Proof of address or income;Statement too old;131
+Achieva Account;2026-05;Terms and e-sign;OTP not received;38
+Achieva Account;2026-05;Terms and e-sign;Too much to read;14
+Achieva Account;2026-06;Account opened → first transaction;Never made a first transaction;213
+Achieva Account;2026-06;Account opened → first transaction;Waiting for card;85
+Achieva Account;2026-06;Affordability and risk decision;Declined by risk rules;165
+Achieva Account;2026-06;Affordability and risk decision;Income too low;130
+Achieva Account;2026-06;Affordability and risk decision;Bureau mismatch;177
+Achieva Account;2026-06;Choose account;Compared fees and left;785
+Achieva Account;2026-06;Choose account;Not sure which account fits;932
+Achieva Account;2026-06;Eligibility check;Under 18;190
+Achieva Account;2026-06;Eligibility check;Not a SA resident;111
+Achieva Account;2026-06;ID capture;Photo blurry;119
+Achieva Account;2026-06;ID capture;Green ID book not accepted;103
+Achieva Account;2026-06;ID capture;Camera permission denied;52
+Achieva Account;2026-06;Identity verification;Selfie didn't match;337
+Achieva Account;2026-06;Identity verification;Liveness check failed;105
+Achieva Account;2026-06;Identity verification;Took too long;106
+Achieva Account;2026-06;Personal details;Form too long;417
+Achieva Account;2026-06;Personal details;Didn't know source of funds;263
+Achieva Account;2026-06;Personal details;Timed out;233
+Achieva Account;2026-06;Proof of address or income;No proof of address;338
+Achieva Account;2026-06;Proof of address or income;Payslip upload failed;142
+Achieva Account;2026-06;Proof of address or income;Statement too old;110
+Achieva Account;2026-06;Terms and e-sign;OTP not received;21
+Achieva Account;2026-06;Terms and e-sign;Too much to read;24
+Achieva Account;2026-07;Account opened → first transaction;Never made a first transaction;192
+Achieva Account;2026-07;Account opened → first transaction;Waiting for card;210
+Achieva Account;2026-07;Affordability and risk decision;Declined by risk rules;310
+Achieva Account;2026-07;Affordability and risk decision;Income too low;126
+Achieva Account;2026-07;Affordability and risk decision;Bureau mismatch;185
+Achieva Account;2026-07;Choose account;Compared fees and left;1461
+Achieva Account;2026-07;Choose account;Not sure which account fits;734
+Achieva Account;2026-07;Eligibility check;Under 18;246
+Achieva Account;2026-07;Eligibility check;Not a SA resident;142
+Achieva Account;2026-07;ID capture;Photo blurry;165
+Achieva Account;2026-07;ID capture;Green ID book not accepted;121
+Achieva Account;2026-07;ID capture;Camera permission denied;56
+Achieva Account;2026-07;Identity verification;Selfie didn't match;251
+Achieva Account;2026-07;Identity verification;Liveness check failed;171
+Achieva Account;2026-07;Identity verification;Took too long;312
+Achieva Account;2026-07;Personal details;Form too long;696
+Achieva Account;2026-07;Personal details;Didn't know source of funds;269
+Achieva Account;2026-07;Personal details;Timed out;285
+Achieva Account;2026-07;Proof of address or income;No proof of address;514
+Achieva Account;2026-07;Proof of address or income;Payslip upload failed;65
+Achieva Account;2026-07;Proof of address or income;Statement too old;172
+Achieva Account;2026-07;Terms and e-sign;OTP not received;29
+Achieva Account;2026-07;Terms and e-sign;Too much to read;30
+Achieva Account;2026-08;Account opened → first transaction;Never made a first transaction;128
+Achieva Account;2026-08;Account opened → first transaction;Waiting for card;196
+Achieva Account;2026-08;Affordability and risk decision;Declined by risk rules;283
+Achieva Account;2026-08;Affordability and risk decision;Income too low;70
+Achieva Account;2026-08;Affordability and risk decision;Bureau mismatch;153
+Achieva Account;2026-08;Choose account;Compared fees and left;1166
+Achieva Account;2026-08;Choose account;Not sure which account fits;637
+Achieva Account;2026-08;Eligibility check;Under 18;117
+Achieva Account;2026-08;Eligibility check;Not a SA resident;194
+Achieva Account;2026-08;ID capture;Photo blurry;99
+Achieva Account;2026-08;ID capture;Green ID book not accepted;86
+Achieva Account;2026-08;ID capture;Camera permission denied;98
+Achieva Account;2026-08;Identity verification;Selfie didn't match;321
+Achieva Account;2026-08;Identity verification;Liveness check failed;165
+Achieva Account;2026-08;Identity verification;Took too long;106
+Achieva Account;2026-08;Personal details;Form too long;430
+Achieva Account;2026-08;Personal details;Didn't know source of funds;360
+Achieva Account;2026-08;Personal details;Timed out;221
+Achieva Account;2026-08;Proof of address or income;No proof of address;466
+Achieva Account;2026-08;Proof of address or income;Payslip upload failed;83
+Achieva Account;2026-08;Proof of address or income;Statement too old;77
+Achieva Account;2026-08;Terms and e-sign;OTP not received;19
+Achieva Account;2026-08;Terms and e-sign;Too much to read;28
+Achieva Account;2026-09;Account opened → first transaction;Never made a first transaction;203
+Achieva Account;2026-09;Account opened → first transaction;Waiting for card;119
+Achieva Account;2026-09;Affordability and risk decision;Declined by risk rules;169
+Achieva Account;2026-09;Affordability and risk decision;Income too low;169
+Achieva Account;2026-09;Affordability and risk decision;Bureau mismatch;149
+Achieva Account;2026-09;Choose account;Compared fees and left;1250
+Achieva Account;2026-09;Choose account;Not sure which account fits;525
+Achieva Account;2026-09;Eligibility check;Under 18;175
+Achieva Account;2026-09;Eligibility check;Not a SA resident;128
+Achieva Account;2026-09;ID capture;Photo blurry;83
+Achieva Account;2026-09;ID capture;Green ID book not accepted;82
+Achieva Account;2026-09;ID capture;Camera permission denied;107
+Achieva Account;2026-09;Identity verification;Selfie didn't match;291
+Achieva Account;2026-09;Identity verification;Liveness check failed;133
+Achieva Account;2026-09;Identity verification;Took too long;152
+Achieva Account;2026-09;Personal details;Form too long;576
+Achieva Account;2026-09;Personal details;Didn't know source of funds;259
+Achieva Account;2026-09;Personal details;Timed out;134
+Achieva Account;2026-09;Proof of address or income;No proof of address;347
+Achieva Account;2026-09;Proof of address or income;Payslip upload failed;130
+Achieva Account;2026-09;Proof of address or income;Statement too old;133
+Achieva Account;2026-09;Terms and e-sign;OTP not received;34
+Achieva Account;2026-09;Terms and e-sign;Too much to read;15
+Achieva Account;2026-10;Account opened → first transaction;Never made a first transaction;279
+Achieva Account;2026-10;Account opened → first transaction;Waiting for card;126
+Achieva Account;2026-10;Affordability and risk decision;Declined by risk rules;349
+Achieva Account;2026-10;Affordability and risk decision;Income too low;152
+Achieva Account;2026-10;Affordability and risk decision;Bureau mismatch;142
+Achieva Account;2026-10;Choose account;Compared fees and left;1350
+Achieva Account;2026-10;Choose account;Not sure which account fits;866
+Achieva Account;2026-10;Eligibility check;Under 18;264
+Achieva Account;2026-10;Eligibility check;Not a SA resident;130
+Achieva Account;2026-10;ID capture;Photo blurry;129
+Achieva Account;2026-10;ID capture;Green ID book not accepted;132
+Achieva Account;2026-10;ID capture;Camera permission denied;96
+Achieva Account;2026-10;Identity verification;Selfie didn't match;379
+Achieva Account;2026-10;Identity verification;Liveness check failed;184
+Achieva Account;2026-10;Identity verification;Took too long;192
+Achieva Account;2026-10;Personal details;Form too long;545
+Achieva Account;2026-10;Personal details;Didn't know source of funds;353
+Achieva Account;2026-10;Personal details;Timed out;343
+Achieva Account;2026-10;Proof of address or income;No proof of address;483
+Achieva Account;2026-10;Proof of address or income;Payslip upload failed;106
+Achieva Account;2026-10;Proof of address or income;Statement too old;166
+Achieva Account;2026-10;Terms and e-sign;OTP not received;31
+Achieva Account;2026-10;Terms and e-sign;Too much to read;27
+MyMo Account;2024-11;Account opened → first transaction;Never made a first transaction;1328
+MyMo Account;2024-11;Account opened → first transaction;Waiting for card;1203
+MyMo Account;2024-11;Choose account;Compared fees and left;4491
+MyMo Account;2024-11;Choose account;Not sure which account fits;2755
+MyMo Account;2024-11;Confirm address;No proof of address;410
+MyMo Account;2024-11;Confirm address;Address not found;152
+MyMo Account;2024-11;Eligibility check;Under 18;228
+MyMo Account;2024-11;Eligibility check;Not a SA resident;202
+MyMo Account;2024-11;ID capture;Photo blurry;456
+MyMo Account;2024-11;ID capture;Green ID book not accepted;300
+MyMo Account;2024-11;ID capture;Camera permission denied;272
+MyMo Account;2024-11;Identity verification;Selfie didn't match;1019
+MyMo Account;2024-11;Identity verification;Liveness check failed;574
+MyMo Account;2024-11;Identity verification;Took too long;443
+MyMo Account;2024-11;Personal details;Form too long;2019
+MyMo Account;2024-11;Personal details;Didn't know source of funds;1288
+MyMo Account;2024-11;Personal details;Timed out;602
+MyMo Account;2024-11;Terms and e-sign;OTP not received;264
+MyMo Account;2024-11;Terms and e-sign;Too much to read;125
+MyMo Account;2024-12;Account opened → first transaction;Never made a first transaction;1506
+MyMo Account;2024-12;Account opened → first transaction;Waiting for card;636
+MyMo Account;2024-12;Choose account;Compared fees and left;4280
+MyMo Account;2024-12;Choose account;Not sure which account fits;2458
+MyMo Account;2024-12;Confirm address;No proof of address;320
+MyMo Account;2024-12;Confirm address;Address not found;161
+MyMo Account;2024-12;Eligibility check;Under 18;158
+MyMo Account;2024-12;Eligibility check;Not a SA resident;219
+MyMo Account;2024-12;ID capture;Photo blurry;474
+MyMo Account;2024-12;ID capture;Green ID book not accepted;217
+MyMo Account;2024-12;ID capture;Camera permission denied;249
+MyMo Account;2024-12;Identity verification;Selfie didn't match;866
+MyMo Account;2024-12;Identity verification;Liveness check failed;623
+MyMo Account;2024-12;Identity verification;Took too long;689
+MyMo Account;2024-12;Personal details;Form too long;1296
+MyMo Account;2024-12;Personal details;Didn't know source of funds;1136
+MyMo Account;2024-12;Personal details;Timed out;1175
+MyMo Account;2024-12;Terms and e-sign;OTP not received;195
+MyMo Account;2024-12;Terms and e-sign;Too much to read;143
+MyMo Account;2025-01;Account opened → first transaction;Never made a first transaction;1782
+MyMo Account;2025-01;Account opened → first transaction;Waiting for card;2055
+MyMo Account;2025-01;Choose account;Compared fees and left;4687
+MyMo Account;2025-01;Choose account;Not sure which account fits;6653
+MyMo Account;2025-01;Confirm address;No proof of address;614
+MyMo Account;2025-01;Confirm address;Address not found;222
+MyMo Account;2025-01;Eligibility check;Under 18;357
+MyMo Account;2025-01;Eligibility check;Not a SA resident;267
+MyMo Account;2025-01;ID capture;Photo blurry;590
+MyMo Account;2025-01;ID capture;Green ID book not accepted;570
+MyMo Account;2025-01;ID capture;Camera permission denied;467
+MyMo Account;2025-01;Identity verification;Selfie didn't match;1432
+MyMo Account;2025-01;Identity verification;Liveness check failed;940
+MyMo Account;2025-01;Identity verification;Took too long;642
+MyMo Account;2025-01;Personal details;Form too long;3280
+MyMo Account;2025-01;Personal details;Didn't know source of funds;789
+MyMo Account;2025-01;Personal details;Timed out;1736
+MyMo Account;2025-01;Terms and e-sign;OTP not received;369
+MyMo Account;2025-01;Terms and e-sign;Too much to read;228
+MyMo Account;2025-02;Account opened → first transaction;Never made a first transaction;1536
+MyMo Account;2025-02;Account opened → first transaction;Waiting for card;1182
+MyMo Account;2025-02;Choose account;Compared fees and left;5344
+MyMo Account;2025-02;Choose account;Not sure which account fits;2653
+MyMo Account;2025-02;Confirm address;No proof of address;400
+MyMo Account;2025-02;Confirm address;Address not found;213
+MyMo Account;2025-02;Eligibility check;Under 18;333
+MyMo Account;2025-02;Eligibility check;Not a SA resident;131
+MyMo Account;2025-02;ID capture;Photo blurry;585
+MyMo Account;2025-02;ID capture;Green ID book not accepted;172
+MyMo Account;2025-02;ID capture;Camera permission denied;374
+MyMo Account;2025-02;Identity verification;Selfie didn't match;965
+MyMo Account;2025-02;Identity verification;Liveness check failed;645
+MyMo Account;2025-02;Identity verification;Took too long;530
+MyMo Account;2025-02;Personal details;Form too long;2533
+MyMo Account;2025-02;Personal details;Didn't know source of funds;900
+MyMo Account;2025-02;Personal details;Timed out;870
+MyMo Account;2025-02;Terms and e-sign;OTP not received;278
+MyMo Account;2025-02;Terms and e-sign;Too much to read;152
+MyMo Account;2025-03;Account opened → first transaction;Never made a first transaction;1458
+MyMo Account;2025-03;Account opened → first transaction;Waiting for card;1123
+MyMo Account;2025-03;Choose account;Compared fees and left;4343
+MyMo Account;2025-03;Choose account;Not sure which account fits;3621
+MyMo Account;2025-03;Confirm address;No proof of address;447
+MyMo Account;2025-03;Confirm address;Address not found;136
+MyMo Account;2025-03;Eligibility check;Under 18;240
+MyMo Account;2025-03;Eligibility check;Not a SA resident;197
+MyMo Account;2025-03;ID capture;Photo blurry;436
+MyMo Account;2025-03;ID capture;Green ID book not accepted;288
+MyMo Account;2025-03;ID capture;Camera permission denied;362
+MyMo Account;2025-03;Identity verification;Selfie didn't match;615
+MyMo Account;2025-03;Identity verification;Liveness check failed;546
+MyMo Account;2025-03;Identity verification;Took too long;864
+MyMo Account;2025-03;Personal details;Form too long;1518
+MyMo Account;2025-03;Personal details;Didn't know source of funds;1325
+MyMo Account;2025-03;Personal details;Timed out;1336
+MyMo Account;2025-03;Terms and e-sign;OTP not received;266
+MyMo Account;2025-03;Terms and e-sign;Too much to read;139
+MyMo Account;2025-04;Account opened → first transaction;Never made a first transaction;1844
+MyMo Account;2025-04;Account opened → first transaction;Waiting for card;712
+MyMo Account;2025-04;Choose account;Compared fees and left;3490
+MyMo Account;2025-04;Choose account;Not sure which account fits;4011
+MyMo Account;2025-04;Confirm address;No proof of address;244
+MyMo Account;2025-04;Confirm address;Address not found;332
+MyMo Account;2025-04;Eligibility check;Under 18;290
+MyMo Account;2025-04;Eligibility check;Not a SA resident;147
+MyMo Account;2025-04;ID capture;Photo blurry;438
+MyMo Account;2025-04;ID capture;Green ID book not accepted;392
+MyMo Account;2025-04;ID capture;Camera permission denied;186
+MyMo Account;2025-04;Identity verification;Selfie didn't match;938
+MyMo Account;2025-04;Identity verification;Liveness check failed;470
+MyMo Account;2025-04;Identity verification;Took too long;592
+MyMo Account;2025-04;Personal details;Form too long;1354
+MyMo Account;2025-04;Personal details;Didn't know source of funds;1164
+MyMo Account;2025-04;Personal details;Timed out;1491
+MyMo Account;2025-04;Terms and e-sign;OTP not received;262
+MyMo Account;2025-04;Terms and e-sign;Too much to read;117
+MyMo Account;2025-05;Account opened → first transaction;Never made a first transaction;1737
+MyMo Account;2025-05;Account opened → first transaction;Waiting for card;1709
+MyMo Account;2025-05;Choose account;Compared fees and left;6482
+MyMo Account;2025-05;Choose account;Not sure which account fits;3573
+MyMo Account;2025-05;Confirm address;No proof of address;388
+MyMo Account;2025-05;Confirm address;Address not found;400
+MyMo Account;2025-05;Eligibility check;Under 18;455
+MyMo Account;2025-05;Eligibility check;Not a SA resident;131
+MyMo Account;2025-05;ID capture;Photo blurry;628
+MyMo Account;2025-05;ID capture;Green ID book not accepted;323
+MyMo Account;2025-05;ID capture;Camera permission denied;472
+MyMo Account;2025-05;Identity verification;Selfie didn't match;910
+MyMo Account;2025-05;Identity verification;Liveness check failed;1228
+MyMo Account;2025-05;Identity verification;Took too long;653
+MyMo Account;2025-05;Personal details;Form too long;2968
+MyMo Account;2025-05;Personal details;Didn't know source of funds;1324
+MyMo Account;2025-05;Personal details;Timed out;1048
+MyMo Account;2025-05;Terms and e-sign;OTP not received;232
+MyMo Account;2025-05;Terms and e-sign;Too much to read;318
+MyMo Account;2025-06;Account opened → first transaction;Never made a first transaction;1613
+MyMo Account;2025-06;Account opened → first transaction;Waiting for card;1068
+MyMo Account;2025-06;Choose account;Compared fees and left;4819
+MyMo Account;2025-06;Choose account;Not sure which account fits;3280
+MyMo Account;2025-06;Confirm address;No proof of address;440
+MyMo Account;2025-06;Confirm address;Address not found;141
+MyMo Account;2025-06;Eligibility check;Under 18;293
+MyMo Account;2025-06;Eligibility check;Not a SA resident;168
+MyMo Account;2025-06;ID capture;Photo blurry;419
+MyMo Account;2025-06;ID capture;Green ID book not accepted;296
+MyMo Account;2025-06;ID capture;Camera permission denied;397
+MyMo Account;2025-06;Identity verification;Selfie didn't match;960
+MyMo Account;2025-06;Identity verification;Liveness check failed;452
+MyMo Account;2025-06;Identity verification;Took too long;673
+MyMo Account;2025-06;Personal details;Form too long;1208
+MyMo Account;2025-06;Personal details;Didn't know source of funds;1392
+MyMo Account;2025-06;Personal details;Timed out;1749
+MyMo Account;2025-06;Terms and e-sign;OTP not received;234
+MyMo Account;2025-06;Terms and e-sign;Too much to read;187
+MyMo Account;2025-07;Account opened → first transaction;Never made a first transaction;2190
+MyMo Account;2025-07;Account opened → first transaction;Waiting for card;1235
+MyMo Account;2025-07;Choose account;Compared fees and left;6565
+MyMo Account;2025-07;Choose account;Not sure which account fits;3442
+MyMo Account;2025-07;Confirm address;No proof of address;574
+MyMo Account;2025-07;Confirm address;Address not found;189
+MyMo Account;2025-07;Eligibility check;Under 18;377
+MyMo Account;2025-07;Eligibility check;Not a SA resident;192
+MyMo Account;2025-07;ID capture;Photo blurry;669
+MyMo Account;2025-07;ID capture;Green ID book not accepted;390
+MyMo Account;2025-07;ID capture;Camera permission denied;391
+MyMo Account;2025-07;Identity verification;Selfie didn't match;1408
+MyMo Account;2025-07;Identity verification;Liveness check failed;550
+MyMo Account;2025-07;Identity verification;Took too long;717
+MyMo Account;2025-07;Personal details;Form too long;3044
+MyMo Account;2025-07;Personal details;Didn't know source of funds;1413
+MyMo Account;2025-07;Personal details;Timed out;957
+MyMo Account;2025-07;Terms and e-sign;OTP not received;335
+MyMo Account;2025-07;Terms and e-sign;Too much to read;195
+MyMo Account;2025-08;Account opened → first transaction;Never made a first transaction;1686
+MyMo Account;2025-08;Account opened → first transaction;Waiting for card;1065
+MyMo Account;2025-08;Choose account;Compared fees and left;5094
+MyMo Account;2025-08;Choose account;Not sure which account fits;3111
+MyMo Account;2025-08;Confirm address;No proof of address;439
+MyMo Account;2025-08;Confirm address;Address not found;165
+MyMo Account;2025-08;Eligibility check;Under 18;322
+MyMo Account;2025-08;Eligibility check;Not a SA resident;153
+MyMo Account;2025-08;ID capture;Photo blurry;516
+MyMo Account;2025-08;ID capture;Green ID book not accepted;342
+MyMo Account;2025-08;ID capture;Camera permission denied;291
+MyMo Account;2025-08;Identity verification;Selfie didn't match;862
+MyMo Account;2025-08;Identity verification;Liveness check failed;789
+MyMo Account;2025-08;Identity verification;Took too long;534
+MyMo Account;2025-08;Personal details;Form too long;1981
+MyMo Account;2025-08;Personal details;Didn't know source of funds;1323
+MyMo Account;2025-08;Personal details;Timed out;1109
+MyMo Account;2025-08;Terms and e-sign;OTP not received;239
+MyMo Account;2025-08;Terms and e-sign;Too much to read;204
+MyMo Account;2025-09;Account opened → first transaction;Never made a first transaction;1994
+MyMo Account;2025-09;Account opened → first transaction;Waiting for card;754
+MyMo Account;2025-09;Choose account;Compared fees and left;5130
+MyMo Account;2025-09;Choose account;Not sure which account fits;3102
+MyMo Account;2025-09;Confirm address;No proof of address;360
+MyMo Account;2025-09;Confirm address;Address not found;279
+MyMo Account;2025-09;Eligibility check;Under 18;336
+MyMo Account;2025-09;Eligibility check;Not a SA resident;130
+MyMo Account;2025-09;ID capture;Photo blurry;549
+MyMo Account;2025-09;ID capture;Green ID book not accepted;415
+MyMo Account;2025-09;ID capture;Camera permission denied;169
+MyMo Account;2025-09;Identity verification;Selfie didn't match;1109
+MyMo Account;2025-09;Identity verification;Liveness check failed;333
+MyMo Account;2025-09;Identity verification;Took too long;727
+MyMo Account;2025-09;Personal details;Form too long;2213
+MyMo Account;2025-09;Personal details;Didn't know source of funds;1201
+MyMo Account;2025-09;Personal details;Timed out;840
+MyMo Account;2025-09;Terms and e-sign;OTP not received;308
+MyMo Account;2025-09;Terms and e-sign;Too much to read;131
+MyMo Account;2025-10;Account opened → first transaction;Never made a first transaction;2031
+MyMo Account;2025-10;Account opened → first transaction;Waiting for card;1483
+MyMo Account;2025-10;Choose account;Compared fees and left;7812
+MyMo Account;2025-10;Choose account;Not sure which account fits;2611
+MyMo Account;2025-10;Confirm address;No proof of address;483
+MyMo Account;2025-10;Confirm address;Address not found;290
+MyMo Account;2025-10;Eligibility check;Under 18;278
+MyMo Account;2025-10;Eligibility check;Not a SA resident;311
+MyMo Account;2025-10;ID capture;Photo blurry;754
+MyMo Account;2025-10;ID capture;Green ID book not accepted;419
+MyMo Account;2025-10;ID capture;Camera permission denied;318
+MyMo Account;2025-10;Identity verification;Selfie didn't match;1345
+MyMo Account;2025-10;Identity verification;Liveness check failed;639
+MyMo Account;2025-10;Identity verification;Took too long;887
+MyMo Account;2025-10;Personal details;Form too long;1849
+MyMo Account;2025-10;Personal details;Didn't know source of funds;1729
+MyMo Account;2025-10;Personal details;Timed out;1943
+MyMo Account;2025-10;Terms and e-sign;OTP not received;346
+MyMo Account;2025-10;Terms and e-sign;Too much to read;230
+MyMo Account;2025-11;Account opened → first transaction;Never made a first transaction;1678
+MyMo Account;2025-11;Account opened → first transaction;Waiting for card;997
+MyMo Account;2025-11;Choose account;Compared fees and left;3423
+MyMo Account;2025-11;Choose account;Not sure which account fits;4417
+MyMo Account;2025-11;Confirm address;No proof of address;227
+MyMo Account;2025-11;Confirm address;Address not found;379
+MyMo Account;2025-11;Eligibility check;Under 18;325
+MyMo Account;2025-11;Eligibility check;Not a SA resident;146
+MyMo Account;2025-11;ID capture;Photo blurry;586
+MyMo Account;2025-11;ID capture;Green ID book not accepted;277
+MyMo Account;2025-11;ID capture;Camera permission denied;237
+MyMo Account;2025-11;Identity verification;Selfie didn't match;1099
+MyMo Account;2025-11;Identity verification;Liveness check failed;351
+MyMo Account;2025-11;Identity verification;Took too long;600
+MyMo Account;2025-11;Personal details;Form too long;2025
+MyMo Account;2025-11;Personal details;Didn't know source of funds;978
+MyMo Account;2025-11;Personal details;Timed out;1133
+MyMo Account;2025-11;Terms and e-sign;OTP not received;235
+MyMo Account;2025-11;Terms and e-sign;Too much to read;170
+MyMo Account;2025-12;Account opened → first transaction;Never made a first transaction;1325
+MyMo Account;2025-12;Account opened → first transaction;Waiting for card;1003
+MyMo Account;2025-12;Choose account;Compared fees and left;2849
+MyMo Account;2025-12;Choose account;Not sure which account fits;4420
+MyMo Account;2025-12;Confirm address;No proof of address;239
+MyMo Account;2025-12;Confirm address;Address not found;277
+MyMo Account;2025-12;Eligibility check;Under 18;244
+MyMo Account;2025-12;Eligibility check;Not a SA resident;175
+MyMo Account;2025-12;ID capture;Photo blurry;268
+MyMo Account;2025-12;ID capture;Green ID book not accepted;443
+MyMo Account;2025-12;ID capture;Camera permission denied;303
+MyMo Account;2025-12;Identity verification;Selfie didn't match;1013
+MyMo Account;2025-12;Identity verification;Liveness check failed;697
+MyMo Account;2025-12;Identity verification;Took too long;691
+MyMo Account;2025-12;Personal details;Form too long;1433
+MyMo Account;2025-12;Personal details;Didn't know source of funds;1005
+MyMo Account;2025-12;Personal details;Timed out;1444
+MyMo Account;2025-12;Terms and e-sign;OTP not received;150
+MyMo Account;2025-12;Terms and e-sign;Too much to read;197
+MyMo Account;2026-01;Account opened → first transaction;Never made a first transaction;2272
+MyMo Account;2026-01;Account opened → first transaction;Waiting for card;1734
+MyMo Account;2026-01;Choose account;Compared fees and left;6602
+MyMo Account;2026-01;Choose account;Not sure which account fits;5302
+MyMo Account;2026-01;Confirm address;No proof of address;595
+MyMo Account;2026-01;Confirm address;Address not found;291
+MyMo Account;2026-01;Eligibility check;Under 18;440
+MyMo Account;2026-01;Eligibility check;Not a SA resident;266
+MyMo Account;2026-01;ID capture;Photo blurry;941
+MyMo Account;2026-01;ID capture;Green ID book not accepted;481
+MyMo Account;2026-01;ID capture;Camera permission denied;230
+MyMo Account;2026-01;Identity verification;Selfie didn't match;1271
+MyMo Account;2026-01;Identity verification;Liveness check failed;647
+MyMo Account;2026-01;Identity verification;Took too long;1252
+MyMo Account;2026-01;Personal details;Form too long;3999
+MyMo Account;2026-01;Personal details;Didn't know source of funds;1127
+MyMo Account;2026-01;Personal details;Timed out;1192
+MyMo Account;2026-01;Terms and e-sign;OTP not received;433
+MyMo Account;2026-01;Terms and e-sign;Too much to read;202
+MyMo Account;2026-02;Account opened → first transaction;Never made a first transaction;1957
+MyMo Account;2026-02;Account opened → first transaction;Waiting for card;992
+MyMo Account;2026-02;Choose account;Compared fees and left;6174
+MyMo Account;2026-02;Choose account;Not sure which account fits;2706
+MyMo Account;2026-02;Confirm address;No proof of address;495
+MyMo Account;2026-02;Confirm address;Address not found;158
+MyMo Account;2026-02;Eligibility check;Under 18;326
+MyMo Account;2026-02;Eligibility check;Not a SA resident;165
+MyMo Account;2026-02;ID capture;Photo blurry;452
+MyMo Account;2026-02;ID capture;Green ID book not accepted;454
+MyMo Account;2026-02;ID capture;Camera permission denied;342
+MyMo Account;2026-02;Identity verification;Selfie didn't match;1378
+MyMo Account;2026-02;Identity verification;Liveness check failed;496
+MyMo Account;2026-02;Identity verification;Took too long;409
+MyMo Account;2026-02;Personal details;Form too long;1669
+MyMo Account;2026-02;Personal details;Didn't know source of funds;1125
+MyMo Account;2026-02;Personal details;Timed out;1733
+MyMo Account;2026-02;Terms and e-sign;OTP not received;246
+MyMo Account;2026-02;Terms and e-sign;Too much to read;215
+MyMo Account;2026-03;Account opened → first transaction;Never made a first transaction;2601
+MyMo Account;2026-03;Account opened → first transaction;Waiting for card;944
+MyMo Account;2026-03;Choose account;Compared fees and left;8318
+MyMo Account;2026-03;Choose account;Not sure which account fits;3740
+MyMo Account;2026-03;Confirm address;No proof of address;415
+MyMo Account;2026-03;Confirm address;Address not found;413
+MyMo Account;2026-03;Eligibility check;Under 18;241
+MyMo Account;2026-03;Eligibility check;Not a SA resident;363
+MyMo Account;2026-03;ID capture;Photo blurry;762
+MyMo Account;2026-03;ID capture;Green ID book not accepted;437
+MyMo Account;2026-03;ID capture;Camera permission denied;312
+MyMo Account;2026-03;Identity verification;Selfie didn't match;1049
+MyMo Account;2026-03;Identity verification;Liveness check failed;665
+MyMo Account;2026-03;Identity verification;Took too long;1146
+MyMo Account;2026-03;Personal details;Form too long;2509
+MyMo Account;2026-03;Personal details;Didn't know source of funds;1525
+MyMo Account;2026-03;Personal details;Timed out;1511
+MyMo Account;2026-03;Terms and e-sign;OTP not received;377
+MyMo Account;2026-03;Terms and e-sign;Too much to read;182
+MyMo Account;2026-04;Account opened → first transaction;Never made a first transaction;2400
+MyMo Account;2026-04;Account opened → first transaction;Waiting for card;1075
+MyMo Account;2026-04;Choose account;Compared fees and left;5351
+MyMo Account;2026-04;Choose account;Not sure which account fits;4995
+MyMo Account;2026-04;Confirm address;No proof of address;586
+MyMo Account;2026-04;Confirm address;Address not found;222
+MyMo Account;2026-04;Eligibility check;Under 18;391
+MyMo Account;2026-04;Eligibility check;Not a SA resident;207
+MyMo Account;2026-04;ID capture;Photo blurry;847
+MyMo Account;2026-04;ID capture;Green ID book not accepted;252
+MyMo Account;2026-04;ID capture;Camera permission denied;393
+MyMo Account;2026-04;Identity verification;Selfie didn't match;1738
+MyMo Account;2026-04;Identity verification;Liveness check failed;506
+MyMo Account;2026-04;Identity verification;Took too long;537
+MyMo Account;2026-04;Personal details;Form too long;2921
+MyMo Account;2026-04;Personal details;Didn't know source of funds;1396
+MyMo Account;2026-04;Personal details;Timed out;1340
+MyMo Account;2026-04;Terms and e-sign;OTP not received;279
+MyMo Account;2026-04;Terms and e-sign;Too much to read;260
+MyMo Account;2026-05;Account opened → first transaction;Never made a first transaction;1938
+MyMo Account;2026-05;Account opened → first transaction;Waiting for card;1007
+MyMo Account;2026-05;Choose account;Compared fees and left;4106
+MyMo Account;2026-05;Choose account;Not sure which account fits;4509
+MyMo Account;2026-05;Confirm address;No proof of address;423
+MyMo Account;2026-05;Confirm address;Address not found;229
+MyMo Account;2026-05;Eligibility check;Under 18;278
+MyMo Account;2026-05;Eligibility check;Not a SA resident;227
+MyMo Account;2026-05;ID capture;Photo blurry;636
+MyMo Account;2026-05;ID capture;Green ID book not accepted;308
+MyMo Account;2026-05;ID capture;Camera permission denied;268
+MyMo Account;2026-05;Identity verification;Selfie didn't match;843
+MyMo Account;2026-05;Identity verification;Liveness check failed;503
+MyMo Account;2026-05;Identity verification;Took too long;940
+MyMo Account;2026-05;Personal details;Form too long;1811
+MyMo Account;2026-05;Personal details;Didn't know source of funds;1338
+MyMo Account;2026-05;Personal details;Timed out;1460
+MyMo Account;2026-05;Terms and e-sign;OTP not received;278
+MyMo Account;2026-05;Terms and e-sign;Too much to read;180
+MyMo Account;2026-06;Account opened → first transaction;Never made a first transaction;1539
+MyMo Account;2026-06;Account opened → first transaction;Waiting for card;1342
+MyMo Account;2026-06;Choose account;Compared fees and left;6489
+MyMo Account;2026-06;Choose account;Not sure which account fits;1674
+MyMo Account;2026-06;Confirm address;No proof of address;371
+MyMo Account;2026-06;Confirm address;Address not found;260
+MyMo Account;2026-06;Eligibility check;Under 18;355
+MyMo Account;2026-06;Eligibility check;Not a SA resident;122
+MyMo Account;2026-06;ID capture;Photo blurry;450
+MyMo Account;2026-06;ID capture;Green ID book not accepted;385
+MyMo Account;2026-06;ID capture;Camera permission denied;380
+MyMo Account;2026-06;Identity verification;Selfie didn't match;674
+MyMo Account;2026-06;Identity verification;Liveness check failed;734
+MyMo Account;2026-06;Identity verification;Took too long;833
+MyMo Account;2026-06;Personal details;Form too long;2362
+MyMo Account;2026-06;Personal details;Didn't know source of funds;1147
+MyMo Account;2026-06;Personal details;Timed out;835
+MyMo Account;2026-06;Terms and e-sign;OTP not received;318
+MyMo Account;2026-06;Terms and e-sign;Too much to read;135
+MyMo Account;2026-07;Account opened → first transaction;Never made a first transaction;2011
+MyMo Account;2026-07;Account opened → first transaction;Waiting for card;1615
+MyMo Account;2026-07;Choose account;Compared fees and left;6097
+MyMo Account;2026-07;Choose account;Not sure which account fits;4400
+MyMo Account;2026-07;Confirm address;No proof of address;510
+MyMo Account;2026-07;Confirm address;Address not found;296
+MyMo Account;2026-07;Eligibility check;Under 18;293
+MyMo Account;2026-07;Eligibility check;Not a SA resident;336
+MyMo Account;2026-07;ID capture;Photo blurry;504
+MyMo Account;2026-07;ID capture;Green ID book not accepted;430
+MyMo Account;2026-07;ID capture;Camera permission denied;594
+MyMo Account;2026-07;Identity verification;Selfie didn't match;1369
+MyMo Account;2026-07;Identity verification;Liveness check failed;820
+MyMo Account;2026-07;Identity verification;Took too long;596
+MyMo Account;2026-07;Personal details;Form too long;2190
+MyMo Account;2026-07;Personal details;Didn't know source of funds;2220
+MyMo Account;2026-07;Personal details;Timed out;1214
+MyMo Account;2026-07;Terms and e-sign;OTP not received;303
+MyMo Account;2026-07;Terms and e-sign;Too much to read;281
+MyMo Account;2026-08;Account opened → first transaction;Never made a first transaction;1722
+MyMo Account;2026-08;Account opened → first transaction;Waiting for card;1568
+MyMo Account;2026-08;Choose account;Compared fees and left;4717
+MyMo Account;2026-08;Choose account;Not sure which account fits;3798
+MyMo Account;2026-08;Confirm address;No proof of address;495
+MyMo Account;2026-08;Confirm address;Address not found;242
+MyMo Account;2026-08;Eligibility check;Under 18;243
+MyMo Account;2026-08;Eligibility check;Not a SA resident;256
+MyMo Account;2026-08;ID capture;Photo blurry;727
+MyMo Account;2026-08;ID capture;Green ID book not accepted;348
+MyMo Account;2026-08;ID capture;Camera permission denied;279
+MyMo Account;2026-08;Identity verification;Selfie didn't match;1276
+MyMo Account;2026-08;Identity verification;Liveness check failed;669
+MyMo Account;2026-08;Identity verification;Took too long;624
+MyMo Account;2026-08;Personal details;Form too long;1136
+MyMo Account;2026-08;Personal details;Didn't know source of funds;1481
+MyMo Account;2026-08;Personal details;Timed out;695
+MyMo Account;2026-08;Terms and e-sign;OTP not received;350
+MyMo Account;2026-08;Terms and e-sign;Too much to read;174
+MyMo Account;2026-09;Account opened → first transaction;Never made a first transaction;2407
+MyMo Account;2026-09;Account opened → first transaction;Waiting for card;990
+MyMo Account;2026-09;Choose account;Compared fees and left;5388
+MyMo Account;2026-09;Choose account;Not sure which account fits;3185
+MyMo Account;2026-09;Confirm address;No proof of address;548
+MyMo Account;2026-09;Confirm address;Address not found;183
+MyMo Account;2026-09;Eligibility check;Under 18;307
+MyMo Account;2026-09;Eligibility check;Not a SA resident;203
+MyMo Account;2026-09;ID capture;Photo blurry;589
+MyMo Account;2026-09;ID capture;Green ID book not accepted;525
+MyMo Account;2026-09;ID capture;Camera permission denied;299
+MyMo Account;2026-09;Identity verification;Selfie didn't match;1206
+MyMo Account;2026-09;Identity verification;Liveness check failed;364
+MyMo Account;2026-09;Identity verification;Took too long;1040
+MyMo Account;2026-09;Personal details;Form too long;1463
+MyMo Account;2026-09;Personal details;Didn't know source of funds;1180
+MyMo Account;2026-09;Personal details;Timed out;711
+MyMo Account;2026-09;Terms and e-sign;OTP not received;225
+MyMo Account;2026-09;Terms and e-sign;Too much to read;300
+MyMo Account;2026-10;Account opened → first transaction;Never made a first transaction;2150
+MyMo Account;2026-10;Account opened → first transaction;Waiting for card;1987
+MyMo Account;2026-10;Choose account;Compared fees and left;5799
+MyMo Account;2026-10;Choose account;Not sure which account fits;5344
+MyMo Account;2026-10;Confirm address;No proof of address;550
+MyMo Account;2026-10;Confirm address;Address not found;384
+MyMo Account;2026-10;Eligibility check;Under 18;401
+MyMo Account;2026-10;Eligibility check;Not a SA resident;217
+MyMo Account;2026-10;ID capture;Photo blurry;481
+MyMo Account;2026-10;ID capture;Green ID book not accepted;656
+MyMo Account;2026-10;ID capture;Camera permission denied;623
+MyMo Account;2026-10;Identity verification;Selfie didn't match;1928
+MyMo Account;2026-10;Identity verification;Liveness check failed;714
+MyMo Account;2026-10;Identity verification;Took too long;685
+MyMo Account;2026-10;Personal details;Form too long;2104
+MyMo Account;2026-10;Personal details;Didn't know source of funds;759
+MyMo Account;2026-10;Personal details;Timed out;1290
+MyMo Account;2026-10;Terms and e-sign;OTP not received;509
+MyMo Account;2026-10;Terms and e-sign;Too much to read;125
+MyMo Plus Account;2024-11;Account opened → first transaction;Never made a first transaction;418
+MyMo Plus Account;2024-11;Account opened → first transaction;Waiting for card;190
+MyMo Plus Account;2024-11;Affordability and risk decision;Declined by risk rules;248
+MyMo Plus Account;2024-11;Affordability and risk decision;Income too low;131
+MyMo Plus Account;2024-11;Affordability and risk decision;Bureau mismatch;214
+MyMo Plus Account;2024-11;Choose account;Compared fees and left;1584
+MyMo Plus Account;2024-11;Choose account;Not sure which account fits;985
+MyMo Plus Account;2024-11;Eligibility check;Under 18;133
+MyMo Plus Account;2024-11;Eligibility check;Not a SA resident;168
+MyMo Plus Account;2024-11;ID capture;Photo blurry;174
+MyMo Plus Account;2024-11;ID capture;Green ID book not accepted;137
+MyMo Plus Account;2024-11;ID capture;Camera permission denied;105
+MyMo Plus Account;2024-11;Identity verification;Selfie didn't match;380
+MyMo Plus Account;2024-11;Identity verification;Liveness check failed;184
+MyMo Plus Account;2024-11;Identity verification;Took too long;252
+MyMo Plus Account;2024-11;Personal details;Form too long;510
+MyMo Plus Account;2024-11;Personal details;Didn't know source of funds;481
+MyMo Plus Account;2024-11;Personal details;Timed out;478
+MyMo Plus Account;2024-11;Proof of address or income;No proof of address;360
+MyMo Plus Account;2024-11;Proof of address or income;Payslip upload failed;84
+MyMo Plus Account;2024-11;Proof of address or income;Statement too old;108
+MyMo Plus Account;2024-11;Terms and e-sign;OTP not received;39
+MyMo Plus Account;2024-11;Terms and e-sign;Too much to read;51
+MyMo Plus Account;2024-12;Account opened → first transaction;Never made a first transaction;312
+MyMo Plus Account;2024-12;Account opened → first transaction;Waiting for card;184
+MyMo Plus Account;2024-12;Affordability and risk decision;Declined by risk rules;192
+MyMo Plus Account;2024-12;Affordability and risk decision;Income too low;206
+MyMo Plus Account;2024-12;Affordability and risk decision;Bureau mismatch;116
+MyMo Plus Account;2024-12;Choose account;Compared fees and left;1601
+MyMo Plus Account;2024-12;Choose account;Not sure which account fits;747
+MyMo Plus Account;2024-12;Eligibility check;Under 18;124
+MyMo Plus Account;2024-12;Eligibility check;Not a SA resident;151
+MyMo Plus Account;2024-12;ID capture;Photo blurry;207
+MyMo Plus Account;2024-12;ID capture;Green ID book not accepted;118
+MyMo Plus Account;2024-12;ID capture;Camera permission denied;45
+MyMo Plus Account;2024-12;Identity verification;Selfie didn't match;275
+MyMo Plus Account;2024-12;Identity verification;Liveness check failed;325
+MyMo Plus Account;2024-12;Identity verification;Took too long;266
+MyMo Plus Account;2024-12;Personal details;Form too long;545
+MyMo Plus Account;2024-12;Personal details;Didn't know source of funds;419
+MyMo Plus Account;2024-12;Personal details;Timed out;353
+MyMo Plus Account;2024-12;Proof of address or income;No proof of address;169
+MyMo Plus Account;2024-12;Proof of address or income;Payslip upload failed;155
+MyMo Plus Account;2024-12;Proof of address or income;Statement too old;158
+MyMo Plus Account;2024-12;Terms and e-sign;OTP not received;59
+MyMo Plus Account;2024-12;Terms and e-sign;Too much to read;17
+MyMo Plus Account;2025-01;Account opened → first transaction;Never made a first transaction;617
+MyMo Plus Account;2025-01;Account opened → first transaction;Waiting for card;268
+MyMo Plus Account;2025-01;Affordability and risk decision;Declined by risk rules;508
+MyMo Plus Account;2025-01;Affordability and risk decision;Income too low;277
+MyMo Plus Account;2025-01;Affordability and risk decision;Bureau mismatch;175
+MyMo Plus Account;2025-01;Choose account;Compared fees and left;1844
+MyMo Plus Account;2025-01;Choose account;Not sure which account fits;2095
+MyMo Plus Account;2025-01;Eligibility check;Under 18;226
+MyMo Plus Account;2025-01;Eligibility check;Not a SA resident;240
+MyMo Plus Account;2025-01;ID capture;Photo blurry;269
+MyMo Plus Account;2025-01;ID capture;Green ID book not accepted;156
+MyMo Plus Account;2025-01;ID capture;Camera permission denied;220
+MyMo Plus Account;2025-01;Identity verification;Selfie didn't match;737
+MyMo Plus Account;2025-01;Identity verification;Liveness check failed;315
+MyMo Plus Account;2025-01;Identity verification;Took too long;201
+MyMo Plus Account;2025-01;Personal details;Form too long;769
+MyMo Plus Account;2025-01;Personal details;Didn't know source of funds;683
+MyMo Plus Account;2025-01;Personal details;Timed out;836
+MyMo Plus Account;2025-01;Proof of address or income;No proof of address;301
+MyMo Plus Account;2025-01;Proof of address or income;Payslip upload failed;258
+MyMo Plus Account;2025-01;Proof of address or income;Statement too old;309
+MyMo Plus Account;2025-01;Terms and e-sign;OTP not received;73
+MyMo Plus Account;2025-01;Terms and e-sign;Too much to read;61
+MyMo Plus Account;2025-02;Account opened → first transaction;Never made a first transaction;452
+MyMo Plus Account;2025-02;Account opened → first transaction;Waiting for card;193
+MyMo Plus Account;2025-02;Affordability and risk decision;Declined by risk rules;245
+MyMo Plus Account;2025-02;Affordability and risk decision;Income too low;228
+MyMo Plus Account;2025-02;Affordability and risk decision;Bureau mismatch;201
+MyMo Plus Account;2025-02;Choose account;Compared fees and left;2319
+MyMo Plus Account;2025-02;Choose account;Not sure which account fits;614
+MyMo Plus Account;2025-02;Eligibility check;Under 18;230
+MyMo Plus Account;2025-02;Eligibility check;Not a SA resident;98
+MyMo Plus Account;2025-02;ID capture;Photo blurry;229
+MyMo Plus Account;2025-02;ID capture;Green ID book not accepted;99
+MyMo Plus Account;2025-02;ID capture;Camera permission denied;133
+MyMo Plus Account;2025-02;Identity verification;Selfie didn't match;363
+MyMo Plus Account;2025-02;Identity verification;Liveness check failed;367
+MyMo Plus Account;2025-02;Identity verification;Took too long;145
+MyMo Plus Account;2025-02;Personal details;Form too long;788
+MyMo Plus Account;2025-02;Personal details;Didn't know source of funds;350
+MyMo Plus Account;2025-02;Personal details;Timed out;471
+MyMo Plus Account;2025-02;Proof of address or income;No proof of address;311
+MyMo Plus Account;2025-02;Proof of address or income;Payslip upload failed;174
+MyMo Plus Account;2025-02;Proof of address or income;Statement too old;146
+MyMo Plus Account;2025-02;Terms and e-sign;OTP not received;57
+MyMo Plus Account;2025-02;Terms and e-sign;Too much to read;44
+MyMo Plus Account;2025-03;Account opened → first transaction;Never made a first transaction;479
+MyMo Plus Account;2025-03;Account opened → first transaction;Waiting for card;183
+MyMo Plus Account;2025-03;Affordability and risk decision;Declined by risk rules;254
+MyMo Plus Account;2025-03;Affordability and risk decision;Income too low;187
+MyMo Plus Account;2025-03;Affordability and risk decision;Bureau mismatch;230
+MyMo Plus Account;2025-03;Choose account;Compared fees and left;2161
+MyMo Plus Account;2025-03;Choose account;Not sure which account fits;743
+MyMo Plus Account;2025-03;Eligibility check;Under 18;195
+MyMo Plus Account;2025-03;Eligibility check;Not a SA resident;138
+MyMo Plus Account;2025-03;ID capture;Photo blurry;210
+MyMo Plus Account;2025-03;ID capture;Green ID book not accepted;134
+MyMo Plus Account;2025-03;ID capture;Camera permission denied;126
+MyMo Plus Account;2025-03;Identity verification;Selfie didn't match;522
+MyMo Plus Account;2025-03;Identity verification;Liveness check failed;215
+MyMo Plus Account;2025-03;Identity verification;Took too long;150
+MyMo Plus Account;2025-03;Personal details;Form too long;700
+MyMo Plus Account;2025-03;Personal details;Didn't know source of funds;513
+MyMo Plus Account;2025-03;Personal details;Timed out;431
+MyMo Plus Account;2025-03;Proof of address or income;No proof of address;328
+MyMo Plus Account;2025-03;Proof of address or income;Payslip upload failed;168
+MyMo Plus Account;2025-03;Proof of address or income;Statement too old;125
+MyMo Plus Account;2025-03;Terms and e-sign;OTP not received;38
+MyMo Plus Account;2025-03;Terms and e-sign;Too much to read;64
+MyMo Plus Account;2025-04;Account opened → first transaction;Never made a first transaction;434
+MyMo Plus Account;2025-04;Account opened → first transaction;Waiting for card;188
+MyMo Plus Account;2025-04;Affordability and risk decision;Declined by risk rules;232
+MyMo Plus Account;2025-04;Affordability and risk decision;Income too low;205
+MyMo Plus Account;2025-04;Affordability and risk decision;Bureau mismatch;199
+MyMo Plus Account;2025-04;Choose account;Compared fees and left;2024
+MyMo Plus Account;2025-04;Choose account;Not sure which account fits;670
+MyMo Plus Account;2025-04;Eligibility check;Under 18;199
+MyMo Plus Account;2025-04;Eligibility check;Not a SA resident;114
+MyMo Plus Account;2025-04;ID capture;Photo blurry;144
+MyMo Plus Account;2025-04;ID capture;Green ID book not accepted;202
+MyMo Plus Account;2025-04;ID capture;Camera permission denied;77
+MyMo Plus Account;2025-04;Identity verification;Selfie didn't match;383
+MyMo Plus Account;2025-04;Identity verification;Liveness check failed;251
+MyMo Plus Account;2025-04;Identity verification;Took too long;199
+MyMo Plus Account;2025-04;Personal details;Form too long;516
+MyMo Plus Account;2025-04;Personal details;Didn't know source of funds;657
+MyMo Plus Account;2025-04;Personal details;Timed out;360
+MyMo Plus Account;2025-04;Proof of address or income;No proof of address;344
+MyMo Plus Account;2025-04;Proof of address or income;Payslip upload failed;88
+MyMo Plus Account;2025-04;Proof of address or income;Statement too old;159
+MyMo Plus Account;2025-04;Terms and e-sign;OTP not received;63
+MyMo Plus Account;2025-04;Terms and e-sign;Too much to read;34
+MyMo Plus Account;2025-05;Account opened → first transaction;Never made a first transaction;576
+MyMo Plus Account;2025-05;Account opened → first transaction;Waiting for card;248
+MyMo Plus Account;2025-05;Affordability and risk decision;Declined by risk rules;370
+MyMo Plus Account;2025-05;Affordability and risk decision;Income too low;192
+MyMo Plus Account;2025-05;Affordability and risk decision;Bureau mismatch;283
+MyMo Plus Account;2025-05;Choose account;Compared fees and left;2019
+MyMo Plus Account;2025-05;Choose account;Not sure which account fits;1538
+MyMo Plus Account;2025-05;Eligibility check;Under 18;181
+MyMo Plus Account;2025-05;Eligibility check;Not a SA resident;221
+MyMo Plus Account;2025-05;ID capture;Photo blurry;276
+MyMo Plus Account;2025-05;ID capture;Green ID book not accepted;158
+MyMo Plus Account;2025-05;ID capture;Camera permission denied;133
+MyMo Plus Account;2025-05;Identity verification;Selfie didn't match;591
+MyMo Plus Account;2025-05;Identity verification;Liveness check failed;172
+MyMo Plus Account;2025-05;Identity verification;Took too long;350
+MyMo Plus Account;2025-05;Personal details;Form too long;947
+MyMo Plus Account;2025-05;Personal details;Didn't know source of funds;354
+MyMo Plus Account;2025-05;Personal details;Timed out;731
+MyMo Plus Account;2025-05;Proof of address or income;No proof of address;386
+MyMo Plus Account;2025-05;Proof of address or income;Payslip upload failed;186
+MyMo Plus Account;2025-05;Proof of address or income;Statement too old;181
+MyMo Plus Account;2025-05;Terms and e-sign;OTP not received;78
+MyMo Plus Account;2025-05;Terms and e-sign;Too much to read;44
+MyMo Plus Account;2025-06;Account opened → first transaction;Never made a first transaction;383
+MyMo Plus Account;2025-06;Account opened → first transaction;Waiting for card;257
+MyMo Plus Account;2025-06;Affordability and risk decision;Declined by risk rules;281
+MyMo Plus Account;2025-06;Affordability and risk decision;Income too low;110
+MyMo Plus Account;2025-06;Affordability and risk decision;Bureau mismatch;272
+MyMo Plus Account;2025-06;Choose account;Compared fees and left;1747
+MyMo Plus Account;2025-06;Choose account;Not sure which account fits;1054
+MyMo Plus Account;2025-06;Eligibility check;Under 18;193
+MyMo Plus Account;2025-06;Eligibility check;Not a SA resident;139
+MyMo Plus Account;2025-06;ID capture;Photo blurry;129
+MyMo Plus Account;2025-06;ID capture;Green ID book not accepted;186
+MyMo Plus Account;2025-06;ID capture;Camera permission denied;126
+MyMo Plus Account;2025-06;Identity verification;Selfie didn't match;299
+MyMo Plus Account;2025-06;Identity verification;Liveness check failed;410
+MyMo Plus Account;2025-06;Identity verification;Took too long;166
+MyMo Plus Account;2025-06;Personal details;Form too long;645
+MyMo Plus Account;2025-06;Personal details;Didn't know source of funds;521
+MyMo Plus Account;2025-06;Personal details;Timed out;390
+MyMo Plus Account;2025-06;Proof of address or income;No proof of address;249
+MyMo Plus Account;2025-06;Proof of address or income;Payslip upload failed;159
+MyMo Plus Account;2025-06;Proof of address or income;Statement too old;193
+MyMo Plus Account;2025-06;Terms and e-sign;OTP not received;61
+MyMo Plus Account;2025-06;Terms and e-sign;Too much to read;35
+MyMo Plus Account;2025-07;Account opened → first transaction;Never made a first transaction;402
+MyMo Plus Account;2025-07;Account opened → first transaction;Waiting for card;408
+MyMo Plus Account;2025-07;Affordability and risk decision;Declined by risk rules;278
+MyMo Plus Account;2025-07;Affordability and risk decision;Income too low;256
+MyMo Plus Account;2025-07;Affordability and risk decision;Bureau mismatch;290
+MyMo Plus Account;2025-07;Choose account;Compared fees and left;2663
+MyMo Plus Account;2025-07;Choose account;Not sure which account fits;812
+MyMo Plus Account;2025-07;Eligibility check;Under 18;261
+MyMo Plus Account;2025-07;Eligibility check;Not a SA resident;151
+MyMo Plus Account;2025-07;ID capture;Photo blurry;269
+MyMo Plus Account;2025-07;ID capture;Green ID book not accepted;138
+MyMo Plus Account;2025-07;ID capture;Camera permission denied;160
+MyMo Plus Account;2025-07;Identity verification;Selfie didn't match;524
+MyMo Plus Account;2025-07;Identity verification;Liveness check failed;426
+MyMo Plus Account;2025-07;Identity verification;Took too long;162
+MyMo Plus Account;2025-07;Personal details;Form too long;979
+MyMo Plus Account;2025-07;Personal details;Didn't know source of funds;602
+MyMo Plus Account;2025-07;Personal details;Timed out;476
+MyMo Plus Account;2025-07;Proof of address or income;No proof of address;397
+MyMo Plus Account;2025-07;Proof of address or income;Payslip upload failed;220
+MyMo Plus Account;2025-07;Proof of address or income;Statement too old;152
+MyMo Plus Account;2025-07;Terms and e-sign;OTP not received;84
+MyMo Plus Account;2025-07;Terms and e-sign;Too much to read;45
+MyMo Plus Account;2025-08;Account opened → first transaction;Never made a first transaction;436
+MyMo Plus Account;2025-08;Account opened → first transaction;Waiting for card;234
+MyMo Plus Account;2025-08;Affordability and risk decision;Declined by risk rules;324
+MyMo Plus Account;2025-08;Affordability and risk decision;Income too low;237
+MyMo Plus Account;2025-08;Affordability and risk decision;Bureau mismatch;128
+MyMo Plus Account;2025-08;Choose account;Compared fees and left;1796
+MyMo Plus Account;2025-08;Choose account;Not sure which account fits;1080
+MyMo Plus Account;2025-08;Eligibility check;Under 18;201
+MyMo Plus Account;2025-08;Eligibility check;Not a SA resident;136
+MyMo Plus Account;2025-08;ID capture;Photo blurry;223
+MyMo Plus Account;2025-08;ID capture;Green ID book not accepted;93
+MyMo Plus Account;2025-08;ID capture;Camera permission denied;123
+MyMo Plus Account;2025-08;Identity verification;Selfie didn't match;357
+MyMo Plus Account;2025-08;Identity verification;Liveness check failed;266
+MyMo Plus Account;2025-08;Identity verification;Took too long;257
+MyMo Plus Account;2025-08;Personal details;Form too long;532
+MyMo Plus Account;2025-08;Personal details;Didn't know source of funds;632
+MyMo Plus Account;2025-08;Personal details;Timed out;462
+MyMo Plus Account;2025-08;Proof of address or income;No proof of address;238
+MyMo Plus Account;2025-08;Proof of address or income;Payslip upload failed;208
+MyMo Plus Account;2025-08;Proof of address or income;Statement too old;158
+MyMo Plus Account;2025-08;Terms and e-sign;OTP not received;66
+MyMo Plus Account;2025-08;Terms and e-sign;Too much to read;35
+MyMo Plus Account;2025-09;Account opened → first transaction;Never made a first transaction;494
+MyMo Plus Account;2025-09;Account opened → first transaction;Waiting for card;143
+MyMo Plus Account;2025-09;Affordability and risk decision;Declined by risk rules;328
+MyMo Plus Account;2025-09;Affordability and risk decision;Income too low;156
+MyMo Plus Account;2025-09;Affordability and risk decision;Bureau mismatch;178
+MyMo Plus Account;2025-09;Choose account;Compared fees and left;1192
+MyMo Plus Account;2025-09;Choose account;Not sure which account fits;1650
+MyMo Plus Account;2025-09;Eligibility check;Under 18;219
+MyMo Plus Account;2025-09;Eligibility check;Not a SA resident;106
+MyMo Plus Account;2025-09;ID capture;Photo blurry;215
+MyMo Plus Account;2025-09;ID capture;Green ID book not accepted;112
+MyMo Plus Account;2025-09;ID capture;Camera permission denied;138
+MyMo Plus Account;2025-09;Identity verification;Selfie didn't match;482
+MyMo Plus Account;2025-09;Identity verification;Liveness check failed;196
+MyMo Plus Account;2025-09;Identity verification;Took too long;187
+MyMo Plus Account;2025-09;Personal details;Form too long;675
+MyMo Plus Account;2025-09;Personal details;Didn't know source of funds;472
+MyMo Plus Account;2025-09;Personal details;Timed out;452
+MyMo Plus Account;2025-09;Proof of address or income;No proof of address;228
+MyMo Plus Account;2025-09;Proof of address or income;Payslip upload failed;216
+MyMo Plus Account;2025-09;Proof of address or income;Statement too old;151
+MyMo Plus Account;2025-09;Terms and e-sign;OTP not received;55
+MyMo Plus Account;2025-09;Terms and e-sign;Too much to read;44
+MyMo Plus Account;2025-10;Account opened → first transaction;Never made a first transaction;659
+MyMo Plus Account;2025-10;Account opened → first transaction;Waiting for card;184
+MyMo Plus Account;2025-10;Affordability and risk decision;Declined by risk rules;392
+MyMo Plus Account;2025-10;Affordability and risk decision;Income too low;188
+MyMo Plus Account;2025-10;Affordability and risk decision;Bureau mismatch;295
+MyMo Plus Account;2025-10;Choose account;Compared fees and left;1453
+MyMo Plus Account;2025-10;Choose account;Not sure which account fits;2256
+MyMo Plus Account;2025-10;Eligibility check;Under 18;267
+MyMo Plus Account;2025-10;Eligibility check;Not a SA resident;188
+MyMo Plus Account;2025-10;ID capture;Photo blurry;313
+MyMo Plus Account;2025-10;ID capture;Green ID book not accepted;192
+MyMo Plus Account;2025-10;ID capture;Camera permission denied;80
+MyMo Plus Account;2025-10;Identity verification;Selfie didn't match;730
+MyMo Plus Account;2025-10;Identity verification;Liveness check failed;189
+MyMo Plus Account;2025-10;Identity verification;Took too long;236
+MyMo Plus Account;2025-10;Personal details;Form too long;998
+MyMo Plus Account;2025-10;Personal details;Didn't know source of funds;797
+MyMo Plus Account;2025-10;Personal details;Timed out;316
+MyMo Plus Account;2025-10;Proof of address or income;No proof of address;400
+MyMo Plus Account;2025-10;Proof of address or income;Payslip upload failed;267
+MyMo Plus Account;2025-10;Proof of address or income;Statement too old;135
+MyMo Plus Account;2025-10;Terms and e-sign;OTP not received;86
+MyMo Plus Account;2025-10;Terms and e-sign;Too much to read;49
+MyMo Plus Account;2025-11;Account opened → first transaction;Never made a first transaction;486
+MyMo Plus Account;2025-11;Account opened → first transaction;Waiting for card;174
+MyMo Plus Account;2025-11;Affordability and risk decision;Declined by risk rules;322
+MyMo Plus Account;2025-11;Affordability and risk decision;Income too low;197
+MyMo Plus Account;2025-11;Affordability and risk decision;Bureau mismatch;144
+MyMo Plus Account;2025-11;Choose account;Compared fees and left;1842
+MyMo Plus Account;2025-11;Choose account;Not sure which account fits;1024
+MyMo Plus Account;2025-11;Eligibility check;Under 18;209
+MyMo Plus Account;2025-11;Eligibility check;Not a SA resident;124
+MyMo Plus Account;2025-11;ID capture;Photo blurry;187
+MyMo Plus Account;2025-11;ID capture;Green ID book not accepted;117
+MyMo Plus Account;2025-11;ID capture;Camera permission denied;141
+MyMo Plus Account;2025-11;Identity verification;Selfie didn't match;430
+MyMo Plus Account;2025-11;Identity verification;Liveness check failed;279
+MyMo Plus Account;2025-11;Identity verification;Took too long;169
+MyMo Plus Account;2025-11;Personal details;Form too long;511
+MyMo Plus Account;2025-11;Personal details;Didn't know source of funds;651
+MyMo Plus Account;2025-11;Personal details;Timed out;432
+MyMo Plus Account;2025-11;Proof of address or income;No proof of address;248
+MyMo Plus Account;2025-11;Proof of address or income;Payslip upload failed;168
+MyMo Plus Account;2025-11;Proof of address or income;Statement too old;198
+MyMo Plus Account;2025-11;Terms and e-sign;OTP not received;53
+MyMo Plus Account;2025-11;Terms and e-sign;Too much to read;49
+MyMo Plus Account;2025-12;Account opened → first transaction;Never made a first transaction;348
+MyMo Plus Account;2025-12;Account opened → first transaction;Waiting for card;190
+MyMo Plus Account;2025-12;Affordability and risk decision;Declined by risk rules;329
+MyMo Plus Account;2025-12;Affordability and risk decision;Income too low;100
+MyMo Plus Account;2025-12;Affordability and risk decision;Bureau mismatch;142
+MyMo Plus Account;2025-12;Choose account;Compared fees and left;1789
+MyMo Plus Account;2025-12;Choose account;Not sure which account fits;774
+MyMo Plus Account;2025-12;Eligibility check;Under 18;204
+MyMo Plus Account;2025-12;Eligibility check;Not a SA resident;93
+MyMo Plus Account;2025-12;ID capture;Photo blurry;154
+MyMo Plus Account;2025-12;ID capture;Green ID book not accepted;121
+MyMo Plus Account;2025-12;ID capture;Camera permission denied;130
+MyMo Plus Account;2025-12;Identity verification;Selfie didn't match;440
+MyMo Plus Account;2025-12;Identity verification;Liveness check failed;267
+MyMo Plus Account;2025-12;Identity verification;Took too long;273
+MyMo Plus Account;2025-12;Personal details;Form too long;712
+MyMo Plus Account;2025-12;Personal details;Didn't know source of funds;377
+MyMo Plus Account;2025-12;Personal details;Timed out;365
+MyMo Plus Account;2025-12;Proof of address or income;No proof of address;173
+MyMo Plus Account;2025-12;Proof of address or income;Payslip upload failed;200
+MyMo Plus Account;2025-12;Proof of address or income;Statement too old;138
+MyMo Plus Account;2025-12;Terms and e-sign;OTP not received;49
+MyMo Plus Account;2025-12;Terms and e-sign;Too much to read;35
+MyMo Plus Account;2026-01;Account opened → first transaction;Never made a first transaction;499
+MyMo Plus Account;2026-01;Account opened → first transaction;Waiting for card;493
+MyMo Plus Account;2026-01;Affordability and risk decision;Declined by risk rules;585
+MyMo Plus Account;2026-01;Affordability and risk decision;Income too low;250
+MyMo Plus Account;2026-01;Affordability and risk decision;Bureau mismatch;171
+MyMo Plus Account;2026-01;Choose account;Compared fees and left;2807
+MyMo Plus Account;2026-01;Choose account;Not sure which account fits;1434
+MyMo Plus Account;2026-01;Eligibility check;Under 18;258
+MyMo Plus Account;2026-01;Eligibility check;Not a SA resident;250
+MyMo Plus Account;2026-01;ID capture;Photo blurry;316
+MyMo Plus Account;2026-01;ID capture;Green ID book not accepted;234
+MyMo Plus Account;2026-01;ID capture;Camera permission denied;137
+MyMo Plus Account;2026-01;Identity verification;Selfie didn't match;562
+MyMo Plus Account;2026-01;Identity verification;Liveness check failed;407
+MyMo Plus Account;2026-01;Identity verification;Took too long;355
+MyMo Plus Account;2026-01;Personal details;Form too long;1111
+MyMo Plus Account;2026-01;Personal details;Didn't know source of funds;664
+MyMo Plus Account;2026-01;Personal details;Timed out;601
+MyMo Plus Account;2026-01;Proof of address or income;No proof of address;413
+MyMo Plus Account;2026-01;Proof of address or income;Payslip upload failed;199
+MyMo Plus Account;2026-01;Proof of address or income;Statement too old;288
+MyMo Plus Account;2026-01;Terms and e-sign;OTP not received;114
+MyMo Plus Account;2026-01;Terms and e-sign;Too much to read;38
+MyMo Plus Account;2026-02;Account opened → first transaction;Never made a first transaction;472
+MyMo Plus Account;2026-02;Account opened → first transaction;Waiting for card;236
+MyMo Plus Account;2026-02;Affordability and risk decision;Declined by risk rules;234
+MyMo Plus Account;2026-02;Affordability and risk decision;Income too low;221
+MyMo Plus Account;2026-02;Affordability and risk decision;Bureau mismatch;267
+MyMo Plus Account;2026-02;Choose account;Compared fees and left;1910
+MyMo Plus Account;2026-02;Choose account;Not sure which account fits;1175
+MyMo Plus Account;2026-02;Eligibility check;Under 18;185
+MyMo Plus Account;2026-02;Eligibility check;Not a SA resident;167
+MyMo Plus Account;2026-02;ID capture;Photo blurry;241
+MyMo Plus Account;2026-02;ID capture;Green ID book not accepted;127
+MyMo Plus Account;2026-02;ID capture;Camera permission denied;108
+MyMo Plus Account;2026-02;Identity verification;Selfie didn't match;394
+MyMo Plus Account;2026-02;Identity verification;Liveness check failed;301
+MyMo Plus Account;2026-02;Identity verification;Took too long;247
+MyMo Plus Account;2026-02;Personal details;Form too long;718
+MyMo Plus Account;2026-02;Personal details;Didn't know source of funds;287
+MyMo Plus Account;2026-02;Personal details;Timed out;714
+MyMo Plus Account;2026-02;Proof of address or income;No proof of address;254
+MyMo Plus Account;2026-02;Proof of address or income;Payslip upload failed;188
+MyMo Plus Account;2026-02;Proof of address or income;Statement too old;218
+MyMo Plus Account;2026-02;Terms and e-sign;OTP not received;76
+MyMo Plus Account;2026-02;Terms and e-sign;Too much to read;38
+MyMo Plus Account;2026-03;Account opened → first transaction;Never made a first transaction;390
+MyMo Plus Account;2026-03;Account opened → first transaction;Waiting for card;307
+MyMo Plus Account;2026-03;Affordability and risk decision;Declined by risk rules;316
+MyMo Plus Account;2026-03;Affordability and risk decision;Income too low;149
+MyMo Plus Account;2026-03;Affordability and risk decision;Bureau mismatch;238
+MyMo Plus Account;2026-03;Choose account;Compared fees and left;1939
+MyMo Plus Account;2026-03;Choose account;Not sure which account fits;1154
+MyMo Plus Account;2026-03;Eligibility check;Under 18;243
+MyMo Plus Account;2026-03;Eligibility check;Not a SA resident;120
+MyMo Plus Account;2026-03;ID capture;Photo blurry;258
+MyMo Plus Account;2026-03;ID capture;Green ID book not accepted;65
+MyMo Plus Account;2026-03;ID capture;Camera permission denied;177
+MyMo Plus Account;2026-03;Identity verification;Selfie didn't match;273
+MyMo Plus Account;2026-03;Identity verification;Liveness check failed;372
+MyMo Plus Account;2026-03;Identity verification;Took too long;306
+MyMo Plus Account;2026-03;Personal details;Form too long;759
+MyMo Plus Account;2026-03;Personal details;Didn't know source of funds;304
+MyMo Plus Account;2026-03;Personal details;Timed out;653
+MyMo Plus Account;2026-03;Proof of address or income;No proof of address;410
+MyMo Plus Account;2026-03;Proof of address or income;Payslip upload failed;112
+MyMo Plus Account;2026-03;Proof of address or income;Statement too old;144
+MyMo Plus Account;2026-03;Terms and e-sign;OTP not received;56
+MyMo Plus Account;2026-03;Terms and e-sign;Too much to read;55
+MyMo Plus Account;2026-04;Account opened → first transaction;Never made a first transaction;477
+MyMo Plus Account;2026-04;Account opened → first transaction;Waiting for card;368
+MyMo Plus Account;2026-04;Affordability and risk decision;Declined by risk rules;352
+MyMo Plus Account;2026-04;Affordability and risk decision;Income too low;234
+MyMo Plus Account;2026-04;Affordability and risk decision;Bureau mismatch;274
+MyMo Plus Account;2026-04;Choose account;Compared fees and left;2430
+MyMo Plus Account;2026-04;Choose account;Not sure which account fits;1248
+MyMo Plus Account;2026-04;Eligibility check;Under 18;234
+MyMo Plus Account;2026-04;Eligibility check;Not a SA resident;213
+MyMo Plus Account;2026-04;ID capture;Photo blurry;335
+MyMo Plus Account;2026-04;ID capture;Green ID book not accepted;134
+MyMo Plus Account;2026-04;ID capture;Camera permission denied;107
+MyMo Plus Account;2026-04;Identity verification;Selfie didn't match;547
+MyMo Plus Account;2026-04;Identity verification;Liveness check failed;311
+MyMo Plus Account;2026-04;Identity verification;Took too long;290
+MyMo Plus Account;2026-04;Personal details;Form too long;821
+MyMo Plus Account;2026-04;Personal details;Didn't know source of funds;647
+MyMo Plus Account;2026-04;Personal details;Timed out;588
+MyMo Plus Account;2026-04;Proof of address or income;No proof of address;321
+MyMo Plus Account;2026-04;Proof of address or income;Payslip upload failed;238
+MyMo Plus Account;2026-04;Proof of address or income;Statement too old;228
+MyMo Plus Account;2026-04;Terms and e-sign;OTP not received;81
+MyMo Plus Account;2026-04;Terms and e-sign;Too much to read;49
+MyMo Plus Account;2026-05;Account opened → first transaction;Never made a first transaction;290
+MyMo Plus Account;2026-05;Account opened → first transaction;Waiting for card;379
+MyMo Plus Account;2026-05;Affordability and risk decision;Declined by risk rules;264
+MyMo Plus Account;2026-05;Affordability and risk decision;Income too low;197
+MyMo Plus Account;2026-05;Affordability and risk decision;Bureau mismatch;234
+MyMo Plus Account;2026-05;Choose account;Compared fees and left;2292
+MyMo Plus Account;2026-05;Choose account;Not sure which account fits;684
+MyMo Plus Account;2026-05;Eligibility check;Under 18;208
+MyMo Plus Account;2026-05;Eligibility check;Not a SA resident;131
+MyMo Plus Account;2026-05;ID capture;Photo blurry;181
+MyMo Plus Account;2026-05;ID capture;Green ID book not accepted;167
+MyMo Plus Account;2026-05;ID capture;Camera permission denied;134
+MyMo Plus Account;2026-05;Identity verification;Selfie didn't match;283
+MyMo Plus Account;2026-05;Identity verification;Liveness check failed;305
+MyMo Plus Account;2026-05;Identity verification;Took too long;331
+MyMo Plus Account;2026-05;Personal details;Form too long;1033
+MyMo Plus Account;2026-05;Personal details;Didn't know source of funds;330
+MyMo Plus Account;2026-05;Personal details;Timed out;318
+MyMo Plus Account;2026-05;Proof of address or income;No proof of address;188
+MyMo Plus Account;2026-05;Proof of address or income;Payslip upload failed;194
+MyMo Plus Account;2026-05;Proof of address or income;Statement too old;239
+MyMo Plus Account;2026-05;Terms and e-sign;OTP not received;80
+MyMo Plus Account;2026-05;Terms and e-sign;Too much to read;25
+MyMo Plus Account;2026-06;Account opened → first transaction;Never made a first transaction;433
+MyMo Plus Account;2026-06;Account opened → first transaction;Waiting for card;256
+MyMo Plus Account;2026-06;Affordability and risk decision;Declined by risk rules;455
+MyMo Plus Account;2026-06;Affordability and risk decision;Income too low;130
+MyMo Plus Account;2026-06;Affordability and risk decision;Bureau mismatch;107
+MyMo Plus Account;2026-06;Choose account;Compared fees and left;2168
+MyMo Plus Account;2026-06;Choose account;Not sure which account fits;898
+MyMo Plus Account;2026-06;Eligibility check;Under 18;221
+MyMo Plus Account;2026-06;Eligibility check;Not a SA resident;139
+MyMo Plus Account;2026-06;ID capture;Photo blurry;285
+MyMo Plus Account;2026-06;ID capture;Green ID book not accepted;126
+MyMo Plus Account;2026-06;ID capture;Camera permission denied;72
+MyMo Plus Account;2026-06;Identity verification;Selfie didn't match;352
+MyMo Plus Account;2026-06;Identity verification;Liveness check failed;331
+MyMo Plus Account;2026-06;Identity verification;Took too long;259
+MyMo Plus Account;2026-06;Personal details;Form too long;893
+MyMo Plus Account;2026-06;Personal details;Didn't know source of funds;564
+MyMo Plus Account;2026-06;Personal details;Timed out;223
+MyMo Plus Account;2026-06;Proof of address or income;No proof of address;263
+MyMo Plus Account;2026-06;Proof of address or income;Payslip upload failed;159
+MyMo Plus Account;2026-06;Proof of address or income;Statement too old;242
+MyMo Plus Account;2026-06;Terms and e-sign;OTP not received;72
+MyMo Plus Account;2026-06;Terms and e-sign;Too much to read;37
+MyMo Plus Account;2026-07;Account opened → first transaction;Never made a first transaction;420
+MyMo Plus Account;2026-07;Account opened → first transaction;Waiting for card;441
+MyMo Plus Account;2026-07;Affordability and risk decision;Declined by risk rules;236
+MyMo Plus Account;2026-07;Affordability and risk decision;Income too low;211
+MyMo Plus Account;2026-07;Affordability and risk decision;Bureau mismatch;437
+MyMo Plus Account;2026-07;Choose account;Compared fees and left;2285
+MyMo Plus Account;2026-07;Choose account;Not sure which account fits;1527
+MyMo Plus Account;2026-07;Eligibility check;Under 18;265
+MyMo Plus Account;2026-07;Eligibility check;Not a SA resident;172
+MyMo Plus Account;2026-07;ID capture;Photo blurry;386
+MyMo Plus Account;2026-07;ID capture;Green ID book not accepted;116
+MyMo Plus Account;2026-07;ID capture;Camera permission denied;102
+MyMo Plus Account;2026-07;Identity verification;Selfie didn't match;321
+MyMo Plus Account;2026-07;Identity verification;Liveness check failed;291
+MyMo Plus Account;2026-07;Identity verification;Took too long;542
+MyMo Plus Account;2026-07;Personal details;Form too long;847
+MyMo Plus Account;2026-07;Personal details;Didn't know source of funds;653
+MyMo Plus Account;2026-07;Personal details;Timed out;668
+MyMo Plus Account;2026-07;Proof of address or income;No proof of address;367
+MyMo Plus Account;2026-07;Proof of address or income;Payslip upload failed;167
+MyMo Plus Account;2026-07;Proof of address or income;Statement too old;279
+MyMo Plus Account;2026-07;Terms and e-sign;OTP not received;91
+MyMo Plus Account;2026-07;Terms and e-sign;Too much to read;49
+MyMo Plus Account;2026-08;Account opened → first transaction;Never made a first transaction;317
+MyMo Plus Account;2026-08;Account opened → first transaction;Waiting for card;384
+MyMo Plus Account;2026-08;Affordability and risk decision;Declined by risk rules;213
+MyMo Plus Account;2026-08;Affordability and risk decision;Income too low;360
+MyMo Plus Account;2026-08;Affordability and risk decision;Bureau mismatch;146
+MyMo Plus Account;2026-08;Choose account;Compared fees and left;2041
+MyMo Plus Account;2026-08;Choose account;Not sure which account fits;1008
+MyMo Plus Account;2026-08;Eligibility check;Under 18;181
+MyMo Plus Account;2026-08;Eligibility check;Not a SA resident;180
+MyMo Plus Account;2026-08;ID capture;Photo blurry;273
+MyMo Plus Account;2026-08;ID capture;Green ID book not accepted;70
+MyMo Plus Account;2026-08;ID capture;Camera permission denied;134
+MyMo Plus Account;2026-08;Identity verification;Selfie didn't match;353
+MyMo Plus Account;2026-08;Identity verification;Liveness check failed;345
+MyMo Plus Account;2026-08;Identity verification;Took too long;231
+MyMo Plus Account;2026-08;Personal details;Form too long;699
+MyMo Plus Account;2026-08;Personal details;Didn't know source of funds;354
+MyMo Plus Account;2026-08;Personal details;Timed out;699
+MyMo Plus Account;2026-08;Proof of address or income;No proof of address;375
+MyMo Plus Account;2026-08;Proof of address or income;Payslip upload failed;139
+MyMo Plus Account;2026-08;Proof of address or income;Statement too old;134
+MyMo Plus Account;2026-08;Terms and e-sign;OTP not received;79
+MyMo Plus Account;2026-08;Terms and e-sign;Too much to read;28
+MyMo Plus Account;2026-09;Account opened → first transaction;Never made a first transaction;450
+MyMo Plus Account;2026-09;Account opened → first transaction;Waiting for card;208
+MyMo Plus Account;2026-09;Affordability and risk decision;Declined by risk rules;389
+MyMo Plus Account;2026-09;Affordability and risk decision;Income too low;126
+MyMo Plus Account;2026-09;Affordability and risk decision;Bureau mismatch;184
+MyMo Plus Account;2026-09;Choose account;Compared fees and left;1550
+MyMo Plus Account;2026-09;Choose account;Not sure which account fits;1361
+MyMo Plus Account;2026-09;Eligibility check;Under 18;211
+MyMo Plus Account;2026-09;Eligibility check;Not a SA resident;133
+MyMo Plus Account;2026-09;ID capture;Photo blurry;243
+MyMo Plus Account;2026-09;ID capture;Green ID book not accepted;129
+MyMo Plus Account;2026-09;ID capture;Camera permission denied;84
+MyMo Plus Account;2026-09;Identity verification;Selfie didn't match;424
+MyMo Plus Account;2026-09;Identity verification;Liveness check failed;183
+MyMo Plus Account;2026-09;Identity verification;Took too long;295
+MyMo Plus Account;2026-09;Personal details;Form too long;614
+MyMo Plus Account;2026-09;Personal details;Didn't know source of funds;618
+MyMo Plus Account;2026-09;Personal details;Timed out;423
+MyMo Plus Account;2026-09;Proof of address or income;No proof of address;245
+MyMo Plus Account;2026-09;Proof of address or income;Payslip upload failed;178
+MyMo Plus Account;2026-09;Proof of address or income;Statement too old;207
+MyMo Plus Account;2026-09;Terms and e-sign;OTP not received;52
+MyMo Plus Account;2026-09;Terms and e-sign;Too much to read;51
+MyMo Plus Account;2026-10;Account opened → first transaction;Never made a first transaction;456
+MyMo Plus Account;2026-10;Account opened → first transaction;Waiting for card;442
+MyMo Plus Account;2026-10;Affordability and risk decision;Declined by risk rules;413
+MyMo Plus Account;2026-10;Affordability and risk decision;Income too low;330
+MyMo Plus Account;2026-10;Affordability and risk decision;Bureau mismatch;169
+MyMo Plus Account;2026-10;Choose account;Compared fees and left;2702
+MyMo Plus Account;2026-10;Choose account;Not sure which account fits;1182
+MyMo Plus Account;2026-10;Eligibility check;Under 18;287
+MyMo Plus Account;2026-10;Eligibility check;Not a SA resident;175
+MyMo Plus Account;2026-10;ID capture;Photo blurry;156
+MyMo Plus Account;2026-10;ID capture;Green ID book not accepted;239
+MyMo Plus Account;2026-10;ID capture;Camera permission denied;235
+MyMo Plus Account;2026-10;Identity verification;Selfie didn't match;324
+MyMo Plus Account;2026-10;Identity verification;Liveness check failed;480
+MyMo Plus Account;2026-10;Identity verification;Took too long;438
+MyMo Plus Account;2026-10;Personal details;Form too long;824
+MyMo Plus Account;2026-10;Personal details;Didn't know source of funds;629
+MyMo Plus Account;2026-10;Personal details;Timed out;743
+MyMo Plus Account;2026-10;Proof of address or income;No proof of address;490
+MyMo Plus Account;2026-10;Proof of address or income;Payslip upload failed;223
+MyMo Plus Account;2026-10;Proof of address or income;Statement too old;138
+MyMo Plus Account;2026-10;Terms and e-sign;OTP not received;71
+MyMo Plus Account;2026-10;Terms and e-sign;Too much to read;66
+Prestige Banking Account;2024-11;Account opened → first transaction;Never made a first transaction;59
+Prestige Banking Account;2024-11;Account opened → first transaction;Waiting for card;34
+Prestige Banking Account;2024-11;Affordability and risk decision;Declined by risk rules;95
+Prestige Banking Account;2024-11;Affordability and risk decision;Income too low;76
+Prestige Banking Account;2024-11;Affordability and risk decision;Bureau mismatch;56
+Prestige Banking Account;2024-11;Choose account;Compared fees and left;373
+Prestige Banking Account;2024-11;Choose account;Not sure which account fits;181
+Prestige Banking Account;2024-11;Eligibility check;Under 18;141
+Prestige Banking Account;2024-11;Eligibility check;Not a SA resident;50
+Prestige Banking Account;2024-11;ID capture;Photo blurry;37
+Prestige Banking Account;2024-11;ID capture;Green ID book not accepted;23
+Prestige Banking Account;2024-11;ID capture;Camera permission denied;25
+Prestige Banking Account;2024-11;Identity verification;Selfie didn't match;93
+Prestige Banking Account;2024-11;Identity verification;Liveness check failed;68
+Prestige Banking Account;2024-11;Identity verification;Took too long;26
+Prestige Banking Account;2024-11;Personal details;Form too long;167
+Prestige Banking Account;2024-11;Personal details;Didn't know source of funds;44
+Prestige Banking Account;2024-11;Personal details;Timed out;77
+Prestige Banking Account;2024-11;Proof of income and address;No proof of address;65
+Prestige Banking Account;2024-11;Proof of income and address;Payslip upload failed;65
+Prestige Banking Account;2024-11;Proof of income and address;Statement too old;83
+Prestige Banking Account;2024-11;Terms and e-sign;OTP not received;9
+Prestige Banking Account;2024-11;Terms and e-sign;Too much to read;5
+Prestige Banking Account;2024-12;Account opened → first transaction;Never made a first transaction;37
+Prestige Banking Account;2024-12;Account opened → first transaction;Waiting for card;41
+Prestige Banking Account;2024-12;Affordability and risk decision;Declined by risk rules;56
+Prestige Banking Account;2024-12;Affordability and risk decision;Income too low;54
+Prestige Banking Account;2024-12;Affordability and risk decision;Bureau mismatch;77
+Prestige Banking Account;2024-12;Choose account;Compared fees and left;389
+Prestige Banking Account;2024-12;Choose account;Not sure which account fits;106
+Prestige Banking Account;2024-12;Eligibility check;Under 18;111
+Prestige Banking Account;2024-12;Eligibility check;Not a SA resident;67
+Prestige Banking Account;2024-12;ID capture;Photo blurry;42
+Prestige Banking Account;2024-12;ID capture;Green ID book not accepted;17
+Prestige Banking Account;2024-12;ID capture;Camera permission denied;23
+Prestige Banking Account;2024-12;Identity verification;Selfie didn't match;94
+Prestige Banking Account;2024-12;Identity verification;Liveness check failed;80
+Prestige Banking Account;2024-12;Identity verification;Took too long;30
+Prestige Banking Account;2024-12;Personal details;Form too long;120
+Prestige Banking Account;2024-12;Personal details;Didn't know source of funds;69
+Prestige Banking Account;2024-12;Personal details;Timed out;84
+Prestige Banking Account;2024-12;Proof of income and address;No proof of address;57
+Prestige Banking Account;2024-12;Proof of income and address;Payslip upload failed;70
+Prestige Banking Account;2024-12;Proof of income and address;Statement too old;47
+Prestige Banking Account;2024-12;Terms and e-sign;OTP not received;8
+Prestige Banking Account;2024-12;Terms and e-sign;Too much to read;3
+Prestige Banking Account;2025-01;Account opened → first transaction;Never made a first transaction;53
+Prestige Banking Account;2025-01;Account opened → first transaction;Waiting for card;87
+Prestige Banking Account;2025-01;Affordability and risk decision;Declined by risk rules;196
+Prestige Banking Account;2025-01;Affordability and risk decision;Income too low;68
+Prestige Banking Account;2025-01;Affordability and risk decision;Bureau mismatch;56
+Prestige Banking Account;2025-01;Choose account;Compared fees and left;579
+Prestige Banking Account;2025-01;Choose account;Not sure which account fits;222
+Prestige Banking Account;2025-01;Eligibility check;Under 18;164
+Prestige Banking Account;2025-01;Eligibility check;Not a SA resident;127
+Prestige Banking Account;2025-01;ID capture;Photo blurry;68
+Prestige Banking Account;2025-01;ID capture;Green ID book not accepted;25
+Prestige Banking Account;2025-01;ID capture;Camera permission denied;36
+Prestige Banking Account;2025-01;Identity verification;Selfie didn't match;88
+Prestige Banking Account;2025-01;Identity verification;Liveness check failed;73
+Prestige Banking Account;2025-01;Identity verification;Took too long;123
+Prestige Banking Account;2025-01;Personal details;Form too long;173
+Prestige Banking Account;2025-01;Personal details;Didn't know source of funds;150
+Prestige Banking Account;2025-01;Personal details;Timed out;111
+Prestige Banking Account;2025-01;Proof of income and address;No proof of address;105
+Prestige Banking Account;2025-01;Proof of income and address;Payslip upload failed;132
+Prestige Banking Account;2025-01;Proof of income and address;Statement too old;66
+Prestige Banking Account;2025-01;Terms and e-sign;OTP not received;11
+Prestige Banking Account;2025-01;Terms and e-sign;Too much to read;8
+Prestige Banking Account;2025-02;Account opened → first transaction;Never made a first transaction;45
+Prestige Banking Account;2025-02;Account opened → first transaction;Waiting for card;51
+Prestige Banking Account;2025-02;Affordability and risk decision;Declined by risk rules;101
+Prestige Banking Account;2025-02;Affordability and risk decision;Income too low;39
+Prestige Banking Account;2025-02;Affordability and risk decision;Bureau mismatch;91
+Prestige Banking Account;2025-02;Choose account;Compared fees and left;409
+Prestige Banking Account;2025-02;Choose account;Not sure which account fits;156
+Prestige Banking Account;2025-02;Eligibility check;Under 18;133
+Prestige Banking Account;2025-02;Eligibility check;Not a SA resident;71
+Prestige Banking Account;2025-02;ID capture;Photo blurry;35
+Prestige Banking Account;2025-02;ID capture;Green ID book not accepted;18
+Prestige Banking Account;2025-02;ID capture;Camera permission denied;38
+Prestige Banking Account;2025-02;Identity verification;Selfie didn't match;108
+Prestige Banking Account;2025-02;Identity verification;Liveness check failed;25
+Prestige Banking Account;2025-02;Identity verification;Took too long;63
+Prestige Banking Account;2025-02;Personal details;Form too long;134
+Prestige Banking Account;2025-02;Personal details;Didn't know source of funds;98
+Prestige Banking Account;2025-02;Personal details;Timed out;71
+Prestige Banking Account;2025-02;Proof of income and address;No proof of address;129
+Prestige Banking Account;2025-02;Proof of income and address;Payslip upload failed;55
+Prestige Banking Account;2025-02;Proof of income and address;Statement too old;34
+Prestige Banking Account;2025-02;Terms and e-sign;OTP not received;9
+Prestige Banking Account;2025-02;Terms and e-sign;Too much to read;4
+Prestige Banking Account;2025-03;Account opened → first transaction;Never made a first transaction;66
+Prestige Banking Account;2025-03;Account opened → first transaction;Waiting for card;34
+Prestige Banking Account;2025-03;Affordability and risk decision;Declined by risk rules;106
+Prestige Banking Account;2025-03;Affordability and risk decision;Income too low;71
+Prestige Banking Account;2025-03;Affordability and risk decision;Bureau mismatch;68
+Prestige Banking Account;2025-03;Choose account;Compared fees and left;379
+Prestige Banking Account;2025-03;Choose account;Not sure which account fits;212
+Prestige Banking Account;2025-03;Eligibility check;Under 18;134
+Prestige Banking Account;2025-03;Eligibility check;Not a SA resident;73
+Prestige Banking Account;2025-03;ID capture;Photo blurry;37
+Prestige Banking Account;2025-03;ID capture;Green ID book not accepted;22
+Prestige Banking Account;2025-03;ID capture;Camera permission denied;32
+Prestige Banking Account;2025-03;Identity verification;Selfie didn't match;92
+Prestige Banking Account;2025-03;Identity verification;Liveness check failed;36
+Prestige Banking Account;2025-03;Identity verification;Took too long;71
+Prestige Banking Account;2025-03;Personal details;Form too long;142
+Prestige Banking Account;2025-03;Personal details;Didn't know source of funds;63
+Prestige Banking Account;2025-03;Personal details;Timed out;109
+Prestige Banking Account;2025-03;Proof of income and address;No proof of address;69
+Prestige Banking Account;2025-03;Proof of income and address;Payslip upload failed;79
+Prestige Banking Account;2025-03;Proof of income and address;Statement too old;71
+Prestige Banking Account;2025-03;Terms and e-sign;OTP not received;8
+Prestige Banking Account;2025-03;Terms and e-sign;Too much to read;6
+Prestige Banking Account;2025-04;Account opened → first transaction;Never made a first transaction;46
+Prestige Banking Account;2025-04;Account opened → first transaction;Waiting for card;47
+Prestige Banking Account;2025-04;Affordability and risk decision;Declined by risk rules;123
+Prestige Banking Account;2025-04;Affordability and risk decision;Income too low;44
+Prestige Banking Account;2025-04;Affordability and risk decision;Bureau mismatch;52
+Prestige Banking Account;2025-04;Choose account;Compared fees and left;348
+Prestige Banking Account;2025-04;Choose account;Not sure which account fits;214
+Prestige Banking Account;2025-04;Eligibility check;Under 18;97
+Prestige Banking Account;2025-04;Eligibility check;Not a SA resident;96
+Prestige Banking Account;2025-04;ID capture;Photo blurry;19
+Prestige Banking Account;2025-04;ID capture;Green ID book not accepted;33
+Prestige Banking Account;2025-04;ID capture;Camera permission denied;34
+Prestige Banking Account;2025-04;Identity verification;Selfie didn't match;95
+Prestige Banking Account;2025-04;Identity verification;Liveness check failed;34
+Prestige Banking Account;2025-04;Identity verification;Took too long;61
+Prestige Banking Account;2025-04;Personal details;Form too long;119
+Prestige Banking Account;2025-04;Personal details;Didn't know source of funds;61
+Prestige Banking Account;2025-04;Personal details;Timed out;109
+Prestige Banking Account;2025-04;Proof of income and address;No proof of address;90
+Prestige Banking Account;2025-04;Proof of income and address;Payslip upload failed;88
+Prestige Banking Account;2025-04;Proof of income and address;Statement too old;29
+Prestige Banking Account;2025-04;Terms and e-sign;OTP not received;9
+Prestige Banking Account;2025-04;Terms and e-sign;Too much to read;3
+Prestige Banking Account;2025-05;Account opened → first transaction;Never made a first transaction;80
+Prestige Banking Account;2025-05;Account opened → first transaction;Waiting for card;42
+Prestige Banking Account;2025-05;Affordability and risk decision;Declined by risk rules;140
+Prestige Banking Account;2025-05;Affordability and risk decision;Income too low;97
+Prestige Banking Account;2025-05;Affordability and risk decision;Bureau mismatch;60
+Prestige Banking Account;2025-05;Choose account;Compared fees and left;588
+Prestige Banking Account;2025-05;Choose account;Not sure which account fits;181
+Prestige Banking Account;2025-05;Eligibility check;Under 18;191
+Prestige Banking Account;2025-05;Eligibility check;Not a SA resident;73
+Prestige Banking Account;2025-05;ID capture;Photo blurry;47
+Prestige Banking Account;2025-05;ID capture;Green ID book not accepted;40
+Prestige Banking Account;2025-05;ID capture;Camera permission denied;27
+Prestige Banking Account;2025-05;Identity verification;Selfie didn't match;92
+Prestige Banking Account;2025-05;Identity verification;Liveness check failed;81
+Prestige Banking Account;2025-05;Identity verification;Took too long;81
+Prestige Banking Account;2025-05;Personal details;Form too long;180
+Prestige Banking Account;2025-05;Personal details;Didn't know source of funds;150
+Prestige Banking Account;2025-05;Personal details;Timed out;74
+Prestige Banking Account;2025-05;Proof of income and address;No proof of address;139
+Prestige Banking Account;2025-05;Proof of income and address;Payslip upload failed;89
+Prestige Banking Account;2025-05;Proof of income and address;Statement too old;43
+Prestige Banking Account;2025-05;Terms and e-sign;OTP not received;8
+Prestige Banking Account;2025-05;Terms and e-sign;Too much to read;11
+Prestige Banking Account;2025-06;Account opened → first transaction;Never made a first transaction;68
+Prestige Banking Account;2025-06;Account opened → first transaction;Waiting for card;28
+Prestige Banking Account;2025-06;Affordability and risk decision;Declined by risk rules;77
+Prestige Banking Account;2025-06;Affordability and risk decision;Income too low;88
+Prestige Banking Account;2025-06;Affordability and risk decision;Bureau mismatch;74
+Prestige Banking Account;2025-06;Choose account;Compared fees and left;342
+Prestige Banking Account;2025-06;Choose account;Not sure which account fits;227
+Prestige Banking Account;2025-06;Eligibility check;Under 18;114
+Prestige Banking Account;2025-06;Eligibility check;Not a SA resident;93
+Prestige Banking Account;2025-06;ID capture;Photo blurry;32
+Prestige Banking Account;2025-06;ID capture;Green ID book not accepted;31
+Prestige Banking Account;2025-06;ID capture;Camera permission denied;28
+Prestige Banking Account;2025-06;Identity verification;Selfie didn't match;72
+Prestige Banking Account;2025-06;Identity verification;Liveness check failed;57
+Prestige Banking Account;2025-06;Identity verification;Took too long;71
+Prestige Banking Account;2025-06;Personal details;Form too long;80
+Prestige Banking Account;2025-06;Personal details;Didn't know source of funds;107
+Prestige Banking Account;2025-06;Personal details;Timed out;119
+Prestige Banking Account;2025-06;Proof of income and address;No proof of address;113
+Prestige Banking Account;2025-06;Proof of income and address;Payslip upload failed;55
+Prestige Banking Account;2025-06;Proof of income and address;Statement too old;50
+Prestige Banking Account;2025-06;Terms and e-sign;OTP not received;8
+Prestige Banking Account;2025-06;Terms and e-sign;Too much to read;7
+Prestige Banking Account;2025-07;Account opened → first transaction;Never made a first transaction;74
+Prestige Banking Account;2025-07;Account opened → first transaction;Waiting for card;49
+Prestige Banking Account;2025-07;Affordability and risk decision;Declined by risk rules;96
+Prestige Banking Account;2025-07;Affordability and risk decision;Income too low;105
+Prestige Banking Account;2025-07;Affordability and risk decision;Bureau mismatch;86
+Prestige Banking Account;2025-07;Choose account;Compared fees and left;397
+Prestige Banking Account;2025-07;Choose account;Not sure which account fits;324
+Prestige Banking Account;2025-07;Eligibility check;Under 18;157
+Prestige Banking Account;2025-07;Eligibility check;Not a SA resident;102
+Prestige Banking Account;2025-07;ID capture;Photo blurry;54
+Prestige Banking Account;2025-07;ID capture;Green ID book not accepted;34
+Prestige Banking Account;2025-07;ID capture;Camera permission denied;27
+Prestige Banking Account;2025-07;Identity verification;Selfie didn't match;131
+Prestige Banking Account;2025-07;Identity verification;Liveness check failed;47
+Prestige Banking Account;2025-07;Identity verification;Took too long;74
+Prestige Banking Account;2025-07;Personal details;Form too long;147
+Prestige Banking Account;2025-07;Personal details;Didn't know source of funds;129
+Prestige Banking Account;2025-07;Personal details;Timed out;117
+Prestige Banking Account;2025-07;Proof of income and address;No proof of address;96
+Prestige Banking Account;2025-07;Proof of income and address;Payslip upload failed;102
+Prestige Banking Account;2025-07;Proof of income and address;Statement too old;76
+Prestige Banking Account;2025-07;Terms and e-sign;OTP not received;12
+Prestige Banking Account;2025-07;Terms and e-sign;Too much to read;6
+Prestige Banking Account;2025-08;Account opened → first transaction;Never made a first transaction;56
+Prestige Banking Account;2025-08;Account opened → first transaction;Waiting for card;41
+Prestige Banking Account;2025-08;Affordability and risk decision;Declined by risk rules;118
+Prestige Banking Account;2025-08;Affordability and risk decision;Income too low;59
+Prestige Banking Account;2025-08;Affordability and risk decision;Bureau mismatch;64
+Prestige Banking Account;2025-08;Choose account;Compared fees and left;269
+Prestige Banking Account;2025-08;Choose account;Not sure which account fits;346
+Prestige Banking Account;2025-08;Eligibility check;Under 18;157
+Prestige Banking Account;2025-08;Eligibility check;Not a SA resident;54
+Prestige Banking Account;2025-08;ID capture;Photo blurry;49
+Prestige Banking Account;2025-08;ID capture;Green ID book not accepted;24
+Prestige Banking Account;2025-08;ID capture;Camera permission denied;20
+Prestige Banking Account;2025-08;Identity verification;Selfie didn't match;100
+Prestige Banking Account;2025-08;Identity verification;Liveness check failed;45
+Prestige Banking Account;2025-08;Identity verification;Took too long;47
+Prestige Banking Account;2025-08;Personal details;Form too long;165
+Prestige Banking Account;2025-08;Personal details;Didn't know source of funds;94
+Prestige Banking Account;2025-08;Personal details;Timed out;60
+Prestige Banking Account;2025-08;Proof of income and address;No proof of address;112
+Prestige Banking Account;2025-08;Proof of income and address;Payslip upload failed;67
+Prestige Banking Account;2025-08;Proof of income and address;Statement too old;41
+Prestige Banking Account;2025-08;Terms and e-sign;OTP not received;11
+Prestige Banking Account;2025-08;Terms and e-sign;Too much to read;2
+Prestige Banking Account;2025-09;Account opened → first transaction;Never made a first transaction;42
+Prestige Banking Account;2025-09;Account opened → first transaction;Waiting for card;58
+Prestige Banking Account;2025-09;Affordability and risk decision;Declined by risk rules;99
+Prestige Banking Account;2025-09;Affordability and risk decision;Income too low;63
+Prestige Banking Account;2025-09;Affordability and risk decision;Bureau mismatch;73
+Prestige Banking Account;2025-09;Choose account;Compared fees and left;402
+Prestige Banking Account;2025-09;Choose account;Not sure which account fits;184
+Prestige Banking Account;2025-09;Eligibility check;Under 18;143
+Prestige Banking Account;2025-09;Eligibility check;Not a SA resident;64
+Prestige Banking Account;2025-09;ID capture;Photo blurry;47
+Prestige Banking Account;2025-09;ID capture;Green ID book not accepted;17
+Prestige Banking Account;2025-09;ID capture;Camera permission denied;32
+Prestige Banking Account;2025-09;Identity verification;Selfie didn't match;89
+Prestige Banking Account;2025-09;Identity verification;Liveness check failed;57
+Prestige Banking Account;2025-09;Identity verification;Took too long;57
+Prestige Banking Account;2025-09;Personal details;Form too long;109
+Prestige Banking Account;2025-09;Personal details;Didn't know source of funds;65
+Prestige Banking Account;2025-09;Personal details;Timed out;136
+Prestige Banking Account;2025-09;Proof of income and address;No proof of address;81
+Prestige Banking Account;2025-09;Proof of income and address;Payslip upload failed;54
+Prestige Banking Account;2025-09;Proof of income and address;Statement too old;84
+Prestige Banking Account;2025-09;Terms and e-sign;OTP not received;8
+Prestige Banking Account;2025-09;Terms and e-sign;Too much to read;5
+Prestige Banking Account;2025-10;Account opened → first transaction;Never made a first transaction;90
+Prestige Banking Account;2025-10;Account opened → first transaction;Waiting for card;45
+Prestige Banking Account;2025-10;Affordability and risk decision;Declined by risk rules;129
+Prestige Banking Account;2025-10;Affordability and risk decision;Income too low;119
+Prestige Banking Account;2025-10;Affordability and risk decision;Bureau mismatch;72
+Prestige Banking Account;2025-10;Choose account;Compared fees and left;497
+Prestige Banking Account;2025-10;Choose account;Not sure which account fits;301
+Prestige Banking Account;2025-10;Eligibility check;Under 18;135
+Prestige Banking Account;2025-10;Eligibility check;Not a SA resident;148
+Prestige Banking Account;2025-10;ID capture;Photo blurry;47
+Prestige Banking Account;2025-10;ID capture;Green ID book not accepted;56
+Prestige Banking Account;2025-10;ID capture;Camera permission denied;25
+Prestige Banking Account;2025-10;Identity verification;Selfie didn't match;103
+Prestige Banking Account;2025-10;Identity verification;Liveness check failed;86
+Prestige Banking Account;2025-10;Identity verification;Took too long;77
+Prestige Banking Account;2025-10;Personal details;Form too long;205
+Prestige Banking Account;2025-10;Personal details;Didn't know source of funds;64
+Prestige Banking Account;2025-10;Personal details;Timed out;151
+Prestige Banking Account;2025-10;Proof of income and address;No proof of address;153
+Prestige Banking Account;2025-10;Proof of income and address;Payslip upload failed;55
+Prestige Banking Account;2025-10;Proof of income and address;Statement too old;99
+Prestige Banking Account;2025-10;Terms and e-sign;OTP not received;15
+Prestige Banking Account;2025-10;Terms and e-sign;Too much to read;4
+Prestige Banking Account;2025-11;Account opened → first transaction;Never made a first transaction;44
+Prestige Banking Account;2025-11;Account opened → first transaction;Waiting for card;53
+Prestige Banking Account;2025-11;Affordability and risk decision;Declined by risk rules;112
+Prestige Banking Account;2025-11;Affordability and risk decision;Income too low;38
+Prestige Banking Account;2025-11;Affordability and risk decision;Bureau mismatch;85
+Prestige Banking Account;2025-11;Choose account;Compared fees and left;288
+Prestige Banking Account;2025-11;Choose account;Not sure which account fits;293
+Prestige Banking Account;2025-11;Eligibility check;Under 18;133
+Prestige Banking Account;2025-11;Eligibility check;Not a SA resident;71
+Prestige Banking Account;2025-11;ID capture;Photo blurry;37
+Prestige Banking Account;2025-11;ID capture;Green ID book not accepted;25
+Prestige Banking Account;2025-11;ID capture;Camera permission denied;32
+Prestige Banking Account;2025-11;Identity verification;Selfie didn't match;65
+Prestige Banking Account;2025-11;Identity verification;Liveness check failed;49
+Prestige Banking Account;2025-11;Identity verification;Took too long;89
+Prestige Banking Account;2025-11;Personal details;Form too long;171
+Prestige Banking Account;2025-11;Personal details;Didn't know source of funds;92
+Prestige Banking Account;2025-11;Personal details;Timed out;52
+Prestige Banking Account;2025-11;Proof of income and address;No proof of address;94
+Prestige Banking Account;2025-11;Proof of income and address;Payslip upload failed;42
+Prestige Banking Account;2025-11;Proof of income and address;Statement too old;79
+Prestige Banking Account;2025-11;Terms and e-sign;OTP not received;8
+Prestige Banking Account;2025-11;Terms and e-sign;Too much to read;6
+Prestige Banking Account;2025-12;Account opened → first transaction;Never made a first transaction;62
+Prestige Banking Account;2025-12;Account opened → first transaction;Waiting for card;20
+Prestige Banking Account;2025-12;Affordability and risk decision;Declined by risk rules;59
+Prestige Banking Account;2025-12;Affordability and risk decision;Income too low;86
+Prestige Banking Account;2025-12;Affordability and risk decision;Bureau mismatch;62
+Prestige Banking Account;2025-12;Choose account;Compared fees and left;351
+Prestige Banking Account;2025-12;Choose account;Not sure which account fits;168
+Prestige Banking Account;2025-12;Eligibility check;Under 18;146
+Prestige Banking Account;2025-12;Eligibility check;Not a SA resident;36
+Prestige Banking Account;2025-12;ID capture;Photo blurry;32
+Prestige Banking Account;2025-12;ID capture;Green ID book not accepted;28
+Prestige Banking Account;2025-12;ID capture;Camera permission denied;22
+Prestige Banking Account;2025-12;Identity verification;Selfie didn't match;110
+Prestige Banking Account;2025-12;Identity verification;Liveness check failed;73
+Prestige Banking Account;2025-12;Identity verification;Took too long;34
+Prestige Banking Account;2025-12;Personal details;Form too long;159
+Prestige Banking Account;2025-12;Personal details;Didn't know source of funds;38
+Prestige Banking Account;2025-12;Personal details;Timed out;81
+Prestige Banking Account;2025-12;Proof of income and address;No proof of address;75
+Prestige Banking Account;2025-12;Proof of income and address;Payslip upload failed;48
+Prestige Banking Account;2025-12;Proof of income and address;Statement too old;62
+Prestige Banking Account;2025-12;Terms and e-sign;OTP not received;5
+Prestige Banking Account;2025-12;Terms and e-sign;Too much to read;7
+Prestige Banking Account;2026-01;Account opened → first transaction;Never made a first transaction;85
+Prestige Banking Account;2026-01;Account opened → first transaction;Waiting for card;66
+Prestige Banking Account;2026-01;Affordability and risk decision;Declined by risk rules;162
+Prestige Banking Account;2026-01;Affordability and risk decision;Income too low;128
+Prestige Banking Account;2026-01;Affordability and risk decision;Bureau mismatch;57
+Prestige Banking Account;2026-01;Choose account;Compared fees and left;557
+Prestige Banking Account;2026-01;Choose account;Not sure which account fits;318
+Prestige Banking Account;2026-01;Eligibility check;Under 18;193
+Prestige Banking Account;2026-01;Eligibility check;Not a SA resident;120
+Prestige Banking Account;2026-01;ID capture;Photo blurry;67
+Prestige Banking Account;2026-01;ID capture;Green ID book not accepted;33
+Prestige Banking Account;2026-01;ID capture;Camera permission denied;42
+Prestige Banking Account;2026-01;Identity verification;Selfie didn't match;77
+Prestige Banking Account;2026-01;Identity verification;Liveness check failed;91
+Prestige Banking Account;2026-01;Identity verification;Took too long;126
+Prestige Banking Account;2026-01;Personal details;Form too long;234
+Prestige Banking Account;2026-01;Personal details;Didn't know source of funds;162
+Prestige Banking Account;2026-01;Personal details;Timed out;77
+Prestige Banking Account;2026-01;Proof of income and address;No proof of address;129
+Prestige Banking Account;2026-01;Proof of income and address;Payslip upload failed;96
+Prestige Banking Account;2026-01;Proof of income and address;Statement too old;99
+Prestige Banking Account;2026-01;Terms and e-sign;OTP not received;9
+Prestige Banking Account;2026-01;Terms and e-sign;Too much to read;11
+Prestige Banking Account;2026-02;Account opened → first transaction;Never made a first transaction;68
+Prestige Banking Account;2026-02;Account opened → first transaction;Waiting for card;41
+Prestige Banking Account;2026-02;Affordability and risk decision;Declined by risk rules;97
+Prestige Banking Account;2026-02;Affordability and risk decision;Income too low;103
+Prestige Banking Account;2026-02;Affordability and risk decision;Bureau mismatch;58
+Prestige Banking Account;2026-02;Choose account;Compared fees and left;391
+Prestige Banking Account;2026-02;Choose account;Not sure which account fits;265
+Prestige Banking Account;2026-02;Eligibility check;Under 18;127
+Prestige Banking Account;2026-02;Eligibility check;Not a SA resident;103
+Prestige Banking Account;2026-02;ID capture;Photo blurry;45
+Prestige Banking Account;2026-02;ID capture;Green ID book not accepted;34
+Prestige Banking Account;2026-02;ID capture;Camera permission denied;23
+Prestige Banking Account;2026-02;Identity verification;Selfie didn't match;92
+Prestige Banking Account;2026-02;Identity verification;Liveness check failed;44
+Prestige Banking Account;2026-02;Identity verification;Took too long;83
+Prestige Banking Account;2026-02;Personal details;Form too long;203
+Prestige Banking Account;2026-02;Personal details;Didn't know source of funds;63
+Prestige Banking Account;2026-02;Personal details;Timed out;82
+Prestige Banking Account;2026-02;Proof of income and address;No proof of address;138
+Prestige Banking Account;2026-02;Proof of income and address;Payslip upload failed;62
+Prestige Banking Account;2026-02;Proof of income and address;Statement too old;47
+Prestige Banking Account;2026-02;Terms and e-sign;OTP not received;9
+Prestige Banking Account;2026-02;Terms and e-sign;Too much to read;6
+Prestige Banking Account;2026-03;Account opened → first transaction;Never made a first transaction;74
+Prestige Banking Account;2026-03;Account opened → first transaction;Waiting for card;38
+Prestige Banking Account;2026-03;Affordability and risk decision;Declined by risk rules;139
+Prestige Banking Account;2026-03;Affordability and risk decision;Income too low;47
+Prestige Banking Account;2026-03;Affordability and risk decision;Bureau mismatch;76
+Prestige Banking Account;2026-03;Choose account;Compared fees and left;269
+Prestige Banking Account;2026-03;Choose account;Not sure which account fits;371
+Prestige Banking Account;2026-03;Eligibility check;Under 18;124
+Prestige Banking Account;2026-03;Eligibility check;Not a SA resident;111
+Prestige Banking Account;2026-03;ID capture;Photo blurry;40
+Prestige Banking Account;2026-03;ID capture;Green ID book not accepted;34
+Prestige Banking Account;2026-03;ID capture;Camera permission denied;30
+Prestige Banking Account;2026-03;Identity verification;Selfie didn't match;74
+Prestige Banking Account;2026-03;Identity verification;Liveness check failed;98
+Prestige Banking Account;2026-03;Identity verification;Took too long;53
+Prestige Banking Account;2026-03;Personal details;Form too long;176
+Prestige Banking Account;2026-03;Personal details;Didn't know source of funds;101
+Prestige Banking Account;2026-03;Personal details;Timed out;74
+Prestige Banking Account;2026-03;Proof of income and address;No proof of address;131
+Prestige Banking Account;2026-03;Proof of income and address;Payslip upload failed;65
+Prestige Banking Account;2026-03;Proof of income and address;Statement too old;45
+Prestige Banking Account;2026-03;Terms and e-sign;OTP not received;12
+Prestige Banking Account;2026-03;Terms and e-sign;Too much to read;3
+Prestige Banking Account;2026-04;Account opened → first transaction;Never made a first transaction;81
+Prestige Banking Account;2026-04;Account opened → first transaction;Waiting for card;51
+Prestige Banking Account;2026-04;Affordability and risk decision;Declined by risk rules;108
+Prestige Banking Account;2026-04;Affordability and risk decision;Income too low;98
+Prestige Banking Account;2026-04;Affordability and risk decision;Bureau mismatch;96
+Prestige Banking Account;2026-04;Choose account;Compared fees and left;494
+Prestige Banking Account;2026-04;Choose account;Not sure which account fits;245
+Prestige Banking Account;2026-04;Eligibility check;Under 18;168
+Prestige Banking Account;2026-04;Eligibility check;Not a SA resident;110
+Prestige Banking Account;2026-04;ID capture;Photo blurry;73
+Prestige Banking Account;2026-04;ID capture;Green ID book not accepted;22
+Prestige Banking Account;2026-04;ID capture;Camera permission denied;25
+Prestige Banking Account;2026-04;Identity verification;Selfie didn't match;141
+Prestige Banking Account;2026-04;Identity verification;Liveness check failed;52
+Prestige Banking Account;2026-04;Identity verification;Took too long;75
+Prestige Banking Account;2026-04;Personal details;Form too long;172
+Prestige Banking Account;2026-04;Personal details;Didn't know source of funds;109
+Prestige Banking Account;2026-04;Personal details;Timed out;128
+Prestige Banking Account;2026-04;Proof of income and address;No proof of address;156
+Prestige Banking Account;2026-04;Proof of income and address;Payslip upload failed;84
+Prestige Banking Account;2026-04;Proof of income and address;Statement too old;48
+Prestige Banking Account;2026-04;Terms and e-sign;OTP not received;11
+Prestige Banking Account;2026-04;Terms and e-sign;Too much to read;8
+Prestige Banking Account;2026-05;Account opened → first transaction;Never made a first transaction;65
+Prestige Banking Account;2026-05;Account opened → first transaction;Waiting for card;38
+Prestige Banking Account;2026-05;Affordability and risk decision;Declined by risk rules;125
+Prestige Banking Account;2026-05;Affordability and risk decision;Income too low;66
+Prestige Banking Account;2026-05;Affordability and risk decision;Bureau mismatch;47
+Prestige Banking Account;2026-05;Choose account;Compared fees and left;424
+Prestige Banking Account;2026-05;Choose account;Not sure which account fits;186
+Prestige Banking Account;2026-05;Eligibility check;Under 18;116
+Prestige Banking Account;2026-05;Eligibility check;Not a SA resident;98
+Prestige Banking Account;2026-05;ID capture;Photo blurry;48
+Prestige Banking Account;2026-05;ID capture;Green ID book not accepted;12
+Prestige Banking Account;2026-05;ID capture;Camera permission denied;33
+Prestige Banking Account;2026-05;Identity verification;Selfie didn't match;107
+Prestige Banking Account;2026-05;Identity verification;Liveness check failed;37
+Prestige Banking Account;2026-05;Identity verification;Took too long;66
+Prestige Banking Account;2026-05;Personal details;Form too long;82
+Prestige Banking Account;2026-05;Personal details;Didn't know source of funds;107
+Prestige Banking Account;2026-05;Personal details;Timed out;145
+Prestige Banking Account;2026-05;Proof of income and address;No proof of address;85
+Prestige Banking Account;2026-05;Proof of income and address;Payslip upload failed;70
+Prestige Banking Account;2026-05;Proof of income and address;Statement too old;73
+Prestige Banking Account;2026-05;Terms and e-sign;OTP not received;9
+Prestige Banking Account;2026-05;Terms and e-sign;Too much to read;6
+Prestige Banking Account;2026-06;Account opened → first transaction;Never made a first transaction;63
+Prestige Banking Account;2026-06;Account opened → first transaction;Waiting for card;43
+Prestige Banking Account;2026-06;Affordability and risk decision;Declined by risk rules;99
+Prestige Banking Account;2026-06;Affordability and risk decision;Income too low;60
+Prestige Banking Account;2026-06;Affordability and risk decision;Bureau mismatch;90
+Prestige Banking Account;2026-06;Choose account;Compared fees and left;364
+Prestige Banking Account;2026-06;Choose account;Not sure which account fits;250
+Prestige Banking Account;2026-06;Eligibility check;Under 18;162
+Prestige Banking Account;2026-06;Eligibility check;Not a SA resident;61
+Prestige Banking Account;2026-06;ID capture;Photo blurry;50
+Prestige Banking Account;2026-06;ID capture;Green ID book not accepted;30
+Prestige Banking Account;2026-06;ID capture;Camera permission denied;18
+Prestige Banking Account;2026-06;Identity verification;Selfie didn't match;82
+Prestige Banking Account;2026-06;Identity verification;Liveness check failed;70
+Prestige Banking Account;2026-06;Identity verification;Took too long;62
+Prestige Banking Account;2026-06;Personal details;Form too long;187
+Prestige Banking Account;2026-06;Personal details;Didn't know source of funds;81
+Prestige Banking Account;2026-06;Personal details;Timed out;66
+Prestige Banking Account;2026-06;Proof of income and address;No proof of address;111
+Prestige Banking Account;2026-06;Proof of income and address;Payslip upload failed;64
+Prestige Banking Account;2026-06;Proof of income and address;Statement too old;60
+Prestige Banking Account;2026-06;Terms and e-sign;OTP not received;7
+Prestige Banking Account;2026-06;Terms and e-sign;Too much to read;7
+Prestige Banking Account;2026-07;Account opened → first transaction;Never made a first transaction;81
+Prestige Banking Account;2026-07;Account opened → first transaction;Waiting for card;52
+Prestige Banking Account;2026-07;Affordability and risk decision;Declined by risk rules;160
+Prestige Banking Account;2026-07;Affordability and risk decision;Income too low;91
+Prestige Banking Account;2026-07;Affordability and risk decision;Bureau mismatch;65
+Prestige Banking Account;2026-07;Choose account;Compared fees and left;325
+Prestige Banking Account;2026-07;Choose account;Not sure which account fits;485
+Prestige Banking Account;2026-07;Eligibility check;Under 18;211
+Prestige Banking Account;2026-07;Eligibility check;Not a SA resident;68
+Prestige Banking Account;2026-07;ID capture;Photo blurry;64
+Prestige Banking Account;2026-07;ID capture;Green ID book not accepted;27
+Prestige Banking Account;2026-07;ID capture;Camera permission denied;36
+Prestige Banking Account;2026-07;Identity verification;Selfie didn't match;103
+Prestige Banking Account;2026-07;Identity verification;Liveness check failed;92
+Prestige Banking Account;2026-07;Identity verification;Took too long;80
+Prestige Banking Account;2026-07;Personal details;Form too long;153
+Prestige Banking Account;2026-07;Personal details;Didn't know source of funds;150
+Prestige Banking Account;2026-07;Personal details;Timed out;123
+Prestige Banking Account;2026-07;Proof of income and address;No proof of address;131
+Prestige Banking Account;2026-07;Proof of income and address;Payslip upload failed;46
+Prestige Banking Account;2026-07;Proof of income and address;Statement too old;117
+Prestige Banking Account;2026-07;Terms and e-sign;OTP not received;15
+Prestige Banking Account;2026-07;Terms and e-sign;Too much to read;4
+Prestige Banking Account;2026-08;Account opened → first transaction;Never made a first transaction;75
+Prestige Banking Account;2026-08;Account opened → first transaction;Waiting for card;26
+Prestige Banking Account;2026-08;Affordability and risk decision;Declined by risk rules;91
+Prestige Banking Account;2026-08;Affordability and risk decision;Income too low;85
+Prestige Banking Account;2026-08;Affordability and risk decision;Bureau mismatch;73
+Prestige Banking Account;2026-08;Choose account;Compared fees and left;485
+Prestige Banking Account;2026-08;Choose account;Not sure which account fits;132
+Prestige Banking Account;2026-08;Eligibility check;Under 18;121
+Prestige Banking Account;2026-08;Eligibility check;Not a SA resident;97
+Prestige Banking Account;2026-08;ID capture;Photo blurry;46
+Prestige Banking Account;2026-08;ID capture;Green ID book not accepted;17
+Prestige Banking Account;2026-08;ID capture;Camera permission denied;35
+Prestige Banking Account;2026-08;Identity verification;Selfie didn't match;95
+Prestige Banking Account;2026-08;Identity verification;Liveness check failed;66
+Prestige Banking Account;2026-08;Identity verification;Took too long;49
+Prestige Banking Account;2026-08;Personal details;Form too long;175
+Prestige Banking Account;2026-08;Personal details;Didn't know source of funds;68
+Prestige Banking Account;2026-08;Personal details;Timed out;87
+Prestige Banking Account;2026-08;Proof of income and address;No proof of address;82
+Prestige Banking Account;2026-08;Proof of income and address;Payslip upload failed;91
+Prestige Banking Account;2026-08;Proof of income and address;Statement too old;47
+Prestige Banking Account;2026-08;Terms and e-sign;OTP not received;7
+Prestige Banking Account;2026-08;Terms and e-sign;Too much to read;8
+Prestige Banking Account;2026-09;Account opened → first transaction;Never made a first transaction;65
+Prestige Banking Account;2026-09;Account opened → first transaction;Waiting for card;38
+Prestige Banking Account;2026-09;Affordability and risk decision;Declined by risk rules;131
+Prestige Banking Account;2026-09;Affordability and risk decision;Income too low;54
+Prestige Banking Account;2026-09;Affordability and risk decision;Bureau mismatch;63
+Prestige Banking Account;2026-09;Choose account;Compared fees and left;405
+Prestige Banking Account;2026-09;Choose account;Not sure which account fits;197
+Prestige Banking Account;2026-09;Eligibility check;Under 18;149
+Prestige Banking Account;2026-09;Eligibility check;Not a SA resident;71
+Prestige Banking Account;2026-09;ID capture;Photo blurry;25
+Prestige Banking Account;2026-09;ID capture;Green ID book not accepted;26
+Prestige Banking Account;2026-09;ID capture;Camera permission denied;43
+Prestige Banking Account;2026-09;Identity verification;Selfie didn't match;89
+Prestige Banking Account;2026-09;Identity verification;Liveness check failed;56
+Prestige Banking Account;2026-09;Identity verification;Took too long;62
+Prestige Banking Account;2026-09;Personal details;Form too long;134
+Prestige Banking Account;2026-09;Personal details;Didn't know source of funds;93
+Prestige Banking Account;2026-09;Personal details;Timed out;94
+Prestige Banking Account;2026-09;Proof of income and address;No proof of address;89
+Prestige Banking Account;2026-09;Proof of income and address;Payslip upload failed;65
+Prestige Banking Account;2026-09;Proof of income and address;Statement too old;74
+Prestige Banking Account;2026-09;Terms and e-sign;OTP not received;8
+Prestige Banking Account;2026-09;Terms and e-sign;Too much to read;6
+Prestige Banking Account;2026-10;Account opened → first transaction;Never made a first transaction;64
+Prestige Banking Account;2026-10;Account opened → first transaction;Waiting for card;74
+Prestige Banking Account;2026-10;Affordability and risk decision;Declined by risk rules;149
+Prestige Banking Account;2026-10;Affordability and risk decision;Income too low;113
+Prestige Banking Account;2026-10;Affordability and risk decision;Bureau mismatch;69
+Prestige Banking Account;2026-10;Choose account;Compared fees and left;451
+Prestige Banking Account;2026-10;Choose account;Not sure which account fits;382
+Prestige Banking Account;2026-10;Eligibility check;Under 18;193
+Prestige Banking Account;2026-10;Eligibility check;Not a SA resident;104
+Prestige Banking Account;2026-10;ID capture;Photo blurry;47
+Prestige Banking Account;2026-10;ID capture;Green ID book not accepted;39
+Prestige Banking Account;2026-10;ID capture;Camera permission denied;46
+Prestige Banking Account;2026-10;Identity verification;Selfie didn't match;139
+Prestige Banking Account;2026-10;Identity verification;Liveness check failed;75
+Prestige Banking Account;2026-10;Identity verification;Took too long;63
+Prestige Banking Account;2026-10;Personal details;Form too long;156
+Prestige Banking Account;2026-10;Personal details;Didn't know source of funds;137
+Prestige Banking Account;2026-10;Personal details;Timed out;147
+Prestige Banking Account;2026-10;Proof of income and address;No proof of address;127
+Prestige Banking Account;2026-10;Proof of income and address;Payslip upload failed;83
+Prestige Banking Account;2026-10;Proof of income and address;Statement too old;101
+Prestige Banking Account;2026-10;Terms and e-sign;OTP not received;13
+Prestige Banking Account;2026-10;Terms and e-sign;Too much to read;5
